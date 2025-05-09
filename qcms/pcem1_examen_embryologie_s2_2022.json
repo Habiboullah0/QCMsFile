@@ -1,0 +1,230 @@
+[
+    {
+        "question": "Parmi les propositions suivantes concernant le stade du développement embryonnaire du schéma suivant, indiquer celle(s) qui est (sont) exacte(s) :",
+        "options": ["La délimitation", "L'implantation", "La neurulation", "La gastrulation", "Disque didermique"],
+        "correct": [3],
+        "explanation": "Le schéma (première image) illustre un embryon au stade de la gastrulation, caractérisé par la présence de la ligne primitive. Ce stade survient au cours de la troisième semaine du développement, après l'implantation et la formation du disque didermique, et précède la neurulation et la délimitation complète."
+    },
+    {
+        "question": "Les follicules primordiaux :",
+        "options": ["Ont un diamètre de 18 mm", "Ont une cavité antrale", "Ont un ovocyte au stade diplotène", "Définissent la réserve ovarienne", "Présentent des récepteurs à la FSH et à la LH"],
+        "correct": [2, 3],
+        "explanation": "Les follicules primordiaux contiennent un ovocyte I bloqué au stade diplotène de la prophase I méiotique. L'ensemble de ces follicules constitue la réserve ovarienne. Ils sont de très petite taille (environ 25-50 µm), ne possèdent pas de cavité antrale et sont largement indépendants des gonadotrophines FSH et LH à ce stade."
+    },
+    {
+        "question": "Les jumeaux siamois :",
+        "options": [
+            "Sont toujours issus du même zygote",
+            "Sont la conséquence d'un dédoublement de la ligne primitive",
+            "Sont la conséquence d'un défaut d'éclosion",
+            "Est une anomalie du cil vibratile de la ligne primitive",
+            "Est une anomalie de la première semaine du développement"
+        ],
+        "correct": [0, 1],
+        "explanation": "Les jumeaux siamois (ou conjoints) sont des jumeaux monozygotes résultant d'une division incomplète du disque embryonnaire. Une des causes possibles est un dédoublement incomplet ou tardif de la ligne primitive, survenant généralement après le 13ème jour de développement."
+    },
+    {
+        "question": "Les villosités choriales représentées dans le schéma suivant :",
+        "options": [
+            "Sont de type crampon",
+            "Sont au stade de la villosité tertiaire",
+            "Sont libres dans la chambre intervilleuse",
+            "Sont parcourues par du sang circulant à haute pression",
+            "Sont au contact avec le sang maternel par la couche externe du cytotrophoblaste"
+        ],
+        "correct": [1, 2],
+        "explanation": "Le schéma (deuxième image) montre des villosités choriales tertiaires, caractérisées par la présence de capillaires fœtaux dans leur axe mésenchymateux. La plupart de ces villosités flottent librement dans la chambre intervilleuse, où elles sont baignées par le sang maternel. Le contact avec le sang maternel se fait par le syncytiotrophoblaste."
+    },
+    {
+        "question": "Parmi les structures placentaires suivantes, la(les)quelle(s) sont d'origine fœtale :",
+        "options": ["Les villosités choriales", "La plaque choriale", "La chambre intervilleuse", "La plaque basale", "L'amnios"],
+        "correct": [0, 1, 4],
+        "explanation": "Les villosités choriales (issues du trophoblaste et du mésoderme extra-embryonnaire), la plaque choriale (face fœtale du placenta) et l'amnios (membrane fœtale qui fusionne avec le chorion) sont toutes d'origine fœtale. La chambre intervilleuse contient du sang maternel et la plaque basale est d'origine maternelle (décidue basale)."
+    },
+    {
+        "question": "Le placenta accreta :",
+        "options": [
+            "Est une implantation ectopique au niveau de l'orifice interne du col de l'utérus",
+            "Peut entraîner des hémorragies pendant la grossesse",
+            "L'accouchement par voie basse est impossible",
+            "Est une anomalie du développement de la décidue",
+            "Est la conséqquence d'un décollement prématuré du placenta"
+        ],
+        "correct": [1, 2, 3],
+        "explanation": "Le placenta accreta est une adhésion anormalement profonde des villosités choriales au myomètre, due à un défaut de la décidue basale (absence ou déficience de la couche de Nitabuch). Cela peut causer des hémorragies sévères, notamment lors de la tentative de délivrance, rendant souvent l'accouchement par voie basse impossible et nécessitant une césarienne voire une hystérectomie."
+    },
+    {
+        "question": "La délimitation :",
+        "options": [
+            "Est un passage de la forme plane à la forme cylindrique",
+            "Est le résultat de la fermeture du tube neural",
+            "Est un processus passif lié à un développement rapide de la cavité amniotique",
+            "Est spécifique de l'espèce humaine",
+            "Aboutit à la mise en place de l'intestin primitif"
+        ],
+        "correct": [0, 4],
+        "explanation": "La délimitation (ou plicature) est le processus par lequel l'embryon, initialement un disque plan, acquiert une forme cylindrique tridimensionnelle. Ce processus implique des plicatures céphalo-caudale et latérales et aboutit, entre autres, à l'incorporation d'une partie de la vésicule vitelline pour former l'intestin primitif."
+    },
+    {
+        "question": "Parmi les anomalies du développement suivantes, indiquer celle(s) qui est(sont) due(s) à l'absence totale de la fermeture du tube neural :",
+        "options": ["L'anencéphalie", "Le spina bifida", "Le méningocèle", "Le myéloméningocèle", "Le craniorachischisis"],
+        "correct": [4],
+        "explanation": "Le craniorachischisis est l'anomalie la plus sévère de fermeture du tube neural, caractérisée par l'absence de fermeture sur toute la longueur de l'axe cranio-caudal (encéphale et moelle épinière). L'anencéphalie est une absence de fermeture de la partie céphalique du tube neural."
+    },
+    {
+        "question": "La capacitation des spermatozoïdes :",
+        "options": [
+            "Peut se faire in vitro dans un milieu riche en albumine",
+            "Favorise la sélection des spermatozoïdes de morphologie normale",
+            "Est obligatoire avant toute réaction acrosomique",
+            "Est irréversible",
+            "Est associée à une augmentation de la fluidité membranaire du spermatozoïde"
+        ],
+        "correct": [0, 2, 4],
+        "explanation": "La capacitation est un ensemble de modifications physiologiques que subissent les spermatozoïdes pour acquérir le pouvoir fécondant. Elle peut être induite in vitro (l'albumine favorise ce processus), est indispensable pour que la réaction acrosomique puisse avoir lieu, et s'accompagne d'une augmentation de la fluidité de la membrane plasmique du spermatozoïde. Elle est réversible (décapacitation)."
+    },
+    {
+        "question": "Les indications de la fécondation in vitro par microinjection intracytoplasmique de spermatozoïdes ou \"ICSI\" sont :",
+        "options": ["L'oligospermie", "L'asthénospermie", "La nécrospermie totale (spermatozoïdes morts)", "L'obstruction tubaire", "Une glaire cervicale défavorable au passage des spermatozoïdes"],
+        "correct": [0, 1],
+        "explanation": "L'ICSI est principalement indiquée en cas d'infertilité masculine sévère, comme l'oligospermie (faible nombre de spermatozoïdes) et l'asthénospermie (faible mobilité des spermatozoïdes), ou en cas d'échec de fécondation en FIV classique. La nécrospermie totale (tous les spermatozoïdes sont non viables) est une contre-indication. L'obstruction tubaire et une glaire cervicale défavorable sont des indications de FIV classique ou d'insémination intra-utérine respectivement, si les paramètres spermatiques sont normaux."
+    },
+    {
+        "question": "L'ovocyte mature est un ovocyte qui :",
+        "options": ["A expulsé son 2ème globule polaire", "A une vésicule germinale", "A fait sa réaction corticale", "Est bloqué en prophase", "A une survie de 24 heures"],
+        "correct": [4],
+        "explanation": "L'ovocyte mature (ovocyte II) est bloqué en métaphase II de la méiose. Il a expulsé son premier globule polaire. Il n'a pas de vésicule germinale (caractéristique de l'ovocyte I). La réaction corticale et l'expulsion du deuxième globule polaire surviennent après la fécondation. Sa durée de vie fécondable est d'environ 12 à 24 heures après l'ovulation."
+    },
+    {
+        "question": "Les dérivés de la crête neurale sont :",
+        "options": ["Les mélanocytes", "La corticosurrénale", "Les cellules du sang", "L'amnios", "Les glandes mammaires"],
+        "correct": [0],
+        "explanation": "Les cellules de la crête neurale sont pluripotentes et donnent naissance à de nombreux types cellulaires, dont les mélanocytes (cellules pigmentaires de la peau), les neurones et cellules gliales du système nerveux périphérique, et la médullosurrénale. La corticosurrénale dérive du mésoderme, les cellules sanguines du mésoderme (cellules souches hématopoïétiques), l'amnios de l'épiblaste, et les glandes mammaires de l'ectoderme de surface."
+    },
+    {
+        "question": "Les sécrétions des glandes prostatiques :",
+        "options": ["Comportent du fructose", "Forment la principale composante du sperme", "Comportent du Zinc (Zn)", "Ont un pH acide", "Sont un environnement favorable à la capacitation des spermatozoïdes"],
+        "correct": [2, 3],
+        "explanation": "Les sécrétions prostatiques, qui constituent environ 20-30% du volume du sperme, sont riches en zinc, acide citrique, phosphatases acides et antigène spécifique de la prostate (PSA). Elles ont un pH légèrement acide (environ 6.5), ce qui contribue à la liquéfaction du sperme. Le fructose est principalement produit par les vésicules séminales. La capacitation se déroule principalement dans les voies génitales féminines."
+    },
+    {
+        "question": "L'épithélium de l'ampoule de la trompe utérine :",
+        "options": [
+            "Est de type cylindrique stratifié",
+            "Comporte des cellules ciliées et des cellules glandulaires",
+            "Subit des variations morpho-fonctionnelles cycliques",
+            "Favorise la survie et le transport des gamètes",
+            "Pourrait être le site d'implantation"
+        ],
+        "correct": [1, 2, 3],
+        "explanation": "L'épithélium de l'ampoule tubaire est de type cylindrique simple, composé de cellules ciliées (assurant le transport des gamètes et de l'embryon) et de cellules sécrétrices (glandulaires ou cellules de Peg, nourrissant les gamètes). Cet épithélium subit des modifications cycliques sous l'influence des hormones ovariennes. Une implantation à ce niveau correspond à une grossesse ectopique (pathologique)."
+    },
+    {
+        "question": "Le diagnostic préimplantatoire d'une maladie génétique (chromosomique ou génique) :",
+        "options": [
+            "Peut se faire sur le globule polaire",
+            "Nécessite une biopsie de blastomères in vivo",
+            "Ne peut pas se faire sur un embryon au stade de 8 blastomères",
+            "Se fait sur des embryons obtenus par fécondation in vitro",
+            "Ne peut pas se faire sur les cellules du bouton embryonnaire"
+        ],
+        "correct": [0, 3, 4],
+        "explanation": "Le diagnostic préimplantatoire (DPI) est réalisé sur des embryons conçus par fécondation in vitro. Il peut impliquer la biopsie d'un globule polaire (pour analyser l'ADN maternel), d'un ou deux blastomères au stade de 8 cellules (J3), ou de quelques cellules du trophectoderme au stade blastocyste (J5/J6). La biopsie des cellules du bouton embryonnaire (masse cellulaire interne) est évitée car elle pourrait compromettre le développement fœtal. La biopsie se fait in vitro."
+    },
+    {
+        "question": "L'éclosion du blastocyste :",
+        "options": ["Est favorisée par les contractions des blastomères", "Se fait au 6ème jour du développement", "Précède l'implantation", "Ne peut pas se faire in vitro", "Est favorisée par la contraction de la musculeuse tubaire"],
+        "correct": [1, 2],
+        "explanation": "L'éclosion (ou hatching) du blastocyste, c'est-à-dire sa sortie de la zone pellucide, a lieu typiquement entre le 5ème et le 7ème jour du développement embryonnaire (le 6ème jour est une bonne estimation). C'est une étape indispensable qui précède l'implantation dans l'endomètre utérin. Elle peut se produire in vitro lors des cultures embryonnaires."
+    },
+    {
+        "question": "L'implantation :",
+        "options": [
+            "L'adhésion est réversible après la formation des jonctions",
+            "L'invasion se fait grâce à l'activité lytique du cytotrophoblaste",
+            "Induit la réaction déciduale de l'endomètre",
+            "Nécessite une synchronisation entre le stade du développement embryonnaire et l'endomètre",
+            "Peut se faire sur un endomètre d'une femme ménopausée après traitement par des hormones ovariennes."
+        ],
+        "correct": [2, 3, 4],
+        "explanation": "L'implantation du blastocyste dans l'endomètre utérin induit la réaction déciduale (transformation des cellules stromales de l'endomètre). Elle nécessite une synchronisation fine entre un embryon compétent et un endomètre réceptif (fenêtre d'implantation). L'invasion est principalement médiée par le syncytiotrophoblaste. Une implantation peut être obtenue chez une femme ménopausée si son endomètre est préparé par un traitement hormonal adéquat (œstrogènes et progestérone)."
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les structures représentées dans le schéma ci- dessus, indiquer celle(s) qui est(sont) exacte(s) ?",
+        "options": ["Tube séminifère", "Épididyme", "Albuginée", "Tissu interstitiel", "Canaux efférents"],
+        "correct": [],
+        "explanation": "Cette question nécessite un schéma qui n'est pas fourni ici. Il est impossible de répondre sans le schéma correspondant."
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la structure 1, indiquer celle(s) qui est(sont) exacte(s) ?",
+        "options": [
+            "C'est un épithélium formé de cellules de Sertoli et de cellules germinales",
+            "C'est un épithélium glandulaire",
+            "C'est un épithélium cylindrique simple avec stéréocils",
+            "C'est un cordon sexuel",
+            "Est richement vascularisé"
+        ],
+        "correct": [],
+        "explanation": "Cette question nécessite un schéma qui n'est pas fourni ici, et qui définirait la 'structure 1'. Si la structure 1 était un tube séminifère, alors A serait correcte."
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la structure 2, indiquer celle(s) qui est(sont) exacte(s) :",
+        "options": ["Est une glande endocrine", "Apparaît après la puberté", "Sécrète l'ABP (Androgen Binding Protein)", "Sécrète des androgènes", "Comporte plusieurs vaisseaux sanguins"],
+        "correct": [],
+        "explanation": "Cette question nécessite un schéma qui n'est pas fourni ici, et qui définirait la 'structure 2'. Si la structure 2 était le tissu interstitiel contenant les cellules de Leydig, alors A, D, et E seraient correctes."
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les anomalies du développement de la première semaine, indiquer celle(s) qui est(sont) exacte(s) :",
+        "options": ["Soma", "Situs inversus", "Placenta praevia", "Syrénomélie", "Chimérisme"],
+        "correct": [4],
+        "explanation": "Le chimérisme, résultant de la fusion de deux zygotes ou embryons précoces distincts, est une anomalie pouvant survenir durant la première semaine du développement. Le placenta praevia est une anomalie de site d'implantation (fin de 1ère / début 2ème semaine). Le situs inversus et la sirénomélie sont des anomalies liées à des événements ultérieurs (gastrulation, 3ème semaine)."
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les causes des anomalies de la fermeture du tube neural, indiquer celle(s) qui est(sont) exacte(s) :",
+        "options": ["Carence en fer", "Carence en folate", "Prise médicamenteuse (antiépileptiques)", "Consommation de tabac", "Carence en vitamine E"],
+        "correct": [1, 2],
+        "explanation": "La carence en acide folique (folates) est un facteur de risque majeur et bien établi pour les anomalies de fermeture du tube neural (AFTN). Certains médicaments, notamment des antiépileptiques comme l'acide valproïque, sont également tératogènes et augmentent le risque d'AFTN."
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'ovulation, indiquer celle(s) qui est(sont) exacte(s) :",
+        "options": [
+            "Est l'expulsion de l'ovocyte avec le contenu de l'antrum",
+            "Est obligatoirement précédée par un pic de LH",
+            "Ne concerne que le follicule mûr",
+            "Concerne toujours un seul ovocyte",
+            "Devient rare en cas d'épuisement de la réserve ovarienne"
+        ],
+        "correct": [1, 2, 4],
+        "explanation": "L'ovulation est déclenchée par le pic de LH (hormone lutéinisante), concerne uniquement un follicule de De Graaf (mûr) et devient de plus en plus rare à mesure que la réserve ovarienne s'épuise (péri-ménopause). Bien que typiquement un seul ovocyte soit libéré par cycle chez la femme, des ovulations multiples peuvent survenir (conduisant à des jumeaux dizygotes)."
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'allantoïde, indiquer celle(s) qui est(sont) exacte(s) :",
+        "options": [
+            "Est mis en place au cours du 8ème jour de la vie intra-utérine",
+            "Structure d'existence transitoire au cours de la vie embryonnaire",
+            "Est une invagination de la vésicule vitelline dans le pédicule de fixation",
+            "Un défaut d'oblitération au cours du développement embryonnaire donne fréquemment un écoulement ombilical",
+            "Présente un rôle nutritif au cours de la vie embryonnaire"
+        ],
+        "correct": [1, 2, 3],
+        "explanation": "L'allantoïde est une structure embryonnaire transitoire qui apparaît vers le 16ème jour sous forme d'un diverticule de la paroi postérieure de la vésicule vitelline, s'étendant dans le pédicule de fixation. Ses vestiges participent à la formation de l'ouraque (futur ligament ombilical médian) et des vaisseaux ombilicaux. Un défaut d'oblitération de l'ouraque peut entraîner des anomalies comme une fistule ouraquale avec écoulement urinaire par l'ombilic. Son rôle nutritif est négligeable chez l'humain."
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les modifications structurales des spermatides au cours de la spermiogenèse, indiquer celle(s) qui est(sont) exacte(s) :",
+        "options": ["Les histones sont remplacées par les protamines", "Une compaction de l'ADN", "Un développement de l'appareil de Golgi", "Une réduction du cytoplasme", "Une méiose"],
+        "correct": [0, 1, 3],
+        "explanation": "La spermiogenèse est la différenciation des spermatides haploïdes en spermatozoïdes. Elle comprend : le remplacement des histones par des protamines, entraînant une compaction extrême de l'ADN ; la formation de l'acrosome à partir de l'appareil de Golgi (qui ensuite régresse) ; le développement du flagelle ; et l'élimination d'une grande partie du cytoplasme (corps résiduel). La méiose précède la spermiogenèse."
+    },
+    {
+        "question": "Parmi les structures du zygote suivantes, indiquer celle(s) qui est (sont) d'origine maternelle :",
+        "options": ["Le centriole", "Le pronucléus", "Les mitochondries", "Le flagelle", "L'appareil de Golgi"],
+        "correct": [1, 2, 4],
+        "explanation": "Dans le zygote, le pronucléus femelle (contenant l'ADN maternel), la totalité des mitochondries (l'ADN mitochondrial est exclusivement maternel), et la majorité des organites cytoplasmiques comme l'appareil de Golgi proviennent de l'ovocyte. Le centriole organisant le premier fuseau mitotique est généralement d'origine paternelle (spermatozoïde)."
+    },
+    {
+        "question": "Parmi les structures suivantes indiquer celle(s) qui dérive(nt) du mésoblaste intermédiaire :",
+        "options": ["Le foie", "Le système nerveux périphérique", "Les nucleus pulposus", "Les reins", "L'intestin primitif"],
+        "correct": [3],
+        "explanation": "Le mésoblaste intermédiaire (ou cordon néphrogène) donne naissance à l'appareil urogénital, incluant les reins (pronéphros, mésonéphros, métanéphros) et les gonades (partie somatique). Le foie a une origine endodermique et mésodermique (splanchnique). Le système nerveux périphérique dérive principalement des crêtes neurales. Le nucleus pulposus dérive de la notochorde. L'intestin primitif est d'origine endodermique (muqueuse) et mésodermique splanchnique (musculeuse, séreuse)."
+    }
+]

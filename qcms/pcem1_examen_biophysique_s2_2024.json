@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Le cm d'eau est :",
+    "options": [
+      "La pression qui produit une dénivellation h=1cm dans un manomètre à eau.",
+      "La pression qui produit une dénivellation h=1mm dans un manomètre à Mercure.",
+      "Équivalente à 100 Pa.",
+      "Équivalente à un Bar.",
+      "Toutes les propositions sont justes."
+    ],
+    "correct": [0, 2]
+  },
+  {
+    "question": "Le mmHg est :",
+    "options": [
+      "Est la pression qui induit une dénivellation h=1cm dans un manomètre à eau.",
+      "Égale à 4/3.10² Pa.",
+      "Égale à un Torr.",
+      "Une unité de mesure de la pression artérielle.",
+      "Égal à un centimètre d'eau."
+    ],
+    "correct": [1, 2, 3]
+  },
+  {
+    "question": "Un dipôle électrique :",
+    "options": [
+      "Correspond à deux charges ponctuelles de signes opposés.",
+      "Correspond à deux charges ponctuelles de signes identiques.",
+      "Sa charge est positive.",
+      "Sa charge est neutre.",
+      "L'eau est un dipôle permanent."
+    ],
+    "correct": [0, 3, 4]
+  },
+  {
+    "question": "Dans les unités de pression :",
+    "options": [
+      "L'atmosphère est la valeur de la pression atmosphérique normale au niveau de la mer.",
+      "1 atm = 100 KPa.",
+      "1 cm d'eau = 100 Pa.",
+      "1 mmHg = 133,4 Pa.",
+      "Toutes les propositions sont justes."
+    ],
+    "correct": [0, 2, 3]
+  },
+  {
+    "question": "Dans la loi de Laplace, la pression transmurale P est :",
+    "options": [
+      "P = T/R pour une artère courbée, et R la constante des gaz parfaits.",
+      "P = T/2R pour une sphère, et R le rayon de la sphère.",
+      "P = T/R pour une artère rectiligne, et R le rayon de l'artère.",
+      "P = 2T/R pour une sphère, et R le rayon de la sphère.",
+      "P = T/R pour une artère rectiligne, et R la constante des gaz parfaits."
+    ],
+    "correct": [2, 3]
+  },
+  {
+    "question": "La vitesse de sédimentation :",
+    "options": [
+      "Est la hauteur du plasma débarrassée des globules rouges en une heure.",
+      "Est normalement inférieure à 10 mm à la première heure.",
+      "Son augmentation est liée à une baisse de la concentration sanguine en macromolécules linéaires.",
+      "Est élevée en cas d'infection ou d'inflammation.",
+      "Est nulle quand des globules rouges sont mis dans une solution isotonique de glucose et de petits ions."
+    ],
+    "correct": [1, 3, 4]
+  },
+  {
+    "question": "L'abaissement cryoscopique :",
+    "options": [
+      "Correspond à la température de fusion du solide en liquide.",
+      "Est: ΔΘ = k × Osmolalité (des liquides biologiques).",
+      "S'exprime en °C.",
+      "Permet le calcul des osmolalités des liquides biologiques.",
+      "Augmente lorsque l'osmolalité augmente dans l'eau de constante k=1,86."
+    ],
+    "correct": [1, 2, 3, 4]
+  },
+  {
+    "question": "Dans la loi d'Henry, le coefficient de solubilité (S) d'un gaz dans un liquide :",
+    "options": [
+      "Dépend de la nature du liquide.",
+      "Dépend de la nature du gaz.",
+      "S'exprime en mol/litre.",
+      "Dépend de la température.",
+      "Toutes les propositions sont fausses."
+    ],
+    "correct": [0, 1, 3]
+  },
+  {
+    "question": "Dans les conditions STPD, l'état d'un gaz parfait est :",
+    "options": [
+      "Saturé en vapeur d'eau.",
+      "La température est égale à 100°C.",
+      "La pression est de 1 atm.",
+      "La température est de 0°C.",
+      "La température est de 273° Kelvin."
+    ],
+    "correct": [2, 3, 4]
+  },
+  {
+    "question": "Concernant la grandeur physique de la Viscosité :",
+    "options": [
+      "Sa dimension est ML⁻¹T⁻¹.",
+      "Son unité du système international est le Poiseuille = kg·m⁻¹·s⁻¹ = Pa·s.",
+      "Son unité du système international est le mPa·s.",
+      "Son unité du système CGS est le joule.",
+      "Son unité du système CGS est le Poise."
+    ],
+    "correct": [0, 1, 4]
+  },
+  {
+    "question": "La viscosité d'une solution :",
+    "options": [
+      "S'élève quand la température diminue.",
+      "N'a pas d'influence sur la migration des particules en solution.",
+      "Dépend de la nature du solvant.",
+      "Dépend de la nature des solutés et de leurs concentrations.",
+      "Seules les propositions C) et D) sont justes."
+    ],
+    "correct": [0, 2, 3]
+  },
+  {
+    "question": "Dans les écoulements laminaires :",
+    "options": [
+      "L'écoulement est silencieux.",
+      "Il existe des tourbillons dans le fluide en écoulement.",
+      "Le nombre de Reynolds est inférieur à 1000.",
+      "La consommation en énergie est inférieure qu'en cas d'écoulements turbulents.",
+      "Les vecteurs « vitesse » des particules dans le fluide sont parallèles entre eux."
+    ],
+    "correct": [0, 2, 3, 4]
+  },
+  {
+    "question": "Dans les états gazeux :",
+    "options": [
+      "La matière possède une masse volumique élevée.",
+      "Le volume de la matière augmente avec l'augmentation de la température.",
+      "La matière possède une forme propre.",
+      "La matière prend la forme du récipient qui la contient.",
+      "À température constante, le volume de la matière diminue avec l'augmentation de la pression."
+    ],
+    "correct": [1, 3, 4]
+  },
+  {
+    "question": "Dans les états solides :",
+    "options": [
+      "La matière possède une masse volumique élevée.",
+      "Le volume de la matière augmente avec l'augmentation de la température.",
+      "La matière possède une forme propre.",
+      "À température constante, le volume de la matière diminue avec l'augmentation de la pression.",
+      "Aucune réponse n'est juste."
+    ],
+    "correct": [0, 1, 2, 3]
+  },
+  {
+    "question": "Le nombre de Reynolds :",
+    "options": [
+      "Est inversement proportionnel au coefficient de viscosité du fluide.",
+      "Permet de distinguer un écoulement laminaire d'un écoulement turbulent.",
+      "Dépend de la masse volumique du fluide en écoulement.",
+      "Permet de reconnaître un écoulement laminaire lorsqu'il est inférieur à 1000.",
+      "Toutes les propositions sont justes."
+    ],
+    "correct": [0, 1, 2, 3, 4]
+  },
+  {
+    "question": "En circulation sanguine :",
+    "options": [
+      "Le sang est considéré comme un fluide Newtonien.",
+      "Les globules rouges circulent dans les capillaires en file indienne.",
+      "L'écoulement dans les artérioles est laminaire.",
+      "Le travail du cœur est surtout un travail de pression.",
+      "La pression artérielle doit être mesurée à hauteur du cœur."
+    ],
+    "correct": [1, 2, 3, 4]
+  },
+  {
+    "question": "Le potentiel chimique correspond à :",
+    "options": [
+      "Un potentiel électrique.",
+      "Quantité de matière.",
+      "Quantité d'énergie par unité de quantité de matière.",
+      "Grandeur qui s'exprime en J/mol.",
+      "Grandeur sans dimension."
+    ],
+    "correct": [2, 3]
+  },
+  {
+    "question": "Dans une canalisation horizontale :",
+    "options": [
+      "La vitesse d'écoulement d'un fluide diminue si la section augmente à débit constant.",
+      "Les fluides de viscosités non négligeables gardent une énergie totale constante tout au long de l'écoulement.",
+      "Le débit est égal à la section multipliée par le volume d'écoulement.",
+      "La vitesse d'écoulement est diminuée s'il existe une dilatation vasculaire.",
+      "Toutes les propositions sont justes."
+    ],
+    "correct": [0, 3]
+  },
+  {
+    "question": "La vitesse de sédimentation :",
+    "options": [
+      "Est normalement inférieure à 10 mm la première heure.",
+      "Est basse en cas d'inflammation.",
+      "Est élevée lorsque la concentration en macromolécules linéaires est élevée.",
+      "Est nulle si des globules rouges sont placés dans une solution isotonique de glucose.",
+      "Toutes les propositions sont justes."
+    ],
+    "correct": [0, 2, 3]
+  },
+  {
+    "question": "Dans les écoulements turbulents :",
+    "options": [
+      "L'écoulement est silencieux.",
+      "Il existe des tourbillons dans le fluide en écoulement.",
+      "Le nombre de Reynolds est supérieur à 1000.",
+      "La consommation en énergie est supérieure qu'en cas d'écoulements laminaires.",
+      "Les vecteurs vitesses des particules dans le fluide sont parallèles entre eux."
+    ],
+    "correct": [1, 2, 3]
+  },
+  {
+    "question": "Une membrane de dialyse est :",
+    "options": [
+      "Perméable au solvant seulement.",
+      "Perméable aux petits ions et au solvant.",
+      "Imperméable aux grosses molécules.",
+      "Perméable à un seul type d'ion seulement.",
+      "Est le type de membrane existant dans les capillaires."
+    ],
+    "correct": [1, 2, 4]
+  },
+  {
+    "question": "Le travail du cœur est :",
+    "options": [
+      "Surtout un travail cinétique.",
+      "Assure l'éjection, en systole, d'un volume sanguin de 70 ml du ventricule gauche dans l'aorte.",
+      "De 1 joule par cycle cardiaque.",
+      "Assuré par les deux ventricules cardiaques.",
+      "Est surtout une énergie de pression."
+    ],
+    "correct": [1, 2, 3, 4]
+  },
+  {
+    "question": "La Centrifugation est :",
+    "options": [
+      "Est une migration des particules sous l'action d'une accélération centrifuge.",
+      "Est une migration des particules visible au microscope optique.",
+      "L'accélération centrifuge est plus grande que l'accélération de pesanteur.",
+      "L'accélération centrifuge est 2.10⁵ fois g de pesanteur.",
+      "Permet la séparation des protéines plasmatiques."
+    ],
+    "correct": [0, 2, 4]
+  },
+  {
+    "question": "Une membrane Sélective est :",
+    "options": [
+      "Perméable au solvant.",
+      "Perméable aux petits ions et petites molécules.",
+      "Perméable aux grosses molécules.",
+      "Perméable à un seul type d'ion seulement.",
+      "Est dite aussi semi-perméable."
+    ],
+    "correct": [0, 1, 4]
+  },
+  {
+    "question": "Les globules rouges :",
+    "options": [
+      "Ont une membrane de dialyse.",
+      "Sont perméables à l'eau au niveau de leurs membranes.",
+      "Placés dans une solution isotonique de NaCl, subissent une plasmolyse.",
+      "Subissent l'hémolyse une fois placés dans une solution hypertonique de NaCl > 170 mmol/l.",
+      "Subissent le phénomène de sphérocytose dans une solution hypotonique de NaCl < 300 mmol/l."
+    ],
+    "correct": [0, 1]
+  },
+  {
+    "question": "Dans la circulation sanguine Normale :",
+    "options": [
+      "Le sang est un fluide non visqueux.",
+      "L'écoulement du sang dans les artérioles est turbulent.",
+      "La vitesse du sang augmente des capillaires jusqu'aux veines.",
+      "Le cœur assure l'éjection de 50 ml de sang à chaque systole chez l'adulte normal.",
+      "La pression artérielle capillaire est supérieure à la pression oncotique."
+    ],
+    "correct": [2, 4]
+  },
+  {
+    "question": "La dimension et unité de la pression est :",
+    "options": [
+      "ML¹T⁻¹.",
+      "ML²T⁻².",
+      "ML⁻¹T⁻².",
+      "kg·m⁻¹·s⁻² ou N/m² ou Pascal (Pa) comme unité (SI).",
+      "1g·cm⁻¹·s⁻² = 1 barye (cgs)."
+    ],
+    "correct": [2, 3, 4]
+  },
+  {
+    "question": "Dans l'organisme :",
+    "options": [
+      "L'eau constitue 60% du poids total chez l'adulte normal.",
+      "La pression oncotique plasmatique est de 25 mmHg à 37°C.",
+      "Les œdèmes peuvent être détectés.",
+      "La cirrhose du foie est une cause d'ascite.",
+      "La paroi capillaire est une membrane semi-perméable."
+    ],
+    "correct": [0, 1, 2, 3, 4]
+  },
+  {
+    "question": "Dans l'étude de l'équilibre acido-basique :",
+    "options": [
+      "L'état normal comporte une Pco₂ = 40±3 mmHg.",
+      "La régulation du pH sanguin est assurée par le poumon et le rein.",
+      "Le pH artériel normal est de 7,40 ±0,02.",
+      "Les acides non volatils sont dits fermés.",
+      "L'augmentation de la Pco₂ correspond à une hypercapnie."
+    ],
+    "correct": [0, 1, 2, 4]
+  },
+  {
+    "question": "Le pH de sang de l'organisme :",
+    "options": [
+      "Est variable au cours de la journée.",
+      "Varie au niveau artériel entre 7,38 et 7,42.",
+      "Est régulé par le poumon et le rein.",
+      "Est plus élevé au niveau veineux qu'au niveau artériel.",
+      "Sa valeur est liée à la Pco₂."
+    ],
+    "correct": [1, 2, 4]
+  },
+  {
+    "question": "Dans le tissu cardiaque :",
+    "options": [
+      "Il existe des cellules spécialisées d'élaboration et de conduction d'influx électrique.",
+      "La fonction essentielle du tissu myocardique est la contraction cardiaque.",
+      "La fonction du tissu nodal est la contraction du myocarde.",
+      "L'influx prend naissance normalement au nœud auriculo-ventriculaire.",
+      "Le tissu nodal se trouve uniquement au niveau du nœud sinusal."
+    ],
+    "correct": [0, 1]
+  },
+  {
+    "question": "Dans l'étude de l'ECG normal :",
+    "options": [
+      "L'axe du cœur est droit.",
+      "Le rythme est sinusal.",
+      "Le tracé permet la détermination de la fréquence cardiaque.",
+      "L'onde P précède chaque complexe QRS.",
+      "L'intervalle PR est supérieur à 0,20 secondes."
+    ],
+    "correct": [1, 2, 3]
+  },
+  {
+    "question": "Dans l'étude de l'ECG :",
+    "options": [
+      "Les dérivations précordiales sont généralement au nombre de 6.",
+      "Le Bloc auriculo-ventriculaire se traduit par un intervalle PR allongé.",
+      "Le complexe QRS correspond à la dépolarisation ventriculaire.",
+      "VR, VL, VF sont des dérivations précordiales.",
+      "D3 + D1 = D2."
+    ],
+    "correct": [0, 1, 2, 4]
+  },
+  {
+    "question": "La courbe de dissociation de l'oxyhémoglobine CDO (courbe de Barcroft) :",
+    "options": [
+      "Est une courbe linéaire.",
+      "Se déplace vers la droite lorsque la PCO₂ augmente.",
+      "Se déplace vers la gauche lorsque la température diminue.",
+      "Représente la saturation de l'hémoglobine SO₂ en fonction de la PO₂.",
+      "La diminution du pH entraîne son déplacement vers la droite (effet Bohr)."
+    ],
+    "correct": [1, 2, 3, 4]
+  },
+  {
+    "question": "Dans le diagramme de Davenport :",
+    "options": [
+      "La ligne tampon normale est verticale.",
+      "La ligne iso-pH est verticale passant par le point pH = 7,40.",
+      "La courbe isobare normale correspond à PCO₂ = 40 mmHg.",
+      "Dans les cas d'alcaloses métaboliques, les Bicarbonates sont diminués.",
+      "Les propositions B) et C) sont justes."
+    ],
+    "correct": [1, 2, 4]
+  },
+  {
+    "question": "Le transport du CO₂ dans le sang :",
+    "options": [
+      "Est couplé à celui de l'O₂.",
+      "Le coefficient de solubilité SCO₂ est largement supérieur à celui de l'oxygène.",
+      "La combinaison du CO₂ à H₂O est favorisée par l'anhydrase carbonique.",
+      "L'anhydrase carbonique est présente surtout en milieu intra-érythrocytaire et tubulaire.",
+      "Se fait sous forme dissoute et sous forme combinée."
+    ],
+    "correct": [1, 2, 3, 4]
+  },
+  {
+    "question": "Le débit d'un fluide en mouvement est :",
+    "options": [
+      "La quantité de fluide qui traverse une section (S) d'une canalisation par unité de volume.",
+      "La quantité de fluide qui traverse une section (S) d'une canalisation par unité de temps (t).",
+      "Est égal à la section de la canalisation divisée par la vitesse du fluide.",
+      "Dont l'unité de mesure est le (m³/s) ou (Litre/min).",
+      "Dont la valeur du débit d'une canalisation mère est égale à la somme des débits des canalisations filles."
+    ],
+    "correct": [1, 3, 4]
+  },
+  {
+    "question": "À propos du coefficient de viscosité relative ηr :",
+    "options": [
+      "Son unité en SI est le poiseuille.",
+      "ηr = ηabsolu/ηeau (à la même température).",
+      "ηr est sans dimension.",
+      "ηr est sans unité et plus facile à mesurer que η.",
+      "Sa dimension est ML⁻¹T⁻¹."
+    ],
+    "correct": [1, 2, 3]
+  },
+  {
+    "question": "La résistance à l'écoulement du sang dans les vaisseaux dépend de :",
+    "options": [
+      "La viscosité sanguine.",
+      "La longueur du vaisseau.",
+      "Le rayon du vaisseau.",
+      "La concentration du sang en macromolécules linéaires.",
+      "Seules les propositions A) et C) sont justes."
+    ],
+    "correct": [0, 1, 2]
+  },
+  {
+    "question": "Le phénomène de diffusion est :",
+    "options": [
+      "Une migration en phase gazeuse sous l'action d'une différence de pression.",
+      "Une Migration sous l'action d'un champ électrique.",
+      "Un déplacement des molécules de la solution la plus concentrée vers la moins concentrée.",
+      "Un phénomène qui obéit à la Loi de Fick.",
+      "Le flux d'échange est proportionnel à la surface de la membrane d'échange."
+    ],
+    "correct": [2, 3, 4]
+  }
+]

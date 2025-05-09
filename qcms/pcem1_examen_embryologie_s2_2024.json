@@ -1,0 +1,342 @@
+[
+  {
+    "question": "Les structures qui forment la villosité choriale du premier ordre après le 4ème mois sont :",
+    "options": [
+      "Cellules endothéliales des vaisseaux maternels",
+      "Syncytiotrophoblaste",
+      "Cytotrophoblaste",
+      "Mésenchyme",
+      "Sang maternel"
+    ],
+    "correct": [1, 3],
+    "explanation": "Après le 4ème mois, les villosités choriales du premier ordre sont principalement constituées du syncytiotrophoblaste et du mésenchyme fœtal. Le cytotrophoblaste régresse progressivement."
+  },
+  {
+    "question": "La globozoospermie :",
+    "options": [
+      "Est l'absence du sac enzymatique nécessaire à la fécondation naturelle",
+      "Est une anomalie de la mobilité spermatique",
+      "Est une anomalie de la vitalité des spermatozoïdes",
+      "Nécessite une ICSI pour réussir une fécondation",
+      "Peut être secondaire à une exposition de l'homme à un facteur toxique"
+    ],
+    "correct": [0, 3, 4],
+    "explanation": "La globozoospermie est caractérisée par l'absence d'acrosome (le sac enzymatique), ce qui empêche la fécondation naturelle. L'ICSI (injection intracytoplasmique de spermatozoïde) est nécessaire pour la fécondation. Elle peut être causée par des facteurs génétiques ou environnementaux."
+  },
+  {
+    "question": "Les conséquences de la plicature de l'embryon au cours de la quatrième semaine sont:",
+    "options": [
+      "La mise en place de l'axe céphalo-caudal",
+      "La mise en place de la cavité amniotique",
+      "La transformation de la forme plate à la forme cylindrique de l'embryon",
+      "La mise en place de l'intestin primitif",
+      "La fermeture du tube neural"
+    ],
+    "correct": [0, 2, 3],
+    "explanation": "La plicature de l'embryon en 4ème semaine entraîne la formation de l'axe céphalo-caudal, transforme l'embryon d'un disque plat en une structure cylindrique et permet la mise en place de l'intestin primitif. La cavité amniotique se forme plus tôt et la fermeture du tube neural commence avant la 4ème semaine."
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant les follicules primordiaux, indiquer celle(s) qui est(sont) exacte(s) :",
+    "options": [
+      "Sont localisés au niveau du cortex ovarien",
+      "Comportent un ovocyte I bloqué en Métaphase",
+      "Entament la folliculogenèse primaire après la puberté",
+      "Définissent la réserve ovarienne",
+      "Présentent un nombre important de récepteurs à la FSH"
+    ],
+    "correct": [0, 3],
+    "explanation": "Les follicules primordiaux sont situés dans le cortex ovarien et représentent la réserve ovarienne. L'ovocyte I est bloqué en prophase I. La folliculogenèse primaire commence avant la puberté et les follicules primordiaux ont peu de récepteurs à la FSH."
+  },
+  {
+    "question": "Quelles sont les molécules parmi les suivantes qui ne passent pas la barrière placentaire :",
+    "options": [
+      "Pénicilline",
+      "Sulfamides",
+      "Antimitotiques",
+      "Hormones polypeptidiques",
+      "Protéines de haut poids moléculaires"
+    ],
+    "correct": [3, 4],
+    "explanation": "Les hormones polypeptidiques (comme l'insuline) et les protéines de haut poids moléculaires (comme les immunoglobulines maternelles - sauf les IgG qui passent par un mécanisme spécifique) ne traversent généralement pas la barrière placentaire en raison de leur taille et de leur nature hydrophile. La pénicilline, les sulfamides et les antimitotiques peuvent traverser la barrière placentaire."
+  },
+  {
+    "question": "Le Cytotrophoblaste :",
+    "options": [
+      "Apparaît au cours de la deuxième semaine du développement",
+      "Est une structure de la barrière placentaire après 4 mois de développement",
+      "Sécrète des enzymes lytiques",
+      "Envahit la paroi des artères utéro-placentaires maternelles",
+      "Est formé par un syncytium de cellules d'origine embryonnaire"
+    ],
+    "correct": [0, 2, 3],
+    "explanation": "Le cytotrophoblaste apparaît durant la deuxième semaine du développement. Il sécrète des enzymes lytiques permettant l'implantation et envahit la paroi des artères utéro-placentaires maternelles pour modifier le flux sanguin. Après 4 mois, la barrière placentaire est principalement constituée du syncytiotrophoblaste et de l'endothélium des vaisseaux fœtaux. Le cytotrophoblaste est une couche de cellules mononucléées, pas un syncytium."
+  },
+  {
+    "question": "À quel stade correspond l'embryon représenté dans le schéma ci-dessus:",
+    "options": [
+      "Après enfouissement total dans l'endomètre",
+      "Première semaine",
+      "Fin de la deuxième semaine",
+      "Quatrième semaine",
+      "Délimitation"
+    ],
+    "correct": [],
+    "explanation": "Cette question nécessite une image (schéma) pour être correctement répondue. Sans le schéma, il est impossible de déterminer le stade de développement de l'embryon."
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant l'embryon au cours de la troisième semaine, indiquer celle(s) qui est(sont) exacte(s) :",
+    "options": [
+      "L'embryon est suspendu par son pédicule",
+      "Est un disque didermique",
+      "Comporte trois cavités",
+      "A déjà subi la plicature longitudinale",
+      "Les deux neuropores antérieurs et postérieurs sont déjà fermés"
+    ],
+    "correct": [0, 4],
+    "explanation": "Au cours de la troisième semaine, l'embryon est suspendu par son pédicule (qui deviendra le cordon ombilical). La fermeture des neuropores (antérieur et postérieur) commence à la fin de la troisième semaine et se termine au début de la quatrième. L'embryon est un disque tridermique à cette étape et ne comporte qu'une cavité (amniotique). La plicature longitudinale a lieu principalement durant la quatrième semaine."
+  },
+  {
+    "question": "Les jumeaux siamois :",
+    "options": [
+      "Sont issus d'une grossesse gémellaire monozygotique",
+      "Sont la conséquence d'un dédoublement de la ligne primitive",
+      "Sont la conséquence d'un défaut d'éclosion",
+      "Est une anomalie du cil vibratile de la ligne primitive",
+      "Est une anomalie de la quatrième semaine du développement"
+    ],
+    "correct": [0, 1, 4],
+    "explanation": "Les jumeaux siamois sont toujours issus d'une grossesse gémellaire monozygotique (un seul ovule fécondé). Ils résultent d'une séparation incomplète de l'embryon au niveau de la ligne primitive, généralement survenant après le 13ème jour du développement, soit pendant la quatrième semaine."
+  },
+  {
+    "question": "Parmi les éléments suivants indiquer celui (ceux) qui dérive(nt) de la plaque neurale :",
+    "options": [
+      "Le tube neural",
+      "La chorde",
+      "Les crêtes neurales",
+      "Le mésoblaste intermédiaire",
+      "La peau"
+    ],
+    "correct": [0, 2],
+    "explanation": "La plaque neurale, issue de l'ectoderme, se replie pour former le tube neural (qui donnera le système nerveux central) et les crêtes neurales (qui migrent pour former de nombreuses structures, dont le système nerveux périphérique). La chorde dérive du mésoderme axial, le mésoblaste intermédiaire donne les voies urogénitales, et la peau est d'origine ectodermique (épiderme) et mésodermique (derme)."
+  },
+  {
+    "question": "Parmi les propositions suivantes laquelle correspond à la spermatogenèse:",
+    "options": [
+      "Dépend des gonadotrophines",
+      "A un faible rendement",
+      "Se fait dans les tubes séminifères avant la puberté",
+      "Est discontinue"
+    ],
+    "correct": [0],
+    "explanation": "La spermatogenèse, le processus de formation des spermatozoïdes, est régulée par les gonadotrophines (FSH et LH) produites par l'hypophyse. Elle a un rendement élevé, commence à la puberté et est un processus continu."
+  },
+  {
+    "question": "La grossesse gémellaire dizygotique peut être :",
+    "options": [
+      "Diamniotique dichoriale",
+      "Diamniotique monochoriale",
+      "Monoamniotique monochoriale",
+      "À l'origine de siamois"
+    ],
+    "correct": [0],
+    "explanation": "Une grossesse gémellaire dizygotique (faux jumeaux) résulte de la fécondation de deux ovules différents par deux spermatozoïdes différents. Chaque embryon possède son propre amnios et son propre chorion, ce qui donne une grossesse diamniotique dichoriale. Les grossesses monochoriales et monoamniotiques sont caractéristiques des grossesses monozygotiques. Les jumeaux siamois sont également issus de grossesses monozygotiques."
+  },
+  {
+    "question": "L'implantation :",
+    "options": [
+      "Ne peut se faire qu'au cours de la fenêtre implantatoire",
+      "Est un événement de la troisième semaine",
+      "Est facilitée par l'action lytique du cytotrophoblaste",
+      "Commence par l'étape d'invasion"
+    ],
+    "correct": [0, 2, 3],
+    "explanation": "L'implantation de l'embryon dans la muqueuse utérine ne peut se produire que durant une période limitée appelée fenêtre implantatoire. Elle est facilitée par l'action lytique des enzymes sécrétées par le syncytiotrophoblaste (et non le cytotrophoblaste seul) et commence par l'invasion du syncytiotrophoblaste dans l'endomètre. L'implantation a lieu à la fin de la première semaine du développement."
+  },
+  {
+    "question": "La migration de l'embryon au cours de la première semaine du développement :",
+    "options": [
+      "Se fait après la blastulation",
+      "Précède obligatoirement l'implantation",
+      "Se fait grâce aux mouvements des cils vibratiles de la muqueuse utérine",
+      "Est favorisée par la contraction de la musculeuse tubaire"
+    ],
+    "correct": [0, 1, 2, 3],
+    "explanation": "Au cours de la première semaine, l'embryon subit la segmentation, puis la blastulation. Le blastocyste ainsi formé migre le long de la trompe de Fallope vers l'utérus, grâce aux mouvements des cils vibratiles de la muqueuse tubaire et aux contractions de la musculeuse tubaire. Cette migration précède l'implantation dans la paroi utérine."
+  },
+  {
+    "question": "La glande prostatique :",
+    "options": [
+      "Est une glande tubuleuse pelotonnée",
+      "Comporte un stroma conjonctivo-musculaire",
+      "Sécrète du fructose nécessaire pour la survie des spermatozoïdes",
+      "Peut permettre un stockage des spermatozoïdes dans les cryptes de la glande"
+    ],
+    "correct": [1, 2],
+    "explanation": "La glande prostatique est une glande tubulo-alvéolaire composée, entourée d'un stroma conjonctivo-musculaire. Elle sécrète un liquide alcalin contenant du fructose, qui fournit de l'énergie aux spermatozoïdes et contribue à leur mobilité et survie. Le stockage des spermatozoïdes a lieu dans l'épididyme, pas dans la prostate."
+  },
+  {
+    "question": "Les glandes de l'endomètre en phase lutéale sont :",
+    "options": [
+      "Riches en mitoses",
+      "Comportent des sécrétions riches en glucose",
+      "Allongées et peu sinueuses",
+      "Entourées par un stroma fibreux"
+    ],
+    "correct": [1, 3],
+    "explanation": "En phase lutéale (après l'ovulation), sous l'influence de la progestérone, les glandes de l'endomètre deviennent tortueuses et sécrètent un liquide riche en glycogène (et non glucose), essentiel pour la nutrition de l'embryon en cas de fécondation. Le stroma endométrial devient également œdémateux et fibreux. La phase lutéale est caractérisée par une diminution des mitoses dans les glandes."
+  },
+  {
+    "question": "La barrière hémato-testiculaire comporte :",
+    "options": [
+      "La membrane basale des tubes séminifères",
+      "La gaine péritubulaire",
+      "Les jonctions serrées des cellules de Sertoli",
+      "Les cellules myoïdes"
+    ],
+    "correct": [2],
+    "explanation": "La barrière hémato-testiculaire est principalement formée par les jonctions serrées entre les cellules de Sertoli adjacentes dans les tubes séminifères. Elle isole les cellules germinales en développement du système immunitaire. La membrane basale des tubes séminifères et la gaine péritubulaire contribuent également à cette barrière, mais les jonctions serrées des cellules de Sertoli en sont la composante fonctionnelle clé. Les cellules myoïdes sont situées à l'extérieur de la gaine péritubulaire."
+  },
+  {
+    "question": "Parmi les étapes de la fécondation suivantes, laquelle est reproduite au cours d'une ICSI :",
+    "options": [
+      "La fusion des deux membranes du spermatozoïde et de l'ovocyte",
+      "La traversée du cumulus",
+      "La fixation à la zone pellucide",
+      "L'activation de l'ovocyte"
+    ],
+    "correct": [0, 3],
+    "explanation": "L'ICSI (injection intracytoplasmique de spermatozoïde) consiste à injecter directement un spermatozoïde dans le cytoplasme de l'ovocyte, contournant ainsi les étapes de la traversée du cumulus oophorus et de la fixation à la zone pellucide. Les étapes reproduites lors d'une ICSI sont la fusion des membranes du spermatozoïde et de l'ovocyte, ainsi que l'activation de l'ovocyte par le spermatozoïde."
+  },
+  {
+    "question": "L'embryon représenté dans le schéma suivant est :",
+    "options": [
+      "Au stade de 3 jours du développement",
+      "Un blastocyste en éclosion",
+      "Formé par des cellules totipotentes",
+      "Une morula compactée"
+    ],
+    "correct": [],
+    "explanation": "Cette question nécessite une image (schéma) pour être correctement répondue. Sans le schéma, il est impossible de déterminer le stade de développement de l'embryon."
+  },
+  {
+    "question": "La cellule de Leydig :",
+    "options": [
+      "Est riche en mitochondries et en vacuoles lipidiques",
+      "Sécrète des œstrogènes",
+      "Est contrôlée par la FSH",
+      "S'organise en tissu interstitiel faiblement vascularisé"
+    ],
+    "correct": [0, 3],
+    "explanation": "Les cellules de Leydig sont situées dans le tissu interstitiel entre les tubes séminifères du testicule. Elles sont riches en mitochondries et en vacuoles lipidiques, nécessaires à la synthèse des hormones stéroïdiennes, principalement la testostérone (un androgène, pas un œstrogène). Elles sont contrôlées par l'hormone lutéinisante (LH), et le tissu interstitiel où elles se trouvent est richement vascularisé pour permettre la diffusion des hormones dans la circulation sanguine."
+  },
+  {
+    "question": "Le liquide amniotique :",
+    "options": [
+      "A une quantité à terme d'environ 0,1 litre",
+      "Prend origine majoritairement du plasma maternel",
+      "Sa diminution définit l'oligoamnios",
+      "Apparaît au sein de la cavité amniotique au cours de la 4ème semaine du développement"
+    ],
+    "correct": [1, 2, 3],
+    "explanation": "Le liquide amniotique prend principalement son origine du plasma maternel par diffusion à travers les membranes fœtales. Une quantité anormalement basse de liquide amniotique est appelée oligoamnios. Le liquide amniotique commence à s'accumuler dans la cavité amniotique dès la deuxième semaine du développement, et sa quantité augmente progressivement pour atteindre environ 1 litre à terme (et non 0,1 litre)."
+  },
+  {
+    "question": "L'épithélium de l'endocol est de type :",
+    "options": [
+      "Malpighien",
+      "Glandulaire",
+      "Cilié",
+      "Cylindrique stratifié"
+    ],
+    "correct": [1, 3],
+    "explanation": "L'épithélium de l'endocol (canal cervical) est de type glandulaire et cylindrique stratifié (ou pseudostratifié). Il contient des cellules sécrétant du mucus cervical."
+  },
+  {
+    "question": "Parmi les traitements suivants, lequel stimule la folliculogenèse chez la femme :",
+    "options": [
+      "Les androgènes",
+      "La LH",
+      "Les œstrogènes",
+      "La FSH"
+    ],
+    "correct": [3],
+    "explanation": "La FSH (hormone folliculo-stimulante) est la principale hormone qui stimule la croissance et la maturation des follicules ovariens (folliculogenèse) chez la femme."
+  },
+  {
+    "question": "Parmi les propositions suivantes, laquelle correspond à une étape de la spermiogenèse :",
+    "options": [
+      "Un remplacement des histones par des protamines",
+      "Une division réductionnelle du matériel génétique",
+      "Une élimination du matériel génétique excédentaire",
+      "Un allongement du centriole proximal"
+    ],
+    "correct": [0, 3],
+    "explanation": "La spermiogenèse est la phase finale de la spermatogenèse où les spermatides ronds se transforment en spermatozoïdes matures. Elle comprend le remplacement des histones par des protamines dans le noyau, la formation de l'acrosome, le développement du flagelle (avec allongement du centriole distal), et la condensation du noyau. La division réductionnelle (méiose) a lieu lors de la spermatocytogenèse, avant la formation des spermatides. L'élimination du cytoplasme excédentaire se fait sous forme de corps résiduels."
+  },
+  {
+    "question": "La chambre intervilleuse :",
+    "options": [
+      "Est une structure placentaire d'origine maternelle",
+      "Reçoit du sang maternel veineux",
+      "Est une cavité creusée dans le cytotrophoblaste",
+      "Favorise les échanges materno-fœtaux à basse pression"
+    ],
+    "correct": [3],
+    "explanation": "La chambre intervilleuse est un espace au sein du placenta qui contient le sang maternel et où se déroulent les échanges materno-fœtaux. C'est une structure d'origine maternelle (lacunes dans le syncytiotrophoblaste remplies de sang maternel artériel). Elle reçoit du sang maternel artériel provenant des artères spiralées et favorise les échanges à basse pression."
+  },
+  {
+    "question": "L'épididyme :",
+    "options": [
+      "Est marqué par une musculeuse richement innervée",
+      "Est tapissé par un épithélium cilié",
+      "Est formé par plusieurs canaux pelotonnés",
+      "Est le lieu de stockage des spermatozoïdes"
+    ],
+    "correct": [0, 1, 2, 3],
+    "explanation": "L'épididyme est un long canal unique, fortement pelotonnés, situé à la surface du testicule. Sa paroi comporte une musculeuse lisse richement innervée, et sa lumière est tapissée par un épithélium pseudostratifié cylindrique avec des stéréocils (et non des cils vibratiles). L'épididyme est le lieu de maturation et de stockage des spermatozoïdes."
+  },
+  {
+    "question": "Les étapes de la fécondation sont les suivantes sauf une :",
+    "options": [
+      "Traversée du cumulus oophorus",
+      "Fixation à la zone pellucide",
+      "Élimination du premier globule polaire",
+      "Fusion avec la membrane de l'ovocyte"
+    ],
+    "correct": [2],
+    "explanation": "Les étapes de la fécondation comprennent la traversée du cumulus oophorus, la fixation à la zone pellucide, la réaction acrosomique, la traversée de la zone pellucide, la fusion des membranes du spermatozoïde et de l'ovocyte, et l'activation de l'ovocyte. L'élimination du premier globule polaire a lieu avant la fécondation, lors de l'ovogenèse."
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant le placenta, indiquer celle(s) qui est(sont) exacte(s) :",
+    "options": [
+      "Est perméable aux antiépileptiques",
+      "Est un filtre parfait pour l'alcool",
+      "Est imperméable au virus de la rubéole",
+      "Est imperméable aux hormones stéroïdes"
+    ],
+    "correct": [0],
+    "explanation": "Le placenta est perméable à de nombreuses substances, y compris les antiépileptiques, l'alcool (qui peut causer le syndrome d'alcoolisation fœtale), le virus de la rubéole (qui peut entraîner des malformations congénitales) et les hormones stéroïdes (qui peuvent influencer le développement fœtal). Le placenta n'est pas un filtre parfait."
+  },
+  {
+    "question": "L'infertilité d'origine masculine pourrait être expliquée par les facteurs suivants sauf un :",
+    "options": [
+      "Une azoospermie",
+      "Une obstruction tubaire",
+      "Une asthénospermie",
+      "Une nécrospermie"
+    ],
+    "correct": [1],
+    "explanation": "L'azoospermie (absence de spermatozoïdes dans le sperme), l'asthénospermie (mobilité réduite des spermatozoïdes) et la nécrospermie (spermatozoïdes morts) sont des causes d'infertilité masculine liées à la qualité ou à la quantité des spermatozoïdes. Une obstruction tubaire (par exemple, des canaux déférents) empêche le transport des spermatozoïdes et est également une cause d'infertilité masculine."
+  },
+  {
+    "question": "Au cours de la stimulation ovarienne en vue de faire une fécondation in vitro (FIV), l'administration de la LH induit :",
+    "options": [
+      "La sélection d'un follicule dominant",
+      "Prévenir l'atrésie des follicules en croissance au cours du cycle sexuel",
+      "La maturation de l'ovocyte",
+      "La sortie de la réserve ovarienne"
+    ],
+    "correct": [2],
+    "explanation": "Lors d'une stimulation ovarienne pour une FIV, l'administration de LH (ou d'hCG qui a une action similaire) est utilisée pour induire la maturation finale de l'ovocyte (reprise de la méiose et passage de la prophase I à la métaphase II). La FSH est principalement utilisée pour la sélection et la croissance de plusieurs follicules. La prévention de l'atrésie est un effet complexe des gonadotrophines et des stéroïdes ovariens. La sortie de la réserve ovarienne n'est pas directement induite par la LH lors de la stimulation."
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "question": "À propos des grandeurs extensives",
+    "options": [
+      "Sont des grandeurs dont l'additivité a une signification physique",
+      "Sont des grandeurs qui caractérisent la quantité en cause",
+      "La longueur est une grandeur extensive",
+      "La température est une grandeur intensive",
+      "La masse est une grandeur extensive"
+    ],
+    "correct": [0, 1, 2, 4],
+    "explanation": "Les grandeurs extensives sont celles dont la valeur totale est la somme des valeurs partielles (additivité), elles caractérisent une quantité (masse, longueur) ; la température, elle, est intensive."
+  },
+  {
+    "question": "Dans les états gazeux de la matière",
+    "options": [
+      "La matière possède une masse volumique élevée",
+      "Le volume de la matière augmente avec l'augmentation de la température",
+      "La matière prend la forme du récipient qui la contient",
+      "La matière possède une forme propre",
+      "Les propositions B) et C) sont justes"
+    ],
+    "correct": [4],
+    "explanation": "En phase gazeuse, la densité est faible, le volume croît avec la température et le gaz épouse la forme de son contenant, donc B et C sont correctes."
+  },
+  {
+    "question": "Les états solides de la matière",
+    "options": [
+      "La matière possède une masse volumique faible",
+      "Le volume de la matière varie avec la pression",
+      "La matière possède une forme propre",
+      "La matière prend la forme du récipient qui la contient",
+      "La nature de l'état résulte d'une compétition entre forces d'attraction et de répulsion intermoléculaire"
+    ],
+    "correct": [2, 4],
+    "explanation": "Un solide a une forme propre et son état découle de l’équilibre entre forces attractives et répulsives entre molécules ; sa densité est élevée et il ne prend pas la forme du récipient."
+  },
+  {
+    "question": "Un dipôle moléculaire",
+    "options": [
+      "Est constitué par deux charges ponctuelles de mêmes signes",
+      "Correspond à deux charges ponctuelles de signes opposés",
+      "L'unité du moment électrique du dipôle est le coulomb·mètre",
+      "La charge électrique du dipôle est nulle",
+      "Son sens est celui de +q vers -q"
+    ],
+    "correct": [1, 2, 3],
+    "explanation": "Un dipôle est deux charges de signes opposés, son moment p = q·d s’exprime en C·m, et globalement la somme des charges est nulle."
+  },
+  {
+    "question": "Dans les unités de pression",
+    "options": [
+      "Une atmosphère est la valeur de la pression atmosphérique normale au niveau de la montagne",
+      "1 atm = 10⁵ Pa",
+      "1 cm d'eau = 1000 Pa",
+      "1 mm Hg = 133,4 Pa",
+      "Toutes les propositions sont justes"
+    ],
+    "correct": [1, 3],
+    "explanation": "1 atm = 1×10⁵ Pa et 1 mm Hg = 133,4 Pa ; 1 cm H₂O ≃ 98 Pa, et « atmosphère normale » se réfère au niveau de la mer, pas de la montagne."
+  },
+  {
+    "question": "La dimension d'une pression est",
+    "options": [
+      "ML/T",
+      "ML²/T",
+      "M²/T",
+      "ML⁻¹T⁻²",
+      "ML⁻¹T²"
+    ],
+    "correct": [3],
+    "explanation": "La pression est une force (ML·T⁻²) par surface (L²) → ML⁻¹T⁻²."
+  },
+  {
+    "question": "Le mm Hg est",
+    "options": [
+      "Une sous-unité d'énergie",
+      "Une unité de mesure de la pression vasculaire",
+      "Est équivalent à une atmosphère",
+      "Égale à 100 Pa",
+      "Est la pression qui induit une dénivellation h = 1 mm dans un manomètre à mercure"
+    ],
+    "correct": [1, 4],
+    "explanation": "Le mm Hg est couramment utilisé pour la pression vasculaire et défini par la colonne de mercure de 1 mm ; ce n’est pas 100 Pa ni une unité d’énergie."
+  },
+  {
+    "question": "Dans la loi d'Henry, le coefficient de solubilité (s) d'un gaz i dans un liquide",
+    "options": [
+      "Dépend de la nature du liquide",
+      "Dépend de la nature du gaz i",
+      "Dépend de la température",
+      "S'exprime en mm Hg",
+      "Toutes les propositions sont justes"
+    ],
+    "correct": [4],
+    "explanation": "Le coefficient de solubilité dépend du gaz, du liquide et de la température, et s’exprime en pression (mm Hg), donc toutes sont vraies."
+  },
+  {
+    "question": "Dans les conditions STPD l'état d'un gaz parfait est",
+    "options": [
+      "Riche en vapeur d'eau",
+      "La température est égale à 100°C",
+      "La pression est de 1 atm",
+      "La température est de 0°C",
+      "La température est de 273 K"
+    ],
+    "correct": [2, 3, 4],
+    "explanation": "STPD = Standard Temperature (0°C = 273 K) and Pressure (1 atm), et la vapeur d’eau est éliminée, pas riche."
+  },
+  {
+    "question": "Lors de la plongée sous-marine",
+    "options": [
+      "La remontée doit être rapide",
+      "L'augmentation de la pression est de 1 atmosphère pour chaque 10 m de profondeur",
+      "Le phénomène de dédissolution brutale produit des bulles gazeuses",
+      "L'embolie gazeuse est de mauvais pronostic",
+      "Toutes les propositions sont justes"
+    ],
+    "correct": [1, 2, 3],
+    "explanation": "La remontée doit être lente (A faux) ; la pression augmente de ~1 atm/10 m (B) ; une dédissolution brusque provoque des bulles (C) ; une embolie gazeuse est grave (D)."
+  },
+  {
+    "question": "Migration d'une particule peut être due à une cause",
+    "options": [
+      "Externe: la pesanteur",
+      "Externe: le gradient de pression",
+      "Interne: le gradient de concentration",
+      "Externe: la centrifugation",
+      "À un champ électrique en cas d'électrophorèse"
+    ],
+    "correct": [0, 1, 2, 3, 4],
+    "explanation": "Tous ces phénomènes peuvent provoquer migration de particules."
+  },
+  {
+    "question": "La vitesse de sédimentation",
+    "options": [
+      "Est un phénomène de migration des particules sous l'action de pesanteur",
+      "Est normalement inférieure à 10 mm à la première heure",
+      "Son augmentation est liée à une baisse de la concentration sanguine en macromolécules linéaires",
+      "Est élevée en cas d'infection ou d'inflammation",
+      "Est nulle quand des globules rouges sont mis dans une solution isotonique de glucose et de petits ions"
+    ],
+    "correct": [0, 1, 3],
+    "explanation": "La VS résulte de la pesanteur, est <10 mm à H1 dans le normal et augmente en inflammation ; elle n'est pas nulle en solution isotonique, et elle augmente si macromolécules augmentent."
+  },
+  {
+    "question": "La centrifugation sanguine",
+    "options": [
+      "Est une migration des particules sous l'action d'une accélération centrifuge",
+      "Permet la séparation des particules plasmatiques",
+      "Son accélération est 4000 fois plus grande que l'accélération de pesanteur g",
+      "Sa vitesse de rotation est moins élevée que l'ultracentrifugation",
+      "Toutes les propositions sont justes"
+    ],
+    "correct": [0, 1, 3],
+    "explanation": "La centrifugation sépare plasma et cellules par force centrifuge, souvent ~4000×g, et elle tourne moins vite qu’une ultracentrifugeuse."
+  },
+  {
+    "question": "Concernant le débit sanguin",
+    "options": [
+      "Sa dimension est L³T⁻¹",
+      "Est égal à la section multipliée par la vitesse d'écoulement",
+      "Son unité est le m³/s ou le litre/min",
+      "Son unité du système CGS est le Rayleigh",
+      "Le débit d'une canalisation mère est le même qu'au niveau des débits des ramifications"
+    ],
+    "correct": [0, 1, 2],
+    "explanation": "Débit = section × vitesse, dimension L³T⁻¹, unités m³/s ou L/min ; Rayleigh n'est pas unité de débit."
+  },
+  {
+    "question": "En circulation sanguine",
+    "options": [
+      "Le sang est un fluide newtonien",
+      "L'écoulement du sang dans les artérioles est bi-laminaire",
+      "La vitesse du sang augmente de l'aorte jusqu'aux capillaires",
+      "Le cœur assure l'éjection de 70 ml de sang à chaque systole chez l'adulte normal",
+      "La pression sanguine doit être mesurée à hauteur du cœur en position allongée"
+    ],
+    "correct": [0, 3, 4],
+    "explanation": "Le sang se comporte comme un fluide newtonien, le volume systolique est ~70 mL et la pression se mesure au même niveau que le cœur allongé."
+  },
+  {
+    "question": "Le travail du cœur est",
+    "options": [
+      "Surtout un travail cinétique",
+      "Essentiellement un travail de pesanteur",
+      "De 1000 joules par cycle cardiaque",
+      "Est équitablement assuré par les deux ventricules droit et gauche",
+      "Est surtout un travail de pression"
+    ],
+    "correct": [4],
+    "explanation": "Le travail cardiaque est principalement un travail contre la pression artérielle."
+  },
+  {
+    "question": "La tension artérielle",
+    "options": [
+      "Est habituellement mesurée par méthode directe à l'aide d'un brassard au niveau du bras gauche",
+      "Doit être mesurée par méthode indirecte à la hauteur du cœur",
+      "Est habituellement supérieure à 150 mm Hg pour la systolique",
+      "Est en moyenne de 75 mm Hg pour la diastolique",
+      "S'exprime en mm Hg"
+    ],
+    "correct": [1, 3, 4],
+    "explanation": "La mesure se fait indirectement au niveau du cœur ; la diastolique normale ~75 mm Hg ; s’exprime en mm Hg."
+  },
+  {
+    "question": "La viscosité du sang",
+    "options": [
+      "Est une diminution de la liberté d'écoulement du fluide qui dissipe son énergie",
+      "Les dimensions de son coefficient sont ML⁻¹T⁻¹",
+      "Son unité en SI est le kg/m·s",
+      "Augmente avec la température",
+      "Au niveau plasmatique augmente en cas d'inflammation ou d'infection"
+    ],
+    "correct": [0, 1, 2, 4],
+    "explanation": "La viscosité est la résistance à l’écoulement, dimensions ML⁻¹T⁻¹, unité Pa·s = kg·m⁻¹·s⁻¹, elle diminue avec T et augmente en inflammation plasmatique."
+  },
+  {
+    "question": "À propos du coefficient de viscosité relative ηr",
+    "options": [
+      "Son unité en SI est le poiseuille",
+      "ηr = ηabsolu / ηeau (à la même température)",
+      "ηr est sans dimension",
+      "ηr est sans unité et plus facile à mesurer que η",
+      "Sa dimension est ML⁻¹T⁻¹"
+    ],
+    "correct": [1, 2, 3],
+    "explanation": "ηr = η/ηeau, c’est un rapport sans dimension et sans unité ; il n’a pas de dimension physique."
+  },
+  {
+    "question": "La résistance à l'écoulement du sang dans les vaisseaux dépend de",
+    "options": [
+      "La viscosité sanguine",
+      "La longueur du vaisseau",
+      "Le rayon du vaisseau",
+      "La concentration du sang en macromolécules linéaires",
+      "Toutes les propositions sont justes"
+    ],
+    "correct": [4],
+    "explanation": "La loi de Poiseuille montre que la résistance dépend de la viscosité, de la longueur et du rayon, et la viscosité varie avec la concentration en macromolécules."
+  },
+  {
+    "question": "La biophysique de la circulation",
+    "options": [
+      "Permet d'étudier les phénomènes pouvant assurer l'écoulement du sang dans les vaisseaux",
+      "L'écoulement du sang dans les vaisseaux est aussi appelé phénomènes de convection",
+      "Débit de sang est la quantité qui traverse une section S de la canalisation pendant l'unité de temps",
+      "La résistance à l'écoulement du sang est due à sa viscosité",
+      "Toutes les propositions sont justes"
+    ],
+    "correct": [4],
+    "explanation": "La biophysique englobe l’étude de l’écoulement (convection), la définition du débit et la résistance liée à la viscosité."
+  },
+  {
+    "question": "Le nombre de Reynolds",
+    "options": [
+      "Est inversement proportionnel au coefficient de viscosité du fluide",
+      "Permet de distinguer un écoulement laminaire d'un écoulement turbulent",
+      "Dépend de la masse volumique du fluide en écoulement",
+      "Permet de reconnaître un écoulement laminaire lorsqu'il est inférieur à 1000",
+      "Est sans unité"
+    ],
+    "correct": [0, 1, 2, 4],
+    "explanation": "Re = ρvD/η, dépend de ρ, inverse de η, sans unité, et distingue les régimes d’écoulement."
+  },
+  {
+    "question": "Dans les écoulements laminaires",
+    "options": [
+      "L'écoulement est silencieux",
+      "Il existe des tourbillons dans le fluide en écoulement",
+      "Le nombre de Reynolds est supérieur à 2000",
+      "La consommation en énergie est inférieure qu'en cas d'écoulements turbulents",
+      "L'écoulement est audible"
+    ],
+    "correct": [0, 3],
+    "explanation": "En régime laminaire, pas de tourbillons, Re <2000, c’est silencieux et moins énergivore."
+  },
+  {
+    "question": "Dans les écoulements turbulents",
+    "options": [
+      "L'écoulement est bilaminaire",
+      "Il existe des turbulences dans le fluide en écoulement",
+      "Le nombre de Reynolds est entre 1000 et 1500",
+      "La consommation en énergie est supérieure qu'en cas d'écoulement laminaire",
+      "Les vecteurs « vitesse » des particules dans le fluide sont parallèles entre eux"
+    ],
+    "correct": [1, 3],
+    "explanation": "Le régime turbulent comporte turbulences et tourbillons, et est plus énergivore."
+  },
+  {
+    "question": "En milieu intérieur de l'organisme",
+    "options": [
+      "La diffusion en phase gazeuse est un déplacement de particules sous l'action d'un gradient de pression hydrostatique",
+      "La diffusion en phase liquide est un déplacement de particules sous l'action d'un gradient de concentration",
+      "La convection est un déplacement de l'ensemble de la matière sous l'action de pression",
+      "La convection est un déplacement de particules chargées sous l'action d'un champ électrique",
+      "L'électrophorèse consiste en une séparation de protéines chargées sous l'action d'un champ électrique"
+    ],
+    "correct": [0, 1, 2, 4],
+    "explanation": "Diffusion gazeuse dépend du gradient de pression, diffusion liquide du gradient de concentration, convection déplace le fluide, et électrophorèse sépare protéines chargées."
+  },
+  {
+    "question": "Le phénomène de diffusion est",
+    "options": [
+      "Une migration sous l'action d'une différence de concentration",
+      "Une migration sous l'action d'un champ électrique",
+      "Un déplacement des molécules de la solution la plus concentrée vers la moins concentrée",
+      "Un phénomène qui obéit à la loi de Fick",
+      "Toutes les propositions sont justes"
+    ],
+    "correct": [0, 2, 3],
+    "explanation": "La diffusion est due à un gradient de concentration, obéit à la loi de Fick, et ne relève pas d’un champ électrique."
+  },
+  {
+    "question": "Une membrane sélective est",
+    "options": [
+      "Perméable au solvant",
+      "Perméable aux petits ions et petites molécules",
+      "Imperméable aux grosses molécules",
+      "Perméable à un seul type d'ion seulement",
+      "Est dite aussi hémiperméable"
+    ],
+    "correct": [0, 1, 2, 4],
+    "explanation": "Une membrane sélective (hémiperméable) laisse passer solvant et petits solutés, et retient grosses molécules."
+  },
+  {
+    "question": "Une membrane de dialyse est",
+    "options": [
+      "Perméable au solvant",
+      "Perméable aux petits ions et petites molécules",
+      "Imperméable aux grosses molécules",
+      "Perméable à un seul type d'ion seulement",
+      "Est dite aussi hémiperméable"
+    ],
+    "correct": [0, 1, 2, 4],
+    "explanation": "Identique à la membrane sélective ; elle retient les grosses molécules."
+  },
+  {
+    "question": "Une membrane semi-perméable est",
+    "options": [
+      "Perméable au solvant seulement",
+      "Perméable aux petits ions et petites molécules",
+      "Imperméable aux grosses molécules",
+      "Perméable à un seul type d'ion seulement",
+      "Est dite aussi hémiperméable"
+    ],
+    "correct": [0, 2, 4],
+    "explanation": "Semi-perméable = laisse passer le solvant, retient solutés (grosses molécules)."
+  },
+  {
+    "question": "L'osmose entre deux solutions",
+    "options": [
+      "Phénomène de diffusion à travers une membrane semi-perméable du solvant",
+      "La membrane en question est sélective à un seul type d'ion",
+      "Le déplacement intéresse le solvant seul",
+      "Ce déplacement est une différence de potentiel chimique μ du solvant entre les deux solutions",
+      "Toutes les propositions sont justes"
+    ],
+    "correct": [0, 2, 3],
+    "explanation": "L’osmose est diffusion du solvant à travers membrane semi-perméable sous l’effet d’un gradient de potentiel chimique."
+  },
+  {
+    "question": "L'œdème peut être lié à un(e)",
+    "options": [
+      "Mauvais retour de liquide dans les capillaires veineux",
+      "Augmentation de la perméabilité capillaire par passage de protéines dans le milieu interstitiel",
+      "Compression en aval par une tumeur",
+      "Insuffisance cardiaque",
+      "Toutes les propositions sont vraies"
+    ],
+    "correct": [4],
+    "explanation": "Tous ces mécanismes peuvent provoquer œdème."
+  },
+  {
+    "question": "Les globules rouges",
+    "options": [
+      "Placés dans une solution isotonique de NaCl, subissent l'hémolyse automatiquement",
+      "Sont perméables à l'eau",
+      "Subissent une plasmolyse s'ils sont placés dans une solution hypertonique de NaCl",
+      "Subissent le phénomène de sphérocytose dans une solution hypotonique de NaCl",
+      "Toutes les propositions sont fausses"
+    ],
+    "correct": [1, 2],
+    "explanation": "Dans une solution isotonique, ils sont stables ; l’eau passe librement ; en hypertonie, ils plasmolysent ; en hypotonie, ils gonflent et peuvent hémolyser."
+  },
+  {
+    "question": "Quelle est la réponse fausse",
+    "options": [
+      "Une base en solution est un accepteur de proton",
+      "Un acide peut être un anion",
+      "Un acide en solution est un donneur de proton",
+      "Le poumon et le rein sont des organes tampons",
+      "Le pH du sang veineux est plus acide que le pH du sang artériel"
+    ],
+    "correct": [1],
+    "explanation": "La seule fausse est que « un acide peut être un anion » ; un acide est donneur de proton."
+  },
+  {
+    "question": "L'anhydrase carbonique",
+    "options": [
+      "Est une enzyme qui intervient dans la régulation de l'équilibre acido-basique",
+      "Intervient dans la formation des acides carboniques à partir du CO₂ et de H₂O",
+      "Est sécrétée au niveau des cellules du néphron rénal et des hématies",
+      "Est une enzyme intracellulaire",
+      "Toutes les propositions sont justes"
+    ],
+    "correct": [4],
+    "explanation": "Toutes ces affirmations sont vraies concernant l'anhydrase carbonique."
+  },
+  {
+    "question": "Le pH de l'organisme",
+    "options": [
+      "Est très variable d'un sujet à l'autre au cours de la journée",
+      "Est quasiment constant grâce aux systèmes tampons ouverts et fermés",
+      "Varie au niveau artériel entre 7,38 et 7,42",
+      "Est régulé par le poumon et le rein",
+      "Le tampon acide carbonique/bicarbonate est un tampon fermé du pH sanguin"
+    ],
+    "correct": [1, 2, 3],
+    "explanation": "Le pH sanguin reste stable (2), normal 7,38–7,42 (3), et régulé par poumons et reins ; le système CO₂/HCO₃⁻ est un tampon ouvert."
+  },
+  {
+    "question": "Chez l'homme normal, le sang",
+    "options": [
+      "Est une solution tampon qui résiste aux variations de pH",
+      "Le liquide interstitiel est l'ultra-filtrat du sang pauvre en protéines",
+      "Les valeurs: pH = 7,42 et pCO₂ = 38 mm Hg sont normales",
+      "Les protéines sont des ampholytes",
+      "Toutes les propositions sont justes"
+    ],
+    "correct": [4],
+    "explanation": "Toutes ces affirmations sont correctes."
+  },
+  {
+    "question": "Dans le diagramme de Davenport appliqué au plasma sanguin",
+    "options": [
+      "La ligne tampon normale passe par le point pH = 7,40 et HCO₃⁻ = 24 mmol/l",
+      "Les lignes isobares indiquent la pression partielle du sang en CO₂",
+      "Dans une alcalose les bicarbonates sont toujours supérieurs à 24 mmol/L",
+      "Dans l'alcalose métabolique, le pH du sang est inférieur à 7,40",
+      "Toutes les propositions sont fausses"
+    ],
+    "correct": [0, 1],
+    "explanation": "La ligne tampon normale est pH 7,40 & [HCO₃⁻] 24 mmol/L ; les isobares sont pCO₂."
+  },
+  {
+    "question": "Dans l'étude de l'équilibre acido-basique",
+    "options": [
+      "L'état normal comporte une PCO₂ = 40±3 mm Hg",
+      "La régulation du pH sanguin est assurée par le poumon et le pancréas",
+      "Le pH artériel normal est de 7,40±0,02",
+      "Les acides non volatils sont dits fixes",
+      "L'augmentation de la PCO₂ correspond à une hypercapnie"
+    ],
+    "correct": [0, 2, 3, 4],
+    "explanation": "PCO₂ normale ~40±3 mm Hg ; pH 7,40±0,02 ; acides non volatils = fixes ; hypercapnie = PCO₂↑."
+  },
+  {
+    "question": "Dans le tissu cardiaque",
+    "options": [
+      "Il existe des cellules spécialisées d'élaboration et de conduction d'influx électrique",
+      "La fonction essentielle du tissu myocardique est la contraction cardiaque",
+      "La fonction du tissu nodal est la contraction cardiaque",
+      "L'influx prend naissance normalement au niveau du nœud sinusal",
+      "Le tissu nodal se trouve uniquement au niveau du nœuds sinusal"
+    ],
+    "correct": [0, 1, 3],
+    "explanation": "Le tissu nodal génère et conduit l’influx, le myocardique contracte ; le nœud sinusal initie l’influx."
+  },
+  {
+    "question": "Dans l'étude de l'ECG normal (1)",
+    "options": [
+      "L'axe du cœur est droit",
+      "Le rythme est sinusal",
+      "Si le rythme est régulier, le tracé permet la détermination de la fréquence cardiaque",
+      "L'onde T précède chaque complexe QRS",
+      "L'intervalle PR est normalement supérieur à 0,20 secondes"
+    ],
+    "correct": [1, 2],
+    "explanation": "Rythme sinusal et fréquence mesurable si régulier."
+  },
+  {
+    "question": "Dans l'étude de l'ECG normal (2)",
+    "options": [
+      "Les dérivations précordiales sont généralement au nombre de 12",
+      "Le bloc auriculo-ventriculaire se traduit par un intervalle PR allongé",
+      "Le complexe QRS correspond à la dépolarisation ventriculaire",
+      "D3+D1-D2",
+      "VR, VL, VF sont des dérivations précordiales"
+    ],
+    "correct": [1, 2],
+    "explanation": "Bloc AV prolonge PR ; QRS = dépolarisation ventriculaire."
+  }
+]
