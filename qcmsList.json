@@ -10,11 +10,6 @@
     "title": "Embryologie"
   },
   {
-    "value": "examen physiologie s2 2023",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/examen_physiologie_s2_2023.json",
-    "title": "Examen Physiologie S2 2023"
-  },
-  {
     "value": "pcem1 examen biophysique s2 2023",
     "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_biophysique_s2_2023.json",
     "title": "PCEM1 Examen Biophysique S2 2023"
@@ -53,6 +48,11 @@
     "value": "pcem1 examen physiologie s2 2023",
     "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_physiologie_s2_2023.json",
     "title": "PCEM1 Examen Physiologie S2 2023"
+  },
+  {
+    "value": "pcem1 isolé placenta",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_isolé_placenta.json",
+    "title": "pCEM1 Isolé Placenta"
   },
   {
     "value": "respiration",
