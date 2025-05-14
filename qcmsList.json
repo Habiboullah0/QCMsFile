@@ -52,17 +52,17 @@
   {
     "value": "pcem1 isolé cardiocirculatoire",
     "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_isolé_cardiocirculatoire.json",
-    "title": "pCEM1 Isolé Cardiocirculatoire"
+    "title": "PCEM1 Isolé Cardiocirculatoire"
   },
   {
     "value": "pcem1 isolé placenta",
     "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_isolé_placenta.json",
-    "title": "pCEM1 Isolé Placenta"
+    "title": "PCEM1 Isolé Placenta"
   },
   {
     "value": "pcem1 isolé respiration",
     "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_isolé_respiration.json",
-    "title": "pCEM1 Isolé respiration"
+    "title": "PCEM1 Isolé respiration"
   },
   {
     "value": "respiration",
