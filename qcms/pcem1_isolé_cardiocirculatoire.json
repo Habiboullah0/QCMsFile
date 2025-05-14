@@ -875,5 +875,89 @@
         ],
         "correct": [0, 3],
         "explanation": "La circulation veineuse est caractérisée par de faibles résistances à l'écoulement et une basse pression. Le retour veineux est facilité par les contractions musculaires (pompe musculaire). Le système veineux est également sous contrôle nerveux (sympathique, qui provoque une veinoconstriction) et hormonal, pas uniquement par des facteurs locaux. Les veines contiennent la majorité du volume sanguin (environ 60-70%), donc 50% est une approximation acceptable dans certaines contextes, mais c'est surtout un système à haute capacitance."
+    },
+    {
+        "question": "La circulation coronaire est :",
+        "options": [
+            "caractérisée par un débit élevé",
+            "caractérisée par un gradient de pression faible",
+            "caractérisée par un temps diastolique",
+            "sensible à la teneur en O₂ du sang",
+            "une circulation fonctionnelle"
+        ],
+        "correct": [0, 2, 3, 4],
+        "explanation": "Le myocarde a un métabolisme très élevé, nécessitant un débit sanguin important par rapport à sa masse (option 0). Le flux principal se produit pendant la diastole (option 2) car la systole comprime les vaisseaux, surtout pour le ventricule gauche. Elle est très sensible à l'hypoxie (option 3) qui induit une vasodilatation pour augmenter l'apport en O₂. C'est une circulation fonctionnelle (option 4) car elle nourrit le muscle cardiaque lui-même pour qu'il puisse assurer sa fonction de pompe."
+    },
+    {
+        "question": "La circulation coronaire est caractérisée par :",
+        "options": [
+            "un débit sanguin local diminué",
+            "un gradient de pression élevé",
+            "un temps diastolique",
+            "une régulation par le système parasympathique",
+            "une sensibilité des vaisseaux coronaires à l'hypoxémie"
+        ],
+        "correct": [1, 2, 4],
+        "explanation": "Le gradient de pression (pression aortique moyenne - pression auriculaire droite) est élevé (option 1), assurant la perfusion. Le flux principal est diastolique (option 2) à cause de la compression systolique des vaisseaux. Les vaisseaux coronaires sont très sensibles à l'hypoxémie (option 4), qui provoque une vasodilatation pour augmenter l'apport en oxygène. La régulation parasympathique directe est moins prédominante que la régulation métabolique ou sympathique (ß2-adrénergique vasodilatateur)."
+    },
+    {
+        "question": "La circulation cérébrale est caractérisée par :",
+        "options": [
+            "un débit sanguin local élevé",
+            "un gradient de pression faible",
+            "une autorégulation par la teneur en CO₂ et en H⁺ dans le sang",
+            "une rapidité de l'écoulement facilitée par la béance des veines cérébrales",
+            "une variabilité qui dépend de la pression artérielle systémique"
+        ],
+        "correct": [0, 2],
+        "explanation": "Le cerveau a un métabolisme élevé et constant, donc un débit sanguin important (option 0) (environ 15% du débit cardiaque au repos). La circulation cérébrale est fortement autorégulée, notamment par la PaCO₂ et le pH (H⁺) ; l'hypercapnie et l'acidose provoquent une vasodilatation (option 2). Elle est relativement indépendante de la pression artérielle systémique dans une large plage grâce à l'autorégulation. La béance des veines (sinus duraux) aide au retour veineux mais n'est pas le facteur principal de la rapidité d'écoulement artériel."
+    },
+    {
+        "question": "Lors de l'exercice musculaire le débit sanguin :",
+        "options": [
+            "cérébral diminue",
+            "coronaire augmente",
+            "digestif diminue",
+            "pulmonaire diminue",
+            "rénal diminue"
+        ],
+        "correct": [1, 2, 4],
+        "explanation": "Pendant l'exercice, le débit sanguin est redistribué. Il augmente considérablement dans les muscles actifs et le cœur (débit coronaire, option 1) pour répondre à l'augmentation de la demande en O₂. Il diminue dans les territoires splanchniques (digestif, option 2) et rénaux (option 4) par vasoconstriction sympathique, afin de dériver le sang vers les zones actives. Le débit pulmonaire augmente car il est égal au débit cardiaque systémique qui augmente."
+    },
+    {
+        "question": "L'exercice physique régulier est à l'origine :",
+        "options": [
+            "d'une accélération de la fréquence cardiaque de base",
+            "d'une amélioration des performances myocardiques systoliques",
+            "d'une augmentation de l'irrigation myocardique",
+            "d'une diminution des performances myocardiques diastoliques",
+            "d'une hypertrophie harmonieuse des cavités du cœur"
+        ],
+        "correct": [1, 2, 4],
+        "explanation": "L'entraînement régulier améliore la fonction systolique (option 1) (meilleure contractilité, volume d'éjection systolique augmenté). Il augmente la capacité d'irrigation du myocarde (option 2) par néoangiogenèse et amélioration de la fonction endothéliale (vasodilatation). Il peut induire une hypertrophie ventriculaire physiologique et harmonieuse (option 4), dite 'cœur d'athlète', avec augmentation des diamètres cavitaires et/ou de l'épaisseur pariétale. La fréquence cardiaque de base diminue (bradycardie de repos). Les performances diastoliques s'améliorent ou restent bonnes."
+    },
+    {
+        "question": "Au cours de l'exercice musculaire on observe une augmentation de :",
+        "options": [
+            "l'inotropisme",
+            "la différence artério-veineuse en O₂ au niveau périphérique",
+            "la fréquence cardiaque",
+            "la postcharge",
+            "volume télésystolique"
+        ],
+        "correct": [0, 1, 2],
+        "explanation": "L'exercice augmente l'activité sympathique, ce qui accroît l'inotropisme (option 0) (force de contraction du myocarde) et la fréquence cardiaque (option 2). Les muscles actifs extraient plus d'O₂ du sang, augmentant la différence artério-veineuse en O₂ (option 1). Le volume télésystolique diminue car l'éjection est plus efficace. La postcharge peut augmenter (si la pression artérielle augmente significativement) ou diminuer/rester stable (si la vasodilatation périphérique est importante)."
+    },
+    {
+        "question": "Les adaptations cardio-vasculaires à l'exercice musculaire se font par une :",
+        "options": [
+            "Augmentation de la post-charge",
+            "augmentation des catécholamines circulantes",
+            "augmentation du débit sanguin coronaire",
+            "augmentation du volume télésystolique",
+            "diminution du tonus freinateur parasympathique sur le cœur"
+        ],
+        "correct": [1, 2, 4],
+        "explanation": "L'exercice stimule le système sympathique, augmentant les catécholamines circulantes (adrénaline, noradrénaline) (option 1) qui stimulent le cœur et modifient la vasomotricité. Le débit sanguin coronaire augmente (option 2) pour répondre à l'augmentation du travail cardiaque. Le tonus parasympathique (vagal) freinateur sur le cœur diminue (option 4), contribuant à l'augmentation de la fréquence cardiaque (surtout au début de l'exercice). Le volume télésystolique diminue. L'augmentation de la post-charge n'est pas une adaptation primaire bénéfique, bien que la pression artérielle puisse augmenter."
     }
 ]
