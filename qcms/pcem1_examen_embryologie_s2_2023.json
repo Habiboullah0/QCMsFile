@@ -8,8 +8,8 @@
       "Troisième semaine",
       "Délimitation"
     ],
-    "correct": [3],
-    "explanation": "Le schéma illustre une coupe transversale d'un embryon au stade de la neurulation. On y observe la formation de la gouttière neurale ou du tube neural dorsalement, et la présence de somites (dérivés du mésoderme paraxial) de part et d'autre de l'axe. Ces événements morphogénétiques clés débutent et sont caractéristiques de la troisième semaine du développement embryonnaire."
+    "correct": [0,3],
+    "explanation": "La gastrulation est le processus majeur de la troisième semaine du développement embryonnaire. C'est durant cette période que se forment les trois feuillets embryonnaires fondamentaux (ectoderme, mésoderme, endoderme) à partir du disque embryonnaire didermique. La délimitation, quant à elle, a lieu principalement pendant la quatrième semaine. Source: Langman's Medical Embryology, Sadler T.W."
   },
   {
     "question": "Parmi les propositions suivantes concernant l'embryon à ce stade, indiquer celle(s) qui est(sont) exacte(s) :",
@@ -20,8 +20,8 @@
       "A déjà subi la plicature longitudinale",
       "Les deux neuropores antérieurs et postérieurs sont déjà fermés"
     ],
-    "correct": [1, 2],
-    "explanation": "Au cours de la troisième semaine (stade de neurulation), l'embryon est tridermique (et non didermique). Il est associé à plusieurs cavités : la cavité amniotique dorsalement, le sac vitellin ventralement, et l'ensemble est dans la cavité chorionique (ou coelome extra-embryonnaire) (B). Le pédicule embryonnaire, qui deviendra le cordon ombilical, est en formation et identifiable à ce stade (C). La plicature (délimitation) de l'embryon est un événement majeur de la quatrième semaine. Les neuropores antérieur et postérieur se ferment également au cours de la quatrième semaine."
+    "correct": [1,2],
+    "explanation": "Au cours de la troisième semaine (stade de la gastrulation), l'embryon est en transition de didermique à tridermique. Il comporte trois cavités principales : la cavité amniotique, la vésicule vitelline (lécithocèle secondaire) et le cœlome extra-embryonnaire (ou cavité choriale). Le pédicule embryonnaire (futur cordon ombilical) est également identifiable et relie l'embryon au trophoblaste. La plicature et la fermeture complète des neuropores sont des événements de la quatrième semaine. Source: Moore K.L., Persaud T.V.N., Torchia M.G. The Developing Human: Clinically Oriented Embryology."
   },
   {
     "question": "Les jumeaux siamois :",
@@ -32,8 +32,8 @@
       "Est une anomalie du cil vibratile de la ligne primitive",
       "Est une anomalie de la quatrième semaine du développement"
     ],
-    "correct": [0, 1],
-    "explanation": "Les jumeaux siamois (ou conjoints) sont toujours monozygotes, c'est-à-dire qu'ils proviennent d'un seul zygote (A). Leur formation est due à une division tardive et incomplète du disque embryonnaire, survenant généralement entre le 13ème et le 15ème jour après la fécondation (pendant la troisième semaine), souvent par un dédoublement incomplet de la ligne primitive (B). Un défaut d'éclosion concerne l'implantation. Les cils de la ligne primitive sont impliqués dans la latéralisation. L'anomalie survient avant la quatrième semaine."
+    "correct": [0,1],
+    "explanation": "Les jumeaux siamois (ou conjoints) sont toujours des jumeaux monozygotes, c'est-à-dire issus d'un seul zygote. Ils résultent d'une division tardive et incomplète du disque embryonnaire, généralement entre le 13ème et le 15ème jour après la fécondation. Un dédoublement incomplet de la ligne primitive pendant la gastrulation (troisième semaine) est l'une des hypothèses expliquant leur formation. Un défaut d'éclosion concerne l'implantation. Les anomalies du cil vibratile de la ligne primitive sont associées à des défauts de latéralisation (situs inversus). Source: Spencer R. Conjoined twins: developmental malformations and clinical implications. Johns Hopkins University Press."
   },
   {
     "question": "Le schéma suivant représente des villosités choriales :",
@@ -44,8 +44,8 @@
       "Où l'axe est occupé par des vaisseaux maternels",
       "D'origine maternelle"
     ],
-    "correct": [1],
-    "explanation": "Le schéma montre une villosité choriale ramifiée dont l'axe mésenchymateux contient des capillaires sanguins fœtaux. La présence de ces vaisseaux fœtaux dans le cœur mésenchymateux de la villosité, sous le revêtement trophoblastique (syncytiotrophoblaste et cytotrophoblaste), caractérise le stade de la villosité tertiaire (B). Les villosités crampons sont un type fonctionnel de villosités tertiaires qui s'ancrent à la caduque basale. L'axe est occupé par des vaisseaux fœtaux, non maternels, et les villosités sont d'origine fœtale."
+    "correct": [1,2],
+    "explanation": "Les villosités choriales tertiaires (ou de troisième ordre) sont caractérisées par la présence d'un axe mésenchymateux vascularisé par des capillaires fœtaux. Elles apparaissent vers la fin de la troisième semaine. Les villosités crampons sont un type fonctionnel de villosités tertiaires qui ancrent le placenta à la decidua basalis. L'axe des villosités contient des vaisseaux fœtaux, et les villosités elles-mêmes sont d'origine fœtale (dérivées du trophoblaste). Source: Larsen's Human Embryology, Schoenwolf G.C. et al."
   },
   {
     "question": "La structure de la barrière placentaire après le quatrième mois est composée par :",
@@ -56,8 +56,8 @@
       "Mésenchyme",
       "Artères endométriales"
     ],
-    "correct": [1, 3],
-    "explanation": "Après le quatrième mois, la barrière placentaire s'amincit pour optimiser les échanges fœto-maternels. Dans les villosités terminales, elle est principalement constituée (du sang maternel vers le sang fœtal) par : 1. Le syncytiotrophoblaste (B), 2. Une couche de cytotrophoblaste devenue très mince et discontinue (souvent omise dans les descriptions simplifiées des zones les plus fines), 3. La lame basale du trophoblaste, 4. Le mésenchyme villositaire (tissu conjonctif de la villosité) (D), 5. La lame basale de l'endothélium capillaire fœtal, et 6. L'endothélium du capillaire fœtal. Les cellules endothéliales des vaisseaux maternels et les artères endométriales sont du côté maternel et ne font pas partie de la barrière elle-même qui sépare les deux circulations."
+    "correct": [1,3],
+    "explanation": "Après le quatrième mois, la barrière placentaire s'amincit pour faciliter les échanges. Elle est constituée, du côté maternel vers le côté fœtal, par : le syncytiotrophoblaste, une couche de cytotrophoblaste (qui devient discontinue et moins proéminente), la lame basale du trophoblaste, le mésenchyme (tissu conjonctif de la villosité), la lame basale de l'endothélium capillaire fœtal, et l'endothélium des capillaires fœtaux. Les options retenues [1] et [3] représentent deux de ces couches fœtales essentielles. Source: Cunningham F.G., Leveno K.J., et al. Williams Obstetrics."
   },
   {
     "question": "Le Cytotrophoblaste :",
@@ -68,8 +68,8 @@
       "Envahit la paroi des artères utéro-placentaires",
       "Est formé par un Syncytium de cellules d'origine embryonnaire"
     ],
-    "correct": [2, 3],
-    "explanation": "Le cytotrophoblaste est une couche de cellules mononucléées individualisées (pas un syncytium). Certaines de ces cellules, notamment le cytotrophoblaste extravilleux, ont des propriétés invasives : elles sécrètent des enzymes lytiques qui facilitent l'implantation et l'invasion (C), et elles envahissent l'endomètre maternel, y compris la paroi des artères spiralées (artères utéro-placentaires) pour les remodeler (D). Dans la barrière placentaire des villosités, la couche de cytotrophoblaste s'amincit et devient discontinue après le 4ème mois, ce n'est donc pas une structure 'fixe' ou persistante dans son intégralité."
+    "correct": [0,3],
+    "explanation": "Au début de l'implantation, le cytotrophoblaste est la couche cellulaire interne du trophoblaste qui entoure le blastocyste. Il donne naissance au syncytiotrophoblaste. Les cellules du cytotrophoblaste extravilleux (interstitiel et endovasculaire) envahissent la decidua maternelle et modifient la paroi des artères spiralées utérines, les transformant en larges canaux à faible résistance pour assurer un flux sanguin adéquat vers le placenta. Le syncytiotrophoblaste est responsable de la sécrétion d'enzymes lytiques pour l'invasion et est un syncytium. Le cytotrophoblaste s'amenuise dans la barrière placentaire mature. Source: Benirschke K., Kaufmann P. Pathology of the Human Placenta."
   },
   {
     "question": "Les conséquences de la plicature de l'embryon au cours de la quatrième semaine sont :",
@@ -80,8 +80,8 @@
       "La mise en place de l'intestin primitif",
       "La fermeture du tube neural"
     ],
-    "correct": [1, 2, 3],
-    "explanation": "La plicature (ou délimitation) de l'embryon durant la quatrième semaine est un processus de repliement qui transforme l'embryon d'un disque plat en une structure cylindrique (C). Cela entraîne l'incorporation d'une partie du sac vitellin pour former l'intestin primitif (D). La cavité amniotique s'agrandit considérablement et en vient à entourer complètement l'embryon (B). La fermeture du tube neural (E) est un processus majeur qui se déroule également durant la quatrième semaine, mais il est distinct de la plicature elle-même, bien que les deux contribuent à la morphogenèse globale de l'embryon. La mise en place du troisième feuillet embryonnaire (mésoderme) (A) se produit lors de la gastrulation, au cours de la troisième semaine."
+    "correct": [2,3],
+    "explanation": "La plicature (ou délimitation) de l'embryon, qui a lieu pendant la quatrième semaine, transforme l'embryon discoïde en une structure cylindrique. Cette plicature, à la fois céphalo-caudale et transversale, conduit à l'incorporation d'une partie de la vésicule vitelline pour former l'intestin primitif. L'accroissement de la cavité amniotique est concomitant mais pas une conséquence directe de la plicature elle-même. La mise en place du troisième feuillet (mésoderme) est la gastrulation (3ème semaine). La fermeture du tube neural se produit également pendant la 4ème semaine, mais est un processus distinct de la neurulation, bien que contemporain. Source: Langman's Medical Embryology, Sadler T.W."
   },
   {
     "question": "La syrénomélie :",
@@ -92,8 +92,8 @@
       "Est une anomalie de la troisième semaine du développement",
       "Est une anomalie du développement de la chorde"
     ],
-    "correct": [1, 3],
-    "explanation": "La syrénomélie (ou syndrome de la sirène) est une malformation rare caractérisée par la fusion des membres inférieurs. Elle est considérée comme résultant d'un défaut de développement du mésoderme dans la région caudale de l'embryon (B), survenant pendant la gastrulation, c'est-à-dire au cours de la troisième semaine du développement (D). Ce déficit en mésoderme caudal affecte la formation des structures dérivées, y compris les membres inférieurs et le système urogénital."
+    "correct": [1,3],
+    "explanation": "La syrénomélie (ou syndrome de la sirène) est une malformation congénitale rare caractérisée par la fusion des membres inférieurs. Elle est considérée comme une forme sévère du syndrome de régression caudale, résultant d'un défaut de formation du mésoderme dans la région caudale de l'embryon. Cet événement initial se produit au cours de la gastrulation, durant la troisième semaine du développement, lorsque les cellules épiblastiques migrent pour former le mésoderme. Un apport sanguin insuffisant à l'extrémité caudale est souvent impliqué. Source: Twickler D.M., Budorick N.E. Sirenomelia (mermaid syndrome) and caudal regression: a common pathogenic pathway? Ultrasound Obstet Gynecol."
   },
   {
     "question": "Parmi les propositions suivantes concernant les anomalies de la fermeture du tube neural, indiquer celle(s) qui est(sont) exacte(s) :",
@@ -104,8 +104,8 @@
       "Craniorachischisis",
       "Hermaphrodisme"
     ],
-    "correct": [1, 3],
-    "explanation": "Les anomalies de la fermeture du tube neural (NTDs) comprennent l'anencéphalie (absence d'une grande partie de l'encéphale et de la voûte crânienne due à un défaut de fermeture du neuropore antérieur) (B) et le craniorachischisis (forme la plus sévère où le tube neural ne se ferme pas sur toute sa longueur crânio-caudale) (D). Le diverticule de Meckel est une anomalie du tractus digestif (persistance du canal vitellin). La syrénomélie est un défaut du développement caudal. L'hermaphrodisme (terme obsolète, remplacé par 'troubles du développement sexuel') concerne le développement des organes génitaux."
+    "correct": [1,3],
+    "explanation": "Les anomalies de fermeture du tube neural (AFTN) résultent d'un défaut de fermeture du tube neural pendant la quatrième semaine du développement. L'anencéphalie est l'absence d'une grande partie du cerveau et du crâne due à un défaut de fermeture du neuropore antérieur. Le craniorachischisis est la forme la plus sévère, avec une absence de fermeture sur toute la longueur du tube neural. Le diverticule de Meckel est une anomalie du tractus digestif. La syrénomélie est une anomalie du développement caudal. L'hermaphrodisme concerne le développement des organes sexuels. Source: CDC - Neural Tube Defects; Moore K.L., Persaud T.V.N., Torchia M.G. The Developing Human."
   },
   {
     "question": "Parmi les éléments suivants indiquer celui (ceux) qui dérive(nt) du mésoblaste axial :",
@@ -116,8 +116,8 @@
       "Les reins",
       "La plèvre"
     ],
-    "correct": [1, 2],
-    "explanation": "Le mésoblaste axial, également appelé chordo-mésoblaste, donne naissance à la chorde (notochorde) (B). Les nucleus pulposus, qui constituent la partie centrale des disques intervertébraux, sont des vestiges de la chorde (C). L'intestin primitif dérive de l'endoderme. Les reins se développent à partir du mésoblaste intermédiaire. La plèvre (membrane séreuse tapissant les poumons et la cavité thoracique) dérive du mésoblaste latéral (somatopleure et splanchnopleure)."
+    "correct": [1,2],
+    "explanation": "Le mésoblaste axial donne naissance à la notochorde (ou chorde). La chorde joue un rôle crucial dans l'induction du système nerveux central et la formation des corps vertébraux. Chez l'adulte, la chorde persiste sous forme de nucleus pulposus (noyau pulpeux) au centre des disques intervertébraux. L'intestin primitif dérive de l'endoderme. Les reins dérivent du mésoderme intermédiaire. La plèvre dérive du mésoderme latéral (somatopleure et splanchnopleure). Source: Langman's Medical Embryology, Sadler T.W."
   },
   {
     "question": "Parmi les propositions suivantes laquelle correspond à une étape de la spermiogenèse :",
@@ -128,7 +128,7 @@
       "Un allongement du centriole proximal"
     ],
     "correct": [0],
-    "explanation": "La spermiogenèse est la phase de différenciation morphologique qui transforme une spermatide (haploïde) en un spermatozoïde. Ce processus inclut plusieurs étapes majeures : la formation de l'acrosome, la compaction extrême de la chromatine nucléaire (A), le développement du flagelle, et l'élimination de la majeure partie du cytoplasme (corps résiduel). La division réductionnelle (méiose) a lieu avant, lors de la spermatocytogenèse. Les mitochondries ne sont pas éliminées mais se regroupent pour former la pièce intermédiaire du flagelle. Le centriole distal est à l'origine de l'axonème du flagelle."
+    "explanation": "La spermiogenèse est la phase de différenciation au cours de laquelle les spermatides se transforment en spermatozoïdes. Elle comprend : 1) la formation de l'acrosome, 2) la compaction (condensation) du noyau, 3) la formation du flagelle (dont l'axonème dérive du centriole distal), et 4) la réorganisation du cytoplasme avec élimination d'une partie (corps résiduel) et la formation de la gaine mitochondriale dans la pièce intermédiaire. La division réductionnelle (méiose) précède la spermiogenèse. Source: Junqueira's Basic Histology: Text and Atlas, Mescher A.L."
   },
   {
     "question": "L'azoospermie est définie par :",
@@ -139,7 +139,7 @@
       "Faible vitalité des spermatozoïdes"
     ],
     "correct": [0],
-    "explanation": "L'azoospermie est définie par l'absence totale de spermatozoïdes dans le sperme éjaculé, confirmée par l'examen microscopique du culot de centrifugation de l'éjaculat (A). Une faible mobilité des spermatozoïdes est appelée asthénozoospermie. Une morphologie altérée est une tératozoospermie. Une faible vitalité est une nécrozoospermie."
+    "explanation": "L'azoospermie est définie par l'absence totale de spermatozoïdes dans le sperme éjaculé, confirmée après centrifugation de l'échantillon. La faible mobilité est l'asthénozoospermie, la morphologie altérée est la tératozoospermie, et la faible vitalité est la nécrozoospermie. Source: World Health Organization (WHO) laboratory manual for the examination and processing of human semen."
   },
   {
     "question": "L'implantation :",
@@ -150,7 +150,7 @@
       "Commence par l'étape d'invasion"
     ],
     "correct": [2],
-    "explanation": "L'implantation du blastocyste dans la muqueuse utérine (endomètre) a lieu à la fin de la première semaine et se poursuit durant la deuxième semaine du développement. Elle ne peut se produire que sur un endomètre réceptif, c'est-à-dire un endomètre en phase sécrétoire (ou lutéale), sous l'influence combinée des œstrogènes (qui ont induit la prolifération et la synthèse des récepteurs à la progestérone) et de la progestérone (C). L'invasion de l'endomètre est principalement assurée par le syncytiotrophoblaste et ses enzymes lytiques. L'implantation débute par l'apposition, suivie de l'adhésion, puis de l'invasion."
+    "explanation": "L'implantation du blastocyste dans l'endomètre utérin a lieu entre le 6ème et le 10ème jour post-fécondation, c'est-à-dire à la fin de la première semaine et au début de la deuxième semaine du développement. Elle nécessite un endomètre réceptif, en phase sécrétoire (ou lutéale), sous l'influence combinée des œstrogènes et de la progestérone. L'invasion est principalement médiée par le syncytiotrophoblaste et ses enzymes lytiques. L'implantation commence par l'apposition, suivie de l'adhésion, puis de l'invasion. Source: Wilcox A.J., Baird D.D., Weinberg C.R. Time of implantation of the conceptus and loss of pregnancy. N Engl J Med."
   },
   {
     "question": "Parmi les structures placentaires suivantes, laquelle est d'origine maternelle :",
@@ -161,7 +161,7 @@
       "La plaque basale"
     ],
     "correct": [3],
-    "explanation": "Le placenta est un organe mixte, fœto-maternel. La plaque basale (ou caduque basale) est la composante maternelle du placenta, dérivée de l'endomètre utérin transformé (caduque) (D). Les villosités choriales et la plaque choriale sont d'origine fœtale (issues du trophoblaste et du mésenchyme extra-embryonnaire). L'espace intervilleux (et non plaque intervilleuse) est l'espace entre les villosités, rempli de sang maternel, mais la structure qui le délimite côté maternel est la plaque basale."
+    "explanation": "Le placenta est un organe mixte, fœto-maternel. Les villosités choriales et la plaque choriale (face fœtale du placenta) sont d'origine fœtale (trophoblastique). L'espace intervilleux contient le sang maternel. La plaque basale (ou caduque basale) est la partie maternelle du placenta, dérivée de l'endomètre modifié (la decidua basalis). Source: Benirschke K., Kaufmann P. Pathology of the Human Placenta."
   },
   {
     "question": "L'éclosion du blastocyste :",
@@ -172,7 +172,7 @@
       "Est favorisée par la contraction de la musculeuse tubaire"
     ],
     "correct": [1],
-    "explanation": "L'éclosion (ou hatching) du blastocyste est la sortie de l'embryon de la zone pellucide. Cet événement est indispensable et précède obligatoirement l'implantation dans l'endomètre utérin (B). L'éclosion se produit physiologiquement dans la cavité utérine, généralement vers le 5ème-6ème jour post-fécondation. Elle peut se produire in vitro et est parfois assistée (assisted hatching) en FIV. Les contractions tubaires aident au transport de l'embryon, mais pas directement à l'éclosion."
+    "explanation": "L'éclosion (ou hatching) du blastocyste est la sortie du blastocyste de la zone pellucide. Cet événement se produit physiologiquement dans la cavité utérine, généralement vers le 5ème ou 6ème jour post-fécondation. L'éclosion est une condition préalable indispensable à l'implantation, car elle permet au trophoblaste d'entrer en contact direct avec l'endomètre. Elle peut se reproduire in vitro lors des techniques de FIV. Les contractions tubaires aident à la migration, pas directement à l'éclosion. Source: éditions Elsevier Masson. Embryologie humaine. De la molécule à la clinique."
   },
   {
     "question": "Au cours de la phase proliférative :",
@@ -183,7 +183,7 @@
       "L'endomètre est sensible à la progestérone"
     ],
     "correct": [0],
-    "explanation": "La phase proliférative (ou folliculaire, ou œstrogénique) du cycle utérin est caractérisée par la croissance de l'endomètre sous l'influence des œstrogènes. L'endomètre augmente d'épaisseur en raison de la prolifération des cellules épithéliales glandulaires, des cellules stromales et des vaisseaux sanguins (A). Les glandes utérines s'allongent mais deviennent sinueuses et sécrétoires (riches en glycogène) pendant la phase sécrétoire (progestative). Le chorion est une membrane fœtale. L'endomètre développe sa sensibilité à la progestérone (expression des récepteurs) sous l'effet des œstrogènes, mais son action principale se manifeste en phase sécrétoire."
+    "explanation": "La phase proliférative (ou folliculaire ou œstrogénique) du cycle endométrial est sous l'influence des œstrogènes. Durant cette phase, l'endomètre s'épaissit considérablement grâce à la prolifération des cellules des glandes et du stroma (chorion). Les glandes sont droites ou légèrement ondulées. La progestérone agit principalement pendant la phase sécrétoire, où les glandes deviennent sinueuses, sécrétoires et le chorion œdémateux. Source: Speroff L., Fritz M.A. Clinical Gynecologic Endocrinology and Infertility."
   },
   {
     "question": "La structure embryonnaire à caractère invasif est :",
@@ -194,7 +194,7 @@
       "Les villosités crampon"
     ],
     "correct": [1],
-    "explanation": "Le syncytiotrophoblaste est la principale structure embryonnaire dotée d'un fort pouvoir invasif (B). Il se forme par fusion de cellules du cytotrophoblaste et produit des enzymes protéolytiques qui lui permettent de pénétrer et d'éroder l'endomètre maternel lors de l'implantation. Le cytotrophoblaste extravilleux possède également des capacités invasives importantes, notamment pour le remodelage des artères spiralées, mais le syncytiotrophoblaste initie et mène l'invasion primaire de l'endomètre."
+    "explanation": "Le syncytiotrophoblaste est la couche externe du trophoblaste, formée par la fusion de cellules du cytotrophoblaste. C'est un syncytium multinucléé qui possède une forte capacité invasive grâce à la production d'enzymes protéolytiques (comme les métalloprotéinases) qui digèrent la matrice extracellulaire de l'endomètre, permettant ainsi l'enfouissement du blastocyste. Le cytotrophoblaste extravilleux a aussi des propriétés invasives, mais le syncytiotrophoblaste est le pionnier de l'invasion. Source: Langman's Medical Embryology, Sadler T.W."
   },
   {
     "question": "Les glandes de l'endocol :",
@@ -205,7 +205,7 @@
       "Sont sous le contrôle direct des gonadotrophines"
     ],
     "correct": [1],
-    "explanation": "Les glandes de l'endocol (canal cervical) sont des glandes muqueuses dont la sécrétion (glaire cervicale) est fortement influencée par les hormones ovariennes, œstrogènes et progestérone (B). En phase pré-ovulatoire (dominance œstrogénique), le mucus est abondant, filant, clair et alcalin, favorisant la survie et la migration des spermatozoïdes. En phase post-ovulatoire (dominance progestéronique), le mucus devient épais, rare et imperméable aux spermatozoïdes. Elles sont sous contrôle indirect des gonadotrophines, via les hormones ovariennes qu'elles stimulent."
+    "explanation": "Les glandes de l'endocol (canal cervical) sont des glandes muqueuses (et non séreuses). Leur sécrétion, la glaire cervicale, est sensible aux hormones ovariennes (œstrogènes et progestérone). En phase pré-ovulatoire (sous l'influence des œstrogènes), la glaire devient abondante, fluide, filante et alcaline, favorisant la pénétration des spermatozoïdes. En phase post-ovulatoire (sous l'influence de la progestérone), elle devient épaisse, rare et imperméable aux spermatozoïdes. Les gonadotrophines (FSH, LH) agissent sur l'ovaire, qui produit ensuite les hormones stéroïdes. Source: Histologie médicale, Stevens A., Lowe J.S."
   },
   {
     "question": "La fécondation in vitro par ICSI :",
@@ -215,8 +215,8 @@
       "Peut se faire avec des spermatocytes",
       "Peut se faire avec des ovocytes immatures"
     ],
-    "correct": [0, 1],
-    "explanation": "L'ICSI (IntraCytoplasmic Sperm Injection ou micro-injection intracytoplasmique de spermatozoïde) est une technique de procréation médicalement assistée indiquée notamment en cas d'infertilité masculine sévère, comme l'asthénospermie (faible mobilité des spermatozoïdes) (A), l'oligozoospermie ou la tératozoospermie. Comme le spermatozoïde est injecté directement dans le cytoplasme de l'ovocyte, les étapes naturelles de la capacitation et de la réaction acrosomique ne sont pas nécessaires pour traverser les enveloppes de l'ovocyte (B). L'ICSI requiert des spermatozoïdes matures et des ovocytes matures (au stade de métaphase II)."
+    "correct": [0],
+    "explanation": "L'ICSI (Intra-Cytoplasmic Sperm Injection) consiste à injecter un seul spermatozoïde directement dans le cytoplasme d'un ovocyte mature. Elle est indiquée notamment en cas d'infertilité masculine sévère comme l'oligoasthénotératozoospermie (OATS) sévère, incluant l'asthénospermie (faible mobilité). Bien que le spermatozoïde bypass les étapes naturelles de la fécondation, une certaine préparation du sperme est effectuée, mais la capacitation complète telle qu'elle se produit in vivo n'est pas strictement requise de la même manière. L'ICSI se fait avec des spermatozoïdes matures et des ovocytes matures (stade métaphase II). Source: ESHRE (European Society of Human Reproduction and Embryology) guidelines."
   },
   {
     "question": "La barrière hématotesticulaire comporte :",
@@ -227,7 +227,7 @@
       "Les cellules myoïdes"
     ],
     "correct": [2],
-    "explanation": "La barrière hématotesticulaire est une barrière physique et immunologique essentielle à la spermatogenèse. Son composant principal et le plus significatif est constitué par les jonctions serrées (ou occlusives) qui unissent les cellules de Sertoli adjacentes au sein de l'épithélium séminifère (C). Ces jonctions divisent le tube séminifère en un compartiment basal (accessible aux substances sanguines) et un compartiment adluminal (isolé), protégeant ainsi les stades avancés de la spermatogenèse (spermatocytes, spermatides, spermatozoïdes) du système immunitaire de l'individu."
+    "explanation": "La barrière hémato-testiculaire est une barrière physique et immunologique qui isole les cellules germinales en développement (post-méiotiques) de la circulation sanguine. Le composant le plus important et le plus interne de cette barrière est constitué par les jonctions serrées (tight junctions) entre les cellules de Sertoli adjacentes. Ces jonctions divisent le tube séminifère en un compartiment basal (accessible au sang) et un compartiment adluminal (protégé). La membrane basale et la gaine péritubulaire (incluant les cellules myoïdes) contribuent à la structure du tubule mais sont externes aux jonctions serrées sertoliennes qui forment le cœur de la barrière. Source: Junqueira's Basic Histology: Text and Atlas, Mescher A.L."
   },
   {
     "question": "La spermiation :",
@@ -238,7 +238,7 @@
       "Est l'acquisition de la forme allongée du flagelle"
     ],
     "correct": [1],
-    "explanation": "La spermiation est l'étape finale de la spermatogenèse, correspondant à la libération des spermatozoïdes matures de l'emprise des cellules de Sertoli, vers la lumière du tube séminifère (B). Le passage du stade spermatide au stade spermatozoïde est la spermiogenèse. L'acquisition de la forme allongée du flagelle fait partie de la spermiogenèse. La spermatogenèse commence par la prolifération des spermatogonies."
+    "explanation": "La spermiation est l'étape finale de la spermatogenèse où les spermatozoïdes matures (anciennement spermatides allongées) sont libérés des cellules de Sertoli, auxquelles ils étaient attachés, et passent dans la lumière du tube séminifère. Le passage du stade spermatide à spermatozoïde est la spermiogenèse. L'acquisition de la forme allongée du flagelle fait partie de la spermiogenèse. Source: Clermont Y. The cycle of the seminiferous epithelium in man. Am J Anat."
   },
   {
     "question": "L'ovogenèse :",
@@ -249,7 +249,7 @@
       "Est un processus cyclique"
     ],
     "correct": [0],
-    "explanation": "L'ovogenèse, la formation des gamètes femelles, débute pendant la vie fœtale (intra-utérine) (A). Les ovogonies se multiplient puis se différencient en ovocytes I, qui entament la première division de méiose et s'arrêtent au stade prophase I jusqu'à la puberté. La folliculogenèse (formation des follicules ovariens) commence également pendant la vie fœtale avec la formation des follicules primordiaux. L'ovogenèse aboutit à un gamète haploïde (ovocyte II bloqué en métaphase II, qui devient un ovule après fécondation). Bien que l'ovulation soit cyclique, le processus global d'ovogenèse de la vie fœtale à la maturité n'est pas cyclique de la même manière que la spermatogenèse."
+    "explanation": "L'ovogenèse, la formation des gamètes femelles, débute pendant la vie fœtale (intra-utérine). Les ovogonies se multiplient puis entrent en méiose I pour devenir des ovocytes I, qui sont ensuite bloqués en prophase I jusqu'à la puberté. La folliculogenèse (formation des follicules) commence également in utero avec la formation des follicules primordiaux, mais l'ovogenèse (entrée en méiose) précède légèrement l'enveloppement par les cellules folliculaires. L'ovogenèse aboutit à un gamète haploïde (ovocyte II). Bien que les ovulations soient cycliques à partir de la puberté, le stock initial d'ovocytes est fixé avant la naissance et diminue continuellement. Source: Langman's Medical Embryology, Sadler T.W."
   },
   {
     "question": "La spermatogenèse :",
@@ -260,7 +260,7 @@
       "Dure environ 14 jours"
     ],
     "correct": [1],
-    "explanation": "La spermatogenèse, la production de spermatozoïdes, débute à la puberté dans les tubes séminifères (qui dérivent des cordons sexuels fœtaux) et se poursuit de manière continue tout au long de la vie adulte de l'homme (B). Elle est sous contrôle hormonal complexe : la LH stimule les cellules de Leydig à produire la testostérone, indispensable à la spermatogenèse ; la FSH agit sur les cellules de Sertoli pour soutenir le développement des cellules germinales. La durée d'un cycle complet de spermatogenèse chez l'homme est d'environ 74 jours."
+    "explanation": "La spermatogenèse est le processus de formation des spermatozoïdes qui débute à la puberté dans les tubes séminifères (qui se développent à partir des cordons sexuels pleins de la période fœtale et prépubère) et se poursuit de manière continue tout au long de la vie adulte de l'homme, bien qu'elle puisse diminuer avec l'âge. Elle est principalement contrôlée par la FSH et la testostérone (la LH stimulant la production de testostérone par les cellules de Leydig). L'ensemble du processus de la spermatogonie au spermatozoïde dure environ 74 jours chez l'homme. Source: Clermont Y. Kinetics of spermatogenesis in mammals: seminiferous epithelium cycle and spermatogonial renewal. Physiol Rev."
   },
   {
     "question": "La spermatogenèse pourrait être altérée après exposition aux facteurs suivants sauf un :",
@@ -271,7 +271,7 @@
       "Stress"
     ],
     "correct": [1],
-    "explanation": "La prise d'androgènes exogènes (stéroïdes anabolisants) peut supprimer la production endogène de testostérone et altérer la spermatogenèse. La consommation de tabac et le stress chronique sont des facteurs reconnus pour leurs effets négatifs sur la qualité du sperme et la spermatogenèse. L'exercice physique régulier et modéré est généralement bénéfique pour la santé reproductive (B). Seul un exercice physique excessif et épuisant pourrait potentiellement avoir un impact négatif. Parmi les options, l'exercice physique (non qualifié d'excessif) est le moins susceptible d'altérer la spermatogenèse par rapport aux autres facteurs."
+    "explanation": "La prise d'androgènes exogènes peut supprimer la production endogène de gonadotrophines (FSH et LH) par rétrocontrôle négatif, altérant ainsi la spermatogenèse. La consommation de tabac et le stress chronique sont connus pour avoir des effets négatifs sur la qualité du sperme et la fertilité masculine. L'exercice physique régulier et modéré est généralement bénéfique pour la santé globale, y compris la santé reproductive, et n'altère pas la spermatogenèse ; au contraire, il peut l'améliorer. Un exercice physique extrême et excessif pourrait potentiellement avoir des effets négatifs. Source: Sharma R, et al. Lifestyle factors and reproductive health: taking control of your fertility. Reprod Biol Endocrinol."
   },
   {
     "question": "Le canal déférent :",
@@ -282,7 +282,7 @@
       "Est le lieu de stockage des spermatozoïdes"
     ],
     "correct": [0],
-    "explanation": "Le canal déférent est un conduit qui transporte les spermatozoïdes de l'épididyme au canal éjaculateur. Sa paroi est caractérisée par une épaisse tunique musculaire (musculeuse) composée de trois couches de muscle lisse, richement innervée par le système nerveux autonome, ce qui permet des contractions péristaltiques puissantes lors de l'éjaculation (A). Il est tapissé par un épithélium pseudostratifié cylindrique avec des stéréocils. Il ne reçoit pas directement les sécrétions de la prostate (celles-ci se déversent dans l'urètre prostatique). Le principal lieu de stockage des spermatozoïdes est l'épididyme (queue)."
+    "explanation": "Le canal déférent (vas deferens) est un conduit musculaire qui transporte les spermatozoïdes de l'épididyme vers le canal éjaculateur. Sa paroi est caractérisée par une musculeuse très épaisse (trois couches : longitudinale interne, circulaire moyenne, longitudinale externe) et richement innervée par le système nerveux sympathique, ce qui permet des contractions puissantes lors de l'éjaculation. Il est tapissé par un épithélium pseudostratifié cylindrique avec des stéréocils. Il ne reçoit pas les sécrétions prostatiques (celles-ci se déversent dans l'urètre prostatique). Le stockage principal des spermatozoïdes se fait dans la queue de l'épididyme. Source: Junqueira's Basic Histology: Text and Atlas, Mescher A.L."
   },
   {
     "question": "La muqueuse de la trompe utérine :",
@@ -293,7 +293,7 @@
       "Est insensible aux œstrogènes"
     ],
     "correct": [2],
-    "explanation": "La muqueuse de la trompe utérine (oviducte) est tapissée par un épithélium simple cylindrique (prismatique) composé de cellules ciliées et de cellules sécrétoires (non ciliées, ou cellules en cheville) (C). La proportion de ces types cellulaires et la complexité des plis de la muqueuse varient le long des différents segments de la trompe (infundibulum, ampoule, isthme). Cette muqueuse est très sensible aux hormones ovariennes (œstrogènes et progestérone) qui modulent son activité. La fécondation et le 'brassage' ont lieu principalement dans l'ampoule."
+    "explanation": "La muqueuse de la trompe utérine (oviducte) est tapissée par un épithélium simple cylindrique composé principalement de cellules ciliées et de cellules sécrétoires (cellules intercalaires ou "peg cells"). La proportion de ces cellules varie le long de la trompe et au cours du cycle menstruel, sous l'influence des hormones ovariennes (œstrogènes et progestérone). Les cils battent en direction de l'utérus, aidant au transport de l'ovocyte/embryon. La structure de la muqueuse, notamment la complexité des plis, varie entre l'infundibulum (pavillon), l'ampoule, l'isthme et la portion interstitielle. Le brassage de la corona radiata est plutôt favorisé par les fimbriae au niveau du pavillon. Source: Histologie médicale, Stevens A., Lowe J.S."
   },
   {
     "question": "L'ordre chronologique des étapes de la fécondation est :",
@@ -304,7 +304,7 @@
       "Reconnaissance spécifique, réaction acrosomique puis fusion"
     ],
     "correct": [3],
-    "explanation": "Après la capacitation (acquise dans les voies génitales femelles) et la traversée du cumulus oophorus, les étapes clés de la fécondation se succèdent ainsi : 1. Reconnaissance spécifique et liaison du spermatozoïde à la zone pellucide (interaction avec ZP3). 2. Déclenchement de la réaction acrosomique. 3. Traversée de la zone pellucide grâce aux enzymes acrosomiques. 4. Fusion des membranes plasmiques du spermatozoïde et de l'ovocyte. L'option (D) (Reconnaissance spécifique, réaction acrosomique puis fusion) représente une séquence correcte de ces événements tardifs, en omettant la traversée de la ZP entre AR et fusion mais respectant l'ordre des éléments listés."
+    "explanation": "Les étapes séquentielles de la fécondation sont : 1. Capacitation des spermatozoïdes (dans les voies génitales féminines). 2. Traversée de la corona radiata (cellules du cumulus oophorus). 3. Liaison à la zone pellucide et reconnaissance spécifique (ex: liaison à ZP3). 4. Réaction acrosomique (libération d'enzymes). 5. Traversée de la zone pellucide. 6. Fusion des membranes plasmiques du spermatozoïde et de l'ovocyte. 7. Activation de l'ovocyte et réaction corticale. L'option [3] (Reconnaissance spécifique [de la zone pellucide], réaction acrosomique puis fusion [des membranes]) représente correctement une partie de cette séquence clé. La capacitation précède toutes ces étapes listées. La traversée du cumulus précède la reconnaissance de la zone pellucide. Source: Wassarman P.M. Zona pellucida glycoproteins. J Biol Chem."
   },
   {
     "question": "Parmi les traitements suivants lequel pourrait induire l'épuisement rapide de la réserve ovarienne chez la femme :",
@@ -314,8 +314,8 @@
       "Les antimitotiques",
       "Les gonadotrophines"
     ],
-    "correct": [2],
-    "explanation": "Les antimitotiques (C), tels que ceux utilisés en chimiothérapie anticancéreuse, sont des agents cytotoxiques qui affectent les cellules à division rapide. Ils peuvent endommager ou détruire les follicules ovariens, y compris les follicules primordiaux qui constituent la réserve ovarienne, conduisant ainsi à un épuisement prématuré de cette réserve et à une insuffisance ovarienne prématurée. Certains antiépileptiques peuvent avoir des effets sur la fonction ovarienne, mais l'effet gonadotoxique direct et l'épuisement rapide sont plus caractéristiques des antimitotiques."
+    "correct": [3],
+    "explanation": "Les antimitotiques (agents de chimiothérapie) sont connus pour leur gonadotoxicité. Ils peuvent détruire les follicules ovariens à différents stades de développement, y compris les follicules primordiaux qui constituent la réserve ovarienne, conduisant ainsi à une insuffisance ovarienne prématurée et à un épuisement rapide de la réserve. Certains antiépileptiques peuvent affecter la fonction ovarienne, mais l'effet est moins direct et drastique sur la réserve. Les gonadotrophines sont utilisées pour stimuler la croissance des follicules existants. Source: American Cancer Society - Fertility and Cancer."
   },
   {
     "question": "Parmi les propositions suivantes concernant le placenta, indiquer celle qui est(sont) exacte(s) :",
@@ -326,7 +326,7 @@
       "Est imperméable aux hormones stéroïdes"
     ],
     "correct": [0],
-    "explanation": "Le placenta n'est pas une barrière imperméable mais un organe d'échange sélectif. Il est perméable à de nombreuses substances, y compris de nombreux médicaments comme les antiépileptiques (A), ce qui pose des questions de tératogénicité et de suivi pendant la grossesse. L'alcool traverse facilement le placenta et peut causer des dommages au fœtus (syndrome d'alcoolisation fœtale). De nombreux virus, comme celui de la rubéole, peuvent également franchir la barrière placentaire et infecter le fœtus. Les hormones stéroïdes, endogènes ou exogènes, traversent aussi le placenta."
+    "explanation": "Le placenta permet le passage de nombreuses substances entre la mère et le fœtus. De nombreux médicaments, y compris la plupart des antiépileptiques, peuvent traverser la barrière placentaire et potentiellement affecter le fœtus. L'alcool traverse facilement le placenta et peut causer le syndrome d'alcoolisation fœtale. Le virus de la rubéole peut traverser le placenta, surtout en début de grossesse, et provoquer des malformations congénitales sévères. Les hormones stéroïdes (naturelles ou synthétiques) peuvent également traverser le placenta. Le placenta n'est donc pas un filtre parfait. Source: Briggs G.G., Freeman R.K., Yaffe S.J. Drugs in Pregnancy and Lactation."
   },
   {
     "question": "Au cours de la stimulation ovarienne en vue de faire une fécondation in vitro (FIV), l'administration de la FSH au cours de la phase folliculaire induit :",
@@ -337,6 +337,6 @@
       "L'épuisement de la réserve ovarienne"
     ],
     "correct": [1],
-    "explanation": "Lors d'une stimulation ovarienne contrôlée pour une FIV, l'administration de FSH exogène à des doses supraphysiologiques vise à recruter et à soutenir la croissance d'une cohorte de follicules antraux, en prévenant l'atrésie (mort programmée) de ceux qui, dans un cycle naturel, n'auraient pas atteint la dominance (B). L'objectif est d'obtenir plusieurs ovocytes matures. La sélection d'un unique follicule dominant est ce qui se passe naturellement. Le déclenchement de l'ovulation est induit par une injection d'hCG ou d'agoniste de la GnRH. La stimulation ne cause pas un épuisement immédiat de la réserve ovarienne mais utilise plus de follicules d'une cohorte donnée."
+    "explanation": "Lors d'un cycle naturel, plusieurs follicules antraux sont recrutés, mais un seul devient dominant tandis que les autres subissent l'atrésie. L'administration de FSH exogène à des doses supraphysiologiques au cours de la stimulation ovarienne contrôlée pour la FIV permet de \"sauver\" de l'atrésie plusieurs follicules de la cohorte en croissance, les amenant tous (ou plusieurs d'entre eux) à maturité. La sélection d'UN follicule dominant est ce qui se passe naturellement ; la FIV vise à en obtenir plusieurs. Le déclenchement de l'ovulation est généralement induit par l'hCG ou un agoniste de la GnRH. Une stimulation ne cause pas directement l'épuisement de la réserve, mais utilise les follicules déjà engagés dans la croissance. Source: Fauser B.C.J.M., Diedrich K., Bouchard P., et al. Contemporary genetic technologies and female reproduction. Hum Reprod Update."
   }
 ]
