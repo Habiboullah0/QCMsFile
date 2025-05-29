@@ -1,0 +1,989 @@
+{
+    "unique_questions": {
+        "Concernant le coefficient de viscosité d'une solution :": {
+            "normalized_text": "concernant le coefficient de viscosité d'une solution",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "Concernant le coefficient de viscosité d'une solution :"
+            ]
+        },
+        "Une solution aqueuse :": {
+            "normalized_text": "une solution aqueuse",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "Une solution aqueuse :"
+            ]
+        },
+        "Au niveau du dipôle moléculaire :": {
+            "normalized_text": "au niveau du dipôle moléculaire",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "Au niveau du dipôle moléculaire :"
+            ]
+        },
+        "L'abaissement cryoscopique :": {
+            "normalized_text": "l'abaissement cryoscopique",
+            "frequency": 2,
+            "years": [
+                "2021",
+                "2024"
+            ],
+            "all_original_variations": [
+                "L'abaissement cryoscopique :"
+            ]
+        },
+        "Dans la loi d'Henry, le coefficient de solubilité (s) d'un gaz i dans un liquide": {
+            "normalized_text": "dans la loi d'henry le coefficient de solubilité (s) d'un gaz i dans un liquide",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2022",
+                "2023"
+            ],
+            "all_original_variations": [
+                "Dans la loi d'Henry, le coefficient de solubilité (s) d'un gaz i dans un liquide",
+                "Dans la loi d'Henry, le coefficient de solubilité (s) d'un gaz i dans un liquide :"
+            ]
+        },
+        "Dans les conditions STPD l'état d'un gaz parfait est": {
+            "normalized_text": "dans les conditions stpd l'état d'un gaz parfait est",
+            "frequency": 4,
+            "years": [
+                "2021",
+                "2022",
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans les conditions STPD l'état d'un gaz parfait est",
+                "Dans les conditions STPD, l'état d'un gaz parfait est :"
+            ]
+        },
+        "Lors de la plongée sous-marine :": {
+            "normalized_text": "lors de la plongée sous-marine",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2022",
+                "2023"
+            ],
+            "all_original_variations": [
+                "Lors de la plongée sous-marine :",
+                "Lors de la plongée sous-marine"
+            ]
+        },
+        "La vitesse de sédimentation :": {
+            "normalized_text": "la vitesse de sédimentation",
+            "frequency": 4,
+            "years": [
+                "2021",
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "La vitesse de sédimentation :",
+                "La vitesse de sédimentation"
+            ]
+        },
+        "La viscosité d'une solution :": {
+            "normalized_text": "la viscosité d'une solution",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2022",
+                "2024"
+            ],
+            "all_original_variations": [
+                "La viscosité d'une solution :"
+            ]
+        },
+        "Dans les écoulements laminaires :": {
+            "normalized_text": "dans les écoulements laminaires",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans les écoulements laminaires :",
+                "Dans les écoulements laminaires"
+            ]
+        },
+        "En circulation sanguine :": {
+            "normalized_text": "en circulation sanguine",
+            "frequency": 5,
+            "years": [
+                "2021",
+                "2022",
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "En circulation sanguine :",
+                "En circulation sanguine"
+            ]
+        },
+        "La biophysique de la circulation :": {
+            "normalized_text": "la biophysique de la circulation",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2022",
+                "2023"
+            ],
+            "all_original_variations": [
+                "La biophysique de la circulation :",
+                "La biophysique de la circulation"
+            ]
+        },
+        "Dans une canalisation horizontale où s'écoule un liquide de viscosité négligeable, à débit et à température constante :": {
+            "normalized_text": "dans une canalisation horizontale où s'écoule un liquide de viscosité négligeable à débit et à température constante",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "Dans une canalisation horizontale où s'écoule un liquide de viscosité négligeable, à débit et à température constante :"
+            ]
+        },
+        "La tension artérielle": {
+            "normalized_text": "la tension artérielle",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2022",
+                "2023"
+            ],
+            "all_original_variations": [
+                "La tension artérielle",
+                "La tension artérielle :"
+            ]
+        },
+        "Une membrane de dialyse est :": {
+            "normalized_text": "une membrane de dialyse est",
+            "frequency": 4,
+            "years": [
+                "2021",
+                "2022",
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Une membrane de dialyse est :",
+                "Une membrane de dialyse est"
+            ]
+        },
+        "Une membrane semi-perméable est :": {
+            "normalized_text": "une membrane semi-perméable est",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2022",
+                "2023"
+            ],
+            "all_original_variations": [
+                "Une membrane semi-perméable est :",
+                "Une membrane semi-perméable est"
+            ]
+        },
+        "Une membrane Sélective est :": {
+            "normalized_text": "une membrane sélective est",
+            "frequency": 4,
+            "years": [
+                "2021",
+                "2022",
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Une membrane Sélective est :",
+                "Une membrane sélective est",
+                "Une membrane sélective est :"
+            ]
+        },
+        "En milieu intérieur de l'organisme :": {
+            "normalized_text": "en milieu intérieur de l'organisme",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2022",
+                "2023"
+            ],
+            "all_original_variations": [
+                "En milieu intérieur de l'organisme :",
+                "En milieu intérieur de l'organisme"
+            ]
+        },
+        "Dans la régulation acido-basique de l'organisme :": {
+            "normalized_text": "dans la régulation acido-basique de l'organisme",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2022"
+            ],
+            "all_original_variations": [
+                "Dans la régulation acido-basique de l'organisme :"
+            ]
+        },
+        "Chez l'Homme normal, Le sang :": {
+            "normalized_text": "chez l'homme normal le sang",
+            "frequency": 2,
+            "years": [
+                "2021",
+                "2023"
+            ],
+            "all_original_variations": [
+                "Chez l'Homme normal, Le sang :",
+                "Chez l'homme normal, le sang"
+            ]
+        },
+        "Dans le diagramme de Davenport appliqué au plasma sanguin :": {
+            "normalized_text": "dans le diagramme de davenport appliqué au plasma sanguin",
+            "frequency": 2,
+            "years": [
+                "2021",
+                "2023"
+            ],
+            "all_original_variations": [
+                "Dans le diagramme de Davenport appliqué au plasma sanguin :",
+                "Dans le diagramme de Davenport appliqué au plasma sanguin"
+            ]
+        },
+        "Dans l'étude de l'équilibre acido-basique": {
+            "normalized_text": "dans l'étude de l'équilibre acido-basique",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans l'étude de l'équilibre acido-basique",
+                "Dans l'étude de l'équilibre acido-basique :"
+            ]
+        },
+        "Dans l'étude de l'ECG normal :": {
+            "normalized_text": "dans l'étude de l'ecg normal",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans l'étude de l'ECG normal :"
+            ]
+        },
+        "Dans l'organisme :": {
+            "normalized_text": "dans l'organisme",
+            "frequency": 2,
+            "years": [
+                "2021",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans l'organisme :"
+            ]
+        },
+        "Quelle est la ou les questions justes :": {
+            "normalized_text": "quelle est la ou les questions justes",
+            "frequency": 2,
+            "years": [
+                "2021",
+                "2022"
+            ],
+            "all_original_variations": [
+                "Quelle est la ou les questions justes :"
+            ]
+        },
+        "L'anhydrase carbonique": {
+            "normalized_text": "l'anhydrase carbonique",
+            "frequency": 2,
+            "years": [
+                "2021",
+                "2023"
+            ],
+            "all_original_variations": [
+                "L'anhydrase carbonique",
+                "L'anhydrase carbonique :"
+            ]
+        },
+        "La pression de filtration rénale :": {
+            "normalized_text": "la pression de filtration rénale",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "La pression de filtration rénale :"
+            ]
+        },
+        "À travers une membrane semi-perméable, l'osmose correspond au déplacement :": {
+            "normalized_text": "à travers une membrane semi-perméable l'osmose correspond au déplacement",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "À travers une membrane semi-perméable, l'osmose correspond au déplacement :"
+            ]
+        },
+        "À travers la membrane capillaire le déplacement de la matière intéresse :": {
+            "normalized_text": "à travers la membrane capillaire le déplacement de la matière intéresse",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "À travers la membrane capillaire le déplacement de la matière intéresse :"
+            ]
+        },
+        "La pression oncotique du plasma :": {
+            "normalized_text": "la pression oncotique du plasma",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "La pression oncotique du plasma :"
+            ]
+        },
+        "À propos de la pression :": {
+            "normalized_text": "à propos de la pression",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "À propos de la pression :"
+            ]
+        },
+        "On place les globules rouges dans une solution hypertonique de NaCl :": {
+            "normalized_text": "on place les globules rouges dans une solution hypertonique de nacl",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "On place les globules rouges dans une solution hypertonique de NaCl :"
+            ]
+        },
+        "Au niveau du cœur :": {
+            "normalized_text": "au niveau du cœur",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "Au niveau du cœur :"
+            ]
+        },
+        "La migration d'une particule peut être due à une cause :": {
+            "normalized_text": "la migration d'une particule peut être due à une cause",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "La migration d'une particule peut être due à une cause :"
+            ]
+        },
+        "Concernant le débit sanguin :": {
+            "normalized_text": "concernant le débit sanguin",
+            "frequency": 3,
+            "years": [
+                "2021",
+                "2022",
+                "2023"
+            ],
+            "all_original_variations": [
+                "Concernant le débit sanguin :",
+                "Concernant le Débit sanguin :",
+                "Concernant le débit sanguin"
+            ]
+        },
+        "Le potentiel chimique correspond à une :": {
+            "normalized_text": "le potentiel chimique correspond à une",
+            "frequency": 1,
+            "years": [
+                "2021"
+            ],
+            "all_original_variations": [
+                "Le potentiel chimique correspond à une :"
+            ]
+        },
+        "Le potentiel électrique correspond à une :": {
+            "normalized_text": "le potentiel électrique correspond à une",
+            "frequency": 2,
+            "years": [
+                "2021",
+                "2022"
+            ],
+            "all_original_variations": [
+                "Le potentiel électrique correspond à une :"
+            ]
+        },
+        "Un dipôle moléculaire :": {
+            "normalized_text": "un dipôle moléculaire",
+            "frequency": 2,
+            "years": [
+                "2022",
+                "2023"
+            ],
+            "all_original_variations": [
+                "Un dipôle moléculaire :",
+                "Un dipôle moléculaire"
+            ]
+        },
+        "Au niveau des dipôles moléculaires :": {
+            "normalized_text": "au niveau des dipôles moléculaires",
+            "frequency": 1,
+            "years": [
+                "2022"
+            ],
+            "all_original_variations": [
+                "Au niveau des dipôles moléculaires :"
+            ]
+        },
+        "À propos de pression :": {
+            "normalized_text": "à propos de pression",
+            "frequency": 1,
+            "years": [
+                "2022"
+            ],
+            "all_original_variations": [
+                "À propos de pression :"
+            ]
+        },
+        "Dans les états gazeux :": {
+            "normalized_text": "dans les états gazeux",
+            "frequency": 2,
+            "years": [
+                "2022",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans les états gazeux :"
+            ]
+        },
+        "Dans les états liquides :": {
+            "normalized_text": "dans les états liquides",
+            "frequency": 1,
+            "years": [
+                "2022"
+            ],
+            "all_original_variations": [
+                "Dans les états liquides :"
+            ]
+        },
+        "Dans les conditions BTPS, l'état d'un gaz parfait est :": {
+            "normalized_text": "dans les conditions btps l'état d'un gaz parfait est",
+            "frequency": 1,
+            "years": [
+                "2022"
+            ],
+            "all_original_variations": [
+                "Dans les conditions BTPS, l'état d'un gaz parfait est :"
+            ]
+        },
+        "Dans une solution :": {
+            "normalized_text": "dans une solution",
+            "frequency": 1,
+            "years": [
+                "2022"
+            ],
+            "all_original_variations": [
+                "Dans une solution :"
+            ]
+        },
+        "La vitesse de sédimentation sanguine :": {
+            "normalized_text": "la vitesse de sédimentation sanguine",
+            "frequency": 1,
+            "years": [
+                "2022"
+            ],
+            "all_original_variations": [
+                "La vitesse de sédimentation sanguine :"
+            ]
+        },
+        "Le coefficient de viscosité d'un fluide a :": {
+            "normalized_text": "le coefficient de viscosité d'un fluide a",
+            "frequency": 1,
+            "years": [
+                "2022"
+            ],
+            "all_original_variations": [
+                "Le coefficient de viscosité d'un fluide a :"
+            ]
+        },
+        "Concernant la grandeur physique de la viscosité :": {
+            "normalized_text": "concernant la grandeur physique de la viscosité",
+            "frequency": 2,
+            "years": [
+                "2022",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Concernant la grandeur physique de la viscosité :",
+                "Concernant la grandeur physique de la Viscosité :"
+            ]
+        },
+        "Migration d'une particule peut être due à une cause :": {
+            "normalized_text": "migration d'une particule peut être due à une cause",
+            "frequency": 2,
+            "years": [
+                "2022",
+                "2023"
+            ],
+            "all_original_variations": [
+                "Migration d'une particule peut être due à une cause :",
+                "Migration d'une particule peut être due à une cause"
+            ]
+        },
+        "Les globules rouges": {
+            "normalized_text": "les globules rouges",
+            "frequency": 3,
+            "years": [
+                "2022",
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Les globules rouges",
+                "Les globules rouges :"
+            ]
+        },
+        "Dans une canalisation horizontale :": {
+            "normalized_text": "dans une canalisation horizontale",
+            "frequency": 2,
+            "years": [
+                "2022",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans une canalisation horizontale :"
+            ]
+        },
+        "Dans les écoulements turbulents": {
+            "normalized_text": "dans les écoulements turbulents",
+            "frequency": 3,
+            "years": [
+                "2022",
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans les écoulements turbulents",
+                "Dans les écoulements turbulents :"
+            ]
+        },
+        "Le travail du cœur est :": {
+            "normalized_text": "le travail du cœur est",
+            "frequency": 3,
+            "years": [
+                "2022",
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Le travail du cœur est :",
+                "Le travail du cœur est"
+            ]
+        },
+        "Le pH de l'organisme": {
+            "normalized_text": "le ph de l'organisme",
+            "frequency": 2,
+            "years": [
+                "2022",
+                "2023"
+            ],
+            "all_original_variations": [
+                "Le pH de l'organisme",
+                "Le pH de l'organisme :"
+            ]
+        },
+        "Dans le diagramme CO₂H⁻ = f (pH) appliqué au plasma sanguin :": {
+            "normalized_text": "dans le diagramme co₂h⁻ = f (ph) appliqué au plasma sanguin",
+            "frequency": 1,
+            "years": [
+                "2022"
+            ],
+            "all_original_variations": [
+                "Dans le diagramme CO₂H⁻ = f (pH) appliqué au plasma sanguin :"
+            ]
+        },
+        "À propos des grandeurs extensives": {
+            "normalized_text": "à propos des grandeurs extensives",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "À propos des grandeurs extensives"
+            ]
+        },
+        "Dans les états gazeux de la matière": {
+            "normalized_text": "dans les états gazeux de la matière",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "Dans les états gazeux de la matière"
+            ]
+        },
+        "Les états solides de la matière": {
+            "normalized_text": "les états solides de la matière",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "Les états solides de la matière"
+            ]
+        },
+        "Dans les unités de pression": {
+            "normalized_text": "dans les unités de pression",
+            "frequency": 2,
+            "years": [
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans les unités de pression",
+                "Dans les unités de pression :"
+            ]
+        },
+        "La dimension d'une pression est": {
+            "normalized_text": "la dimension d'une pression est",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "La dimension d'une pression est"
+            ]
+        },
+        "Le mm Hg est": {
+            "normalized_text": "le mm hg est",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "Le mm Hg est"
+            ]
+        },
+        "La centrifugation sanguine": {
+            "normalized_text": "la centrifugation sanguine",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "La centrifugation sanguine"
+            ]
+        },
+        "La viscosité du sang": {
+            "normalized_text": "la viscosité du sang",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "La viscosité du sang"
+            ]
+        },
+        "À propos du coefficient de viscosité relative ηr": {
+            "normalized_text": "à propos du coefficient de viscosité relative ηr",
+            "frequency": 2,
+            "years": [
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "À propos du coefficient de viscosité relative ηr",
+                "À propos du coefficient de viscosité relative ηr :"
+            ]
+        },
+        "La résistance à l'écoulement du sang dans les vaisseaux dépend de :": {
+            "normalized_text": "la résistance à l'écoulement du sang dans les vaisseaux dépend de",
+            "frequency": 2,
+            "years": [
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "La résistance à l'écoulement du sang dans les vaisseaux dépend de :",
+                "La résistance à l'écoulement du sang dans les vaisseaux dépend de"
+            ]
+        },
+        "Le nombre de Reynolds": {
+            "normalized_text": "le nombre de reynolds",
+            "frequency": 2,
+            "years": [
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Le nombre de Reynolds",
+                "Le nombre de Reynolds :"
+            ]
+        },
+        "Le phénomène de diffusion est :": {
+            "normalized_text": "le phénomène de diffusion est",
+            "frequency": 2,
+            "years": [
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Le phénomène de diffusion est :",
+                "Le phénomène de diffusion est"
+            ]
+        },
+        "L'osmose entre deux solutions": {
+            "normalized_text": "l'osmose entre deux solutions",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "L'osmose entre deux solutions"
+            ]
+        },
+        "L'œdème peut être lié à un(e)": {
+            "normalized_text": "l'œdème peut être lié à un(e)",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "L'œdème peut être lié à un(e)"
+            ]
+        },
+        "Quelle est la réponse fausse": {
+            "normalized_text": "quelle est la réponse fausse",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "Quelle est la réponse fausse"
+            ]
+        },
+        "Dans le tissu cardiaque": {
+            "normalized_text": "dans le tissu cardiaque",
+            "frequency": 2,
+            "years": [
+                "2023",
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans le tissu cardiaque",
+                "Dans le tissu cardiaque :"
+            ]
+        },
+        "Dans l'étude de l'ECG normal (1)": {
+            "normalized_text": "dans l'étude de l'ecg normal (1)",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "Dans l'étude de l'ECG normal (1)"
+            ]
+        },
+        "Dans l'étude de l'ECG normal (2)": {
+            "normalized_text": "dans l'étude de l'ecg normal (2)",
+            "frequency": 1,
+            "years": [
+                "2023"
+            ],
+            "all_original_variations": [
+                "Dans l'étude de l'ECG normal (2)"
+            ]
+        },
+        "Le cm d'eau est :": {
+            "normalized_text": "le cm d'eau est",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Le cm d'eau est :"
+            ]
+        },
+        "Le mmHg est :": {
+            "normalized_text": "le mmhg est",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Le mmHg est :"
+            ]
+        },
+        "Un dipôle électrique :": {
+            "normalized_text": "un dipôle électrique",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Un dipôle électrique :"
+            ]
+        },
+        "Dans la loi de Laplace, la pression transmurale P est :": {
+            "normalized_text": "dans la loi de laplace la pression transmurale p est",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans la loi de Laplace, la pression transmurale P est :"
+            ]
+        },
+        "Dans la loi d'Henry, le coefficient de solubilité (S) d'un gaz dans un liquide :": {
+            "normalized_text": "dans la loi d'henry le coefficient de solubilité (s) d'un gaz dans un liquide",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans la loi d'Henry, le coefficient de solubilité (S) d'un gaz dans un liquide :"
+            ]
+        },
+        "Dans les états solides :": {
+            "normalized_text": "dans les états solides",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans les états solides :"
+            ]
+        },
+        "Le potentiel chimique correspond à :": {
+            "normalized_text": "le potentiel chimique correspond à",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Le potentiel chimique correspond à :"
+            ]
+        },
+        "La Centrifugation est :": {
+            "normalized_text": "la centrifugation est",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "La Centrifugation est :"
+            ]
+        },
+        "Dans la circulation sanguine Normale :": {
+            "normalized_text": "dans la circulation sanguine normale",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans la circulation sanguine Normale :"
+            ]
+        },
+        "La dimension et unité de la pression est :": {
+            "normalized_text": "la dimension et unité de la pression est",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "La dimension et unité de la pression est :"
+            ]
+        },
+        "Le pH de sang de l'organisme :": {
+            "normalized_text": "le ph de sang de l'organisme",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Le pH de sang de l'organisme :"
+            ]
+        },
+        "Dans l'étude de l'ECG :": {
+            "normalized_text": "dans l'étude de l'ecg",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans l'étude de l'ECG :"
+            ]
+        },
+        "La courbe de dissociation de l'oxyhémoglobine CDO (courbe de Barcroft) :": {
+            "normalized_text": "la courbe de dissociation de l'oxyhémoglobine cdo (courbe de barcroft)",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "La courbe de dissociation de l'oxyhémoglobine CDO (courbe de Barcroft) :"
+            ]
+        },
+        "Dans le diagramme de Davenport :": {
+            "normalized_text": "dans le diagramme de davenport",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Dans le diagramme de Davenport :"
+            ]
+        },
+        "Le transport du CO₂ dans le sang :": {
+            "normalized_text": "le transport du co₂ dans le sang",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Le transport du CO₂ dans le sang :"
+            ]
+        },
+        "Le débit d'un fluide en mouvement est :": {
+            "normalized_text": "le débit d'un fluide en mouvement est",
+            "frequency": 1,
+            "years": [
+                "2024"
+            ],
+            "all_original_variations": [
+                "Le débit d'un fluide en mouvement est :"
+            ]
+        }
+    },
+    "errors": [],
+    "summary": {
+        "years_analyzed": [
+            "2021",
+            "2022",
+            "2023",
+            "2024"
+        ],
+        "total_questions_analyzed": 153,
+        "unique_normalized_questions": 88,
+        "note": "Analysis based on data from 2021-2024. Data for 2020 could not be processed due to a file error."
+    }
+}
