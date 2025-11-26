@@ -1,0 +1,2642 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Quel est l'organe principal de l'appareil urinaire?",
+    "explanation": "Les reins filtrent le sang pour éliminer les déchets et réguler les fluides corporels.",
+    "media": null,
+    "options": [
+      "Le foie",
+      "Le rein",
+      "Le cœur",
+      "L'estomac"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des uretères dans l'appareil urinaire?",
+    "explanation": "Les uretères sont des tubes qui transportent l'urine produite par les reins vers la vessie pour stockage.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "Transporter l'urine des reins à la vessie",
+      "Stocker l'urine",
+      "Produire des hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle structure stocke l'urine avant son élimination?",
+    "explanation": "La vessie est un organe musculaire qui stocke l'urine jusqu'à ce qu'elle soit évacuée par l'urètre.",
+    "media": null,
+    "options": [
+      "Le rein",
+      "La vessie",
+      "L'uretère",
+      "L'urètre"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel organe est situé au-dessus des reins?",
+    "explanation": "Les glandes surrénales sont responsables de la production d'hormones essentielles pour le métabolisme et la réponse au stress.",
+    "media": null,
+    "options": [
+      "Le pancréas",
+      "Glande surrénale",
+      "La rate",
+      "Le foie"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des reins?",
+    "explanation": "Les reins éliminent les déchets du sang et régulent l'équilibre hydrique et électrolytique du corps.",
+    "media": null,
+    "options": [
+      "Digérer les aliments",
+      "Filtrer le sang et produire l'urine",
+      "Pomper le sang",
+      "Produire de la bile"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel conduit transporte l'urine des reins à la vessie?",
+    "explanation": "Les uretères sont des tubes musculaires qui transportent l'urine des reins vers la vessie pour le stockage.",
+    "media": null,
+    "options": [
+      "Urètre",
+      "Uretère",
+      "Aorte",
+      "Veine cave"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel organe stocke l'urine avant son élimination?",
+    "explanation": "La vessie est un organe musculaire qui stocke l'urine jusqu'à ce qu'elle soit évacuée du corps.",
+    "media": null,
+    "options": [
+      "Rein",
+      "Vessie",
+      "Uretère",
+      "Urètre"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'urètre?",
+    "explanation": "L'urètre est le canal par lequel l'urine est évacuée de la vessie vers l'extérieur du corps.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "Éliminer l'urine du corps",
+      "Stocker l'urine",
+      "Produire de l'urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale de l'appareil urinaire?",
+    "explanation": "L'appareil urinaire joue un rôle crucial dans la régulation des fluides et des électrolytes, contribuant ainsi à l'équilibre interne.",
+    "media": null,
+    "options": [
+      "La digestion des aliments",
+      "Le maintien de l'homéostasie du milieu intérieur",
+      "La circulation sanguine",
+      "La respiration"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'appareil urinaire dans l'épuration du sang?",
+    "explanation": "L'appareil urinaire filtre le sang pour éliminer les déchets métaboliques et maintenir la composition chimique du sang.",
+    "media": null,
+    "options": [
+      "Production de globules rouges",
+      "Élimination des déchets dans les urines",
+      "Absorption des nutriments",
+      "Stockage du glucose"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de fonction l'appareil urinaire exerce-t-il en plus de l'épuration?",
+    "explanation": "L'appareil urinaire produit des hormones qui régulent diverses fonctions corporelles, comme la pression artérielle et la production de globules rouges.",
+    "media": null,
+    "options": [
+      "Fonction digestive",
+      "Fonction endocrine",
+      "Fonction respiratoire",
+      "Fonction musculaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les deux principales fonctions des voies urinaires et de la vessie?",
+    "explanation": "Les voies urinaires conduisent l'urine des reins à la vessie, où elle est stockée jusqu'à ce qu'elle soit éliminée.",
+    "media": null,
+    "options": [
+      "Filtration et réabsorption",
+      "Conduction et stockage des urines",
+      "Sécrétion et excrétion",
+      "Digestion et absorption"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'un lobe rénal?",
+    "explanation": "Le lobe rénal est une unité fonctionnelle du rein, intégrant plusieurs éléments qui jouent un rôle dans la filtration et la formation de l'urine.",
+    "media": null,
+    "options": [
+      "Une partie du foie",
+      "Le lobe rénal est constitué d'une petite calice, d'une pyramide de Malpighi, de la moitié des colonnes de Bertin adjacentes, des pyramides de Ferrein et du parenchyme cortical en rapport",
+      "Une glande endocrine",
+      "Un muscle du rein"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les composantes d'un lobule rénal?",
+    "explanation": "Le lobule rénal représente une subdivision du lobe rénal, jouant un rôle dans la structure et la fonction rénale.",
+    "media": null,
+    "options": [
+      "Un glomérule et un tubule",
+      "Le lobule rénal est constitué d'une pyramide de Ferrein et du parenchyme cortical adjacent",
+      "Une artère et une veine",
+      "Un calice et un bassinet"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les structures présentes dans un rein?",
+    "explanation": "Ces structures sont essentielles pour la filtration du sang et la formation de l'urine, chacune ayant une fonction spécifique.",
+    "media": null,
+    "options": [
+      "Cœur, poumons, foie",
+      "Les structures présentes dans un rein incluent le cortex rénal, la médulla rénale, les calices mineurs, les pyramides de Ferrein, et les vaisseaux sanguins comme l'artère rénale",
+      "Estomac, intestins, pancréas",
+      "Cerveau, moelle épinière, nerfs"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction des pyramides de Ferrein?",
+    "explanation": "Elles sont responsables de la concentration de l'urine et de son passage vers les structures collectrices du rein.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "Les pyramides de Ferrein jouent un rôle dans la collecte et le transport de l'urine vers les calices mineurs",
+      "Produire des hormones",
+      "Stocker l'urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le parenchyme cortical?",
+    "explanation": "Cette région est cruciale pour la filtration sanguine et la réabsorption des substances utiles.",
+    "media": null,
+    "options": [
+      "La couche interne du rein",
+      "Le parenchyme cortical est la couche externe du rein, contenant les glomérules et les tubules rénaux",
+      "La capsule du rein",
+      "Le bassinet du rein"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de l'artériole sous-capsulaire?",
+    "explanation": "L'artériole sous-capsulaire est essentielle pour l'apport sanguin au lobule rénal, contribuant à la filtration du sang.",
+    "media": null,
+    "options": [
+      "Elle draine l'urine",
+      "Elle participe à la vascularisation du lobule rénal",
+      "Elle filtre le sang",
+      "Elle produit des hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de réseau est formé par le réseau capillaire péri-tubulaire?",
+    "explanation": "Le réseau capillaire péri-tubulaire permet les échanges entre le sang et les tubules, facilitant la réabsorption et la sécrétion.",
+    "media": null,
+    "options": [
+      "Un réseau nerveux",
+      "Un réseau capillaire qui entoure les tubules rénaux",
+      "Un réseau lymphatique",
+      "Un réseau musculaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'artère afférente dans le lobule rénal?",
+    "explanation": "L'artère afférente est cruciale pour la filtration du sang dans les reins, fournissant le sang nécessaire au glomérule.",
+    "media": null,
+    "options": [
+      "Elle draine le sang du glomérule",
+      "Elle amène le sang vers le glomérule pour la filtration",
+      "Elle nourrit la capsule rénale",
+      "Elle transporte l'urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles artères sont responsables de la vascularisation interlobulaire?",
+    "explanation": "Les artères interlobulaires assurent l'apport sanguin entre les différents lobules du rein, permettant une irrigation adéquate.",
+    "media": null,
+    "options": [
+      "Les artères rénales principales",
+      "Les artères interlobulaires",
+      "Les artères arquées",
+      "Les artères segmentaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de l'arcade veineuse dans le lobule rénal?",
+    "explanation": "L'arcade veineuse joue un rôle important dans le retour du sang vers le cœur après la filtration dans les reins.",
+    "media": null,
+    "options": [
+      "Elle apporte du sang oxygéné",
+      "Elle collecte le sang des veines interlobulaires et le dirige vers les veines principales",
+      "Elle filtre le sang",
+      "Elle produit de l'urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des veines étoilées?",
+    "explanation": "Les veines étoilées facilitent le drainage du sang des capillaires rénaux, contribuant au retour veineux.",
+    "media": null,
+    "options": [
+      "Elles apportent du sang au rein",
+      "Elles drainent le sang des capillaires vers les veines interlobulaires",
+      "Elles filtrent l'urine",
+      "Elles stockent le sang"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle artère est située au sommet du lobule rénal?",
+    "explanation": "L'artère interlobaire est essentielle pour l'irrigation des lobules rénaux, fournissant le sang nécessaire à leur fonctionnement.",
+    "media": null,
+    "options": [
+      "L'artère rénale",
+      "L'artère interlobaire",
+      "L'artère arquée",
+      "L'artère segmentaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles veines drainent le sang des lobules rénaux vers le système veineux principal?",
+    "explanation": "Ces veines assurent le drainage efficace du sang filtré dans les reins, contribuant au maintien de l'homéostasie.",
+    "media": null,
+    "options": [
+      "Les veines caves",
+      "Les veines interlobulaires et les veines lobaires",
+      "Les veines pulmonaires",
+      "Les veines jugulaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'unité fonctionnelle du rein?",
+    "explanation": "Chaque rein contient environ un million de néphrons, qui sont responsables de la filtration du sang et de la production d'urine.",
+    "media": null,
+    "options": [
+      "Le glomérule",
+      "Le néphron",
+      "Le tubule",
+      "Le calice"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Combien de néphrons se trouvent dans un rein?",
+    "explanation": "Le nombre élevé de néphrons permet une filtration efficace des déchets et un équilibre des fluides dans le corps.",
+    "media": null,
+    "options": [
+      "Environ 100 000",
+      "Environ 1 million de néphrons",
+      "Environ 10 millions",
+      "Environ 500 000"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Où passent les urines après leur formation dans le néphron?",
+    "explanation": "Les urines formées dans les néphrons sont dirigées vers les tubes collecteurs, qui les mènent à la médullaire du rein.",
+    "media": null,
+    "options": [
+      "Directement dans la vessie",
+      "Dans le tube collecteur à travers la médullaire",
+      "Dans l'uretère",
+      "Dans le sang"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la papille dans le système urinaire?",
+    "explanation": "La papille est l'endroit où les urines collectées dans les tubes collecteurs sont drainées vers les calices, qui les conduisent à l'uretère.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "Collecter les urines vers les petits et grands calices",
+      "Produire des hormones",
+      "Stocker l'urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le glomérule?",
+    "explanation": "Le glomérule joue un rôle crucial dans le processus de filtration du sang pour former l'urine, en séparant les déchets des éléments nécessaires.",
+    "media": null,
+    "options": [
+      "Un vaisseau sanguin",
+      "Le glomérule, ou corpuscule de Malpighi, est une structure comprenant une pelote vasculaire, une capsule de Bowman et un mésangium",
+      "Un tube collecteur",
+      "Une glande endocrine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les composants du glomérule?",
+    "explanation": "Ces trois éléments travaillent ensemble pour filtrer le sang et former l'urine dans les reins.",
+    "media": null,
+    "options": [
+      "Artère, veine, capillaire",
+      "Les composants du glomérule sont : 1) Pelote vasculaire, 2) Capsule de Bowman, 3) Mésangium",
+      "Néphron, tubule, anse de Henlé",
+      "Cortex, médulla, bassinet"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de la pelote vasculaire?",
+    "explanation": "Elle est constituée de capillaires qui permettent le passage de l'eau et des solutés tout en retenant les cellules sanguines et les protéines.",
+    "media": null,
+    "options": [
+      "Stocker l'urine",
+      "La pelote vasculaire, ou glomus, est responsable de la filtration du sang dans le glomérule",
+      "Produire des hormones",
+      "Réabsorber l'eau"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la capsule de Bowman?",
+    "explanation": "Cette structure permet de canaliser le filtrat vers les tubules rénaux pour un traitement ultérieur.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "La capsule de Bowman enveloppe le glomérule et recueille le filtrat qui sera transformé en urine",
+      "Produire de l'urine",
+      "Stocker le sang"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le mésangium?",
+    "explanation": "Il joue également un rôle dans la régulation du flux sanguin et la filtration en sécrétant des substances qui influencent la fonction glomérulaire.",
+    "media": null,
+    "options": [
+      "Un type de cellule sanguine",
+      "Le mésangium est un tissu conjonctif qui soutient les capillaires dans le glomérule",
+      "Une partie du tubule rénal",
+      "Un vaisseau lymphatique"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la différence entre l'artériole afférente et l'artériole efférente?",
+    "explanation": "L'artériole afférente a un diamètre plus large pour permettre un afflux sanguin important, tandis que l'artériole efférente régule la pression dans le glomérule.",
+    "media": null,
+    "options": [
+      "Elles ont la même fonction",
+      "L'artériole afférente amène le sang vers le glomérule, tandis que l'artériole efférente le sort après filtration",
+      "L'artériole afférente sort du glomérule",
+      "L'artériole efférente amène le sang vers le glomérule"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la capsule de Bowman?",
+    "explanation": "La capsule de Bowman est responsable de la collecte du filtrat glomérulaire, qui est ensuite traité dans le tubule rénal.",
+    "media": null,
+    "options": [
+      "Une glande endocrine",
+      "La capsule de Bowman est une structure du néphron qui entoure le glomérule et joue un rôle clé dans la filtration du sang",
+      "Un vaisseau sanguin",
+      "Un muscle lisse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les deux feuillets de la capsule de Bowman?",
+    "explanation": "Le feuillet pariétal est la couche externe qui forme la paroi de la capsule, tandis que le feuillet viscéral est la couche interne qui est en contact avec le glomérule.",
+    "media": null,
+    "options": [
+      "Feuillet interne et externe",
+      "Les deux feuillets de la capsule de Bowman sont le feuillet pariétal et le feuillet viscéral",
+      "Feuillet supérieur et inférieur",
+      "Feuillet gauche et droit"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction du feuillet viscéral de la capsule de Bowman?",
+    "explanation": "Ce feuillet contient des cellules spécialisées appelées podocytes qui aident à filtrer les petites molécules du sang tout en retenant les cellules sanguines et les protéines.",
+    "media": null,
+    "options": [
+      "Protéger le rein",
+      "Le feuillet viscéral de la capsule de Bowman est en contact direct avec le glomérule et permet la filtration du plasma sanguin",
+      "Produire de l'urine",
+      "Stocker le sang"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction du feuillet pariétal de la capsule de Bowman?",
+    "explanation": "Il sert principalement de support structurel à la capsule et protège les composants internes.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "Le feuillet pariétal forme la paroi externe de la capsule de Bowman et ne participe pas directement à la filtration",
+      "Produire des hormones",
+      "Absorber les nutriments"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'un podocyte?",
+    "explanation": "Les podocytes jouent un rôle crucial dans la formation de l'urine en filtrant les substances du sang dans les néphrons.",
+    "media": null,
+    "options": [
+      "Une cellule sanguine",
+      "Un podocyte est une cellule spécialisée dans la filtration du sang dans le rein, située dans la capsule de Bowman",
+      "Une cellule nerveuse",
+      "Une cellule musculaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les prolongements cytoplasmiques des podocytes?",
+    "explanation": "Les pédicelles s'entrelacent pour créer des fentes de filtration qui permettent le passage de certaines molécules tout en retenant les cellules sanguines.",
+    "media": null,
+    "options": [
+      "Cils",
+      "Les prolongements cytoplasmiques des podocytes sont appelés pédicelles",
+      "Flagelles",
+      "Microvillosités"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la taille des fentes de filtration formées par les podocytes?",
+    "explanation": "Ces fentes permettent le passage de l'eau et de petites molécules tout en empêchant le passage de protéines et de cellules.",
+    "media": null,
+    "options": [
+      "1 à 2 mm",
+      "Les fentes de filtration mesurent entre 20 et 30 nm",
+      "100 à 200 nm",
+      "1 à 2 µm"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des pédicelles dans la fonction des podocytes?",
+    "explanation": "En s'interconnectant, les pédicelles créent un réseau qui permet une filtration efficace tout en maintenant l'intégrité de la barrière glomérulaire.",
+    "media": null,
+    "options": [
+      "Produire de l'énergie",
+      "Les pédicelles aident à maintenir la structure des fentes de filtration et facilitent la filtration du plasma sanguin",
+      "Transporter l'oxygène",
+      "Stocker les nutriments"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que permet d'observer la microscopie électronique des podocytes?",
+    "explanation": "Cette technique révèle la structure fine des podocytes, essentielle pour comprendre leur fonction dans la filtration rénale.",
+    "media": null,
+    "options": [
+      "La couleur des cellules",
+      "La microscopie électronique permet d'observer les prolongements primaires et secondaires des podocytes ainsi que les fentes de filtration",
+      "Le mouvement des cellules",
+      "La température des cellules"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la barrière de filtration glomérulaire?",
+    "explanation": "La barrière de filtration glomérulaire joue un rôle crucial dans la formation de l'urine en empêchant le passage de grosses molécules tout en permettant le passage de l'eau et des solutés.",
+    "media": null,
+    "options": [
+      "Une membrane cellulaire",
+      "C'est la structure qui permet la filtration du sang en urine dans les reins",
+      "Un vaisseau sanguin",
+      "Un muscle"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les trois composants de la barrière de filtration glomérulaire?",
+    "explanation": "Ces trois composants travaillent ensemble pour filtrer efficacement le sang tout en maintenant une barrière contre les substances indésirables.",
+    "media": null,
+    "options": [
+      "Cellules sanguines, plasma, plaquettes",
+      "1. Podocytes (fentes de filtration) 2. Membrane basale 3. L’endothélium",
+      "Artères, veines, capillaires",
+      "Néphrons, tubules, glomérules"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel rôle jouent les podocytes dans la barrière de filtration?",
+    "explanation": "Les podocytes sont des cellules spécialisées qui enveloppent les capillaires glomérulaires et créent des espaces pour la filtration.",
+    "media": null,
+    "options": [
+      "Ils transportent l'oxygène",
+      "Les podocytes forment des fentes de filtration qui permettent le passage de certaines substances tout en bloquant les plus grosses",
+      "Ils produisent des hormones",
+      "Ils stockent les nutriments"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de la membrane basale dans la barrière de filtration?",
+    "explanation": "Elle est composée de fibres de collagène et d'autres protéines qui forment une barrière sélective.",
+    "media": null,
+    "options": [
+      "Elle produit de l'énergie",
+      "La membrane basale agit comme un filtre qui retient les protéines et les cellules sanguines tout en permettant le passage de l'eau et des petites molécules",
+      "Elle protège contre les infections",
+      "Elle régule la température"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l’endothélium dans la barrière de filtration?",
+    "explanation": "Les pores de l'endothélium permettent une filtration efficace tout en maintenant la structure des vaisseaux sanguins.",
+    "media": null,
+    "options": [
+      "Il transporte les nutriments",
+      "L'endothélium des capillaires glomérulaires est fenestré, ce qui facilite le passage de l'eau et des solutés tout en empêchant les cellules sanguines de passer",
+      "Il produit des globules rouges",
+      "Il stocke l'oxygène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la taille des pores de l'endothélium capillaire fenêtré?",
+    "explanation": "L'endothélium capillaire fenêtré permet le passage de certaines molécules en raison de la taille de ses pores.",
+    "media": null,
+    "options": [
+      "1 à 2 nanomètres",
+      "Les pores mesurent de 50 à 100 nanomètres de diamètre",
+      "1 à 2 micromètres",
+      "10 à 20 micromètres"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la charge de la face luminale de l'endothélium capillaire fenêtré?",
+    "explanation": "La charge négative repousse les molécules chargées positivement, influençant la filtration.",
+    "media": null,
+    "options": [
+      "Positive",
+      "Elle est chargée négativement",
+      "Neutre",
+      "Variable"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'épaisseur de la membrane basale glomérulaire?",
+    "explanation": "Cette membrane est sécrétée par les podocytes et les cellules endothéliales et joue un rôle crucial dans la filtration.",
+    "media": null,
+    "options": [
+      "10 à 20 nanomètres",
+      "Elle mesure entre 240 et 340 nanomètres",
+      "1 à 2 micromètres",
+      "10 à 20 micromètres"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de molécules sont repoussés par la membrane basale glomérulaire?",
+    "explanation": "La charge négative de la membrane basale empêche le passage des molécules chargées négativement.",
+    "media": null,
+    "options": [
+      "Les molécules neutres",
+      "Les molécules chargées négativement",
+      "Les molécules chargées positivement",
+      "Les petites molécules"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la largeur des espaces entre les pédicelles des podocytes?",
+    "explanation": "Ces espaces constituent les fentes de filtration qui sont essentielles pour le processus de filtration glomérulaire.",
+    "media": null,
+    "options": [
+      "10 nanomètres",
+      "Les espaces ont une largeur de 25 nanomètres",
+      "50 nanomètres",
+      "100 nanomètres"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'épaisseur du diaphragme recouvrant les fentes de filtration?",
+    "explanation": "Ce diaphragme joue un rôle important dans la régulation de la filtration des molécules.",
+    "media": null,
+    "options": [
+      "1 nanomètre",
+      "Il mesure 4 nanomètres",
+      "10 nanomètres",
+      "20 nanomètres"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la perméabilité membranaire pour les molécules de moins de 10 KDa?",
+    "explanation": "Les petites molécules, comme l'urée et l'inuline, passent facilement à travers la membrane.",
+    "media": null,
+    "options": [
+      "Nulle",
+      "La perméabilité est maximale",
+      "Moyenne",
+      "Faible"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la perméabilité membranaire pour les molécules au-delà de 70 KDa?",
+    "explanation": "Les grandes molécules, comme l'albumine et les globulines, ne peuvent pas passer à travers la membrane.",
+    "media": null,
+    "options": [
+      "Maximale",
+      "La perméabilité est nulle",
+      "Moyenne",
+      "Faible"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la relation entre la charge des protéines et leur perméabilité?",
+    "explanation": "Les protéines cationiques, comme certaines petites protéines, traversent plus facilement la membrane que les protéines anioniques.",
+    "media": null,
+    "options": [
+      "Les protéines anioniques passent plus facilement",
+      "La perméabilité est plus élevée pour les protéines cationiques que pour les anioniques",
+      "La charge n'affecte pas la perméabilité",
+      "Les protéines neutres passent le mieux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la protéinurie ?",
+    "explanation": "La protéinurie peut être un signe de maladies rénales, car les reins sains filtrent normalement les protéines du sang et les retiennent.",
+    "media": null,
+    "options": [
+      "La présence de sang dans les urines",
+      "La protéinurie est la présence de protéines dans les urines",
+      "La présence de sucre dans les urines",
+      "La présence de bactéries dans les urines"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le principal test pour détecter la protéinurie ?",
+    "explanation": "Les bandelettes urinaires changent de couleur en fonction de la concentration de protéines dans l'urine, permettant une évaluation rapide.",
+    "media": null,
+    "options": [
+      "Une prise de sang",
+      "Le test des bandelettes urinaires",
+      "Une échographie",
+      "Une biopsie rénale"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le mésangium?",
+    "explanation": "Le mésangium joue un rôle important dans le soutien structurel et fonctionnel des capillaires glomérulaires.",
+    "media": null,
+    "options": [
+      "Un vaisseau sanguin",
+      "C'est un tissu conjonctif qui comble les axes des anses capillaires dans le glomérule",
+      "Une cellule nerveuse",
+      "Un type de muscle"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les fonctions des cellules mésangiales?",
+    "explanation": "Les cellules mésangiales contribuent à la santé du glomérule en soutenant les capillaires et en éliminant les débris.",
+    "media": null,
+    "options": [
+      "Produire de l'urine",
+      "Soutien du peloton, phagocytose, entretien de la lame basale",
+      "Transporter l'oxygène",
+      "Stocker les graisses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "De quoi est composée la matrice mésangiale?",
+    "explanation": "La matrice mésangiale offre un soutien structurel aux cellules mésangiales et aux capillaires.",
+    "media": null,
+    "options": [
+      "De cellules vivantes",
+      "Elle est acellulaire et contient des glycoprotéines",
+      "De fibres musculaires",
+      "De tissu osseux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les deux types de néphrons?",
+    "explanation": "Les néphrons courts sont situés dans le cortex, tandis que les néphrons juxtamédullaires s'étendent profondément dans la médullaire, jouant un rôle crucial dans la concentration de l'urine.",
+    "media": null,
+    "options": [
+      "Néphron gauche et droit",
+      "Néphron court et néphron long ou juxtamédullaire",
+      "Néphron actif et inactif",
+      "Néphron primaire et secondaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la quantité totale d'urine filtrée par jour?",
+    "explanation": "Chaque jour, les reins filtrent 180 litres de liquide à partir du sang.",
+    "media": null,
+    "options": [
+      "1,5 L",
+      "180 L",
+      "50 L",
+      "10 L"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel pourcentage du filtrat total est réabsorbé par les capillaires péritubulaires?",
+    "explanation": "Les capillaires péritubulaires réabsorbent 99% du filtrat total, ce qui est essentiel pour conserver les nutriments et l'eau.",
+    "media": null,
+    "options": [
+      "50%",
+      "99%",
+      "10%",
+      "75%"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la quantité d'urine produite par jour?",
+    "explanation": "Après filtration et réabsorption, les reins produisent entre 1 et 2,5 litres d'urine par jour.",
+    "media": null,
+    "options": [
+      "180 L",
+      "1 à 2,5 L",
+      "10 L",
+      "500 ml"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de transport sont impliqués dans la réabsorption?",
+    "explanation": "La réabsorption peut se faire par transport passif (eau, certains électrolytes) ou par transport actif (glucose, Na⁺).",
+    "media": null,
+    "options": [
+      "Transport aérien et maritime",
+      "Transport passif et transport actif",
+      "Transport rapide et lent",
+      "Transport interne et externe"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est un exemple de substance réabsorbée par transport actif?",
+    "explanation": "Le glucose est réabsorbé activement dans les tubules rénaux, ce qui est crucial pour le métabolisme énergétique.",
+    "media": null,
+    "options": [
+      "Eau",
+      "Glucose",
+      "Urée",
+      "Créatinine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'eau dans la réabsorption tubulaire?",
+    "explanation": "L'eau est réabsorbée passivement, suivant le gradient de concentration des solutés dans les tubules rénaux.",
+    "media": null,
+    "options": [
+      "Elle est sécrétée activement",
+      "Elle est réabsorbée selon le gradient de concentration",
+      "Elle est filtrée mais pas réabsorbée",
+      "Elle est transformée en urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles substances chimiques sont filtrées dans le plasma?",
+    "explanation": "Le plasma contient diverses substances chimiques qui sont filtrées, y compris le glucose et les électrolytes.",
+    "media": null,
+    "options": [
+      "Protéines et cellules sanguines",
+      "Glucose, Chlore, Sodium, Bicarbonates, Potassium, Urée, Créatinine",
+      "Lipides et cholestérol",
+      "Hormones et enzymes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la longueur du tube contourné proximal?",
+    "explanation": "Le tube contourné proximal est le segment le plus long du néphron, jouant un rôle crucial dans la réabsorption des solutés.",
+    "media": null,
+    "options": [
+      "1 à 2 mm",
+      "Le tube contourné proximal mesure entre 12 et 14 mm",
+      "50 à 60 mm",
+      "100 mm"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le diamètre du tube contourné proximal?",
+    "explanation": "Ce diamètre relativement large facilite le passage des fluides et des solutés à travers le néphron.",
+    "media": null,
+    "options": [
+      "10 à 20 micromètres",
+      "Le diamètre du tube contourné proximal est de 50 à 60 micromètres",
+      "100 à 200 micromètres",
+      "1 à 2 millimètres"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel pourcentage du volume de l'ultra-filtrat glomérulaire est réabsorbé par le tube contourné proximal?",
+    "explanation": "Cette réabsorption est essentielle pour conserver l'eau et les solutés nécessaires à l'organisme.",
+    "media": null,
+    "options": [
+      "10 %",
+      "Le tube contourné proximal réabsorbe 65 % du volume de l'ultra-filtrat glomérulaire",
+      "90 %",
+      "30 %"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles substances sont presque entièrement réabsorbées par le tube contourné proximal?",
+    "explanation": "La réabsorption de ces substances est cruciale pour éviter leur perte dans l'urine et pour maintenir l'homéostasie.",
+    "media": null,
+    "options": [
+      "L'urée et la créatinine",
+      "Le tube contourné proximal réabsorbe presque totalement le glucose et les acides aminés",
+      "Le sodium et le potassium",
+      "L'eau et le chlore"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "De quoi est entouré le tube contourné proximal?",
+    "explanation": "Ces réseaux capillaires sont essentiels pour la réabsorption des solutés et de l'eau dans le néphron.",
+    "media": null,
+    "options": [
+      "De tissu adipeux",
+      "Le tube contourné proximal est entouré de très riches réseaux capillaires issus de l'artériole efférente du glomérule",
+      "De tissu musculaire",
+      "De tissu nerveux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la structure histologique de l'épithélium?",
+    "explanation": "L'épithélium simple cubique est composé d'une seule couche de cellules cubiques, ce qui permet une absorption et une sécrétion efficaces.",
+    "media": null,
+    "options": [
+      "Stratifié pavimenteux",
+      "L'épithélium est de type simple cubique",
+      "Cylindrique cilié",
+      "Transitionnel"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de cytoplasme est présent dans cette structure histologique?",
+    "explanation": "Le cytoplasme acidophile a une affinité pour les colorants acides, ce qui indique une richesse en protéines et en organites.",
+    "media": null,
+    "options": [
+      "Basophile",
+      "Le cytoplasme est acidophile",
+      "Neutrophile",
+      "Chromophobe"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de différenciation apicale est observé?",
+    "explanation": "La bordure en brosse est une structure spécialisée qui augmente la surface d'absorption des cellules épithéliales, notamment dans les intestins.",
+    "media": null,
+    "options": [
+      "Cils vibratiles",
+      "La différenciation apicale est de type 'bordure en brosse'",
+      "Stéréocils",
+      "Kératinisation"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les caractéristiques des mitochondries dans cette structure?",
+    "explanation": "Les mitochondries basales fournissent l'énergie nécessaire aux fonctions cellulaires, en particulier dans les cellules à haute activité métabolique.",
+    "media": null,
+    "options": [
+      "Apicales",
+      "Les mitochondries sont basales",
+      "Dispersées",
+      "Absentes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction des microvillosités apicales dans le tube contourné proximal?",
+    "explanation": "Les microvillosités, en augmentant la surface d'absorption, facilitent la réabsorption des substances dans le tube contourné proximal.",
+    "media": null,
+    "options": [
+      "Sécrétion d'hormones",
+      "Les microvillosités apicales augmentent la surface d'absorption",
+      "Protection mécanique",
+      "Transport de l'oxygène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la bordure en brosse dans le tube contourné proximal?",
+    "explanation": "La bordure en brosse, formée par les microvillosités, augmente l'efficacité de la réabsorption des nutriments et des électrolytes.",
+    "media": null,
+    "options": [
+      "Filtration du sang",
+      "La bordure en brosse joue un rôle dans la réabsorption",
+      "Production d'urine",
+      "Stockage des déchets"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de transport est effectué par la pompe Na+-K+ ATPase dans le tube contourné proximal?",
+    "explanation": "Cette pompe maintient les gradients ioniques en transportant le sodium hors de la cellule et le potassium dans la cellule, ce qui est essentiel pour diverses fonctions cellulaires.",
+    "media": null,
+    "options": [
+      "Transport passif",
+      "La pompe Na+-K+ ATPase effectue un transport actif",
+      "Diffusion facilitée",
+      "Osmose"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la structure de la membrane basolatérale dans le tube contourné proximal?",
+    "explanation": "Les invaginations de la membrane basolatérale augmentent la surface pour les échanges avec le sang, facilitant ainsi le transport des solutés.",
+    "media": null,
+    "options": [
+      "Lisse et plate",
+      "La membrane basolatérale présente des invaginations",
+      "Ciliée",
+      "Kératinisée"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "À quoi servent les mitochondries dans le tube contourné proximal?",
+    "explanation": "Les mitochondries produisent de l'ATP, qui est nécessaire pour alimenter les pompes ioniques et autres mécanismes de transport actif dans les cellules du tube contourné proximal.",
+    "media": null,
+    "options": [
+      "Synthèse des protéines",
+      "Les mitochondries fournissent de l'énergie pour le transport actif",
+      "Stockage du calcium",
+      "Dégradation des déchets"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel pourcentage de sodium est réabsorbé dans le TCP?",
+    "explanation": "Dans le tubule contourné proximal (TCP), environ 65% du sodium et de l'eau sont réabsorbés rapidement.",
+    "media": null,
+    "options": [
+      "10%",
+      "65%",
+      "90%",
+      "100%"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'ATP dans la réabsorption du sodium?",
+    "explanation": "L'ATP fournit l'énergie nécessaire pour le fonctionnement de la pompe Na+/K+ ATPase, qui aide à réabsorber le sodium dans le TCP.",
+    "media": null,
+    "options": [
+      "Il transporte le sodium passivement",
+      "L'ATP est utilisé pour alimenter la pompe Na+/K+ ATPase",
+      "Il bloque la réabsorption",
+      "Il n'a aucun rôle"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle molécule est impliquée dans le transport du sodium dans le TCP?",
+    "explanation": "La pompe Na+/K+ ATPase est essentielle pour maintenir les gradients de sodium et de potassium dans les cellules du TCP.",
+    "media": null,
+    "options": [
+      "Glucose",
+      "Pompe Na+/K+ ATPase",
+      "Insuline",
+      "Hémoglobine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles autres substances sont réabsorbées rapidement dans le TCP?",
+    "explanation": "En plus du sodium, le TCP réabsorbe rapidement l'eau, le glucose et les acides aminés, contribuant à l'homéostasie corporelle.",
+    "media": null,
+    "options": [
+      "Urée et créatinine",
+      "Eau, glucose, acides aminés",
+      "Protéines et lipides",
+      "Vitamines et minéraux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le pourcentage de sodium réabsorbé par le TCP?",
+    "explanation": "Le TCP (tubule contourné proximal) est responsable de la réabsorption de 65% du sodium filtré, ce qui est crucial pour l'équilibre électrolytique.",
+    "media": null,
+    "options": [
+      "10%",
+      "65%",
+      "50%",
+      "100%"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel pourcentage de chlore est réabsorbé par le TCP?",
+    "explanation": "Le TCP réabsorbe 50% du chlore, contribuant ainsi à l'équilibre des électrolytes dans le corps.",
+    "media": null,
+    "options": [
+      "65%",
+      "50%",
+      "100%",
+      "10%"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le taux de réabsorption du glucose par le TCP?",
+    "explanation": "Le TCP réabsorbe 100% du glucose filtré, ce qui est essentiel pour éviter la perte de glucose dans l'urine.",
+    "media": null,
+    "options": [
+      "50%",
+      "100%",
+      "65%",
+      "0%"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel rôle jouent les bicarbonates dans le TCP?",
+    "explanation": "90% des bicarbonates sont échangés avec des protons dans le TCP, jouant un rôle clé dans le maintien de l'équilibre acido-basique de l'organisme.",
+    "media": null,
+    "options": [
+      "Ils sont excrétés",
+      "Ils échangent avec des protons pour maintenir l'équilibre acido-basique",
+      "Ils sont stockés",
+      "Ils ne jouent aucun rôle"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Combien de liquide reste-t-il après le TCP sur 125 ml filtrés par minute?",
+    "explanation": "À la fin du TCP, il reste 40 ml de liquide sur les 125 ml filtrés par minute, indiquant une réabsorption significative.",
+    "media": null,
+    "options": [
+      "125 ml",
+      "40 ml",
+      "10 ml",
+      "0 ml"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que l'anse de Henlé?",
+    "explanation": "L'anse de Henlé joue un rôle crucial dans la réabsorption de l'eau et des électrolytes, contribuant ainsi à la formation de l'urine concentrée.",
+    "media": null,
+    "options": [
+      "Une partie du foie",
+      "L'anse de Henlé est une partie du néphron dans le rein, impliquée dans la concentration de l'urine",
+      "Un vaisseau sanguin",
+      "Une glande endocrine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale de l'anse de Henlé?",
+    "explanation": "L'anse de Henlé permet de créer un gradient osmotique qui aide à la réabsorption de l'eau dans les tubules rénaux.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "La fonction principale de l'anse de Henlé est de réabsorber l'eau et les ions, notamment le sodium, le potassium et le chlore",
+      "Produire de l'urine",
+      "Stocker les déchets"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les deux branches de l'anse de Henlé?",
+    "explanation": "La branche descendante est perméable à l'eau, tandis que la branche ascendante est imperméable à l'eau mais perméable aux ions.",
+    "media": null,
+    "options": [
+      "Branche gauche et droite",
+      "Les deux branches de l'anse de Henlé sont la branche descendante et la branche ascendante",
+      "Branche supérieure et inférieure",
+      "Branche interne et externe"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de cellules se trouve dans la branche ascendante de l'anse de Henlé?",
+    "explanation": "Ces cellules jouent un rôle clé dans la réabsorption des ions sodium, potassium et chlore, contribuant à l'homéostasie électrolytique.",
+    "media": null,
+    "options": [
+      "Cellules musculaires",
+      "La branche ascendante de l'anse de Henlé contient des cellules épithéliales cubiques qui sont responsables du transport actif des ions",
+      "Cellules nerveuses",
+      "Cellules sanguines"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment l'anse de Henlé aide-t-elle à concentrer l'urine?",
+    "explanation": "Ce mécanisme est essentiel pour la régulation de la concentration de l'urine et la conservation de l'eau dans l'organisme.",
+    "media": null,
+    "options": [
+      "En ajoutant de l'eau",
+      "L'anse de Henlé crée un gradient osmotique dans la médullaire rénale, permettant la réabsorption de l'eau dans les tubules collecteurs",
+      "En bloquant le passage de l'urine",
+      "En augmentant la pression sanguine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de l'anse de Henlé?",
+    "explanation": "L'anse de Henlé contribue à l'osmolarité élevée de la médullaire, essentielle pour la concentration de l'urine.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "L'anse de Henlé permet de produire une urine concentrée grâce à un système multiplicateur à contre-courant",
+      "Produire des hormones",
+      "Stocker l'urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel hormone influence la perméabilité du tubule collecteur?",
+    "explanation": "En présence d'ADH, le tubule collecteur devient perméable à l'eau, permettant sa réabsorption dans l'interstitium médullaire.",
+    "media": null,
+    "options": [
+      "L'insuline",
+      "L'ADH (hormone anti-diurétique) influence la perméabilité du tubule collecteur à l'eau",
+      "L'adrénaline",
+      "La thyroxine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment l'eau est-elle évacuée de l'interstitium médullaire?",
+    "explanation": "L'évacuation de l'eau par les vasa recta permet de maintenir l'osmolarité dans la médullaire et de retourner l'eau à la circulation sanguine.",
+    "media": null,
+    "options": [
+      "Par les uretères",
+      "L'eau est évacuée de l'interstitium médullaire par les vasa recta",
+      "Par la vessie",
+      "Par les reins"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le résultat de la fonction de l'anse de Henlé?",
+    "explanation": "La concentration élevée de l'urine est due à la réabsorption passive de l'eau et à l'osmolarité élevée de la médullaire.",
+    "media": null,
+    "options": [
+      "Une urine diluée",
+      "L'anse de Henlé produit une urine hyper-osmolaire",
+      "Une urine neutre",
+      "Une urine sans solutés"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qui détermine l'osmolarité élevée de la médullaire?",
+    "explanation": "Les anses de Henlé créent un gradient osmotique qui permet la réabsorption d'eau et la concentration de l'urine.",
+    "media": null,
+    "options": [
+      "Les glomérules",
+      "L'osmolarité élevée de la médullaire est due uniquement aux anses de Henlé",
+      "Les tubules proximaux",
+      "Les tubules distaux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de l'anse de Henlé?",
+    "explanation": "L'anse de Henlé contribue à la création d'un gradient osmotique dans la médullaire rénale, essentiel pour la réabsorption de l'eau.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "L'anse de Henlé est chargée de rendre hyperosmolaire la médulaire",
+      "Produire de l'urine",
+      "Stocker les déchets"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est l'intérêt principal de l'anse de Henlé?",
+    "explanation": "L'anse de Henlé permet la réabsorption d'eau, facilitée par l'hormone antidiurétique (ADH), ce qui est crucial pour la régulation de l'équilibre hydrique.",
+    "media": null,
+    "options": [
+      "Éliminer les toxines",
+      "Récupérer l'eau de façon passive et ADH-dépendant",
+      "Réguler la pression sanguine",
+      "Produire des hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de la capsule de Bowman?",
+    "explanation": "La capsule de Bowman joue un rôle crucial dans la filtration du sang, permettant aux substances comme l'eau, les ions et les petites molécules de passer tout en retenant les cellules sanguines et les protéines.",
+    "media": null,
+    "options": [
+      "Stocker l'urine",
+      "La capsule de Bowman recueille le filtrat glomérulaire provenant des capillaires glomérulaires",
+      "Transporter l'urine vers la vessie",
+      "Réabsorber l'eau"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du tube contourné distal (TCD)?",
+    "explanation": "Le TCD ajuste la composition du filtrat en fonction des besoins de l'organisme, contribuant à l'équilibre électrolytique et à la régulation de la pression artérielle.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "Le TCD est responsable de la réabsorption de l'eau et des ions, et de l'excrétion de certains déchets",
+      "Produire de l'urine concentrée",
+      "Stocker les nutriments"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment fonctionne le système multiplicateur à contre-courant?",
+    "explanation": "Le système multiplicateur à contre-courant utilise des différences de perméabilité pour l'eau et les solutés afin de maximiser la concentration de l'urine, favorisant ainsi la réabsorption de l'eau.",
+    "media": null,
+    "options": [
+      "Il dilue l'urine",
+      "Il permet de concentrer l'urine en créant un gradient osmotique dans la médullaire rénale",
+      "Il filtre les protéines",
+      "Il transporte les déchets"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la caractéristique de la branche ascendante large du néphron?",
+    "explanation": "La branche ascendante large joue un rôle clé dans la dilution du filtrat et la réabsorption des électrolytes, sans permettre le passage de l'eau.",
+    "media": null,
+    "options": [
+      "Elle est perméable à l'eau",
+      "Elle est imperméable à l'eau mais perméable au Na+ et Cl-",
+      "Elle absorbe le glucose",
+      "Elle sécrète des hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pourquoi la branche descendante grêle est-elle importante?",
+    "explanation": "La perméabilité de la branche descendante grêle à l'eau permet à l'eau de sortir du filtrat, ce qui contribue à la concentration de l'urine dans l'anse de Henle.",
+    "media": null,
+    "options": [
+      "Elle est imperméable à l'eau",
+      "Elle est perméable à l'eau mais imperméable aux solutés",
+      "Elle transporte activement le sodium",
+      "Elle dilue l'urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'osmolarité de la branche ascendante large du néphron?",
+    "explanation": "La branche ascendante large du néphron a une osmolarité de 300 mosm/l, ce qui est important pour le transport des solutés.",
+    "media": null,
+    "options": [
+      "1200 mosm/l",
+      "300 mosm/l",
+      "600 mosm/l",
+      "100 mosm/l"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les caractéristiques de la branche ascendante large?",
+    "explanation": "Cette branche joue un rôle clé dans la réabsorption de NaCl tout en étant imperméable à l'eau, contribuant à la concentration du filtrat.",
+    "media": null,
+    "options": [
+      "Perméable à l'eau",
+      "Imperméable à l'eau et transporte activement NaCl via le symport Na+K+2Cl-",
+      "Transporte passivement l'eau",
+      "Aucune de ces réponses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'osmolarité de la branche ascendante grêle?",
+    "explanation": "La branche ascendante grêle a une osmolarité de 1200 mosm/l, ce qui est essentiel pour le mécanisme de concentration de l'urine.",
+    "media": null,
+    "options": [
+      "300 mosm/l",
+      "1200 mosm/l",
+      "600 mosm/l",
+      "900 mosm/l"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les propriétés de la branche descendante grêle?",
+    "explanation": "Cette branche permet la réabsorption d'eau tout en empêchant le passage de sodium, contribuant à l'hyperosmolarité de l'urine.",
+    "media": null,
+    "options": [
+      "Imperméable à l'eau",
+      "Perméable à l'eau et imperméable au Na+",
+      "Perméable au Na+",
+      "Transporte activement le glucose"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le pourcentage d'eau réabsorbée dans la partie descendante de l'anse de Henlé?",
+    "explanation": "Dans cette section, 15% de l'eau filtrée est réabsorbée, ce qui est crucial pour la concentration de l'urine.",
+    "media": null,
+    "options": [
+      "50%",
+      "15% de l'eau est réabsorbée",
+      "25%",
+      "100%"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que se passe-t-il dans la partie ascendante de l'anse de Henlé?",
+    "explanation": "Dans la partie ascendante, le filtrat devient dilué et les solutés comme le sodium, le chlore et le potassium sont réabsorbés.",
+    "media": null,
+    "options": [
+      "L'eau est réabsorbée",
+      "Le filtrat est dilué et les solutés sont extraits",
+      "Le filtrat est concentré",
+      "Rien ne se passe"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'anse de Henlé dans le rein?",
+    "explanation": "Le mode asymétrique de réabsorption du NaCl et de l'eau dans les deux branches de l'anse de Henlé permet de concentrer le filtrat dans la partie descendante et de le diluer dans la partie ascendante.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "L'anse de Henlé crée un gradient osmotique dans la région médullaire rénale",
+      "Produire de l'urine",
+      "Stocker les déchets"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que se passe-t-il dans la partie descendante de l'anse de Henlé?",
+    "explanation": "Cela conduit à la concentration du filtrat, avec 15% de l'eau réabsorbée dans cette section.",
+    "media": null,
+    "options": [
+      "Les solutés sortent",
+      "L'eau sort du filtrat tandis que les solutés y restent",
+      "L'eau entre dans le filtrat",
+      "Rien ne se passe"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel pourcentage de l'eau est réabsorbé dans la partie descendante de l'anse de Henlé?",
+    "explanation": "Cette réabsorption contribue à la concentration du filtrat dans le rein.",
+    "media": null,
+    "options": [
+      "50%",
+      "15% de l'eau est réabsorbé",
+      "25%",
+      "10%"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que se passe-t-il dans la partie ascendante de l'anse de Henlé?",
+    "explanation": "Cela permet de diluer le filtrat, avec une réabsorption de 25% du sodium, du chlore et du potassium.",
+    "media": null,
+    "options": [
+      "L'eau sort",
+      "Les solutés sont extraits du filtrat tandis que l'eau y reste",
+      "Les solutés entrent",
+      "Rien ne se passe"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel pourcentage de sodium, de chlore et de potassium est réabsorbé dans la partie ascendante de l'anse de Henlé?",
+    "explanation": "Cette réabsorption est cruciale pour maintenir l'équilibre électrolytique dans le corps.",
+    "media": null,
+    "options": [
+      "10%",
+      "25% du sodium, du chlore et du potassium est réabsorbé",
+      "50%",
+      "75%"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les deux types de néphrons mentionnés?",
+    "explanation": "Les néphrons corticaux ont un trajet intramédullaire court, tandis que les néphrons juxtamédullaires ont un trajet long avec des anses de Henlé longues.",
+    "media": null,
+    "options": [
+      "Néphrons longs et courts",
+      "Néphrons corticaux et néphrons juxtamédullaires",
+      "Néphrons actifs et inactifs",
+      "Néphrons primaires et secondaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'importance des néphrons juxtamédullaires?",
+    "explanation": "Ces néphrons permettent une réabsorption plus efficace de l'eau et des solutés, crucial pour la concentration urinaire.",
+    "media": null,
+    "options": [
+      "Ils filtrent le sang",
+      "Ils ont une grande importance dans la concentration des urines",
+      "Ils produisent des hormones",
+      "Ils stockent l'urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale du tube contourné distal?",
+    "explanation": "Le tube contourné distal joue un rôle clé dans la régulation des électrolytes et l'équilibre acido-basique, en réabsorbant le sodium et en sécrétant le potassium.",
+    "media": null,
+    "options": [
+      "La filtration du sang",
+      "La réabsorption des ions Na+ et l'imperméabilité à l'eau",
+      "La production d'urine",
+      "Le stockage des déchets"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'épithélium compose le tube contourné distal?",
+    "explanation": "L'épithélium cubique simple du tube contourné distal est essentiel pour sa fonction de réabsorption et son imperméabilité à l'eau.",
+    "media": null,
+    "options": [
+      "Épithélium pavimenteux",
+      "Épithélium cubique simple",
+      "Épithélium cylindrique",
+      "Épithélium stratifié"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel rôle joue l'aldostérone dans le tube contourné distal?",
+    "explanation": "L'aldostérone favorise la réabsorption du sodium en augmentant l'activité des canaux et des pompes dans les cellules du tube contourné distal.",
+    "media": null,
+    "options": [
+      "Elle inhibe la réabsorption de Na+",
+      "Elle contrôle la réabsorption des ions Na+",
+      "Elle favorise l'excrétion de l'eau",
+      "Elle n'a aucun effet"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles structures sont visibles dans la diapositive du tube contourné distal?",
+    "explanation": "La bordure en brosse (BB) est une caractéristique des cellules épithéliales qui augmente la surface de réabsorption, tandis que TCP et TCD désignent les segments des tubules rénaux.",
+    "media": null,
+    "options": [
+      "Glomérule et capsule de Bowman",
+      "BB (bordure en brosse), TCP (tube contourné proximal), TCD (tube contourné distal)",
+      "Anse de Henlé et tube collecteur",
+      "Artériole afférente et efférente"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pourquoi le tube contourné distal est-il important pour l'équilibre acido-basique?",
+    "explanation": "En régulant la concentration des ions sodium et potassium, le tube contourné distal contribue à l'équilibre acido-basique et à la stabilité du milieu intérieur.",
+    "media": null,
+    "options": [
+      "Il produit des acides",
+      "Il réabsorbe des ions Na+ et sécrète des ions K+",
+      "Il élimine le CO2",
+      "Il stocke les bases"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'épithélium se trouve dans le tube collecteur?",
+    "explanation": "L'épithélium cubique simple est caractérisé par des cellules de forme cubique, ce qui permet une certaine perméabilité et sécrétion.",
+    "media": null,
+    "options": [
+      "Épithélium pavimenteux",
+      "Épithélium cubique simple",
+      "Épithélium cylindrique",
+      "Épithélium stratifié"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment s'appelle le tube qui devient de plus en plus large dans le système urinaire?",
+    "explanation": "Le tube de Bellini est la partie du néphron qui collecte l'urine et se dilate avant de se déverser dans le bassinet du rein.",
+    "media": null,
+    "options": [
+      "Tube de Henlé",
+      "Tube de Bellini",
+      "Tube contourné proximal",
+      "Tube contourné distal"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les deux types de cellules dans le tube collecteur?",
+    "explanation": "Les cellules claires sont principalement impliquées dans la réabsorption de l'eau, tandis que les cellules sombres sont liées à la sécrétion d'ions.",
+    "media": null,
+    "options": [
+      "Cellules rouges et blanches",
+      "Cellules claires et cellules sombres",
+      "Cellules musculaires et nerveuses",
+      "Cellules épithéliales et endothéliales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale du tube collecteur?",
+    "explanation": "L'hormone antidiurétique (ADH) augmente la perméabilité des cellules du tube collecteur pour permettre la réabsorption de l'eau.",
+    "media": null,
+    "options": [
+      "Filtrer le sang",
+      "Perméable à l'eau sous le contrôle de l'hormone antidiurétique",
+      "Produire de l'urine",
+      "Stocker les déchets"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'hormone antidiurétique (ADH) dans le tube collecteur?",
+    "explanation": "L'ADH agit sur les récepteurs des cellules principales du tube collecteur pour favoriser l'insertion d'aquaporines, permettant ainsi la réabsorption de l'eau.",
+    "media": null,
+    "options": [
+      "Elle diminue la perméabilité à l'eau",
+      "Elle augmente la perméabilité des cellules à l'eau",
+      "Elle bloque la réabsorption de l'eau",
+      "Elle n'a aucun effet"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles cellules libèrent la rénine?",
+    "explanation": "Les cellules juxtaglomérulaires sont responsables de la libération de la rénine, une enzyme clé dans la régulation de la pression sanguine.",
+    "media": null,
+    "options": [
+      "Les cellules mésangiales",
+      "Les cellules juxtaglomérulaires",
+      "Les cellules de la macula densa",
+      "Les cellules endothéliales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des barorécepteurs de l'artériole afférente?",
+    "explanation": "Les barorécepteurs dans l'artériole afférente jouent un rôle crucial dans la détection de la pression sanguine et influencent la libération de rénine.",
+    "media": null,
+    "options": [
+      "Ils filtrent le sang",
+      "Ils détectent la pression et régulent la libération de rénine",
+      "Ils produisent de l'urine",
+      "Ils absorbent le sodium"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que régulent les cellules mésangiales extraglomérulaires?",
+    "explanation": "Les cellules mésangiales extraglomérulaires sont contractiles et aident à maintenir un flux sanguin optimal dans le glomérule.",
+    "media": null,
+    "options": [
+      "La pression artérielle",
+      "Elles régulent le flux sanguin capillaire",
+      "La concentration de sodium",
+      "La production d'hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la macula densa?",
+    "explanation": "La macula densa est un groupe de cellules qui surveillent le sodium et influencent la libération de rénine en réponse aux changements de concentration de NaCl.",
+    "media": null,
+    "options": [
+      "Elle produit de la rénine",
+      "Elle détecte la concentration de NaCl dans le tubule distal",
+      "Elle filtre le sang",
+      "Elle régule le pH sanguin"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment se produit la libération de rénine par l'appareil juxtaglomérulaire?",
+    "explanation": "La libération de rénine est un processus complexe influencé par la pression artérielle, la concentration de sodium et les signaux des barorécepteurs.",
+    "media": null,
+    "options": [
+      "Par diffusion passive",
+      "En réponse à la pression, au sodium et à la stimulation des barorécepteurs",
+      "Par transport actif",
+      "Par osmose"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'enzyme de conversion de l'angiotensine?",
+    "explanation": "L'enzyme de conversion de l'angiotensine joue un rôle clé dans la régulation de la pression artérielle en produisant l'angiotensine II, un puissant vasoconstricteur.",
+    "media": null,
+    "options": [
+      "Elle dégrade l'angiotensine II",
+      "Elle convertit l'angiotensine I en angiotensine II",
+      "Elle produit de la rénine",
+      "Elle inhibe l'aldostérone"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel effet a l'angiotensine II sur les vaisseaux sanguins?",
+    "explanation": "L'angiotensine II est un peptide qui cause le rétrécissement des vaisseaux sanguins, ce qui augmente la pression artérielle.",
+    "media": null,
+    "options": [
+      "Elle provoque une vasodilatation",
+      "Elle provoque une vasoconstriction",
+      "Elle n'a aucun effet",
+      "Elle détruit les vaisseaux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la rénine dans le système rénine-angiotensine?",
+    "explanation": "La rénine est une enzyme produite par les reins qui initie la cascade de réactions dans le système rénine-angiotensine-aldostérone.",
+    "media": null,
+    "options": [
+      "Elle convertit l'angiotensine II en angiotensine I",
+      "Elle convertit l'angiotensinogène en angiotensine I",
+      "Elle stimule la production d'aldostérone directement",
+      "Elle inhibe la vasoconstriction"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est l'effet de l'aldostérone sur le volume plasmatique?",
+    "explanation": "L'aldostérone favorise la réabsorption du sodium et de l'eau par les reins, ce qui augmente le volume plasmatique.",
+    "media": null,
+    "options": [
+      "Elle diminue le volume plasmatique",
+      "Elle augmente le volume plasmatique",
+      "Elle n'a aucun effet",
+      "Elle provoque une déshydratation"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'angiotensinogène dans le système rénine-angiotensine?",
+    "explanation": "L'angiotensinogène est une protéine produite par le foie qui est convertie en angiotensine I par la rénine.",
+    "media": null,
+    "options": [
+      "C'est une enzyme active",
+      "C'est un précurseur de l'angiotensine I",
+      "C'est un produit final",
+      "C'est un inhibiteur"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'épithélium se trouve dans la papille rénale?",
+    "explanation": "L'épithélium prismatique simple est caractérisé par des cellules hautes et étroites, souvent impliquées dans l'absorption et la sécrétion.",
+    "media": null,
+    "options": [
+      "Épithélium pavimenteux",
+      "Épithélium prismatique simple",
+      "Épithélium cubique",
+      "Épithélium stratifié"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les types d'épithélium présents dans les calices et le bassinet?",
+    "explanation": "L'épithélium de type urinaire est conçu pour résister à l'urine et à l'étirement, permettant la distension des structures urinaires.",
+    "media": null,
+    "options": [
+      "Épithélium respiratoire",
+      "Épithélium de type urinaire",
+      "Épithélium digestif",
+      "Épithélium cutané"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la caractéristique de la musculeuse des calices et du bassinet?",
+    "explanation": "La musculeuse peu développée permet une certaine flexibilité et contraction, mais n'est pas aussi robuste que dans d'autres parties du système urinaire.",
+    "media": null,
+    "options": [
+      "Musculeuse très épaisse",
+      "Musculeuse peu développée",
+      "Absence de musculeuse",
+      "Musculeuse striée"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'adventice dans les calices et le bassinet?",
+    "explanation": "L'adventice est la couche externe qui protège et soutient les organes, permettant leur fixation dans la cavité corporelle.",
+    "media": null,
+    "options": [
+      "Sécrétion d'hormones",
+      "Support structurel",
+      "Absorption des nutriments",
+      "Filtration du sang"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles structures sont présentes dans le pelvis rénal selon l'extrait?",
+    "explanation": "Les ducs collecteurs transportent l'urine des néphrons vers le bassinet, tandis que l'épithélium transitionnel permet l'étirement des parois lors du remplissage.",
+    "media": null,
+    "options": [
+      "Glomérules et tubules",
+      "Ducs collecteurs et épithélium transitionnel",
+      "Artères et veines",
+      "Nerfs et ganglions"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la structure principale de l'uretère?",
+    "explanation": "L'uretère est un conduit qui transporte l'urine des reins vers la vessie, et il est divisé en plusieurs segments selon sa localisation.",
+    "media": null,
+    "options": [
+      "Un tube simple",
+      "L'uretère est composé de plusieurs portions : abdominale, iliaque, pelvienne et vésicale",
+      "Un sac musculaire",
+      "Un réseau de capillaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'épithélium compose l'uretère?",
+    "explanation": "Cet épithélium est conçu pour résister à l'effet de l'urine et à l'étirement, permettant ainsi un transport efficace.",
+    "media": null,
+    "options": [
+      "Épithélium pavimenteux simple",
+      "L'épithélium de l'uretère est de type urinaire et est constitué de 5 à 6 assises",
+      "Épithélium cylindrique cilié",
+      "Épithélium cubique stratifié"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les caractéristiques de la lumière urétérale?",
+    "explanation": "Les plis longitudinaux permettent à l'uretère de s'étirer et de se contracter, facilitant ainsi le passage de l'urine.",
+    "media": null,
+    "options": [
+      "Elle est lisse et ronde",
+      "La lumière urétérale présente des plis longitudinaux",
+      "Elle est obstruée",
+      "Elle contient des villosités"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la composition de la musculeuse de l'uretère?",
+    "explanation": "Une musculeuse bien développée permet des contractions efficaces, aidant à propulser l'urine vers la vessie.",
+    "media": null,
+    "options": [
+      "Elle est absente",
+      "La musculeuse de l'uretère est développée",
+      "Elle est très fine",
+      "Elle est composée de cartilage"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les trois tuniques de la vessie?",
+    "explanation": "La vessie est composée de trois couches distinctes qui jouent un rôle dans son fonctionnement et sa structure.",
+    "media": null,
+    "options": [
+      "Épiderme, derme, hypoderme",
+      "Les trois tuniques de la vessie sont : 1) une muqueuse, 2) une musculaire (Détrusor), 3) une adventice",
+      "Cortex, médulla, capsule",
+      "Endocarde, myocarde, épicarde"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'épithélium se trouve dans la vessie?",
+    "explanation": "L'épithélium urinaire est conçu pour résister à des conditions variables, notamment la distension et l'exposition à l'urine.",
+    "media": null,
+    "options": [
+      "Épithélium simple",
+      "L'épithélium de type urinaire, qui comprend 6 à 8 couches",
+      "Épithélium stratifié kératinisé",
+      "Épithélium glandulaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les caractéristiques des cellules superficielles de l'épithélium urinaire?",
+    "explanation": "La présence de cellules binucléées dans l'épithélium urinaire contribue à sa fonction de protection et d'adaptation.",
+    "media": null,
+    "options": [
+      "Elles sont toujours mononucléées",
+      "Les cellules superficielles sont parfois binucléées",
+      "Elles sont mortes",
+      "Elles sont ciliées"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du chorion dans la vessie?",
+    "explanation": "Le chorion permet à la vessie de s'étirer et de se contracter tout en maintenant son intégrité structurelle.",
+    "media": null,
+    "options": [
+      "Il produit de l'urine",
+      "Le chorion est un tissu conjonctif élastique",
+      "Il filtre le sang",
+      "Il stocke les graisses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'épithélium est présent dans la vessie?",
+    "explanation": "L'urothélium est un épithélium stratifié spécialisé qui tapisse la vessie et permet l'étirement lors de son remplissage.",
+    "media": null,
+    "options": [
+      "Épithélium pavimenteux",
+      "L'urothélium",
+      "Épithélium cylindrique",
+      "Épithélium cubique"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les cellules superficielles de l'épithélium vésical?",
+    "explanation": "Ces cellules jouent un rôle crucial dans la protection et l'étanchéité de la vessie.",
+    "media": null,
+    "options": [
+      "Cellules basales",
+      "Cellules superficielles (cs) parfois binucléées",
+      "Cellules intermédiaires",
+      "Cellules caliciformes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles cellules composent la couche moyenne de l'épithélium vésical?",
+    "explanation": "Ces cellules contribuent à la structure et à la fonction de l'urothélium.",
+    "media": null,
+    "options": [
+      "Cellules squameuses",
+      "Cellules en raquette (cr)",
+      "Cellules cylindriques",
+      "Cellules cubiques"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la membrane basale (MB) dans l'épithélium vésical?",
+    "explanation": "La membrane basale fournit un support structurel et joue un rôle dans la filtration et la régénération cellulaire.",
+    "media": null,
+    "options": [
+      "Produire du mucus",
+      "Sépare l'épithélium du chorion sous-jacent (CH)",
+      "Absorber les nutriments",
+      "Transporter l'oxygène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment l'épithélium de la vessie change-t-il lorsque celle-ci est pleine?",
+    "explanation": "L'urothélium est capable de s'étirer pour permettre l'accumulation d'urine dans la vessie.",
+    "media": null,
+    "options": [
+      "Il se contracte",
+      "Il s'étire",
+      "Il s'épaissit",
+      "Il disparaît"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la caractéristique des cellules basales (cb) de l'épithélium vésical?",
+    "explanation": "Ces cellules sont responsables de la régénération de l'épithélium et de la protection des couches supérieures.",
+    "media": null,
+    "options": [
+      "Elles sont très grandes",
+      "Elles ont des noyaux serrés les uns contre les autres",
+      "Elles sont absentes",
+      "Elles sont transparentes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'apparence de l'urothélium dans une vessie vide?",
+    "explanation": "Lorsque la vessie est vide, l'urothélium présente des plis qui permettent une expansion lors du remplissage.",
+    "media": null,
+    "options": [
+      "Il est mince et lisse",
+      "Il est plus épais et plissé",
+      "Il est transparent",
+      "Il est rigide"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'urothélium dans l'appareil urinaire?",
+    "explanation": "L'urothélium protège les tissus sous-jacents des substances toxiques dans l'urine et empêche les fuites.",
+    "media": null,
+    "options": [
+      "Digestion",
+      "Protection et étanchéité",
+      "Respiration",
+      "Circulation"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'une cuticule en biologie?",
+    "explanation": "La cuticule joue un rôle crucial dans la protection des tissus sous-jacents et peut également participer à la régulation de l'humidité.",
+    "media": null,
+    "options": [
+      "Une cellule nerveuse",
+      "La cuticule est une couche protectrice qui recouvre la surface de certaines cellules, notamment dans les tissus épithéliaux",
+      "Un type de muscle",
+      "Une glande endocrine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de microscope est utilisé pour étudier la cuticule?",
+    "explanation": "Le microscope optique permet d'observer des structures cellulaires, tandis que le microscope électronique offre une résolution suffisante pour voir des détails ultrastructuraux.",
+    "media": null,
+    "options": [
+      "Microscope acoustique",
+      "On utilise généralement le microscope optique (MO) et le microscope électronique (ME) pour étudier la cuticule",
+      "Microscope à force atomique",
+      "Microscope à fluorescence"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale de la cuticule?",
+    "explanation": "En plus de sa fonction protectrice, la cuticule peut également jouer un rôle dans la prévention de la perte d'eau et la régulation des échanges gazeux.",
+    "media": null,
+    "options": [
+      "La digestion",
+      "La fonction principale de la cuticule est de protéger les tissus contre les agressions extérieures",
+      "La reproduction",
+      "La circulation sanguine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la longueur de l'urètre féminin?",
+    "explanation": "L'urètre féminin mesure environ 4 cm de long, ce qui est significativement plus court que l'urètre masculin.",
+    "media": null,
+    "options": [
+      "10 cm",
+      "4 cm",
+      "20 cm",
+      "2 cm"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'épithélium compose l'urètre féminin?",
+    "explanation": "L'épithélium malpighien est un épithélium stratifié qui protège les surfaces internes de l'urètre féminin.",
+    "media": null,
+    "options": [
+      "Épithélium cylindrique simple",
+      "Épithélium malpighien",
+      "Épithélium cubique",
+      "Épithélium transitionnel"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'épithélium se trouve dans l'urètre prostatique?",
+    "explanation": "L'urètre prostatique est tapissé d'un épithélium de type urinaire, qui est adapté à la fonction de cette partie de l'urètre.",
+    "media": null,
+    "options": [
+      "Épithélium pavimenteux",
+      "Épithélium de type urinaire",
+      "Épithélium glandulaire",
+      "Épithélium cilié"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'épithélium compose l'urètre membranaire?",
+    "explanation": "L'urètre membranaire est revêtu d'un épithélium cylindrique stratifié, qui aide à protéger cette région contre les agressions mécaniques.",
+    "media": null,
+    "options": [
+      "Épithélium simple",
+      "Épithélium cylindrique stratifié",
+      "Épithélium kératinisé",
+      "Épithélium pseudo-stratifié"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'épithélium se trouve dans l'urètre spongieux ou pénien?",
+    "explanation": "L'urètre spongieux est principalement constitué d'épithélium cylindrique stratifié, à l'exception de la zone du méat où l'épithélium est de type épidermique.",
+    "media": null,
+    "options": [
+      "Épithélium cubique simple",
+      "Épithélium cylindrique stratifié sauf au niveau du méat",
+      "Épithélium transitionnel",
+      "Épithélium pavimenteux stratifié"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du chorion conjonctivo-vasculaire dans l'urètre?",
+    "explanation": "Le chorion conjonctivo-vasculaire fournit un soutien structurel et une vascularisation à l'urètre, contribuant à son bon fonctionnement.",
+    "media": null,
+    "options": [
+      "Production d'urine",
+      "Soutien et vascularisation",
+      "Filtration du sang",
+      "Stockage de l'urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la composition de la musculeuse de l'urètre?",
+    "explanation": "La musculeuse de l'urètre est constituée de tissu musculaire lisse, permettant des contractions involontaires pour faciliter l'évacuation de l'urine.",
+    "media": null,
+    "options": [
+      "Tissu musculaire strié",
+      "Tissu musculaire lisse",
+      "Tissu adipeux",
+      "Tissu osseux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la vascularisation d’un lobule rénal?",
+    "explanation": "La vascularisation est essentielle pour la filtration sanguine et la formation d'urine, permettant l'apport de sang aux glomérules pour le processus de filtration.",
+    "media": null,
+    "options": [
+      "Par une veine centrale",
+      "Chaque lobule rénal est vascularisé par une artère interlobulaire qui se divise en artérioles afférentes, alimentant les glomérules",
+      "Par des capillaires lymphatiques",
+      "Par une artère rénale directe"
+    ],
+    "correct": [
+      1
+    ]
+  }
+]

@@ -1,0 +1,2552 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le système lymphoïde?",
+    "explanation": "Le système lymphoïde comprend les ganglions lymphatiques, la rate, les amygdales et d'autres tissus lymphoïdes, qui produisent et stockent les cellules immunitaires.",
+    "media": null,
+    "options": [
+      "Un système de transport de l'oxygène",
+      "Une partie du système immunitaire qui aide à protéger le corps contre les infections et les maladies",
+      "Un système de digestion des aliments",
+      "Un réseau de nerfs"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les principaux composants du système lymphoïde?",
+    "explanation": "Ces organes travaillent ensemble pour filtrer la lymphe et produire des lymphocytes, qui sont essentiels pour la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Le cœur, les poumons, le foie",
+      "Les ganglions lymphatiques, la rate, les amygdales et le thymus",
+      "L'estomac, les intestins, le pancréas",
+      "Les reins, la vessie, l'uretère"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des ganglions lymphatiques?",
+    "explanation": "Les ganglions lymphatiques contiennent des lymphocytes qui s'activent pour combattre les infections et les maladies.",
+    "media": null,
+    "options": [
+      "Produire de l'insuline",
+      "Filtrer la lymphe et piéger les agents pathogènes",
+      "Digérer les graisses",
+      "Transporter l'oxygène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de la rate dans le système lymphoïde?",
+    "explanation": "La rate stocke également des lymphocytes et des plaquettes, contribuant à la défense immunitaire.",
+    "media": null,
+    "options": [
+      "Produire de la bile",
+      "Filtrer le sang, éliminer les globules rouges vieux ou endommagés et aider à la réponse immunitaire",
+      "Réguler la température corporelle",
+      "Absorber les nutriments"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel rôle jouent les amygdales?",
+    "explanation": "Les amygdales sont des tissus lymphoïdes qui produisent des lymphocytes et jouent un rôle dans la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Produire de la salive",
+      "Protéger le corps contre les infections en capturant les agents pathogènes qui entrent par la bouche et le nez",
+      "Aider à la déglutition",
+      "Filtrer l'air inspiré"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de réactions immunitaires existent?",
+    "explanation": "Le système immunitaire réagit à diverses menaces, allant des infections aux maladies auto-immunes, en protégeant ainsi l'organisme.",
+    "media": null,
+    "options": [
+      "Réaction chimique, physique, biologique",
+      "Réaction contre les microorganismes, les cellules tumorales, allergique, autoimmune, rejet de greffe",
+      "Réaction thermique, mécanique, électrique",
+      "Réaction digestive, respiratoire, circulatoire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels microorganismes peuvent déclencher une réaction immunitaire?",
+    "explanation": "Ces microorganismes sont reconnus par le système immunitaire comme des menaces, entraînant une réponse immunitaire appropriée.",
+    "media": null,
+    "options": [
+      "Les cellules sanguines",
+      "Les bactéries, les virus et les parasites",
+      "Les vitamines et minéraux",
+      "Les hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que contient la lymphe?",
+    "explanation": "La lymphe joue un rôle crucial dans le transport des cellules immunitaires et des nutriments dans le corps.",
+    "media": null,
+    "options": [
+      "Des globules rouges uniquement",
+      "Des lymphocytes et un fluide intercellulaire enrichi de produits de la digestion et du métabolisme",
+      "De l'oxygène pur",
+      "Des déchets toxiques uniquement"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la lymphe?",
+    "explanation": "La lymphe aide à drainer les excès de fluides des tissus et à transporter les cellules immunitaires vers les ganglions lymphatiques.",
+    "media": null,
+    "options": [
+      "Un type de sang",
+      "Un excès de fluide intercellulaire, exsudé des capillaires veineux et recueilli par les capillaires lymphatiques",
+      "Un liquide digestif",
+      "Une hormone"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles maladies sont considérées comme des réactions auto-immunes?",
+    "explanation": "Dans les maladies auto-immunes, le système immunitaire confond les cellules saines avec des agents pathogènes et les attaque.",
+    "media": null,
+    "options": [
+      "Le rhume et la grippe",
+      "L'arthrite et le diabète de type I",
+      "L'hypertension et le cholestérol",
+      "La fracture osseuse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la circulation lymphatique?",
+    "explanation": "La circulation lymphatique est essentielle pour le système immunitaire, permettant le transport des lymphocytes et la filtration des agents pathogènes.",
+    "media": null,
+    "options": [
+      "Transporter l'oxygène",
+      "Drainer les fluides excédentaires et transporter les cellules immunitaires",
+      "Digérer les aliments",
+      "Réguler la température"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'une réaction allergique?",
+    "explanation": "Les allergies se produisent lorsque le système immunitaire réagit de manière inappropriée à des allergènes, provoquant des symptômes variés.",
+    "media": null,
+    "options": [
+      "Une infection bactérienne",
+      "Une réponse immunitaire excessive à des substances normalement inoffensives",
+      "Une maladie auto-immune",
+      "Un rejet de greffe"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le rejet de greffe?",
+    "explanation": "Le rejet de greffe peut survenir si les antigènes du greffon sont perçus comme étrangers par le système immunitaire du receveur.",
+    "media": null,
+    "options": [
+      "Une infection post-opératoire",
+      "Une réaction immunitaire où le système immunitaire attaque un organe ou un tissu transplanté",
+      "Une allergie aux médicaments",
+      "Une maladie auto-immune"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les cellules principales du tissu lymphoïde?",
+    "explanation": "Le tissu lymphoïde est composé de plusieurs types de cellules qui jouent un rôle crucial dans le système immunitaire, notamment dans la défense contre les infections.",
+    "media": null,
+    "options": [
+      "Globules rouges, plaquettes, neutrophiles",
+      "Lymphocytes T, lymphocytes B, macrophages, cellules dendritiques, cellules réticulaires",
+      "Ostéocytes, chondrocytes, adipocytes",
+      "Neurones, cellules gliales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'exception dans la charpente du tissu lymphoïde?",
+    "explanation": "Le thymus est un organe lymphoïde où les lymphocytes T mûrissent, ce qui le distingue des autres tissus lymphoïdes.",
+    "media": null,
+    "options": [
+      "La rate",
+      "Le thymus",
+      "Les ganglions lymphatiques",
+      "Les amygdales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles cellules sont considérées comme des cellules réticulées?",
+    "explanation": "Les cellules réticulaires forment la charpente du tissu lymphoïde, fournissant un support structural aux autres cellules immunitaires.",
+    "media": null,
+    "options": [
+      "Lymphocytes T",
+      "Cellules réticulaires",
+      "Macrophages",
+      "Cellules dendritiques"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de lymphocytes sont présents dans le tissu lymphoïde?",
+    "explanation": "Les lymphocytes T et B sont essentiels pour la réponse immunitaire adaptative, avec les lymphocytes T aidant à réguler la réponse et les lymphocytes B produisant des anticorps.",
+    "media": null,
+    "options": [
+      "Lymphocytes NK",
+      "Lymphocytes T et lymphocytes B",
+      "Lymphocytes gamma-delta",
+      "Lymphocytes régulateurs"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles cellules sont responsables de la phagocytose dans le tissu lymphoïde?",
+    "explanation": "Les macrophages jouent un rôle clé dans la défense immunitaire en ingérant et en détruisant les agents pathogènes et les débris cellulaires.",
+    "media": null,
+    "options": [
+      "Lymphocytes B",
+      "Macrophages",
+      "Cellules dendritiques",
+      "Cellules réticulaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction des cellules dendritiques dans le tissu lymphoïde?",
+    "explanation": "Les cellules dendritiques capturent les antigènes et les présentent aux lymphocytes T, initiant ainsi la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Produire des anticorps",
+      "Elles présentent des antigènes aux lymphocytes",
+      "Phagocyter les bactéries",
+      "Soutenir la structure du tissu"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les organes lymphoïdes centraux?",
+    "explanation": "Les organes lymphoïdes centraux sont responsables de la maturation et de la différenciation des lymphocytes immatures.",
+    "media": null,
+    "options": [
+      "La rate et les ganglions lymphatiques",
+      "Le thymus et la moelle osseuse",
+      "Les amygdales et l'appendice",
+      "Le foie et le pancréas"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des organes lymphoïdes périphériques?",
+    "explanation": "Les organes lymphoïdes périphériques, comme les ganglions lymphatiques et la rate, jouent un rôle clé dans la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Produire des cellules sanguines",
+      "Ils sont impliqués dans le développement conditionné par des sollicitations antigéniques",
+      "Filtrer l'urine",
+      "Digérer les aliments"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le système MALT?",
+    "explanation": "Le MALT joue un rôle crucial dans la protection des muqueuses contre les infections.",
+    "media": null,
+    "options": [
+      "Un type de bière",
+      "Le système MALT (tissu lymphoïde associé aux muqueuses) est un ensemble d'organes lymphoïdes situés dans les muqueuses",
+      "Un muscle",
+      "Une hormone"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de lymphocytes sont produits dans les organes lymphoïdes?",
+    "explanation": "Les lymphocytes B sont responsables de la production d'anticorps, tandis que les lymphocytes T jouent un rôle dans la destruction des cellules infectées.",
+    "media": null,
+    "options": [
+      "Globules rouges",
+      "Les organes lymphoïdes produisent des lymphocytes B et T",
+      "Plaquettes",
+      "Neutrophiles"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des macrophages dans le tissu lymphoïde?",
+    "explanation": "Les macrophages sont essentiels pour initier la réponse immunitaire en présentant des antigènes aux lymphocytes.",
+    "media": null,
+    "options": [
+      "Produire de l'insuline",
+      "Les macrophages phagocytent les antigènes et présentent des fragments aux lymphocytes",
+      "Transporter l'oxygène",
+      "Coaguler le sang"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la forme du thymus?",
+    "explanation": "Le thymus est une glande bilobée, ce qui signifie qu'il est composé de deux lobes distincts.",
+    "media": null,
+    "options": [
+      "Sphérique",
+      "Glande bilobée",
+      "Tubulaire",
+      "Triangulaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Où se situe le thymus?",
+    "explanation": "Le thymus est situé derrière le sternum, entre les poumons.",
+    "media": null,
+    "options": [
+      "Dans l'abdomen",
+      "Rétrosternal",
+      "Dans le cou",
+      "Dans le cerveau"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle principal du thymus?",
+    "explanation": "Le thymus est essentiel à la maturation des lymphocytes T, qui jouent un rôle clé dans le système immunitaire.",
+    "media": null,
+    "options": [
+      "Produire des globules rouges",
+      "Assurer la différentiation des lymphocytes T",
+      "Filtrer le sang",
+      "Produire de la bile"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel processus se déroule dans le thymus?",
+    "explanation": "Le thymus aide à développer la tolérance du soi, ce qui empêche le système immunitaire d'attaquer les propres cellules de l'organisme.",
+    "media": null,
+    "options": [
+      "Digestion",
+      "Développement de la tolérance du soi",
+      "Respiration",
+      "Circulation sanguine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "À quel moment le thymus est-il très actif?",
+    "explanation": "Le thymus est particulièrement actif pendant l'enfance, période où le système immunitaire se développe.",
+    "media": null,
+    "options": [
+      "À l'âge adulte",
+      "Au cours de l’enfance",
+      "Pendant la vieillesse",
+      "À la naissance uniquement"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que se passe-t-il avec le thymus après la puberté?",
+    "explanation": "Après la puberté, le thymus subit une involution, ce qui signifie qu'il diminue de taille et d'activité.",
+    "media": null,
+    "options": [
+      "Il grossit",
+      "Involution",
+      "Il disparaît complètement",
+      "Il change de fonction"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'organisation générale du thymus?",
+    "explanation": "Le thymus joue un rôle crucial dans le développement des lymphocytes T, avec une organisation qui favorise leur maturation et leur différenciation.",
+    "media": null,
+    "options": [
+      "Un seul lobe homogène",
+      "Le thymus est organisé en lobules irréguliers et incomplets, chaque lobule se divisant en cortex périphérique et médullaire central",
+      "Des follicules dispersés",
+      "Une structure tubulaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les principales zones du lobule thymique?",
+    "explanation": "Le cortex est dense en cellules, tandis que la médullaire est moins colorée et contient des corpuscules de Hassal.",
+    "media": null,
+    "options": [
+      "Cortex et médulla",
+      "Les deux principales zones du lobule thymique sont le cortex et la médullaire",
+      "Zone marginale et zone centrale",
+      "Zone claire et zone sombre"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la caractéristique du cortex thymique?",
+    "explanation": "Cette densité est essentielle pour la sélection et la maturation des lymphocytes T.",
+    "media": null,
+    "options": [
+      "Faible densité cellulaire",
+      "Le cortex thymique présente une forte densité cellulaire",
+      "Absence de cellules",
+      "Présence de tissu adipeux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le corpuscule de Hassal?",
+    "explanation": "Ces corpuscules sont des structures épithéliales qui jouent un rôle dans le développement des lymphocytes T.",
+    "media": null,
+    "options": [
+      "Une cellule immunitaire",
+      "Le corpuscule de Hassal est une structure présente dans la médullaire du thymus",
+      "Un vaisseau sanguin",
+      "Une glande endocrine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la nature de la charpente thymique?",
+    "explanation": "Les épithéliocytes étoilés forment un réseau qui soutient les cellules du thymus.",
+    "media": null,
+    "options": [
+      "Conjonctive",
+      "La charpente thymique est de nature épithéliale",
+      "Musculaire",
+      "Nerveuse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment se présente la trame réticulaire du thymus?",
+    "explanation": "Ce réseau aide à maintenir la structure et l'organisation du thymus, facilitant les interactions cellulaires.",
+    "media": null,
+    "options": [
+      "Comme un tissu dense",
+      "La trame réticulaire du thymus est formée par des cellules épithéliales avec des prolongements jointifs",
+      "Comme un liquide",
+      "Comme un os"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les quatre types cellulaires présents dans le thymus ?",
+    "explanation": "Le thymus joue un rôle crucial dans le développement des lymphocytes T, et chacun de ces types cellulaires a une fonction spécifique dans le système immunitaire.",
+    "media": null,
+    "options": [
+      "Cellules musculaires, nerveuses, osseuses, sanguines",
+      "Les quatre types cellulaires sont : 1) Les cellules réticulo-épithéliales, 2) Les macrophages, 3) Les thymocytes, 4) Les cellules dendritiques",
+      "Adipocytes, fibroblastes, chondrocytes, ostéocytes",
+      "Neurones, cellules gliales, astrocytes, oligodendrocytes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la forme des cellules dendritiques dans le thymus ?",
+    "explanation": "La forme étoilée des cellules dendritiques leur permet d'interagir efficacement avec d'autres cellules immunitaires et de capturer des antigènes.",
+    "media": null,
+    "options": [
+      "Sphérique",
+      "Les cellules dendritiques ont une forme étoilée",
+      "Cubique",
+      "Cylindrique"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment reconnaître les cellules dendritiques ?",
+    "explanation": "Le noyau nucléolé et clair des cellules dendritiques est un indice visuel important pour les identifier dans les tissus.",
+    "media": null,
+    "options": [
+      "Par leur couleur rouge",
+      "Elles sont reconnues par leur noyau nucléolé et clair",
+      "Par leur grande taille",
+      "Par leur absence de noyau"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les caractéristiques des prolongements cytoplasmiques des cellules dendritiques ?",
+    "explanation": "Les prolongements cytoplasmiques jointifs des cellules dendritiques facilitent leur interaction avec d'autres cellules immunitaires, renforçant ainsi la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Ils sont courts et épais",
+      "Les cellules dendritiques émettent des prolongements cytoplasmiques jointifs",
+      "Ils sont absents",
+      "Ils sont rigides"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du stroma dans le système lymphoïde?",
+    "explanation": "Le stroma fournit le soutien structurel et les facteurs nécessaires pour le développement des lymphocytes T dans le thymus.",
+    "media": null,
+    "options": [
+      "Produire des anticorps",
+      "Le stroma favorise un microenvironnement nécessaire à la multiplication, à la différenciation et à l'acquisition de la compétence immunitaire des lymphocytes T",
+      "Filtrer le sang",
+      "Stocker les graisses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles hormones sont sécrétées par les cellules réticulo-épithéliales?",
+    "explanation": "Ces hormones jouent un rôle crucial dans la maturation et la différenciation des lymphocytes T.",
+    "media": null,
+    "options": [
+      "Insuline et glucagon",
+      "Les cellules réticulo-épithéliales sécrètent la thymuline, la thymosine et la thymopoïétine",
+      "Adrénaline et cortisol",
+      "Estrogène et testostérone"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment les thymocytes migrent-ils dans le stroma thymique?",
+    "explanation": "Cette migration est essentielle pour l'acquisition des marqueurs de surface comme le TCR, CD4 et CD8.",
+    "media": null,
+    "options": [
+      "Par diffusion passive",
+      "Les thymocytes migrent en traversant les vaisseaux de la jonction corticomedullaire et prolifèrent dans le cortex sous-capsulaire",
+      "Par transport actif",
+      "Ils ne migrent pas"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de la jonction cortico-médullaire?",
+    "explanation": "C'est là que les lymphocytes T sont sélectionnés pour leur capacité à reconnaître les antigènes tout en évitant l'auto-immunité.",
+    "media": null,
+    "options": [
+      "Produire des hormones",
+      "La jonction cortico-médullaire est le site de sélection des lymphocytes immunocompétents",
+      "Filtrer la lymphe",
+      "Stocker les cellules mortes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la sélection positive des thymocytes?",
+    "explanation": "Ce processus garantit que seuls les thymocytes capables de reconnaître les antigènes sont sélectionnés pour maturation.",
+    "media": null,
+    "options": [
+      "Élimination des thymocytes incompétents",
+      "La sélection positive permet aux thymocytes exprimant les bons récepteurs TCR de survivre et de se développer",
+      "Production d'anticorps",
+      "Activation des macrophages"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la sélection négative des thymocytes?",
+    "explanation": "Ceci est crucial pour éviter que les lymphocytes T ne causent des réactions auto-immunes.",
+    "media": null,
+    "options": [
+      "Survie des thymocytes réactifs",
+      "La sélection négative élimine les thymocytes qui réagissent trop fortement aux antigènes du soi",
+      "Prolifération des thymocytes",
+      "Différenciation en cellules B"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des macrophages thymiques?",
+    "explanation": "Les macrophages thymiques sont essentiels pour maintenir la santé du thymus en éliminant les cellules mortes.",
+    "media": null,
+    "options": [
+      "Produire des hormones",
+      "Ils interviennent dans l'élimination des cellules mortes",
+      "Sélectionner les thymocytes",
+      "Former la barrière hémato-thymique"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Où sont localisés les macrophages thymiques?",
+    "explanation": "La localisation des macrophages thymiques est cruciale pour leur fonction dans le thymus, où ils surveillent et éliminent les cellules non viables.",
+    "media": null,
+    "options": [
+      "Dans la moelle osseuse",
+      "Dans le cortex sous-capsulaire et autour des vaisseaux thymiques",
+      "Dans les ganglions lymphatiques",
+      "Dans la rate"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des cellules dendritiques?",
+    "explanation": "Les cellules dendritiques capturent les antigènes et les présentent aux lymphocytes T, initiant ainsi une réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Produire des anticorps",
+      "Cellules présentatrices de l’antigène",
+      "Phagocyter les bactéries",
+      "Soutenir la structure du thymus"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le thymus est-il traversé par la circulation lymphatique?",
+    "explanation": "Le thymus est un organe lymphoïde primaire où les lymphocytes T mûrissent, mais il n'est pas en contact avec les antigènes via la circulation lymphatique.",
+    "media": null,
+    "options": [
+      "Oui, abondamment",
+      "Non, le thymus n'est pas traversé par la circulation lymphatique",
+      "Seulement chez l'enfant",
+      "Seulement chez l'adulte"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment les cellules lymphocytaires souches atteignent-elles le thymus?",
+    "explanation": "Les cellules lymphocytaires souches proviennent de la moelle osseuse et atteignent le thymus par le sang.",
+    "media": null,
+    "options": [
+      "Par la lymphe",
+      "Par voie sanguine",
+      "Par diffusion",
+      "Par migration active"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment les lymphocytes mûrs quittent-ils le thymus?",
+    "explanation": "Les lymphocytes T mûrs quittent le thymus par les veinules postcapillaires, qui sont des cellules endothéliales cubiques non jointives.",
+    "media": null,
+    "options": [
+      "Par les artères",
+      "Via la circulation sanguine à travers les veinules postcapillaires",
+      "Par les vaisseaux lymphatiques",
+      "Par les nerfs"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'une veinule post capillaire?",
+    "explanation": "Les veinules post capillaires jouent un rôle crucial dans le drainage du sang des capillaires vers les veines. Elles sont également impliquées dans le transport des lymphocytes.",
+    "media": null,
+    "options": [
+      "Une artère",
+      "Une veinule post capillaire est un petit vaisseau sanguin qui collecte le sang des capillaires",
+      "Un nerf",
+      "Un ganglion"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de cellules est présent dans la veinule post capillaire?",
+    "explanation": "Les lymphocytes sont des cellules du système immunitaire qui jouent un rôle clé dans la réponse immunitaire et la défense de l'organisme contre les infections.",
+    "media": null,
+    "options": [
+      "Globules rouges",
+      "Lymphocytes",
+      "Plaquettes",
+      "Cellules musculaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de la barrière hémato-thymique?",
+    "explanation": "La barrière hémato-thymique empêche les antigènes du sang d'interférer avec la maturation des thymocytes dans le thymus.",
+    "media": null,
+    "options": [
+      "Nourrir les thymocytes",
+      "Protéger les thymocytes de tout contact avec la circulation sanguine et les antigènes circulants",
+      "Produire des hormones",
+      "Filtrer la lymphe"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les composants de la structure de la barrière Sang-Thymus?",
+    "explanation": "Chaque composant joue un rôle crucial dans la protection et la séparation des thymocytes du sang et des antigènes.",
+    "media": null,
+    "options": [
+      "Cellules musculaires et nerveuses",
+      "Endothélium continu des capillaires, membrane basale des cellules endothéliales, gaine conjonctive, membrane basale des épithéliocytes, prolongements cytoplasmiques des épithéliocytes",
+      "Os et cartilage",
+      "Tissu adipeux et peau"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de cellule est protégé par la barrière hémato-thymique?",
+    "explanation": "Les thymocytes sont des cellules précurseurs des lymphocytes T, et leur protection est essentielle pour leur maturation correcte.",
+    "media": null,
+    "options": [
+      "Les globules rouges",
+      "Les thymocytes",
+      "Les plaquettes",
+      "Les cellules nerveuses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de vaisseau sanguin est impliqué dans la barrière hémato-thymique?",
+    "explanation": "Les capillaires ont un endothélium continu qui est crucial pour maintenir la barrière entre le thymus et la circulation sanguine.",
+    "media": null,
+    "options": [
+      "Artères",
+      "Capillaires",
+      "Veines",
+      "Aorte"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quand commence l'involution thymique?",
+    "explanation": "L'involution thymique est le processus par lequel le tissu lymphoïde du thymus est remplacé par du collagène et du tissu adipeux après la puberté.",
+    "media": null,
+    "options": [
+      "À la naissance",
+      "Après la puberté",
+      "À la vieillesse",
+      "Pendant l'enfance"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de tissu remplace le tissu lymphoïde dans le thymus?",
+    "explanation": "Au cours de l'involution thymique, le tissu lymphoïde est remplacé par du collagène et du tissu adipeux, ce qui entraîne une atrophie du thymus.",
+    "media": null,
+    "options": [
+      "Tissu musculaire",
+      "Collagène et tissu adipeux interlobulaire",
+      "Tissu osseux",
+      "Tissu nerveux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le thymus continue-t-il à produire des cellules immunocompétentes après la puberté?",
+    "explanation": "Malgré l'involution, le thymus continue à produire des cellules immunocompétentes, mais cette production diminue progressivement.",
+    "media": null,
+    "options": [
+      "Non, il arrête complètement",
+      "Oui, mais à un rythme décroissant",
+      "Oui, à un rythme croissant",
+      "Non, il devient inactif"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les deux zones principales du thymus?",
+    "explanation": "Le thymus est structuré en deux zones principales : le cortex, qui est la partie externe, et la médullaire, qui est la partie interne.",
+    "media": null,
+    "options": [
+      "Haut et bas",
+      "Cortex et médullaire",
+      "Gauche et droite",
+      "Avant et arrière"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de tissu est associé à la médullaire du thymus?",
+    "explanation": "La médullaire du thymus est entourée de tissu adipeux, qui remplace le tissu lymphoïde au fur et à mesure de l'involution.",
+    "media": null,
+    "options": [
+      "Tissu musculaire",
+      "Tissu adipeux",
+      "Tissu osseux",
+      "Tissu épithélial"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale du ganglion lymphatique?",
+    "explanation": "Le ganglion lymphatique agit comme un filtre, éliminant les impuretés et les agents pathogènes de la lymphe avant qu'elle ne rejoigne la circulation sanguine.",
+    "media": null,
+    "options": [
+      "Produire du sang",
+      "Filtre de la lymphe",
+      "Digérer les aliments",
+      "Stocker les graisses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la taille typique d'un ganglion lymphatique?",
+    "explanation": "Les ganglions lymphatiques mesurent généralement quelques millimètres et ne peuvent pas être palpés dans des conditions normales.",
+    "media": null,
+    "options": [
+      "Quelques centimètres",
+      "Quelques millimètres, impalpable",
+      "Plusieurs mètres",
+      "Invisible à l'œil nu"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de vaisseaux sont associés aux ganglions lymphatiques?",
+    "explanation": "Les vaisseaux lymphatiques afférents transportent la lymphe vers le ganglion, tandis que les vaisseaux efférents la transportent hors du ganglion après filtration.",
+    "media": null,
+    "options": [
+      "Artères et veines",
+      "Vaisseaux lymphatiques afférents et efférents",
+      "Nerfs et capillaires",
+      "Bronches et bronchioles"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des sinus médullaires dans le ganglion lymphatique?",
+    "explanation": "Les sinus médullaires facilitent le drainage de la lymphe à travers le ganglion lymphatique, permettant ainsi une filtration efficace.",
+    "media": null,
+    "options": [
+      "Produire des lymphocytes",
+      "Permettre le passage de la lymphe à travers le ganglion",
+      "Stocker les antigènes",
+      "Bloquer les infections"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles structures sont présentes dans le cortex du ganglion lymphatique?",
+    "explanation": "Le cortex contient des follicules lymphatiques qui abritent des cellules immunitaires, jouant un rôle clé dans la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Vaisseaux sanguins uniquement",
+      "Follicules lymphatiques et sinus cortical",
+      "Tissu adipeux",
+      "Cellules musculaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les deux zones principales du système lymphoïde?",
+    "explanation": "Le système lymphoïde est organisé en deux zones principales : la corticale, qui contient des follicules lymphoïdes, et la médullaire, qui est impliquée dans la production de cellules immunitaires.",
+    "media": null,
+    "options": [
+      "Supérieure et inférieure",
+      "Corticale et médullaire",
+      "Interne et externe",
+      "Gauche et droite"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du sinus marginal dans le système lymphoïde?",
+    "explanation": "Le sinus marginal est important pour le drainage des lymphocytes et des antigènes vers les follicules lymphoïdes où une réponse immunitaire peut être activée.",
+    "media": null,
+    "options": [
+      "Il stocke les graisses",
+      "Il sert de passage pour les lymphocytes et les antigènes",
+      "Il produit des hormones",
+      "Il filtre le sang"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "À quoi sert la capsule dans le système lymphoïde?",
+    "explanation": "La capsule est une couche de tissu conjonctif qui entoure l'organe lymphoïde, offrant protection et structure.",
+    "media": null,
+    "options": [
+      "Elle produit des cellules",
+      "Elle protège et soutient l'organe lymphoïde",
+      "Elle absorbe les nutriments",
+      "Elle sécrète des enzymes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de lymphocytes se trouvent dans les follicules primaires?",
+    "explanation": "Les follicules primaires contiennent principalement des lymphocytes B qui se différencient en cellules plasmatiques lors d'une réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Lymphocytes T",
+      "Lymphocytes B",
+      "Cellules NK",
+      "Macrophages"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles structures sont présentes dans la zone médullaire du système lymphoïde?",
+    "explanation": "La zone médullaire abrite des cordons médullaires qui contiennent des lymphocytes et des macrophages, ainsi que des sinuses qui facilitent le drainage lymphatique.",
+    "media": null,
+    "options": [
+      "Follicules lymphoïdes",
+      "Cordon médullaire et sinuses médullaires",
+      "Capsule fibreuse",
+      "Sinus marginal"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la composition de la capsule d'un ganglion lymphatique?",
+    "explanation": "La capsule conjonctivo-élastique protège et soutient le ganglion lymphatique tout en lui permettant une certaine flexibilité.",
+    "media": null,
+    "options": [
+      "Musculaire et épaisse",
+      "La capsule est conjonctivo-élastique et mince",
+      "Osseuse et rigide",
+      "Adipeuse et molle"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les caractéristiques des travées dans un ganglion lymphatique?",
+    "explanation": "Les travées incomplètes contribuent à la formation de la charpente réticulinique, soutenant les cellules lymphatiques.",
+    "media": null,
+    "options": [
+      "Elles sont complètes et rigides",
+      "Les travées sont incomplètes",
+      "Elles sont absentes",
+      "Elles sont faites de cartilage"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de charpente est présent dans un ganglion lymphatique?",
+    "explanation": "La charpente réticulinique est essentielle pour le soutien et l'organisation des cellules lymphatiques dans le ganglion.",
+    "media": null,
+    "options": [
+      "Charpente osseuse",
+      "La charpente réticulinique",
+      "Charpente musculaire",
+      "Charpente cartilagineuse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'imprégnation aux sels d'argent dans l'étude des ganglions lymphatiques?",
+    "explanation": "L'imprégnation aux sels d'argent colore les fibres réticulaires, facilitant l'observation de la structure des ganglions lymphatiques au microscope.",
+    "media": null,
+    "options": [
+      "Elle colore les noyaux cellulaires",
+      "Elle permet de mettre en évidence la structure réticulinique",
+      "Elle détruit les cellules",
+      "Elle n'a aucun rôle"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les trois compartiments fonctionnels du système lymphoïde?",
+    "explanation": "Le système lymphoïde est composé de différents compartiments qui jouent des rôles essentiels dans la circulation des fluides et la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Le cœur, les poumons, le foie",
+      "La circulation lymphatique, la circulation sanguine, et le parenchyme lymphoïde",
+      "Le cerveau, la moelle épinière, les nerfs",
+      "L'estomac, les intestins, le pancréas"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du réseau de sinus lymphatique?",
+    "explanation": "Le réseau de sinus lymphatique permet le drainage et le transport de la lymphe à travers le corps.",
+    "media": null,
+    "options": [
+      "Il transporte le sang",
+      "Il fait partie de la circulation lymphatique",
+      "Il produit des hormones",
+      "Il digère les aliments"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de vaisseaux sanguins est impliqué dans la circulation sanguine du système lymphoïde?",
+    "explanation": "Les veinules post capillaires jouent un rôle crucial dans le retour du sang vers le cœur et l'interaction avec le système lymphatique.",
+    "media": null,
+    "options": [
+      "Les artères principales",
+      "Les veinules post capillaires",
+      "Les capillaires lymphatiques",
+      "Les veines caves"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les trois zones du parenchyme lymphoïde?",
+    "explanation": "Ces zones sont spécialisées dans la maturation et la prolifération des lymphocytes, jouant un rôle clé dans la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Haut, milieu, bas",
+      "Cortex, corticale profonde, et médullaire",
+      "Gauche, droite, centre",
+      "Avant, arrière, côté"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les types de sinus lymphatiques?",
+    "explanation": "Les sinus lymphatiques jouent un rôle crucial dans la filtration de la lymphe et l'exposition aux antigènes.",
+    "media": null,
+    "options": [
+      "Sinus veineux, artériel, capillaire",
+      "Les types de sinus lymphatiques sont : sinus marginal, sinus radiaire et sinus médullaire",
+      "Sinus nasal, frontal, maxillaire",
+      "Sinus coronaire, caverneux, sagittal"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale des sinus lymphatiques?",
+    "explanation": "Les sinus lymphatiques ralentissent la circulation lymphatique, permettant ainsi une meilleure exposition aux antigènes et leur filtration par les cellules immunitaires.",
+    "media": null,
+    "options": [
+      "Transport rapide de la lymphe",
+      "La fonction principale des sinus lymphatiques est la filtration de la lymphe et la fixation des antigènes par les macrophages",
+      "Production de globules rouges",
+      "Stockage de graisse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment la lymphe est-elle filtrée dans les sinus lymphatiques?",
+    "explanation": "Ce ralentissement favorise la fixation des antigènes par les macrophages, ce qui est essentiel pour la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Par gravité",
+      "La lymphe est déversée dans le sinus marginal, où elle est ralentie par les cellules réticulaires et les fibres réticulaires",
+      "Par pression osmotique",
+      "Par action musculaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de sinus lymphatique favorise l'exposition aux antigènes?",
+    "explanation": "La circulation lymphatique ralentie dans les sinus médullaires permet une meilleure interaction avec les antigènes.",
+    "media": null,
+    "options": [
+      "Sinus marginal",
+      "Les sinus médullaires favorisent l'exposition aux antigènes grâce à leur structure en labyrinthe grillagé",
+      "Sinus radiaire",
+      "Sinus coronaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment s'effectue le drainage des sinus lymphatiques?",
+    "explanation": "Les voies lymphatiques efférentes assurent que la lymphe filtrée est correctement drainée du système lymphatique.",
+    "media": null,
+    "options": [
+      "Par les artères",
+      "Le drainage des sinus lymphatiques s'effectue par les voies lymphatiques efférentes valvulées",
+      "Par les veines",
+      "Par les capillaires sanguins"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la composition du cortex externe des ganglions lymphatiques?",
+    "explanation": "Le cortex externe des ganglions lymphatiques joue un rôle crucial dans la réponse immunitaire en abritant principalement des lymphocytes B qui produisent des anticorps.",
+    "media": null,
+    "options": [
+      "Cellules musculaires et nerveuses",
+      "Le cortex externe contient principalement des lymphocytes B, des lymphocytes T interfolliculaires et des macrophages",
+      "Cellules adipeuses et fibroblastes",
+      "Cellules épithéliales et endothéliales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de lymphocytes se trouve dans la zone paracorticale?",
+    "explanation": "La zone paracorticale est essentielle pour la présentation des antigènes aux lymphocytes T, facilitant ainsi leur activation et leur prolifération.",
+    "media": null,
+    "options": [
+      "Lymphocytes B",
+      "La zone paracorticale contient principalement des lymphocytes T et des cellules interdigitées présentatrices d'antigènes",
+      "Cellules NK",
+      "Plasmocytes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles cellules sont présentes dans la zone médullaire des ganglions lymphatiques?",
+    "explanation": "Les plasmocytes dans la zone médullaire sont responsables de la production d'anticorps, tandis que les macrophages aident à éliminer les pathogènes.",
+    "media": null,
+    "options": [
+      "Lymphocytes T uniquement",
+      "La zone médullaire contient principalement des plasmocytes et des macrophages",
+      "Cellules dendritiques uniquement",
+      "Cellules souches"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment sont organisés les follicules dans le cortex des ganglions lymphatiques?",
+    "explanation": "Les follicules lymphoïdes sont des zones où les lymphocytes B s'activent et prolifèrent, jouant un rôle clé dans la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Ils sont dispersés aléatoirement",
+      "Le cortex externe contient des follicules lymphoïdes primaires ou secondaires",
+      "Ils forment une couche continue",
+      "Ils sont absents"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des sinus médullaires dans la médulla des ganglions lymphatiques?",
+    "explanation": "Ces sinus permettent une filtration efficace de la lymphe, contribuant à la surveillance immunitaire.",
+    "media": null,
+    "options": [
+      "Produire des hormones",
+      "Les sinus médullaires sont des larges espaces réticulés qui facilitent le passage des lymphocytes et des antigènes",
+      "Stocker les graisses",
+      "Transporter l'oxygène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les zones fonctionnelles du ganglion lymphatique?",
+    "explanation": "Le ganglion lymphatique est structuré en différentes zones fonctionnelles qui jouent un rôle crucial dans la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Zone rouge et zone blanche",
+      "Les zones fonctionnelles incluent la coiffe (B mémoire), les lymphocytes B stimulés, le cortex et la médulla",
+      "Zone active et zone inactive",
+      "Zone centrale et zone périphérique"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de la coiffe dans le ganglion lymphatique?",
+    "explanation": "Les lymphocytes B mémoire permettent une réponse rapide lors d'une réexposition à un antigène.",
+    "media": null,
+    "options": [
+      "Produire des hormones",
+      "La coiffe contient des lymphocytes B mémoire, qui sont essentiels pour la mémoire immunitaire",
+      "Filtrer le sang",
+      "Stocker les graisses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que représentent les lymphocytes B stimulés dans le ganglion lymphatique?",
+    "explanation": "Ces lymphocytes jouent un rôle clé dans la réponse immunitaire adaptative en produisant des anticorps spécifiques.",
+    "media": null,
+    "options": [
+      "Des cellules mortes",
+      "Les lymphocytes B stimulés sont activés pour produire des anticorps en réponse à un antigène",
+      "Des cellules souches",
+      "Des cellules nerveuses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les principales parties d'un ganglion lymphatique?",
+    "explanation": "Chaque partie du ganglion lymphatique a une fonction spécifique dans la filtration de la lymphe et la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Tête, corps, queue",
+      "Les principales parties sont le cortex, la médulla et les cordons médullaires",
+      "Lobe droit, lobe gauche",
+      "Ventricule, oreillette"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la structure du ganglion lymphatique observée sur l'image?",
+    "explanation": "Les différentes zones du ganglion lymphatique sont visibles grâce à la coloration histologique, illustrant la complexité de sa structure.",
+    "media": null,
+    "options": [
+      "Un simple amas de cellules",
+      "L'image montre le follicule lymphoïde, la coiffe, les lymphocytes B stimulés, et les cordons médullaires",
+      "Un vaisseau sanguin",
+      "Un nerf"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle principal de la rate?",
+    "explanation": "La rate joue un rôle crucial dans le système immunitaire en éliminant les cellules sanguines usées et en filtrant les antigènes dans le sang.",
+    "media": null,
+    "options": [
+      "Produire de l'insuline",
+      "La rate filtre le sang et détruit les hématies vieillies",
+      "Digérer les aliments",
+      "Stocker l'urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'organe est la rate?",
+    "explanation": "En tant qu'organe lymphoïde, la rate est essentielle pour la réponse immunitaire et la filtration des antigènes dans le sang.",
+    "media": null,
+    "options": [
+      "Un organe digestif",
+      "La rate est un organe lymphoïde volumineux",
+      "Un organe respiratoire",
+      "Un organe reproducteur"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les deux parties principales du parenchyme de la rate?",
+    "explanation": "La pulpe blanche est impliquée dans la réponse immunitaire, tandis que la pulpe rouge est responsable de la filtration et de la destruction des globules rouges.",
+    "media": null,
+    "options": [
+      "Le cortex et la médulla",
+      "Le parenchyme de la rate est composé de pulpe blanche et de pulpe rouge",
+      "L'épiderme et le derme",
+      "Le foie et le pancréas"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle structure entoure la rate?",
+    "explanation": "La capsule fibroélastique fournit une protection et une structure à la rate tout en permettant l'expansion et la contraction.",
+    "media": null,
+    "options": [
+      "Une membrane muqueuse",
+      "La rate est entourée d'une capsule fibroélastique",
+      "Une couche musculaire",
+      "Une couche osseuse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que les cordons de Billroth?",
+    "explanation": "Ces cordons jouent un rôle dans la filtration et le stockage du sang au sein de la pulpe rouge.",
+    "media": null,
+    "options": [
+      "Des vaisseaux sanguins",
+      "Les cordons de Billroth sont des structures présentes dans la pulpe rouge de la rate",
+      "Des nerfs",
+      "Des glandes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction des sinusoïdes dans la rate?",
+    "explanation": "Les sinusoïdes facilitent la circulation sanguine à travers la pulpe rouge, permettant l'échange entre le sang et le tissu lymphoïde.",
+    "media": null,
+    "options": [
+      "Produire des hormones",
+      "Les sinusoïdes permettent le passage des cellules sanguines et des antigènes",
+      "Stocker les graisses",
+      "Filtrer l'air"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'artère qui se ramifie de l'artère splénique?",
+    "explanation": "L'artère trabéculaire est une branche de l'artère splénique qui se dirige vers l'artère centrale.",
+    "media": null,
+    "options": [
+      "Artère rénale",
+      "Artère trabéculaire",
+      "Artère hépatique",
+      "Artère coronaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le nom de l'artère qui se divise en artérioles penicillées?",
+    "explanation": "L'artère centrale est responsable de l'irrigation sanguine des zones spécifiques de la rate.",
+    "media": null,
+    "options": [
+      "Artère pulmonaire",
+      "Artère centrale",
+      "Artère fémorale",
+      "Artère carotide"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de vaisseaux se trouvent après les artérioles penicillées?",
+    "explanation": "Les sinusoïdes spléniques jouent un rôle crucial dans la filtration et le passage des cellules sanguines.",
+    "media": null,
+    "options": [
+      "Veines caves",
+      "Sinusoïdes spléniques",
+      "Capillaires lymphatiques",
+      "Artérioles afférentes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle veine est formée après les sinusoïdes spléniques?",
+    "explanation": "La veine trabéculaire est responsable du drainage sanguin de la rate vers la veine splénique.",
+    "media": null,
+    "options": [
+      "Veine porte",
+      "Veine trabéculaire",
+      "Veine jugulaire",
+      "Veine saphène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des cordons de Billroth dans la rate?",
+    "explanation": "Les cordons de Billroth sont des structures conjonctives qui aident à organiser les cellules sanguines dans la rate.",
+    "media": null,
+    "options": [
+      "Ils produisent de l'insuline",
+      "Ils soutiennent la structure et la fonction de la rate",
+      "Ils filtrent l'urine",
+      "Ils transportent l'oxygène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le terme utilisé pour désigner les unités fonctionnelles de la rate?",
+    "explanation": "Les corpuscules de Malpighi sont des éléments clés dans la réponse immunitaire de la rate.",
+    "media": null,
+    "options": [
+      "Néphron",
+      "Corpuscule de Malpighi",
+      "Alvéole",
+      "Lobule hépatique"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle structure entoure la rate?",
+    "explanation": "La capsule est une membrane conjonctive qui protège et maintient la structure de la rate.",
+    "media": null,
+    "options": [
+      "Péricarde",
+      "Capsule",
+      "Plèvre",
+      "Péritoine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la zone marginale dans le système lymphoïde?",
+    "explanation": "La zone marginale contient des cellules immunitaires qui surveillent les antigènes et initient les réponses immunitaires.",
+    "media": null,
+    "options": [
+      "Une zone de stockage de graisse",
+      "La zone marginale est une région du tissu lymphoïde qui joue un rôle dans la réponse immunitaire",
+      "Une zone de production de globules rouges",
+      "Une zone de digestion"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de la pulpe blanche dans la rate?",
+    "explanation": "La pulpe blanche contient des lymphocytes et des macrophages qui filtrent le sang et combattent les infections.",
+    "media": null,
+    "options": [
+      "Filtrer l'urine",
+      "La pulpe blanche est responsable de la réponse immunitaire et de la production de lymphocytes",
+      "Produire de la bile",
+      "Stocker le glycogène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la pulpe blanche fermée?",
+    "explanation": "Dans la pulpe blanche fermée, les lymphocytes sont concentrés et ne sont pas exposés directement au sang.",
+    "media": null,
+    "options": [
+      "Une zone riche en vaisseaux sanguins",
+      "La pulpe blanche fermée est une partie de la pulpe blanche où les vaisseaux sanguins sont absents",
+      "Une zone de stockage de fer",
+      "Une zone de production d'hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la circulation dans la pulpe blanche?",
+    "explanation": "La circulation sanguine dans la pulpe blanche aide à transporter les lymphocytes et à activer les réponses immunitaires.",
+    "media": null,
+    "options": [
+      "Refroidir le corps",
+      "La circulation permet le passage des cellules immunitaires et des antigènes dans la pulpe blanche",
+      "Nourrir les cellules musculaires",
+      "Éliminer les déchets métaboliques"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la zone marginale ouverte?",
+    "explanation": "Cette zone permet aux antigènes de pénétrer et d'activer les lymphocytes dans la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Une zone sans cellules",
+      "La zone marginale ouverte est une région du tissu lymphoïde où la circulation sanguine est présente",
+      "Une zone de tissu cicatriciel",
+      "Une zone de cartilage"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la pulpe rouge?",
+    "explanation": "La pulpe rouge joue un rôle crucial dans l'élimination des globules rouges usés et dans la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Une partie du cerveau",
+      "La pulpe rouge est une partie de la rate impliquée dans la filtration du sang et le recyclage des globules rouges",
+      "Une glande endocrine",
+      "Un muscle cardiaque"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la zone marginale dans la rate?",
+    "explanation": "Cette zone est riche en lymphocytes et en macrophages, ce qui lui permet de détecter et de répondre rapidement aux infections.",
+    "media": null,
+    "options": [
+      "Produire de l'insuline",
+      "La zone marginale est une région de la rate qui joue un rôle clé dans la réponse immunitaire en filtrant les antigènes et en activant les lymphocytes",
+      "Stocker les vitamines",
+      "Réguler la pression sanguine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que signifie 'circulation fermée' dans le contexte de la rate?",
+    "explanation": "Dans la circulation fermée, le sang est maintenu à l'intérieur des vaisseaux, ce qui permet un contrôle plus précis du flux sanguin.",
+    "media": null,
+    "options": [
+      "Le sang circule librement dans les tissus",
+      "'Circulation fermée' fait référence à un système où le sang circule à l'intérieur des vaisseaux sanguins sans sortir dans le tissu environnant",
+      "Le sang ne circule pas",
+      "Le sang est filtré par les reins"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la 'circulation ouverte' dans la rate?",
+    "explanation": "Ce type de circulation permet aux cellules immunitaires d'accéder aux antigènes et de réagir rapidement aux infections.",
+    "media": null,
+    "options": [
+      "Le sang reste dans les vaisseaux",
+      "La 'circulation ouverte' désigne un système où le sang sort des vaisseaux et pénètre dans le tissu lymphoïde pour interagir avec les cellules immunitaires",
+      "Le sang est oxygéné par les poumons",
+      "Le sang est pompé par le cœur"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du manchon dans la rate?",
+    "explanation": "Cette structure est essentielle pour la reconnaissance des antigènes et l'activation des lymphocytes T lors d'une réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Protéger les os",
+      "Le manchon est une structure entourant les artérioles dans la pulpe blanche qui contient des lymphocytes T et joue un rôle dans la réponse immunitaire",
+      "Produire des globules rouges",
+      "Filtrer l'air"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la charpente du système lymphoïde?",
+    "explanation": "La charpente réticulinique fournit un soutien structurel aux organes lymphoïdes, facilitant l'organisation des cellules immunitaires.",
+    "media": null,
+    "options": [
+      "La charpente osseuse",
+      "La charpente réticulinique",
+      "La charpente musculaire",
+      "La charpente cartilagineuse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des nodules spléniques?",
+    "explanation": "Les nodules spléniques sont des structures où se produisent des réponses immunitaires, en particulier dans la rate.",
+    "media": null,
+    "options": [
+      "Ils stockent les graisses",
+      "Ils participent à la réponse immunitaire en produisant des lymphocytes",
+      "Ils filtrent l'urine",
+      "Ils produisent de la bile"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que sont les cordons spléniques?",
+    "explanation": "Les cordons spléniques sont des zones riches en cellules immunitaires, jouant un rôle dans la filtration du sang et la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Des vaisseaux sanguins",
+      "Ce sont des structures dans la rate qui contiennent des cellules immunitaires",
+      "Des nerfs",
+      "Des muscles"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction des sinusoïdes spléniques?",
+    "explanation": "Les sinusoïdes spléniques facilitent l'échange entre le sang et les cellules immunitaires, contribuant à la surveillance immunitaire.",
+    "media": null,
+    "options": [
+      "Ils transportent l'oxygène",
+      "Ils permettent le passage des cellules sanguines et des molécules",
+      "Ils digèrent les aliments",
+      "Ils produisent des hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles zones sont présentes dans la rate?",
+    "explanation": "La zone T dépendante est impliquée dans la réponse immunitaire cellulaire, tandis que la zone B dépendante est liée à la production d'anticorps.",
+    "media": null,
+    "options": [
+      "Les zones corticale et médullaire",
+      "Les zones T dépendante et B dépendante",
+      "Les zones rouge et blanche",
+      "Les zones active et inactive"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que sont les corpuscules de Malpighi?",
+    "explanation": "Les corpuscules de Malpighi sont des agrégats de cellules immunitaires qui jouent un rôle clé dans la réponse immunitaire dans la rate.",
+    "media": null,
+    "options": [
+      "Des cellules sanguines",
+      "Ce sont des structures lymphoïdes dans la rate",
+      "Des enzymes digestives",
+      "Des hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des manchons lymphatiques périartériels?",
+    "explanation": "Les manchons lymphatiques périartériels sont des structures qui entourent les artères et contiennent des lymphocytes, contribuant à la surveillance immunitaire.",
+    "media": null,
+    "options": [
+      "Ils protègent les nerfs",
+      "Ils participent à la réponse immunitaire autour des artères",
+      "Ils stockent les nutriments",
+      "Ils régulent la température"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la pulpe blanche?",
+    "explanation": "La pulpe blanche joue un rôle clé dans la réponse immunitaire en filtrant le sang et en produisant des lymphocytes.",
+    "media": null,
+    "options": [
+      "Une partie du cerveau",
+      "La pulpe blanche est une zone fonctionnelle du système lymphoïde",
+      "Un type de fruit",
+      "Une glande endocrine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de l'artère centrale dans la pulpe blanche?",
+    "explanation": "L'artère centrale est essentielle pour l'approvisionnement sanguin et la distribution des cellules immunitaires dans la pulpe blanche.",
+    "media": null,
+    "options": [
+      "Transporter l'oxygène vers les muscles",
+      "L'artère centrale fournit le sang à la pulpe blanche",
+      "Éliminer les déchets",
+      "Réguler la pression sanguine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du corpuscule de Malpighi?",
+    "explanation": "Les corpuscules de Malpighi sont des sites où les lymphocytes se développent et se multiplient en réponse aux antigènes.",
+    "media": null,
+    "options": [
+      "Filtrer l'urine",
+      "Le corpuscule de Malpighi est une structure dans la pulpe blanche qui joue un rôle dans la réponse immunitaire",
+      "Produire de la bile",
+      "Stocker le calcium"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'un cordon dans le contexte de la pulpe blanche?",
+    "explanation": "Les cordons lymphoïdes sont des zones où les lymphocytes sont concentrés et où ils peuvent interagir avec les antigènes.",
+    "media": null,
+    "options": [
+      "Un vaisseau sanguin",
+      "Les cordons sont des structures dans la pulpe blanche qui contiennent des lymphocytes",
+      "Un nerf",
+      "Un muscle"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des sinusoïdes dans la pulpe blanche?",
+    "explanation": "Les sinusoïdes facilitent le passage des cellules sanguines et des lymphocytes, contribuant ainsi à la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Stocker les graisses",
+      "Les sinusoïdes sont des espaces vasculaires qui permettent l'échange de cellules et de substances",
+      "Produire des hormones",
+      "Transporter l'air"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que les cordons de Billroth?",
+    "explanation": "Les cordons de Billroth se trouvent dans la pulpe blanche de la rate et jouent un rôle important dans la réponse immunitaire en abritant des cellules immunitaires.",
+    "media": null,
+    "options": [
+      "Des vaisseaux sanguins",
+      "Les cordons de Billroth sont des structures contenant des lymphocytes B, des macrophages et des cellules sanguines",
+      "Des nerfs",
+      "Des muscles"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de cellules se trouvent dans les cordons de Billroth?",
+    "explanation": "Les lymphocytes B sont essentiels pour la production d'anticorps, tandis que les macrophages jouent un rôle clé dans la phagocytose et la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Cellules musculaires et nerveuses",
+      "Les cordons de Billroth contiennent des lymphocytes B, des macrophages et des cellules sanguines",
+      "Cellules osseuses et cartilagineuses",
+      "Cellules adipeuses et épithéliales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des macrophages dans les cordons de Billroth?",
+    "explanation": "Les macrophages sont des cellules immunitaires qui ingèrent et digèrent les particules étrangères, contribuant ainsi à la défense de l'organisme contre les infections.",
+    "media": null,
+    "options": [
+      "Produire de l'insuline",
+      "Les macrophages dans les cordons de Billroth aident à la phagocytose et à la réponse immunitaire",
+      "Transporter l'oxygène",
+      "Stocker les graisses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'un capillaire sinusoïde?",
+    "explanation": "Les capillaires sinusoïdes sont plus larges que les capillaires normaux et possèdent des parois plus perméables, facilitant ainsi le passage des cellules et des protéines.",
+    "media": null,
+    "options": [
+      "Un vaisseau sanguin continu",
+      "Un capillaire sinusoïde est un type de vaisseau sanguin discontinu qui permet un échange efficace de substances entre le sang et les tissus",
+      "Un vaisseau lymphatique",
+      "Une artère principale"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction des cordons de Billroth?",
+    "explanation": "Ces cordons sont composés de cellules réticulaires et de macrophages, jouant un rôle crucial dans la réponse immunitaire et la dégradation des globules rouges.",
+    "media": null,
+    "options": [
+      "Produire des hormones",
+      "Les cordons de Billroth sont des structures dans la pulpe rouge de la rate qui participent à la filtration du sang et à l'élimination des cellules sanguines usées",
+      "Stocker les nutriments",
+      "Réguler la température corporelle"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Où se trouvent les sinusoïdes dans le système lymphoïde?",
+    "explanation": "Ils sont essentiels pour permettre le passage des cellules sanguines et des éléments immunitaires dans la rate, favorisant ainsi la surveillance immunitaire.",
+    "media": null,
+    "options": [
+      "Dans le foie",
+      "Les sinusoïdes se trouvent dans la pulpe rouge de la rate",
+      "Dans les reins",
+      "Dans les poumons"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle principal de la pulpe rouge de la rate?",
+    "explanation": "La pulpe rouge contient des macrophages qui phagocytent les globules rouges âgés et éliminent les débris cellulaires, contribuant ainsi à la santé sanguine.",
+    "media": null,
+    "options": [
+      "Produire des lymphocytes",
+      "Le rôle principal de la pulpe rouge de la rate est de filtrer le sang et de recycler les globules rouges",
+      "Stocker la bile",
+      "Digérer les graisses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la caractéristique de la circulation ouverte dans le système lymphoïde?",
+    "explanation": "Dans la circulation ouverte, le sang pénètre dans des espaces interstitiels avant d'être drainé par les sinusoïdes.",
+    "media": null,
+    "options": [
+      "Le sang reste dans les vaisseaux",
+      "Les capillaires des artères pénicillées s'ouvrent dans les espaces réticulés des cordons de Billroth",
+      "Le sang ne circule pas",
+      "Le sang est filtré par les reins"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment les sinusoïdes sont-ils formés dans le système lymphoïde?",
+    "explanation": "Les sinusoïdes jouent un rôle crucial dans le drainage des espaces réticulés vers les veines septales.",
+    "media": null,
+    "options": [
+      "Par division cellulaire",
+      "Les sinusoïdes se forment par l'union des capillaires des artères pénicillées qui s'ouvrent dans les espaces réticulés",
+      "Par fusion de veines",
+      "Par croissance osseuse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la différence entre la circulation ouverte et fermée dans le système lymphoïde?",
+    "explanation": "La circulation fermée permet un drainage plus efficace sans passer par des espaces réticulés.",
+    "media": null,
+    "options": [
+      "La circulation ouverte est plus rapide",
+      "Dans la circulation fermée, les capillaires des artères pénicillées sont en continuité directe avec les sinusoïdes veineux",
+      "La circulation fermée n'existe pas",
+      "La circulation ouverte ne transporte pas de sang"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les veines formées par les sinusoïdes dans le système lymphoïde?",
+    "explanation": "Les veines septales sont essentielles pour le retour du sang dans la circulation systémique.",
+    "media": null,
+    "options": [
+      "Les veines caves",
+      "Les veines septales",
+      "Les veines pulmonaires",
+      "Les veines jugulaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel rôle jouent les cordons de Billroth dans la circulation lymphoïde?",
+    "explanation": "Les cordons de Billroth sont des structures importantes pour le drainage et la filtration du sang dans la rate.",
+    "media": null,
+    "options": [
+      "Ils bloquent le sang",
+      "Ils contiennent des espaces réticulés où le sang pénètre dans la circulation ouverte",
+      "Ils produisent des hormones",
+      "Ils stockent l'oxygène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la localisation de la zone marginale?",
+    "explanation": "La zone marginale est une région clé dans la rate qui joue un rôle dans la réponse immunitaire en entourant les follicules lymphoïdes.",
+    "media": null,
+    "options": [
+      "Dans le foie",
+      "Elle entoure les corpuscules de Malpighi (follicules lymphoïdes spléniques)",
+      "Dans les reins",
+      "Dans les poumons"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la zone marginale?",
+    "explanation": "La zone marginale facilite le passage du sang artériel vers la pulpe rouge, permettant ainsi la filtration et la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Produire de l'insuline",
+      "C’est une zone de transition où le sang artériel quitte les artérioles centrales pour entrer dans la pulpe rouge",
+      "Stocker les graisses",
+      "Filtrer l'air"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les cellules B présentes dans la zone marginale?",
+    "explanation": "Les cellules B marginales sont une sous-population particulière de lymphocytes B, également appelées 'B de la zone marginale'.",
+    "media": null,
+    "options": [
+      "Cellules T",
+      "Cellules B marginales",
+      "Cellules NK",
+      "Plasmocytes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de macrophages se trouvent dans la zone marginale?",
+    "explanation": "Les macrophages spécialisés de la zone marginale jouent un rôle crucial dans la réponse immunitaire en phagocytant les agents pathogènes.",
+    "media": null,
+    "options": [
+      "Macrophages alvéolaires",
+      "Macrophages spécialisés",
+      "Macrophages hépatiques",
+      "Macrophages osseux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de cellules dendritiques sont présents dans la zone marginale?",
+    "explanation": "Les cellules dendritiques dans la zone marginale sont essentielles pour la capture et la présentation des antigènes aux lymphocytes T.",
+    "media": null,
+    "options": [
+      "Cellules de Langerhans",
+      "Cellules dendritiques",
+      "Cellules de Kupffer",
+      "Cellules gliales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels autres types de cellules sont présents dans la zone marginale?",
+    "explanation": "En plus des cellules B marginales et des macrophages, la zone marginale contient également quelques lymphocytes T et des plasmocytes qui participent à la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Cellules musculaires",
+      "Quelques lymphocytes T et plasmocytes",
+      "Cellules osseuses",
+      "Cellules adipeuses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le premier site de contact entre les antigènes circulants et le tissu immunitaire?",
+    "explanation": "La zone marginale joue un rôle crucial dans la détection des antigènes circulants par le tissu immunitaire.",
+    "media": null,
+    "options": [
+      "Le thymus",
+      "La zone marginale",
+      "Les ganglions lymphatiques",
+      "La moelle osseuse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de cellules captent les particules, bactéries et antigènes dans le sang?",
+    "explanation": "Les macrophages de la zone marginale sont responsables de la capture des antigènes présents dans le sang.",
+    "media": null,
+    "options": [
+      "Les lymphocytes T",
+      "Les macrophages",
+      "Les cellules dendritiques",
+      "Les neutrophiles"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment les cellules B de la zone marginale réagissent-elles aux antigènes?",
+    "explanation": "Les cellules B de la zone marginale peuvent répondre rapidement en produisant des anticorps IgM, ce qui est essentiel pour la défense précoce contre les infections.",
+    "media": null,
+    "options": [
+      "Elles meurent",
+      "Elles produisent rapidement des IgM sans l’aide des lymphocytes T",
+      "Elles se divisent lentement",
+      "Elles migrent vers le thymus"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'infections les cellules B de la zone marginale défendent-elles principalement?",
+    "explanation": "Ces cellules B constituent une première ligne de défense contre des infections causées par des bactéries encapsulées comme Streptococcus pneumoniae et Haemophilus influenzae.",
+    "media": null,
+    "options": [
+      "Infections virales",
+      "Infections systémiques à bactéries encapsulées",
+      "Infections fongiques",
+      "Infections parasitaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'importance clinique de la zone marginale?",
+    "explanation": "La perte de la zone marginale augmente le risque d'infections bactériennes sévères en raison d'une réponse immunitaire altérée.",
+    "media": null,
+    "options": [
+      "Elle n'a pas d'importance clinique",
+      "La zone marginale est cruciale car sa perte, due à une splénectomie ou à des atteintes comme dans certains lymphomes spléniques, entraîne une réponse réduite aux antigènes circulants",
+      "Elle régule la température corporelle",
+      "Elle produit des hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels risques sont associés à l'atteinte de la zone marginale?",
+    "explanation": "Lorsque la zone marginale est affectée, la capacité du corps à répondre rapidement aux antigènes est compromise, rendant les individus plus vulnérables aux infections.",
+    "media": null,
+    "options": [
+      "Risque de diabète",
+      "L'atteinte de la zone marginale augmente le risque d'infections bactériennes sévères",
+      "Risque d'hypertension",
+      "Risque d'obésité"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le MALT?",
+    "explanation": "Le MALT joue un rôle crucial dans la réponse immunitaire en surveillant les pathogènes qui pénètrent par les muqueuses.",
+    "media": null,
+    "options": [
+      "Un type de muscle",
+      "Le MALT (Tissu lymphoïde associé aux muqueuses) est l'ensemble des tissus lymphoïdes non encapsulés dans des organes et associés aux muqueuses",
+      "Une glande endocrine",
+      "Un vaisseau sanguin"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont des exemples de tissus MALT?",
+    "explanation": "Ces tissus sont essentiels pour la protection immunitaire dans les zones d'entrée des pathogènes.",
+    "media": null,
+    "options": [
+      "Le cœur et les poumons",
+      "Les amygdales, les tissus dans les bronches, les intestins et le tractus uro-génital",
+      "Le foie et le pancréas",
+      "Les os et les muscles"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Où se trouvent les plaques de Peyer?",
+    "explanation": "Les plaques de Peyer sont des agrégats de tissu lymphoïde qui jouent un rôle dans la réponse immunitaire intestinale.",
+    "media": null,
+    "options": [
+      "Dans l'estomac",
+      "Les plaques de Peyer sont situées dans la partie basse de l'intestin grêle",
+      "Dans le côlon",
+      "Dans l'œsophage"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle cellule dans la muqueuse digestive produit des défenses?",
+    "explanation": "Les cellules de Paneth sécrètent des substances antimicrobiennes pour protéger la muqueuse digestive.",
+    "media": null,
+    "options": [
+      "Cellule caliciforme",
+      "Cellule de Paneth",
+      "Entérocyte",
+      "Cellule M"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de lymphocytes se trouve dans la plaque de Peyer?",
+    "explanation": "Les lymphocytes B dans la plaque de Peyer jouent un rôle clé dans la production d'anticorps contre les antigènes intestinaux.",
+    "media": null,
+    "options": [
+      "Lymphocytes T",
+      "Lymphocytes B",
+      "Cellules NK",
+      "Macrophages"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des cellules M dans la plaque de Peyer?",
+    "explanation": "Les cellules M capturent les antigènes et les présentent aux lymphocytes pour initier une réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Produire du mucus",
+      "Transférer des antigènes à des cellules immunitaires",
+      "Absorber les nutriments",
+      "Sécréter des enzymes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de cellules immunitaires sont présents dans la muqueuse digestive?",
+    "explanation": "Ces cellules travaillent ensemble pour détecter et répondre aux pathogènes dans la muqueuse digestive.",
+    "media": null,
+    "options": [
+      "Cellules musculaires et nerveuses",
+      "Neutrophiles, macrophages, lymphocytes, cellules dendritiques",
+      "Cellules osseuses et cartilagineuses",
+      "Cellules adipeuses et fibroblastes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la couche de mucus dans la muqueuse digestive?",
+    "explanation": "La couche de mucus empêche l'adhésion des microbes et protège les cellules épithéliales des dommages.",
+    "media": null,
+    "options": [
+      "Digérer les aliments",
+      "Protéger les cellules épithéliales et piéger les microbes",
+      "Absorber l'eau",
+      "Produire des hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Où se trouvent les plaques de Peyer dans l'iléon ?",
+    "explanation": "Les plaques de Peyer jouent un rôle important dans le système immunitaire intestinal en surveillant la flore bactérienne et en déclenchant des réponses immunitaires.",
+    "media": null,
+    "options": [
+      "Dans la lumière intestinale",
+      "Les plaques de Peyer se trouvent entre l'épithélium et la musculeuse, donc à la fois dans la muqueuse et dans la sous-muqueuse",
+      "Dans la séreuse",
+      "Dans le mésentère"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'une amygdale?",
+    "explanation": "Les amygdales jouent un rôle dans la défense immunitaire en filtrant les agents pathogènes qui pénètrent par la bouche et le nez.",
+    "media": null,
+    "options": [
+      "Un muscle de la gorge",
+      "L'amygdale est un ensemble de nodules lymphoïdes recouverts par un épithélium malpighien",
+      "Une glande salivaire",
+      "Un os du crâne"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'épithélium recouvre les amygdales?",
+    "explanation": "L'épithélium malpighien est adapté pour résister à l'usure et protège les amygdales des infections.",
+    "media": null,
+    "options": [
+      "Épithélium cylindrique simple",
+      "Les amygdales sont recouvertes par un épithélium malpighien",
+      "Épithélium cubique stratifié",
+      "Épithélium transitionnel"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des cryptes dans les amygdales?",
+    "explanation": "Les cryptes sont des invaginations qui aident à capturer et à détruire les microbes, facilitant ainsi la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Produire de la salive",
+      "Les cryptes augmentent la surface de contact et piègent les agents pathogènes",
+      "Aider à la déglutition",
+      "Filtrer l'air"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que contient un follicule lymphatique?",
+    "explanation": "Les follicules lymphatiques sont des structures clés dans la production de lymphocytes, qui combattent les infections.",
+    "media": null,
+    "options": [
+      "Des cellules musculaires",
+      "Un follicule lymphatique contient des cellules immunitaires, notamment des lymphocytes",
+      "Des cellules nerveuses",
+      "Des cellules adipeuses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que l'appendice?",
+    "explanation": "L'appendice est une structure de l'intestin qui joue un rôle dans le système immunitaire grâce à son tissu lymphoïde.",
+    "media": null,
+    "options": [
+      "Une partie de l'estomac",
+      "L'appendice est une muqueuse colique transformée par la présence d'un tissu lymphoïde développé",
+      "Un organe respiratoire",
+      "Une glande endocrine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de follicules se trouvent dans l'appendice?",
+    "explanation": "Les follicules lymphoïdes sont des agrégats de cellules immunitaires qui aident à combattre les infections.",
+    "media": null,
+    "options": [
+      "Follicules pileux",
+      "L'appendice contient de nombreux follicules lymphoïdes primaires et secondaires",
+      "Follicules ovariens",
+      "Follicules thyroïdiens"
+    ],
+    "correct": [
+      1
+    ]
+  }
+]

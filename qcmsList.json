@@ -1,5 +1,40 @@
 [
   {
+    "value": "Digestive",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_Digestive.json",
+    "title": "Digestive"
+  },
+  {
+    "value": "Endocrine",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_Endocrine.json",
+    "title": "endocrine"
+  },
+  {
+    "value": "FoiePancreas",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_FoiePancreas.json",
+    "title": "foiePancreas"
+  },
+  {
+    "value": "Lymphoïde",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_Lymphoïde.json",
+    "title": "Lymphoïde"
+  },
+  {
+    "value": "PeauAnnexes",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_PeauAnnexes.json",
+    "title": "PeauAnnexes"
+  },
+  {
+    "value": "Respiratoire",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_Respiratoire.json",
+    "title": "Respiratoire"
+  },
+  {
+    "value": "Urinaire",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_Urinaire.json",
+    "title": "Urinaire"
+  },
+  {
     "value": "cardiocirculatoire",
     "file": "https://habiboullah0.github.io/QCMsFile/qcms/questions_cardiocirculatoire.json",
     "title": "Cardiocirculatoire"

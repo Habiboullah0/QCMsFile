@@ -1,0 +1,2327 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les glandes responsables de la production de lait chez les mammifères ?",
+    "explanation": "Les glandes mammaires sont des organes spécialisés chez les mammifères qui produisent du lait pour nourrir les jeunes.",
+    "media": null,
+    "options": [
+      "Les glandes salivaires",
+      "Les glandes mammaires",
+      "Les glandes sudoripares",
+      "Les glandes sébacées"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle glande caractérise la classe des mammifères?",
+    "explanation": "La glande mammaire est une caractéristique distinctive des mammifères, essentielle pour la lactation.",
+    "media": null,
+    "options": [
+      "La glande thyroïde",
+      "La glande mammaire",
+      "La glande surrénale",
+      "La glande pituitaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de glande est la glande mammaire?",
+    "explanation": "Les glandes exocrines, comme la glande mammaire, libèrent leurs sécrétions à la surface de l'épiderme ou dans des cavités corporelles.",
+    "media": null,
+    "options": [
+      "Endocrine",
+      "Exocrine",
+      "Mixte",
+      "Paracrine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les phases de développement de la glande mammaire?",
+    "explanation": "La glande mammaire passe par différentes phases de développement, influencées par des facteurs hormonaux et physiologiques.",
+    "media": null,
+    "options": [
+      "Une seule phase de développement",
+      "Plusieurs phases de développement",
+      "Aucune phase de développement",
+      "Développement uniquement à la puberté"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de pathologies peuvent affecter la glande mammaire?",
+    "explanation": "Les pathologies de la glande mammaire peuvent inclure des malformations congénitales, des maladies dégénératives et des néoplasies.",
+    "media": null,
+    "options": [
+      "Pathologies uniquement infectieuses",
+      "Pathologies malformatives, dégénératives ou néoplasiques",
+      "Pathologies uniquement traumatiques",
+      "Aucune pathologie connue"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'apparition des crêtes mammaires au cours de l'embryogenèse?",
+    "explanation": "Les crêtes mammaires s'étendent de la région axillaire au pli inguinal et sont essentielles pour le développement des glandes mammaires.",
+    "media": null,
+    "options": [
+      "À la 8e semaine",
+      "Les crêtes mammaires apparaissent à la 4e semaine sous forme de deux épaississements ectoblastiques sur la paroi ventrale de l'embryon",
+      "À la naissance",
+      "À la puberté"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que se passe-t-il à partir de la 6e semaine de développement?",
+    "explanation": "Ces nodules épithéliaux, appelés bourgeons mammaires, sont les précurseurs des glandes mammaires.",
+    "media": null,
+    "options": [
+      "Développement complet des glandes mammaires",
+      "À partir de la 6e semaine, il y a régression des crêtes mammaires après avoir donné de cinq à sept nodules épithéliaux",
+      "Disparition totale des crêtes mammaires",
+      "Formation des mamelons"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des bourgeons mammaires?",
+    "explanation": "Les bourgeons mammaires se développent à partir des nodules épithéliaux formés par les crêtes mammaires.",
+    "media": null,
+    "options": [
+      "Produire du lait immédiatement",
+      "Chaque bourgeon mammaire engendre une glande mammaire",
+      "Former les muscles pectoraux",
+      "Disparaître après la naissance"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que se forme à partir des bourgeons mammaires?",
+    "explanation": "Cette prolifération est essentielle pour le développement ultérieur des glandes mammaires.",
+    "media": null,
+    "options": [
+      "Des os",
+      "À partir des bourgeons mammaires, des cordons épithéliaux prolifèrent et s'enfoncent dans le mésenchyme sous-jacent",
+      "Des nerfs",
+      "Des vaisseaux sanguins"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la polythélie?",
+    "explanation": "La polythélie peut se manifester par un ou plusieurs mamelons surnuméraires, souvent sans complications.",
+    "media": null,
+    "options": [
+      "L'absence de mamelons",
+      "La polythélie est la présence de mamelons supplémentaires",
+      "Une infection du mamelon",
+      "Une hypertrophie mammaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle condition se manifeste par un déséquilibre entre androgènes et œstrogènes chez l'homme?",
+    "explanation": "La gynécomastie est souvent causée par des niveaux élevés d'œstrogènes ou des niveaux bas d'androgènes.",
+    "media": null,
+    "options": [
+      "La mastite",
+      "La gynécomastie",
+      "Le cancer du sein",
+      "La galactorrhée"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le développement mammaire continu chez les deux sexes pendant la vie fœtale et l'enfance?",
+    "explanation": "Le développement mammaire commence tôt et se poursuit indépendamment des hormones jusqu'à environ 9 ans.",
+    "media": null,
+    "options": [
+      "Le développement est hormonodépendant",
+      "Le développement est indépendant des hormones",
+      "Le développement s'arrête à la naissance",
+      "Le développement commence à la puberté"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "À partir de quel âge la prolifération mammaire s'épuise-t-elle chez l'homme?",
+    "explanation": "Après 9 ans, la prolifération épithéliale chez l'homme diminue considérablement.",
+    "media": null,
+    "options": [
+      "À la naissance",
+      "À partir de 9 ans",
+      "À la puberté",
+      "À l'âge adulte"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont deux pathologies mammaires mentionnées chez l'homme?",
+    "explanation": "La lipomastie est l'accumulation de tissu adipeux dans la région mammaire, souvent sans déséquilibre hormonal.",
+    "media": null,
+    "options": [
+      "Mastite et abcès",
+      "Gynécomastie et lipomastie",
+      "Cancer et kyste",
+      "Fibroadénome et papillome"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qui compose la glande mammaire?",
+    "explanation": "Les lobes mammaires sont la structure de base de la glande mammaire, chacun étant constitué de plusieurs lobules.",
+    "media": null,
+    "options": [
+      "Un seul grand lobe",
+      "Environ 20 unités glandulaires indépendantes appelées lobes mammaires",
+      "Des muscles pectoraux uniquement",
+      "Du tissu adipeux uniquement"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Combien de lobules se trouvent dans chaque lobe mammaire?",
+    "explanation": "Les lobules sont des subdivisions des lobes qui jouent un rôle clé dans la fonction sécrétoire de la glande mammaire.",
+    "media": null,
+    "options": [
+      "1 à 5 lobules",
+      "Chaque lobe est multi lobulé, contenant entre 20 et 40 lobules",
+      "100 à 200 lobules",
+      "Aucun lobule"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "De quoi est constitué chaque lobule de la glande mammaire?",
+    "explanation": "Les tubulo-acini sont responsables de la sécrétion de lait dans la glande mammaire.",
+    "media": null,
+    "options": [
+      "De tissu musculaire",
+      "Chaque lobule est constitué de tubulo-acini qui contiennent 10 à 100 alvéoles",
+      "De tissu osseux",
+      "De nerfs uniquement"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du canal galactophore?",
+    "explanation": "Le canal galactophore est essentiel pour le transport du lait vers l'extérieur lors de l'allaitement.",
+    "media": null,
+    "options": [
+      "Produire des hormones",
+      "Il draine chaque lobe et s'ouvre individuellement à la peau au niveau du mamelon",
+      "Stocker la graisse",
+      "Protéger le mamelon"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la nature de la glande mammaire?",
+    "explanation": "Cette classification indique que la glande sécrète des substances à l'extérieur du corps par des canaux.",
+    "media": null,
+    "options": [
+      "Glande endocrine simple",
+      "C'est une glande exocrine, tubulo-acineuse composée",
+      "Glande mixte",
+      "Glande sébacée"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de tissu sépare les lobes et les lobules de la glande mammaire?",
+    "explanation": "Ce tissu conjonctif soutient et protège les lobes et les lobules tout en leur permettant de fonctionner correctement.",
+    "media": null,
+    "options": [
+      "Tissu musculaire lisse",
+      "Un tissu conjonctif dense formé de faisceaux épais de fibres collagènes",
+      "Tissu nerveux",
+      "Tissu épithélial simple"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le tissu conjonctif intra-lobulaire?",
+    "explanation": "Ce tissu est important pour l'apport sanguin et la réponse immunitaire dans la glande mammaire.",
+    "media": null,
+    "options": [
+      "Tissu adipeux dense",
+      "C'est un tissu conjonctif lâche riche en vaisseaux et en plasmocytes, dépourvu de cellules adipeuses",
+      "Tissu osseux",
+      "Cartilage hyalin"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la condition hormonale de la glande mammaire?",
+    "explanation": "La fonction de la glande mammaire est influencée par les hormones, notamment pendant les cycles menstruels, la grossesse et l'allaitement.",
+    "media": null,
+    "options": [
+      "Elle est indépendante des hormones",
+      "Elle est hormonodépendante",
+      "Elle dépend uniquement de l'alimentation",
+      "Elle dépend de l'activité physique"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la structure du mamelon?",
+    "explanation": "Le mamelon joue un rôle crucial dans l'allaitement et la sensibilité, avec une structure adaptée à ses fonctions.",
+    "media": null,
+    "options": [
+      "Une structure osseuse",
+      "Le mamelon est une papille dépourvue de poils, portant les orifices des canaux galactophores, tapissé par un épithélium pavimenteux stratifié kératinisé pigmenté, riche en fibres musculaires lisses et en fibres nerveuses sensorielles",
+      "Une glande sébacée géante",
+      "Un muscle strié"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que l'aréole?",
+    "explanation": "L'aréole contient des glandes qui sécrètent une substance protectrice pour le mamelon, particulièrement pendant l'allaitement.",
+    "media": null,
+    "options": [
+      "La partie interne du sein",
+      "L'aréole est une zone bosselée autour du mamelon, avec des reliefs dus à la présence de glandes sébacées sans follicules pileux, tapissée par un épithélium pavimenteux stratifié kératinisé pigmenté",
+      "Un canal lactifère",
+      "Un muscle pectoral"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction des sinus galactophores?",
+    "explanation": "Ils facilitent le stockage temporaire du lait avant son passage vers le mamelon.",
+    "media": null,
+    "options": [
+      "Produire du lait",
+      "Les sinus galactophores sont de petites dilatations sur le trajet des canaux galactophores, tapissés par un épithélium cylindrique bi-stratifié",
+      "Filtrer le sang",
+      "Sécréter des hormones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment sont classés les canaux collecteurs?",
+    "explanation": "Chaque type de canal a une structure adaptée à sa fonction dans le système de lactation.",
+    "media": null,
+    "options": [
+      "Par leur longueur uniquement",
+      "Les canaux collecteurs sont classés en premier ordre (canal lobaire) prismatique simple, en second ordre (canal inter-lobulaire) cubique simple, et les canaux intra-lobulaires sont tapissés par un épithélium cubique simple",
+      "Par leur couleur",
+      "Par leur position dans le corps"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles cellules sont présentes dans le tissu épithélial des lobules?",
+    "explanation": "Les cellules myoépithéliales aident à expulser le lait des lobules lors de l'allaitement.",
+    "media": null,
+    "options": [
+      "Cellules nerveuses et musculaires",
+      "Les cellules épithéliales et les cellules myoépithéliales sont présentes dans le tissu épithélial des lobules",
+      "Cellules osseuses et cartilagineuses",
+      "Cellules sanguines"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de tissu conjonctif est présent dans les lobules?",
+    "explanation": "Cette distinction est importante pour le soutien structurel et fonctionnel des glandes mammaires.",
+    "media": null,
+    "options": [
+      "Uniquement du tissu adipeux",
+      "Le tissu conjonctif intralobulaire est lâche, tandis que le tissu conjonctif extralobulaire est dense",
+      "Uniquement du tissu osseux",
+      "Tissu musculaire strié"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'organisation des lobules dans le tissu mammaire?",
+    "explanation": "L'organisation lobulaire permet une efficacité dans la production et l'évacuation du lait.",
+    "media": null,
+    "options": [
+      "Organisation aléatoire",
+      "Les lobules sont constitués de tubes collecteurs et de cellules adipocytes, avec un tissu conjonctif inter-lobulaire",
+      "Organisation en couches concentriques",
+      "Organisation linéaire simple"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles glandes sont présentes dans le tissu mammaire?",
+    "explanation": "Ces glandes sont responsables de la production de lait et de sa sécrétion.",
+    "media": null,
+    "options": [
+      "Glandes salivaires",
+      "Les glandes tubulo-alvéolaires sont présentes dans le tissu mammaire",
+      "Glandes sudoripares",
+      "Glandes lacrymales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les phases du cycle menstruel?",
+    "explanation": "Le cycle menstruel se compose de plusieurs phases qui régulent la préparation et l'éventuelle fertilisation de l'ovule.",
+    "media": null,
+    "options": [
+      "Phase de croissance et phase de repos",
+      "Les phases du cycle menstruel sont la phase pré-ovulatoire, la phase ovulatoire et la phase post-ovulatoire",
+      "Phase lunaire et phase solaire",
+      "Phase active et phase passive"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le développement le plus important durant le cycle menstruel?",
+    "explanation": "Les œstrogènes et la progestérone jouent un rôle crucial dans la régulation des différentes phases du cycle menstruel.",
+    "media": null,
+    "options": [
+      "Développement musculaire",
+      "Le développement le plus important est dû à l'effet des œstrogènes et de la progestérone",
+      "Développement osseux",
+      "Développement nerveux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles variations peuvent se produire au cours du cycle menstruel?",
+    "explanation": "Le cycle menstruel peut entraîner des changements dans le corps qui se manifestent par des écoulements et d'autres variations.",
+    "media": null,
+    "options": [
+      "Variations de la couleur des yeux",
+      "Les variations au cours du cycle menstruel peuvent inclure des variations non uniformes et des écoulements possibles",
+      "Variations de la taille des pieds",
+      "Variations de la longueur des cheveux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que se passe-t-il avec les lobules de la glande mammaire pendant le premier trimestre de grossesse?",
+    "explanation": "Pendant le premier trimestre de grossesse, la glande mammaire se prépare à la lactation, ce qui entraîne une augmentation des lobules.",
+    "media": null,
+    "options": [
+      "Ils diminuent en nombre",
+      "Il y a une augmentation du nombre et de la taille des lobules",
+      "Ils disparaissent complètement",
+      "Ils restent inchangés"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les acini et comment se forment-ils dans la glande mammaire?",
+    "explanation": "Les acini sont des structures glandulaires qui produisent le lait, et leur formation nécessite la réorganisation du tissu conjonctif environnant.",
+    "media": null,
+    "options": [
+      "Ils se forment à partir des os",
+      "Les acini se forment au dépend du tissu conjonctif intra et interlobulaire",
+      "Ils proviennent des muscles",
+      "Ils sont formés par les nerfs"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de tissu augmente dans la glande mammaire pendant le premier trimestre?",
+    "explanation": "Le tissu conjonctif joue un rôle essentiel dans le soutien et la structure des lobules et des acini dans la glande mammaire.",
+    "media": null,
+    "options": [
+      "Tissu musculaire",
+      "Le tissu conjonctif intra et interlobulaire",
+      "Tissu nerveux",
+      "Tissu osseux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels changements se produisent dans les acinis de la glande mammaire pendant la grossesse?",
+    "explanation": "Pendant la grossesse, particulièrement au troisième trimestre, les acinis de la glande mammaire subissent une hypertrophie pour préparer la lactation.",
+    "media": null,
+    "options": [
+      "Ils rétrécissent",
+      "Les acinis augmentent de volume",
+      "Ils se transforment en graisse",
+      "Ils disparaissent"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de cellules sécrétoires est présent dans le tissu palléal de la glande mammaire pendant la grossesse?",
+    "explanation": "Les plasmocytes dans le tissu palléal sécrètent des immunoglobulines A (IgA), qui jouent un rôle dans la protection immunitaire du lait maternel.",
+    "media": null,
+    "options": [
+      "Cellules musculaires",
+      "Plasmocytes produisant des IgA",
+      "Cellules nerveuses",
+      "Cellules osseuses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les vacuoles observées dans la glande mammaire pendant le troisième trimestre de la grossesse?",
+    "explanation": "Les vacuoles de sécrétion dans les acinis sont des structures qui contiennent des précurseurs du lait, se préparant à être libérés lors de la lactation.",
+    "media": null,
+    "options": [
+      "Vacuoles digestives",
+      "Vacuoles de sécrétion",
+      "Vacuoles contractiles",
+      "Vacuoles de stockage de graisse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels hormones inhibent l'excrétion dans la glande mammaire pendant la grossesse?",
+    "explanation": "Les oestrogènes et la progestérone jouent un rôle crucial en inhibant l'excrétion dans la glande mammaire, permettant ainsi le développement des structures lactogènes.",
+    "media": null,
+    "options": [
+      "Insuline et glucagon",
+      "Les oestrogènes et la progestérone",
+      "Adrénaline et cortisol",
+      "Thyroxine et calcitonine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la lactogenèse?",
+    "explanation": "La lactogenèse est inhibée par le TGFB et la progestérone pendant la grossesse, mais est levée après l'accouchement.",
+    "media": null,
+    "options": [
+      "La production de sang",
+      "La lactogenèse est le processus de production de lait par la glande mammaire",
+      "La digestion du lait",
+      "La formation des os"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les principaux composants du lait?",
+    "explanation": "Le lait est une source essentielle de nutriments pour le nourrisson, fournissant protéines pour la croissance, lipides pour l'énergie, et lactose comme glucide.",
+    "media": null,
+    "options": [
+      "Eau et sel uniquement",
+      "Les principaux composants du lait sont les protéines, les lipides et le lactose",
+      "Vitamines et minéraux uniquement",
+      "Glucides complexes uniquement"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le mode de sécrétion des glandes mammaires?",
+    "explanation": "La sécrétion apocrine implique l'excrétion de parties de la cellule, tandis que la sécrétion mérocrine libère le produit sans perte de matériel cellulaire.",
+    "media": null,
+    "options": [
+      "Holocrine uniquement",
+      "Les glandes mammaires sécrètent le lait par des modes apocrine et mérocrine",
+      "Endocrine uniquement",
+      "Paracrine uniquement"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment la sécrétion lactée est-elle entretenue?",
+    "explanation": "Le cycle sécrétoire permet une production continue de lait en réponse aux besoins du nourrisson et aux hormones.",
+    "media": null,
+    "options": [
+      "Par un processus aléatoire",
+      "La sécrétion lactée est entretenue par un cycle sécrétoire",
+      "Par une stimulation nerveuse uniquement",
+      "Par l'alimentation maternelle uniquement"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du TGFB et de la progestérone pendant la grossesse?",
+    "explanation": "Ces hormones empêchent la production de lait jusqu'à ce que l'accouchement ait lieu, moment où leur inhibition cesse.",
+    "media": null,
+    "options": [
+      "Stimuler la production de lait",
+      "Le TGFB et la progestérone inhibent la lactogenèse pendant la grossesse",
+      "Favoriser la croissance fœtale",
+      "Réguler la température corporelle"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle principal de l'hypothalamus dans la lactation?",
+    "explanation": "La GnRH stimule l'hypophyse pour libérer d'autres hormones essentielles à la lactation.",
+    "media": null,
+    "options": [
+      "Produire du lait directement",
+      "L'hypothalamus sécrète la GnRH (hormone de libération des gonadotrophines)",
+      "Contracter les muscles mammaires",
+      "Absorber les nutriments"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle hormone est responsable de la contraction des cellules myoépithéliales lors de la lactation?",
+    "explanation": "L'ocytocine provoque la contraction des cellules myoépithéliales, aidant à l'éjection du lait.",
+    "media": null,
+    "options": [
+      "Prolactine",
+      "L'ocytocine",
+      "Œstrogène",
+      "Progestérone"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la prolactine (PRL) dans la lactation?",
+    "explanation": "La prolactine est produite par l'hypophyse et est cruciale pour la production de lait.",
+    "media": null,
+    "options": [
+      "Contracter les canaux lactifères",
+      "La prolactine stimule la sécrétion de lait par les cellules glandulaires",
+      "Inhiber la production de lait",
+      "Réguler le cycle menstruel"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment le placenta influence-t-il la lactation?",
+    "explanation": "Les hormones placentaires sont essentielles pour le développement des glandes mammaires et la lactation.",
+    "media": null,
+    "options": [
+      "Il bloque la production de lait",
+      "Le placenta sécrète des hormones comme l'œstrogène (E2) et la progestérone (P)",
+      "Il produit de l'ocytocine",
+      "Il n'a aucun rôle"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le système tégumentaire?",
+    "explanation": "Ce système est composé d'organes qui assurent de nombreuses fonctions protectrices pour le corps.",
+    "media": null,
+    "options": [
+      "Le système nerveux",
+      "Le système tégumentaire comprend la peau et ses annexes, comme les glandes sudoripares et les poils",
+      "Le système digestif",
+      "Le système squelettique"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les principaux composants du système tégumentaire?",
+    "explanation": "Chaque composant a des fonctions spécifiques qui contribuent à la protection et à la régulation du corps.",
+    "media": null,
+    "options": [
+      "Cœur, poumons, foie",
+      "La peau, les glandes sudoripares, les glandes sébacées, les poils et les ongles",
+      "Os, muscles, articulations",
+      "Cerveau, moelle épinière, nerfs"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pourquoi la peau est-elle comparée à un vêtement imperméable?",
+    "explanation": "La peau agit comme une barrière protectrice, empêchant la perte d'eau et l'entrée d'agents pathogènes.",
+    "media": null,
+    "options": [
+      "Elle est faite de tissu synthétique",
+      "La peau protège le corps contre les éléments extérieurs",
+      "Elle change de couleur",
+      "Elle est très fine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le nom du système qui comprend la peau et ses annexes?",
+    "explanation": "Le système tégumentaire est essentiel pour la protection contre les agents pathogènes, la régulation de la température corporelle et la sensation.",
+    "media": null,
+    "options": [
+      "Le système circulatoire",
+      "Le système tégumentaire",
+      "Le système respiratoire",
+      "Le système endocrinien"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types d'annexes sont inclus dans le système tégumentaire?",
+    "explanation": "Les annexes cutanées jouent des rôles variés, notamment la protection, la sensation et la régulation des sécrétions.",
+    "media": null,
+    "options": [
+      "Les dents et la langue",
+      "Les cheveux, les ongles et les glandes cutanées",
+      "Les yeux et les oreilles",
+      "Les reins et la vessie"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale de la peau?",
+    "explanation": "La peau agit comme une barrière protectrice, empêchant l'entrée de microbes et de substances nocives.",
+    "media": null,
+    "options": [
+      "Digérer les aliments",
+      "Protéger le corps contre les agressions extérieures",
+      "Pomper le sang",
+      "Filtrer l'air"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment appelle-t-on l'ensemble de la peau et de ses phanères ?",
+    "explanation": "Le tégument comprend la peau ainsi que les phanères, qui incluent les cheveux, les ongles et les glandes.",
+    "media": null,
+    "options": [
+      "L'épiderme",
+      "Le tégument",
+      "Le derme",
+      "L'hypoderme"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la surface approximative de la peau humaine ?",
+    "explanation": "La peau humaine couvre une surface d'environ 2 mètres carrés, ce qui en fait le plus grand organe du corps.",
+    "media": null,
+    "options": [
+      "1 m²",
+      "2 m²",
+      "5 m²",
+      "10 m²"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la masse approximative de la peau humaine ?",
+    "explanation": "La peau humaine pèse environ 5 kilogrammes, représentant une part significative du poids total du corps.",
+    "media": null,
+    "options": [
+      "1 kg",
+      "5 kg",
+      "10 kg",
+      "20 kg"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les fonctions principales de la peau ?",
+    "explanation": "La peau joue un rôle crucial dans la protection contre les agents pathogènes, la régulation de la température corporelle, la perception des stimuli et la synthèse de la vitamine D grâce à l'exposition au soleil.",
+    "media": null,
+    "options": [
+      "Digestion et respiration",
+      "Protection, régulation thermique, sensation, et synthèse de vitamine D",
+      "Circulation sanguine et filtration rénale",
+      "Mouvement et soutien structurel"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les fonctions principales de la peau?",
+    "explanation": "La peau joue un rôle essentiel dans la protection du corps, la régulation thermique et la perception des stimuli externes.",
+    "media": null,
+    "options": [
+      "Digestion et respiration",
+      "Les fonctions principales de la peau incluent la perception des sensations, l'excrétion de sueur, la régulation de la température, la cicatrisation, l'absorption, la protection grâce à la production de mélanine, l'imperméabilisation, l'excrétion de sébum et la production de vitamine D",
+      "Circulation sanguine et filtration rénale",
+      "Mouvement et soutien osseux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la mélanine dans la peau?",
+    "explanation": "La mélanine est produite par les mélanocytes et aide à absorber les rayons UV, réduisant ainsi le risque de dommages cutanés.",
+    "media": null,
+    "options": [
+      "Hydrater la peau",
+      "La mélanine protège la peau contre les effets nocifs des rayons UV du soleil",
+      "Produire de la vitamine D",
+      "Cicatriser les plaies"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment la peau contribue-t-elle à la régulation de la température?",
+    "explanation": "La vasoconstriction réduit le flux sanguin pour conserver la chaleur, tandis que la vasodilatation augmente le flux sanguin pour refroidir le corps.",
+    "media": null,
+    "options": [
+      "Par la production de mélanine",
+      "La peau régule la température par la vasoconstriction et la vasodilatation des vaisseaux sanguins",
+      "Par l'absorption de nutriments",
+      "Par la production de sébum"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le processus de cicatrisation?",
+    "explanation": "La cicatrisation commence par l'inflammation, suivie de la prolifération de cellules et enfin de la maturation du tissu cicatriciel.",
+    "media": null,
+    "options": [
+      "La formation de nouvelles cellules osseuses",
+      "La cicatrisation est le processus par lequel la peau se répare après une blessure",
+      "La production de sueur",
+      "La régulation de la température"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la vitamine D dans la peau?",
+    "explanation": "La vitamine D aide à l'absorption du calcium et du phosphore, contribuant ainsi à la santé osseuse.",
+    "media": null,
+    "options": [
+      "Protéger contre les UV",
+      "La peau produit de la vitamine D lorsqu'elle est exposée au soleil",
+      "Hydrater la peau",
+      "Réguler la température"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment la peau est-elle imperméable?",
+    "explanation": "La couche cornée est constituée de cellules mortes et de lipides qui forment une barrière contre l'eau et les agents pathogènes.",
+    "media": null,
+    "options": [
+      "Grâce aux poils",
+      "La peau est imperméable grâce à la couche cornée qui empêche la perte d'eau",
+      "Grâce aux vaisseaux sanguins",
+      "Grâce aux nerfs"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du sébum dans la peau?",
+    "explanation": "Le sébum aide à prévenir le dessèchement de la peau et à protéger contre les infections.",
+    "media": null,
+    "options": [
+      "Refroidir le corps",
+      "Le sébum protège la peau en maintenant son hydratation et en ayant des propriétés antibactériennes",
+      "Produire de la mélanine",
+      "Absorber la vitamine D"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle fonction a l'absorption dans la peau?",
+    "explanation": "La peau peut absorber des substances liposolubles, facilitant ainsi l'administration de médicaments topiques.",
+    "media": null,
+    "options": [
+      "Produire de la sueur",
+      "L'absorption permet à la peau d'absorber certaines substances comme les crèmes et les médicaments",
+      "Réguler la température",
+      "Protéger contre les UV"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les trois principaux composants de la peau?",
+    "explanation": "La peau est composée de trois couches principales : l'épiderme (couche externe), le derme (couche intermédiaire) et l'hypoderme (couche profonde).",
+    "media": null,
+    "options": [
+      "Os, muscle, nerf",
+      "L'épiderme, le derme et l'hypoderme",
+      "Sang, lymphe, plasma",
+      "Cheveux, ongles, glandes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale de l'épiderme?",
+    "explanation": "L'épiderme sert de barrière protectrice contre les agressions extérieures et joue un rôle crucial dans l'hydratation de la peau.",
+    "media": null,
+    "options": [
+      "Stocker la graisse",
+      "Protéger les couches internes de la peau et réguler la perte d'eau",
+      "Produire du sang",
+      "Soutenir les muscles"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel rôle joue le derme?",
+    "explanation": "Le derme est essentiel pour la résistance et l'élasticité de la peau, abritant également les éléments nécessaires à la nutrition de l'épiderme.",
+    "media": null,
+    "options": [
+      "Il produit de la mélanine",
+      "Il fournit structure et soutien à la peau, contenant des vaisseaux sanguins, des nerfs et des follicules pileux",
+      "Il stocke l'énergie",
+      "Il protège contre les UV"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que l'hypoderme?",
+    "explanation": "L'hypoderme joue un rôle important dans l'isolation thermique et le stockage d'énergie, en plus de permettre la mobilité de la peau sur les structures sous-jacentes.",
+    "media": null,
+    "options": [
+      "La couche externe de la peau",
+      "C'est la couche la plus profonde de la peau, composée de tissu adipeux et de tissu conjonctif",
+      "Une glande sudoripare",
+      "Un type de poil"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la structure de l'épiderme?",
+    "explanation": "L'épiderme est la couche externe de la peau, jouant un rôle crucial dans la protection et la sensation.",
+    "media": null,
+    "options": [
+      "Tissu conjonctif dense",
+      "L'épiderme est un épithélium de revêtement, stratifié, pavimenteux, kératinisé, non vascularisé mais innervé",
+      "Tissu musculaire lisse",
+      "Tissu adipeux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les quatre types cellulaires de l'épiderme?",
+    "explanation": "Chacun de ces types cellulaires a une fonction spécifique, contribuant à la santé et à la protection de la peau.",
+    "media": null,
+    "options": [
+      "Adipocytes, fibroblastes, macrophages, mastocytes",
+      "Les kératinocytes, les mélanocytes, les cellules de Langerhans, et les cellules de Merkel",
+      "Neurones, cellules gliales, astrocytes, oligodendrocytes",
+      "Ostéocytes, chondrocytes, myocytes, érythrocytes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "D'où proviennent les kératinocytes?",
+    "explanation": "Les kératinocytes sont responsables de la production de kératine, une protéine essentielle pour la protection de la peau.",
+    "media": null,
+    "options": [
+      "Mésoderme",
+      "Les kératinocytes proviennent de l'origine ectoblastique",
+      "Endoderme",
+      "Crête neurale"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'origine des mélanocytes?",
+    "explanation": "Les mélanocytes produisent la mélanine, qui protège la peau des effets nocifs des rayons UV.",
+    "media": null,
+    "options": [
+      "Moelle osseuse",
+      "Les mélanocytes proviennent des crêtes neurales",
+      "Épiderme",
+      "Derme"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "D'où proviennent les cellules de Langerhans?",
+    "explanation": "Ces cellules sont des macrophages qui aident à détecter et à combattre les infections dans la peau.",
+    "media": null,
+    "options": [
+      "Crêtes neurales",
+      "Les cellules de Langerhans proviennent de la moelle hématopoïétique",
+      "Ectoderme",
+      "Mésenchyme"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'origine des cellules de Merkel?",
+    "explanation": "Ces cellules sont des mécanorécepteurs qui aident à détecter la pression et le toucher dans la peau.",
+    "media": null,
+    "options": [
+      "Mésoderme",
+      "Les cellules de Merkel sont d'origine neuroectoblastique",
+      "Endoderme",
+      "Moelle osseuse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la couche basale de l'épiderme en contact avec?",
+    "explanation": "La couche basale est essentielle pour la régénération de l'épiderme et est directement en contact avec la couche dermique.",
+    "media": null,
+    "options": [
+      "L'hypoderme",
+      "La jonction dermo-épidermique",
+      "La couche cornée",
+      "Le muscle"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que deviennent les kératinocytes lorsqu'ils quittent la couche basale?",
+    "explanation": "Ce changement de forme et d'apparence est caractéristique de la couche épineuse de l'épiderme.",
+    "media": null,
+    "options": [
+      "Ils meurent immédiatement",
+      "Ils deviennent polygonaux et leur cytoplasme devient plus foncé",
+      "Ils se transforment en mélanocytes",
+      "Ils retournent dans le derme"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le nom de la couche où les kératinocytes deviennent épineux?",
+    "explanation": "Les kératinocytes dans cette couche présentent des desmosomes qui leur donnent un aspect épineux.",
+    "media": null,
+    "options": [
+      "La couche basale",
+      "La couche spineuse",
+      "La couche granuleuse",
+      "La couche cornée"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'un desmosome?",
+    "explanation": "Les desmosomes sont essentiels pour maintenir la structure de l'épiderme en reliant les kératinocytes entre eux.",
+    "media": null,
+    "options": [
+      "Une cellule morte",
+      "Un pont intercellulaire qui relie les cellules dans la couche épineuse",
+      "Une glande sudoripare",
+      "Un vaisseau sanguin"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qui définit la couche granuleuse de l'épiderme?",
+    "explanation": "La couche granuleuse est caractérisée par la présence de granulations basophiles, essentielles pour la structure de l'épiderme.",
+    "media": null,
+    "options": [
+      "L'absence de noyau",
+      "L'apparition de granulations basophiles dans le cytoplasme des kératinocytes",
+      "La présence de mélanine",
+      "La division cellulaire rapide"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les deux types de granulations dans la couche granuleuse?",
+    "explanation": "Les grains de kératohyaline sont composés de particules et de tonofilaments, tandis que les kératinosomes contiennent des protéines et des lipides.",
+    "media": null,
+    "options": [
+      "Mélanosomes et lysosomes",
+      "Les grains de kératohyaline et les kératinosomes",
+      "Ribosomes et mitochondries",
+      "Vacuoles et vésicules"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que les grains de kératohyaline?",
+    "explanation": "Ces grains jouent un rôle crucial dans la différenciation et la fonction des kératinocytes.",
+    "media": null,
+    "options": [
+      "Des cellules mortes",
+      "Des particules de 2 nm traversées par des faisceaux de tonofilaments",
+      "Des lipides stockés",
+      "Des pigments de couleur"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des kératinosomes dans les kératinocytes?",
+    "explanation": "Les kératinosomes contribuent à la barrière cutanée grâce à leur composition lipidique.",
+    "media": null,
+    "options": [
+      "Ils produisent de l'énergie",
+      "Ils présentent une striation périodique avec des protéines et des lipides",
+      "Ils détruisent les bactéries",
+      "Ils transportent l'oxygène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment se transforme la composition lipidique des kératinosomes?",
+    "explanation": "Cette transformation est essentielle pour maintenir l'imperméabilité de l'épiderme.",
+    "media": null,
+    "options": [
+      "En protéines structurelles",
+      "En céramides, cholestérol, et acides gras libres",
+      "En glucides complexes",
+      "En eau et sels minéraux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que se passe-t-il lorsque les kératinocytes perdent leur noyau?",
+    "explanation": "La perte du noyau est une étape clé dans la formation de la couche cornée, qui protège la peau.",
+    "media": null,
+    "options": [
+      "Ils meurent et disparaissent",
+      "Ils deviennent des cornéocytes et constituent la couche cornée",
+      "Ils se divisent à nouveau",
+      "Ils retournent à la couche basale"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'un cornéodesmosome?",
+    "explanation": "Les cornéodesmosomes permettent la cohésion entre les cornéocytes tout en permettant une certaine flexibilité.",
+    "media": null,
+    "options": [
+      "Une cellule immunitaire",
+      "Une structure qui assure une cohésion faible dans la couche cornée",
+      "Un type de poil",
+      "Une glande sébacée"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les principaux types cellulaires de l'épiderme?",
+    "explanation": "Chaque type cellulaire a une fonction spécifique, contribuant à la protection et à la sensation de la peau.",
+    "media": null,
+    "options": [
+      "Adipocytes et fibroblastes",
+      "Kératinocytes, mélanocytes, cellules de Langerhans, cellules de Merkel",
+      "Neurones et cellules gliales",
+      "Ostéocytes et chondrocytes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "D'où proviennent les mélanocytes?",
+    "explanation": "Les mélanocytes sont responsables de la synthèse des mélanines, qui protègent la peau des UV.",
+    "media": null,
+    "options": [
+      "De la moelle osseuse",
+      "Des crêtes neurales",
+      "Du derme",
+      "De l'hypoderme"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la deuxième grande population cellulaire de l'épiderme?",
+    "explanation": "Les mélanocytes sont essentiels pour la synthèse des mélanines, qui déterminent la couleur de la peau.",
+    "media": null,
+    "options": [
+      "Les cellules de Langerhans",
+      "Les mélanocytes",
+      "Les cellules de Merkel",
+      "Les fibroblastes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les deux types de mélanines synthétisées par les mélanocytes?",
+    "explanation": "Les phéomélanines donnent une couleur plus claire, tandis que les eumélanines sont responsables des teintes plus foncées.",
+    "media": null,
+    "options": [
+      "Mélanine A et Mélanine B",
+      "Phéomélanines et eumélanines",
+      "Mélanine rouge et mélanine noire",
+      "Mélanine claire et mélanine foncée"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Dans quels organites les mélanocytes synthétisent-ils les mélanines?",
+    "explanation": "Les mélanosomes sont les structures où la mélanine est produite et stockée.",
+    "media": null,
+    "options": [
+      "Dans les lysosomes",
+      "Dans les mélanosomes",
+      "Dans les ribosomes",
+      "Dans les mitochondries"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle réaction est utilisée pour identifier les mélanocytes?",
+    "explanation": "La réaction Dopa positive est un indicateur de la présence de mélanocytes dans les tissus.",
+    "media": null,
+    "options": [
+      "Réaction de Gram",
+      "Réaction Dopa positive",
+      "Réaction de Feulgen",
+      "Réaction PAS"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que sont les prémélanosomes?",
+    "explanation": "Les prémélanosomes sont les premières structures qui se développent avant de devenir des mélanosomes matures.",
+    "media": null,
+    "options": [
+      "Des cellules mortes",
+      "Des organites précoces dans la maturation des mélanines",
+      "Des pigments finis",
+      "Des déchets cellulaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le processus de maturation des mélanosomes?",
+    "explanation": "Le processus de maturation des mélanosomes implique plusieurs étapes, allant de la formation à la dégradation de la mélanine.",
+    "media": null,
+    "options": [
+      "Division, croissance, mort",
+      "Formation, synthèse, sécrétion, dégradation",
+      "Absorption, digestion, excrétion",
+      "Activation, inhibition, régulation"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que les mélanosomes?",
+    "explanation": "Les mélanosomes jouent un rôle crucial dans la coloration de la peau, des cheveux et des yeux en produisant le pigment mélanine.",
+    "media": null,
+    "options": [
+      "Des cellules immunitaires",
+      "Les mélanosomes sont des organites responsables de la synthèse et du stockage de la mélanine dans les cellules pigmentaires",
+      "Des glandes sudoripares",
+      "Des follicules pileux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des mélanosomes dans la peau?",
+    "explanation": "La mélanine absorbe les rayons UV, réduisant ainsi le risque de dommages cellulaires et de cancer de la peau.",
+    "media": null,
+    "options": [
+      "Produire de la sueur",
+      "Ils produisent et stockent la mélanine, qui protège la peau des effets nocifs des rayons UV",
+      "Réguler la température",
+      "Cicatriser les plaies"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment se déroule la maturation des mélanosomes?",
+    "explanation": "Les mélanosomes passent par différentes phases de développement avant de libérer la mélanine, contribuant ainsi à la pigmentation de la peau.",
+    "media": null,
+    "options": [
+      "En une seule étape rapide",
+      "La maturation des mélanosomes implique plusieurs étapes, allant de la formation initiale à la libération de mélanine dans les kératinocytes",
+      "Ils ne maturent pas",
+      "Ils se dégradent immédiatement"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les six phototypes cutanés?",
+    "explanation": "Les phototypes cutanés sont classés selon la couleur de la peau et la réaction au soleil, influençant le risque de brûlures et de bronzage.",
+    "media": null,
+    "options": [
+      "Type A, B, C, D, E, F",
+      "Type I: peau blanche, brûle toujours, ne bronze jamais. Type II: peau blanche, brûle facilement, bronze peu et avec difficulté. Type III: peau blanche, brûle peu, bronze progressivement. Type IV: peau mate, brûle peu, bronze toujours bien. Type V: peau brune, brûle rarement, bronze intensément. Type VI: peau brun foncé à noire, ne brûle jamais, bronze intensément et profondément.",
+      "Type 1, 2, 3, 4, 5, 6 basés sur l'âge",
+      "Type X, Y, Z basés sur le sexe"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type cellulaire est d'origine ectoblastique dans l'épiderme?",
+    "explanation": "Les kératinocytes sont les cellules prédominantes de l'épiderme, jouant un rôle clé dans la protection de la peau.",
+    "media": null,
+    "options": [
+      "Les mélanocytes",
+      "Les kératinocytes",
+      "Les cellules de Langerhans",
+      "Les fibroblastes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des cellules de Langerhans?",
+    "explanation": "Les cellules de Langerhans jouent un rôle crucial dans la réponse immunitaire cutanée en détectant les agents pathogènes.",
+    "media": null,
+    "options": [
+      "Produire de la mélanine",
+      "Assurent une première ligne de défense en tant que cellules présentatrices d'antigènes",
+      "Former la couche cornée",
+      "Détecter le toucher"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles cellules sont responsables de la sensation tactile fine?",
+    "explanation": "Les cellules de Merkel sont des mécanorécepteurs qui détectent les stimuli tactiles et font synapse avec les terminaisons nerveuses.",
+    "media": null,
+    "options": [
+      "Les kératinocytes",
+      "Les cellules de Merkel",
+      "Les mélanocytes",
+      "Les cellules de Langerhans"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les caractéristiques des granules de Birbeck?",
+    "explanation": "Les granules de Birbeck sont des structures uniques qui aident à identifier les cellules de Langerhans sous microscope.",
+    "media": null,
+    "options": [
+      "Ils sont présents dans les kératinocytes",
+      "Ils sont spécifiques aux cellules de Langerhans et visibles en microscopie électronique",
+      "Ils produisent de la kératine",
+      "Ils sont liés à la pigmentation"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale de la jonction dermoépidermique?",
+    "explanation": "La jonction dermoépidermique maintient l'intégrité de la peau en reliant les couches supérieures et inférieures.",
+    "media": null,
+    "options": [
+      "Produire des cellules",
+      "Assurer l'adhésion entre l'épiderme et le derme",
+      "Sécréter du sébum",
+      "Réguler la température"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que la jonction dermoépidermique?",
+    "explanation": "Cette jonction joue un rôle crucial dans l'adhérence de l'épiderme au derme et dans la régulation de l'échange de nutriments et de déchets.",
+    "media": null,
+    "options": [
+      "Une glande sudoripare",
+      "La jonction dermoépidermique est la zone de contact entre l'épiderme et le derme",
+      "Un type de poil",
+      "Une couche de graisse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle principal de la jonction dermoépidermique?",
+    "explanation": "Elle contribue également à la protection contre les agents pathogènes et à la régulation de la perméabilité cutanée.",
+    "media": null,
+    "options": [
+      "Produire de la mélanine",
+      "Son rôle principal est de maintenir l'intégrité structurelle de la peau",
+      "Stocker de l'énergie",
+      "Transmettre des signaux nerveux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est l'importance de la jonction dermoépidermique dans la santé de la peau?",
+    "explanation": "Une jonction dermoépidermique saine permet un bon échange de substances et prévient les maladies cutanées.",
+    "media": null,
+    "options": [
+      "Elle n'est pas importante",
+      "Elle est essentielle pour la nutrition de l'épiderme et la protection contre les infections",
+      "Elle ne sert qu'à l'esthétique",
+      "Elle régule la couleur de la peau"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les effets d'une altération de la jonction dermoépidermique?",
+    "explanation": "Les défaillances dans cette jonction peuvent provoquer des décollements de la peau et augmenter la susceptibilité aux infections.",
+    "media": null,
+    "options": [
+      "Une peau plus lisse",
+      "Une altération peut entraîner des maladies cutanées comme les ampoules ou l'eczéma",
+      "Une augmentation de la pilosité",
+      "Une meilleure hydratation"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les deux couches principales du derme?",
+    "explanation": "Le derme papillaire est la couche supérieure du derme, tandis que le derme réticulaire est la couche plus profonde, offrant structure et support à la peau.",
+    "media": null,
+    "options": [
+      "Derme superficiel et derme profond",
+      "Les deux couches principales du derme sont le derme papillaire et le derme réticulaire",
+      "Derme adipeux et derme fibreux",
+      "Derme vasculaire et derme nerveux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale de l'hypoderme?",
+    "explanation": "L'hypoderme, également appelé tissu sous-cutané, est composé de graisse et de tissu conjonctif, jouant un rôle crucial dans la protection et le soutien.",
+    "media": null,
+    "options": [
+      "Produire de la sueur",
+      "L'hypoderme sert d'isolant thermique et de réserve énergétique, en plus de relier la peau aux structures sous-jacentes",
+      "Protéger contre les UV",
+      "Détecter le toucher"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment est la vascularisation de la peau?",
+    "explanation": "La vascularisation de la peau est essentielle pour l'apport sanguin, la thermorégulation et la cicatrisation des blessures.",
+    "media": null,
+    "options": [
+      "Elle est absente",
+      "La vascularisation de la peau comprend un réseau planiforme superficiel, des anastomoses artérioveineuses et un réseau artériel planiforme profond",
+      "Elle est très limitée",
+      "Elle ne concerne que l'épiderme"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de glande est présent dans la peau?",
+    "explanation": "Les glandes sudoripares produisent la sueur, qui aide à refroidir le corps par évaporation.",
+    "media": null,
+    "options": [
+      "Glandes salivaires",
+      "Les glandes sudoripares (sweat glands) sont présentes dans la peau",
+      "Glandes thyroïdiennes",
+      "Glandes surrénales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle principal de la peau?",
+    "explanation": "La peau joue un rôle crucial dans la perception sensorielle, notamment à travers le toucher.",
+    "media": null,
+    "options": [
+      "La digestion",
+      "La peau est un organe sensoriel, l'organe du tact",
+      "La respiration",
+      "La circulation sanguine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de sensibilités sont perçues au niveau cutané?",
+    "explanation": "La peau est capable de détecter plusieurs types de sensations grâce à ses récepteurs spécialisés.",
+    "media": null,
+    "options": [
+      "Vue et ouïe",
+      "Les sensibilités perçues sont : tact fin, tact grossier, sensibilité thermique, et sensibilité douloureuse",
+      "Goût et odorat",
+      "Équilibre et proprioception"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Combien de types de structures histologiques assurent la sensibilité de la peau?",
+    "explanation": "Ces structures comprennent divers types de récepteurs qui permettent la perception des stimuli.",
+    "media": null,
+    "options": [
+      "1 type",
+      "Il y a 5 types de structures histologiques assurant la sensibilité",
+      "10 types",
+      "Aucun type"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les types de terminaisons nerveuses libres présentes dans l'épiderme?",
+    "explanation": "Ces terminaisons sont responsables de la détection des sensations tactiles, thermiques et douloureuses.",
+    "media": null,
+    "options": [
+      "Terminaisons musculaires",
+      "Les terminaisons nerveuses libres comprennent les mécanorécepteurs, les thermorécepteurs et les nocirécepteurs",
+      "Terminaisons vasculaires",
+      "Terminaisons glandulaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le corpuscule de Merkel?",
+    "explanation": "Ces corpuscules sont particulièrement nombreux au niveau des lèvres et de la pulpe des doigts, jouant un rôle important dans la perception tactile.",
+    "media": null,
+    "options": [
+      "Une glande sudoripare",
+      "Le corpuscule de Merkel est formé par l'association d'une cellule de Merkel et d'une terminaison nerveuse libre",
+      "Un follicule pileux",
+      "Une cellule adipeuse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Où se situent les corpuscules de Meissner?",
+    "explanation": "Les corpuscules de Meissner sont des récepteurs tactiles sensibles à la pression légère, localisés dans les papilles dermiques de la peau glabre.",
+    "media": null,
+    "options": [
+      "Dans l'hypoderme",
+      "Dans les papilles du derme de la peau glabre",
+      "Dans l'épiderme",
+      "Dans les muscles"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment est entourée la fibre nerveuse myélinisée dans les corpuscules de Meissner?",
+    "explanation": "Les cellules de Schwann forment une couche protectrice autour de la fibre nerveuse, facilitant la conduction des impulsions nerveuses.",
+    "media": null,
+    "options": [
+      "Par des cellules musculaires",
+      "Elle est entourée de cellules de Schwann disposées en pile d’assiette",
+      "Par des cellules adipeuses",
+      "Par des cellules osseuses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les caractéristiques des corpuscules de Pacini?",
+    "explanation": "Les corpuscules de Pacini, ou corpuscules lamellés, détectent les vibrations et les pressions profondes dans la peau.",
+    "media": null,
+    "options": [
+      "Ils sont petits et superficiels",
+      "Ils sont volumineux et situés dans l’hypoderme",
+      "Ils sont absents chez l'homme",
+      "Ils ne détectent que la chaleur"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "De quoi est constituée la tunique des corpuscules de Pacini?",
+    "explanation": "Cette tunique conjonctive protège le corpuscule et contribue à sa fonction de détection des stimuli.",
+    "media": null,
+    "options": [
+      "De tissu musculaire",
+      "D'une tunique conjonctive d’origine périneurale",
+      "De tissu osseux",
+      "De tissu épithélial"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Où se situe la fibre nerveuse myélinisée dans les corpuscules de Pacini?",
+    "explanation": "Les lamelles concentriques augmentent la sensibilité du corpuscule aux vibrations et aux pressions.",
+    "media": null,
+    "options": [
+      "À la périphérie",
+      "Au centre de lamelles cellulaires concentriques faites de cellules de Schwann",
+      "À l'extérieur du corpuscule",
+      "Dans la capsule"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Où se situent les corpuscules de Ruffini?",
+    "explanation": "Les corpuscules de Ruffini sont des récepteurs sensoriels situés dans le derme, responsables de la perception de la pression et de l'étirement.",
+    "media": null,
+    "options": [
+      "Dans l'épiderme",
+      "Dans le derme",
+      "Dans l'hypoderme",
+      "Dans les muscles"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la structure des corpuscules de Ruffini?",
+    "explanation": "Les corpuscules de Ruffini sont arrondis et entourés d'une capsule dense, ce qui les protège et leur permet de fonctionner efficacement.",
+    "media": null,
+    "options": [
+      "Allongés et sans capsule",
+      "Arrondis, entourés d'une capsule dense",
+      "Plats et ouverts",
+      "Sphériques et mous"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de tissu entoure les corpuscules de Ruffini?",
+    "explanation": "Le tissu riche en fibres collagènes autour des corpuscules de Ruffini contribue à leur stabilité et à leur fonction de détection de la pression.",
+    "media": null,
+    "options": [
+      "Tissu adipeux",
+      "Un tissu riche en fibres collagènes",
+      "Tissu nerveux",
+      "Tissu musculaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de glandes sont les glandes sudoripares?",
+    "explanation": "Les glandes sudoripares sont des glandes exocrines qui sécrètent la sueur et sont caractérisées par leur structure tubuleuse et pelotonnée.",
+    "media": null,
+    "options": [
+      "Glandes endocrines",
+      "Glandes exocrines, tubuleuses simples pelotonnées",
+      "Glandes mixtes",
+      "Glandes sébacées"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel épithélium entoure la portion sécrétrice des glandes sudoripares?",
+    "explanation": "La portion sécrétrice des glandes sudoripares est entourée d'un épithélium cubique simple, facilitant la sécrétion de la sueur.",
+    "media": null,
+    "options": [
+      "Épithélium stratifié",
+      "Épithélium cubique simple",
+      "Épithélium cylindrique",
+      "Épithélium pavimenteux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'innervation ont les glandes sudoripares?",
+    "explanation": "Les glandes sudoripares reçoivent une innervation sympathique, ce qui stimule la production de sueur en réponse à des situations stressantes.",
+    "media": null,
+    "options": [
+      "Innervation parasympathique",
+      "Innervation sympathique",
+      "Innervation somatique",
+      "Aucune innervation"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le type de canal excréteur des glandes sudoripares?",
+    "explanation": "Le canal excréteur des glandes sudoripares est constitué d'un épithélium cubique bistratifié, permettant un passage efficace de la sueur vers la surface de la peau.",
+    "media": null,
+    "options": [
+      "Épithélium simple",
+      "Épithélium cubique bistratifié",
+      "Épithélium stratifié kératinisé",
+      "Épithélium transitionnel"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les glandes responsables de la production de sueur?",
+    "explanation": "Les glandes sudoripares eccrines sont des glandes exocrines qui sécrètent de la sueur pour réguler la température corporelle et éliminer les déchets.",
+    "media": null,
+    "options": [
+      "Les glandes sébacées",
+      "Les glandes sudoripares eccrines",
+      "Les glandes mammaires",
+      "Les glandes lacrymales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la structure de base d'une glande sudoripare eccrine?",
+    "explanation": "Les glandes sudoripares eccrines sont composées de plusieurs parties, dont le glomérule qui est la partie sécrétante, et des cellules qui aident à la production de sueur.",
+    "media": null,
+    "options": [
+      "Un follicule pileux",
+      "Un glomérule, des cellules sombres et claires, un canal excréteur et un tube sécréteur",
+      "Une glande sébacée",
+      "Un corpuscule de Pacini"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment appelle-t-on les glandes sudoripares qui produisent une sueur de type mérocrine?",
+    "explanation": "Les glandes sudoripares eccrines libèrent leur produit par un mécanisme mérocrine, où seules les vésicules contenant la sueur fusionnent avec la membrane cellulaire.",
+    "media": null,
+    "options": [
+      "Glandes apocrines",
+      "Glandes sudoripares eccrines",
+      "Glandes holocrines",
+      "Glandes endocrines"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de tissu est principalement associé aux glandes sudoripares eccrines?",
+    "explanation": "Les glandes sudoripares eccrines sont constituées de cellules épithéliales qui forment des structures spécialisées pour la sécrétion de sueur.",
+    "media": null,
+    "options": [
+      "Tissu musculaire",
+      "Tissu épithélial",
+      "Tissu nerveux",
+      "Tissu osseux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Où se localisent les glandes sudoripares apocrines?",
+    "explanation": "Les glandes sudoripares apocrines sont situées dans des zones spécifiques du corps, souvent associées à une transpiration plus odorante.",
+    "media": null,
+    "options": [
+      "Sur tout le corps",
+      "Dans le creux axillaire, le mamelon, le mont de Vénus et le conduit auditif externe",
+      "Sur les paumes des mains",
+      "Sur la plante des pieds"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la lumière des glandes sudoripares apocrines?",
+    "explanation": "La lumière large des glandes sudoripares apocrines est une caractéristique qui les distingue des autres types de glandes sudoripares.",
+    "media": null,
+    "options": [
+      "Étroite",
+      "Large",
+      "Inexistante",
+      "Variable"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le mode d'excrétion des glandes sudoripares apocrines?",
+    "explanation": "Le mode mérocrine d'excrétion signifie que les glandes libèrent leur produit sans perte de cytoplasme cellulaire.",
+    "media": null,
+    "options": [
+      "Holocrine",
+      "Mérocrine",
+      "Apocrine",
+      "Endocrine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'hormone est associé aux glandes sudoripares apocrines?",
+    "explanation": "Les glandes sudoripares apocrines sont influencées par des hormones, ce qui affecte leur activité et leur sécrétion.",
+    "media": null,
+    "options": [
+      "Indépendante des hormones",
+      "Hormonodépendante",
+      "Dépendante de l'insuline",
+      "Dépendante de l'adrénaline"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'un follicule pilosébacé?",
+    "explanation": "Le follicule pilosébacé est essentiel pour la croissance des poils, reliant la partie visible à la peau et jouant un rôle dans la régulation de la sécrétion sébacée.",
+    "media": null,
+    "options": [
+      "Une glande sudoripare",
+      "C'est une structure complexe qui produit les poils et les cheveux, comprenant une partie visible appelée tige et une racine s'invaginant dans le derme",
+      "Un muscle de la peau",
+      "Une cellule nerveuse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la structure de la tige du follicule pileux?",
+    "explanation": "La kératine est une protéine structurelle qui confère force et résistance aux poils et cheveux, essentielle à leur intégrité.",
+    "media": null,
+    "options": [
+      "Composée de lipides",
+      "La tige est composée de molécules de kératine organisées en protofibrilles, microfibrilles et macrofibrilles",
+      "Composée de collagène",
+      "Composée d'élastine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que contient la base du follicule pileux?",
+    "explanation": "Le bulbe pileux est la région où se forme le poil, tandis que la papille dermique fournit les nutriments nécessaires à la croissance du poil.",
+    "media": null,
+    "options": [
+      "Des glandes sudoripares",
+      "La base du follicule pileux contient le bulbe pileux et la papille dermique",
+      "Des cellules adipeuses",
+      "Des vaisseaux sanguins uniquement"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les gaines du follicule pileux?",
+    "explanation": "Ces gaines protègent et soutiennent le follicule pileux, jouant un rôle crucial dans sa fonction et sa structure.",
+    "media": null,
+    "options": [
+      "Gaines musculaires",
+      "Les gaines épithéliales internes et externes, ainsi que la gaine de Huxley et la gaine de Henle",
+      "Gaines nerveuses",
+      "Gaines vasculaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la papille dermique dans le follicule pileux?",
+    "explanation": "Elle est essentielle pour la régénération et le développement des follicules pileux, influençant la santé des cheveux.",
+    "media": null,
+    "options": [
+      "Produire de la kératine",
+      "La papille dermique fournit les nutriments et les signaux nécessaires à la croissance du poil",
+      "Protéger le poil",
+      "Colorer le poil"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la composition de la tige du poil?",
+    "explanation": "La kératine est cruciale pour la structure et la résistance des poils, leur permettant de résister à l'usure quotidienne.",
+    "media": null,
+    "options": [
+      "Collagène",
+      "La tige est principalement composée de kératine, qui se présente sous forme de filaments organisés",
+      "Élastine",
+      "Fibrine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les glandes sébacées?",
+    "explanation": "Les glandes sébacées jouent un rôle important dans l'hydratation de la peau et la protection contre les bactéries grâce à la sécrétion de sébum.",
+    "media": null,
+    "options": [
+      "Glandes sudoripares",
+      "Les glandes sébacées sont des glandes exocrines acinoalvéolaires holocrines qui sécrètent un produit lipidique appelé sébum",
+      "Glandes mammaires",
+      "Glandes lacrymales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de produit sécrètent les glandes sébacées?",
+    "explanation": "Le sébum aide à maintenir l'hydratation de la peau et à prévenir la sécheresse.",
+    "media": null,
+    "options": [
+      "Sueur",
+      "Les glandes sébacées sécrètent un produit lipidique, le sébum",
+      "Lait",
+      "Larmes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "À quel type de glandes appartiennent les glandes sébacées?",
+    "explanation": "Les glandes exocrines se distinguent des glandes endocrines, qui sécrètent directement dans le sang.",
+    "media": null,
+    "options": [
+      "Glandes endocrines",
+      "Les glandes sébacées sont des glandes exocrines",
+      "Glandes mixtes",
+      "Glandes paracrines"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de muscle est le muscle arrecteur du poil?",
+    "explanation": "Le muscle arrecteur du poil est un muscle lisse qui se contracte en réponse à des stimuli comme le froid ou la peur.",
+    "media": null,
+    "options": [
+      "Muscle strié",
+      "C'est un petit muscle lisse",
+      "Muscle cardiaque",
+      "Muscle squelettique"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de la contraction du muscle arrecteur du poil?",
+    "explanation": "La contraction de ce muscle est une réponse physiologique qui se produit lors de situations de froid ou de peur.",
+    "media": null,
+    "options": [
+      "Elle fait pousser le poil",
+      "Elle provoque le redressement du poil, créant ainsi la chair de poule",
+      "Elle fait tomber le poil",
+      "Elle change la couleur du poil"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d'innervation reçoit le muscle arrecteur du poil?",
+    "explanation": "L'innervation sympathique est responsable des réponses involontaires du corps, comme la contraction des muscles arrecteurs.",
+    "media": null,
+    "options": [
+      "Innervation parasympathique",
+      "Il reçoit une innervation sympathique",
+      "Innervation somatique",
+      "Aucune innervation"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel phénomène est causé par la contraction du muscle arrecteur du poil?",
+    "explanation": "La contraction du muscle arrecteur du poil redresse les poils et provoque une élévation de la peau, connue sous le nom de chair de poule.",
+    "media": null,
+    "options": [
+      "La transpiration",
+      "La chair de poule",
+      "Le rougissement",
+      "Le bronzage"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles cellules forment les ongles?",
+    "explanation": "Les cellules épithéliales kératinisées se multiplient pour former la structure dure des ongles.",
+    "media": null,
+    "options": [
+      "Cellules musculaires",
+      "Les ongles sont formés de cellules épithéliales kératinisées",
+      "Cellules nerveuses",
+      "Cellules adipeuses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment se produit la croissance des ongles?",
+    "explanation": "La matrice unguéale est responsable de la production continue de nouvelles cellules qui forment les ongles.",
+    "media": null,
+    "options": [
+      "Par division cellulaire aléatoire",
+      "La croissance des ongles est due à la prolifération tangentielle de la matrice unguéale",
+      "Par accumulation de kératine",
+      "Par fusion cellulaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pourquoi la croissance des ongles est-elle ininterrompue?",
+    "explanation": "Contrairement à d'autres tissus, les ongles ne perdent pas leurs cellules superficielles, ce qui permet une croissance continue.",
+    "media": null,
+    "options": [
+      "Parce qu'ils sont vivants",
+      "La croissance des ongles est ininterrompue en raison de l'absence de desquamation",
+      "Parce qu'ils sont nourris par le sang",
+      "Parce qu'ils sont protégés"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la matrice de l'ongle?",
+    "explanation": "La matrice unguéale est la zone de croissance où les nouvelles cellules sont produites, permettant ainsi l'allongement de l'ongle.",
+    "media": null,
+    "options": [
+      "Protéger l'ongle",
+      "La matrice de l'ongle est responsable de la production des cellules qui forment l'ongle",
+      "Donner la couleur à l'ongle",
+      "Attacher l'ongle au doigt"
+    ],
+    "correct": [
+      1
+    ]
+  }
+]

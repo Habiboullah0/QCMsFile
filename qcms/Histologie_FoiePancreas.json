@@ -1,0 +1,1052 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les glandes annexes du tube digestif?",
+    "explanation": "Ces glandes jouent un rôle essentiel dans le processus digestif en sécrétant des enzymes et des substances qui facilitent la digestion des aliments.",
+    "media": null,
+    "options": [
+      "L'estomac et l'intestin grêle",
+      "Les glandes salivaires, le foie et le pancréas",
+      "Les reins et la vessie",
+      "Le cœur et les poumons"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale du foie?",
+    "explanation": "Le foie est responsable de la transformation des nutriments absorbés par l'intestin et de l'élimination des toxines du sang.",
+    "media": null,
+    "options": [
+      "Pomper le sang dans tout le corps",
+      "Assurer les échanges gazeux",
+      "Le métabolisme, la détoxification et la production de bile",
+      "Filtrer l'urine"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction principale du pancréas?",
+    "explanation": "Le pancréas aide à décomposer les aliments dans l'intestin et régule le taux de sucre dans le sang grâce à l'insuline.",
+    "media": null,
+    "options": [
+      "Produire des enzymes digestives et des hormones, comme l'insuline",
+      "Stocker la bile produite par le foie",
+      "Filtrer les déchets du sang",
+      "Produire des globules rouges"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la nature vitale du foie?",
+    "explanation": "Le foie est un organe vital qui joue un rôle crucial dans de nombreuses fonctions corporelles.",
+    "media": null,
+    "options": [
+      "C'est un organe vestigial",
+      "C'est un organe vital",
+      "C'est un organe sensoriel",
+      "C'est un organe reproducteur"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel rôle le foie joue-t-il dans la digestion?",
+    "explanation": "Le foie stocke les nutriments absorbés par l'intestin et les distribue selon les besoins de l'organisme.",
+    "media": null,
+    "options": [
+      "L'absorption directe des aliments",
+      "Le stockage et la répartition des nutriments issus de la digestion",
+      "La production d'acide chlorhydrique",
+      "Le broyage mécanique des aliments"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment le foie contribue-t-il à la détoxification?",
+    "explanation": "Le foie joue un rôle clé dans la dégradation et l'élimination des substances nocives du corps.",
+    "media": null,
+    "options": [
+      "Il stocke les toxines indéfiniment",
+      "Il dégrade les substances toxiques",
+      "Il les transforme en vitamines",
+      "Il les expulse par la respiration"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction du foie en matière de protéines?",
+    "explanation": "Le foie est responsable de la production de nombreuses protéines essentielles, y compris celles impliquées dans la coagulation sanguine.",
+    "media": null,
+    "options": [
+      "La digestion des protéines musculaires",
+      "La synthèse de la plupart des protéines du sang",
+      "Le stockage des protéines sous forme de graisse",
+      "L'élimination totale des protéines"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle substance le foie produit-il pour la digestion des graisses?",
+    "explanation": "La bile, produite par le foie, est essentielle pour l'émulsification et la digestion des graisses dans l'intestin.",
+    "media": null,
+    "options": [
+      "L'insuline",
+      "La salive",
+      "La bile",
+      "L'acide gastrique"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de la capsule conjonctive de Glisson?",
+    "explanation": "La capsule de Glisson est une couche de tissu conjonctif qui entoure le foie et délimite ses unités fonctionnelles appelées lobules hépatiques.",
+    "media": null,
+    "options": [
+      "Elle produit la bile",
+      "Elle délimite les lobules du foie",
+      "Elle stocke le glycogène",
+      "Elle filtre le sang"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qu'un lobule hépatique?",
+    "explanation": "Les lobules hépatiques sont des structures microscopiques qui composent le foie et sont responsables de ses fonctions métaboliques.",
+    "media": null,
+    "options": [
+      "Une cellule immunitaire",
+      "L'unité fonctionnelle du foie",
+      "Un canal biliaire",
+      "Une enzyme digestive"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la principale caractéristique de la vascularisation hépatique?",
+    "explanation": "Le foie reçoit du sang à la fois par l'artère hépatique, qui fournit le sang oxygéné, et par la veine porte, qui apporte le sang riche en nutriments provenant du tube digestif.",
+    "media": null,
+    "options": [
+      "Une vascularisation uniquement artérielle",
+      "Une vascularisation uniquement veineuse",
+      "Une double vascularisation afférente, artérielle et portale",
+      "Une absence de vascularisation directe"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les types de vascularisation afférente du foie?",
+    "explanation": "La vascularisation afférente permet d'apporter à la fois l'oxygène et les nutriments nécessaires au fonctionnement du foie.",
+    "media": null,
+    "options": [
+      "Artérielle et lymphatique",
+      "Veineuse et lymphatique",
+      "Artérielle et portale",
+      "Portale et nerveuse"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment se fait la vascularisation efférente du foie?",
+    "explanation": "Les veines sus-hépatiques transportent le sang du foie vers la veine cave inférieure, permettant ainsi le retour du sang vers le cœur.",
+    "media": null,
+    "options": [
+      "Par l'artère hépatique",
+      "Par la veine porte",
+      "Par les veines sus-hépatiques",
+      "Par le canal cholédoque"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des veines sus-hépatiques?",
+    "explanation": "Ces veines sont cruciales pour éliminer le sang désoxygéné du foie, assurant ainsi un bon fonctionnement circulatoire.",
+    "media": null,
+    "options": [
+      "Apporter le sang oxygéné au foie",
+      "Drainer le sang du foie vers la veine cave inférieure",
+      "Transporter la bile vers l'intestin",
+      "Apporter les nutriments de l'intestin"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles structures sont impliquées dans la vascularisation hépatique?",
+    "explanation": "Ces structures forment un réseau complexe qui permet l'apport de nutriments et d'oxygène au foie, ainsi que l'élimination des déchets.",
+    "media": null,
+    "options": [
+      "L'aorte, la veine cave supérieure et la veine pulmonaire",
+      "L'artère hépatique, la veine porte et les veines sus-hépatiques",
+      "L'artère rénale, la veine rénale et l'uretère",
+      "L'artère carotide et la veine jugulaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que représente le schéma de la double vascularisation hépatique?",
+    "explanation": "Ce schéma aide à comprendre comment le foie reçoit son sang et ses nutriments de différentes sources.",
+    "media": null,
+    "options": [
+      "Le système nerveux du foie",
+      "La double vascularisation hépatique (artère hépatique et veine porte)",
+      "Le drainage lymphatique",
+      "La production de bile"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le centre du lobule hépatique?",
+    "explanation": "La veine centrolobulaire est la structure centrale du lobule hépatique, jouant un rôle clé dans le drainage sanguin du foie.",
+    "media": null,
+    "options": [
+      "L'espace porte",
+      "Le canal biliaire",
+      "La veine centrolobulaire",
+      "L'artère hépatique"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les six sommets du lobule hépatique?",
+    "explanation": "Les espaces portes au sommet du lobule hépatique contiennent la veine porte, l'artère hépatique et le canal biliaire.",
+    "media": null,
+    "options": [
+      "Les veines centrolobulaires",
+      "Les espaces portes",
+      "Les canaux lymphatiques",
+      "Les cellules de Kupffer"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels vaisseaux sont présents dans les espaces portes du lobule hépatique?",
+    "explanation": "Ces trois vaisseaux sont essentiels pour l'apport sanguin et le drainage biliaire dans le foie.",
+    "media": null,
+    "options": [
+      "Veine cave, aorte, canal thoracique",
+      "Veine porte, artère hépatique, canal biliaire",
+      "Veine sus-hépatique, artère rénale, uretère",
+      "Veine pulmonaire, artère pulmonaire, bronche"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que l'espace porte de Kierman?",
+    "explanation": "L'espace porte de Kierman est une zone qui comprend des branches de vaisseaux et des canaux biliaires dans le foie.",
+    "media": null,
+    "options": [
+      "Le centre du lobule hépatique",
+      "Une région spécifique dans le foie contenant des vaisseaux et des canaux biliaires",
+      "La capsule externe du foie",
+      "Une zone de stockage de graisse"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que représentent les branches des vaisseaux dans les espaces porto-biliaires de Kierman?",
+    "explanation": "Les branches des vaisseaux et des canaux biliaires cheminent dans le tissu conjonctif des espaces porto-biliaires, jouant un rôle dans la fonction hépatique.",
+    "media": null,
+    "options": [
+      "Les hépatocytes",
+      "Les canaux biliaires et les nerfs",
+      "Les cellules de Kupffer",
+      "Les sinusoïdes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le parenchyme hépatique?",
+    "explanation": "Les hépatocytes sont les cellules principales du foie, responsables de nombreuses fonctions métaboliques.",
+    "media": null,
+    "options": [
+      "Un tissu conjonctif fibreux",
+      "Il est constitué de lames de cellules épithéliales, appelées hépatocytes",
+      "Un réseau de vaisseaux sanguins uniquement",
+      "Un amas de cellules adipeuses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "D'où rayonnent les hépatocytes dans le parenchyme hépatique?",
+    "explanation": "La veine centrolobulaire est au centre de chaque lobule hépatique et joue un rôle clé dans le drainage sanguin du foie.",
+    "media": null,
+    "options": [
+      "De l'espace porte",
+      "De la capsule de Glisson",
+      "De la veine centrolobulaire",
+      "Du canal cholédoque"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel aspect prennent les hépatocytes sur les coupes histologiques?",
+    "explanation": "Les travées cellulaires sont des arrangements de cellules qui permettent une meilleure efficacité dans les échanges métaboliques.",
+    "media": null,
+    "options": [
+      "Des amas désorganisés",
+      "L'aspect de travées cellulaires",
+      "Des cercles concentriques",
+      "Des cellules isolées"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que sont les travées de REMAK?",
+    "explanation": "Ces travées sont importantes pour la structure et la fonction du foie, facilitant les interactions entre les cellules.",
+    "media": null,
+    "options": [
+      "Des vaisseaux sanguins",
+      "Des nerfs hépatiques",
+      "Des structures cellulaires observées dans le parenchyme hépatique",
+      "Des canaux biliaires"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de vaisseaux sont présents dans un lobule hépatique?",
+    "explanation": "Ces vaisseaux sanguins assurent l'apport de nutriments et l'élimination des déchets dans le foie.",
+    "media": null,
+    "options": [
+      "L'aorte et la veine cave",
+      "Une branche de la veine porte, une branche de l'artère hépatique et des capillaires sinusoïdes",
+      "Les veines pulmonaires",
+      "Les artères coronaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction des capillaires sinusoïdes dans le foie?",
+    "explanation": "Les sinusoïdes sont spécialisés pour faciliter le passage de substances entre le sang et les cellules hépatiques.",
+    "media": null,
+    "options": [
+      "Transporter l'oxygène vers les poumons",
+      "Permettre les échanges entre le sang et les hépatocytes",
+      "Produire de la bile",
+      "Stocker l'urine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de la veine centrolobulaire?",
+    "explanation": "Elle joue un rôle crucial dans le drainage sanguin du foie après que le sang a été traité par les hépatocytes.",
+    "media": null,
+    "options": [
+      "Apporter le sang au lobule",
+      "Recueillir le sang des sinusoïdes et le diriger vers la circulation systémique",
+      "Sécréter la bile",
+      "Filtrer la lymphe"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que les capillaires sinusoïdes?",
+    "explanation": "Les capillaires sinusoïdes permettent un échange plus facile de substances entre le sang et les tissus environnants en raison de leur structure spécialisée.",
+    "media": null,
+    "options": [
+      "Des vaisseaux imperméables",
+      "Des vaisseaux sanguins avec des cellules endothéliales ayant de larges pores",
+      "Des artères à paroi épaisse",
+      "Des veines valvulées"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de cellules se trouve dans les capillaires sinusoïdes?",
+    "explanation": "Les cellules de Kuppfer sont des macrophages résidents du foie qui jouent un rôle clé dans la réponse immunitaire et la dégradation des particules étrangères.",
+    "media": null,
+    "options": [
+      "Les cellules de Leydig",
+      "Les cellules de Kuppfer",
+      "Les cellules de Sertoli",
+      "Les neurones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction de l'espace de Disse?",
+    "explanation": "Cet espace permet le passage de nutriments et de substances entre le sang et les cellules du foie, favorisant ainsi le métabolisme hépatique.",
+    "media": null,
+    "options": [
+      "Il sépare les lobes du foie",
+      "Il se trouve entre les hépatocytes et les cellules endothéliales",
+      "Il entoure la vésicule biliaire",
+      "Il protège le pancréas"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles structures sont présentes dans l'espace de Disse?",
+    "explanation": "Les microvillosités augmentent la surface d'absorption, tandis que les fibres de réticuline fournissent un soutien structurel dans le foie.",
+    "media": null,
+    "options": [
+      "Globules rouges et plaquettes",
+      "Microvillosités des hépatocytes et fibres de réticuline",
+      "Nerfs moteurs",
+      "Cellules musculaires lisses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles cellules sont également présentes dans l'espace de Disse?",
+    "explanation": "Les cellules de ITO stockent les lipides et participent à la régulation du métabolisme lipidique dans le foie.",
+    "media": null,
+    "options": [
+      "Les cellules de Langerhans",
+      "Les cellules de ITO",
+      "Les cellules pariétales",
+      "Les cellules principales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la cellule principale du parenchyme hépatique?",
+    "explanation": "Les hépatocytes sont responsables de nombreuses fonctions métaboliques dans le foie, y compris la production de protéines et le stockage de glycogène.",
+    "media": null,
+    "options": [
+      "Adipocyte",
+      "Hépatocyte",
+      "Ostéocyte",
+      "Chondrocyte"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles cellules du foie sont impliquées dans la phagocytose?",
+    "explanation": "Les cellules de Kupffer sont des macrophages résidents du foie qui jouent un rôle clé dans la réponse immunitaire en phagocytant les particules étrangères.",
+    "media": null,
+    "options": [
+      "Hépatocytes",
+      "Cellules de Kupffer",
+      "Cellules de Ito",
+      "Cellules endothéliales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type de cellule hépatique est responsable du stockage de la vitamine A?",
+    "explanation": "Les cellules de Ito, ou cellules stellaires hépatiques, stockent la vitamine A et sont impliquées dans la régulation de la fibrose dans le foie.",
+    "media": null,
+    "options": [
+      "Cellule de Kupffer",
+      "Hépatocyte",
+      "Cellule de Ito",
+      "Cellule biliaire"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment sont décrits les noyaux des hépatocytes?",
+    "explanation": "Les hépatocytes peuvent avoir un à deux noyaux, ce qui est typique pour ces cellules, qui sont polygonales et riches en cytoplasme.",
+    "media": null,
+    "options": [
+      "Multiples noyaux périphériques",
+      "1 à 2 noyaux centraux arrondis",
+      "Aucun noyau",
+      "Noyau en forme de fer à cheval"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le contenu cytoplasmique abondant des hépatocytes?",
+    "explanation": "Les grains de glycogène dans le cytoplasme des hépatocytes servent de réserve d'énergie, pouvant être mobilisés lorsque le corps en a besoin.",
+    "media": null,
+    "options": [
+      "Cristaux de calcium",
+      "Grains de glycogène",
+      "Bulles d'air",
+      "Fibres musculaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment sont liés les hépatocytes entre eux?",
+    "explanation": "Ces structures assurent la cohésion et la communication entre les hépatocytes, permettant un fonctionnement harmonieux du foie.",
+    "media": null,
+    "options": [
+      "Ils flottent librement",
+      "Par des desmosomes, des jonctions gap et des interdigitations",
+      "Par des synapses chimiques",
+      "Par du cartilage"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle principal des cellules de ITO?",
+    "explanation": "Elles jouent un rôle crucial dans le stockage des graisses et la régulation de la vitamine A, ainsi que dans la synthèse du collagène, important pour la structure du foie.",
+    "media": null,
+    "options": [
+      "Transport de l'oxygène",
+      "Métabolisme du rétinol (vitamine A) et sécrétion de collagène",
+      "Production d'insuline",
+      "Digestion des protéines"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel espace est associé aux hépatocytes et aux cellules de ITO?",
+    "explanation": "L'espace de Disse est un espace périsinusoïdal qui joue un rôle clé dans l'échange de substances entre le sang et les cellules du foie.",
+    "media": null,
+    "options": [
+      "Espace de Bowman",
+      "Espace de Disse",
+      "Espace épidural",
+      "Espace pleural"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'activation des cellules de ITO lors de la fibrose hépatique?",
+    "explanation": "Lorsque le foie est endommagé, les cellules de ITO s'activent et contribuent à la formation de tissu cicatriciel, ce qui peut entraîner une fibrose hépatique.",
+    "media": null,
+    "options": [
+      "Elles meurent immédiatement",
+      "Elles jouent un rôle prépondérant dans la fibrose (cirrhose)",
+      "Elles se transforment en hépatocytes",
+      "Elles arrêtent de produire du collagène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la caractéristique de la cellule décrite (Macrophage/Kupffer)?",
+    "explanation": "Cette cellule joue un rôle important dans le système vasculaire en occupant un espace significatif dans la lumière des vaisseaux sanguins.",
+    "media": null,
+    "options": [
+      "Petite et plate",
+      "Volumineuse et faisant saillie dans la lumière vasculaire",
+      "Longue et fine",
+      "Invisible au microscope"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que contient le cytoplasme de cette cellule (Macrophage)?",
+    "explanation": "Les lysosomes contiennent des enzymes qui aident à décomposer divers types de biomolécules.",
+    "media": null,
+    "options": [
+      "Riche en mitochondries uniquement",
+      "Riche en lysosomes",
+      "Vide",
+      "Rempli de gaz"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de cette cellule en tant que macrophage?",
+    "explanation": "Les macrophages sont des cellules immunitaires qui ingèrent et décomposent les éléments indésirables dans l'organisme.",
+    "media": null,
+    "options": [
+      "Produire des hormones",
+      "Phagocyter les débris cellulaires, les bactéries, l'hémosidérine et les hématies âgées",
+      "Transporter l'oxygène",
+      "Contracter le vaisseau"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de cette cellule dans l'immunité?",
+    "explanation": "La présentation des antigènes est essentielle pour l'activation des lymphocytes T, qui jouent un rôle clé dans la réponse immunitaire.",
+    "media": null,
+    "options": [
+      "Aucun rôle",
+      "Elle présente des antigènes aux lymphocytes du sang",
+      "Elle détruit les lymphocytes",
+      "Elle produit des anticorps directement"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que peut-elle capter et dégrader?",
+    "explanation": "La dégradation des triglycérides est importante pour le métabolisme des lipides et pour fournir de l'énergie.",
+    "media": null,
+    "options": [
+      "L'eau",
+      "Les triglycérides",
+      "Le calcium",
+      "L'oxygène"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que les canalicules biliaires?",
+    "explanation": "Les canalicules biliaires jouent un rôle important dans le transport de la bile entre les hépatocytes dans le foie.",
+    "media": null,
+    "options": [
+      "Gros vaisseaux sanguins",
+      "Espaces ménagés entre des hépatocytes adjacents",
+      "Cellules nerveuses",
+      "Tissus musculaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment sont visualisés les canalicules biliaires en microscopie électronique (ME)?",
+    "explanation": "La microscopie électronique permet de voir les structures cellulaires avec une grande précision, révélant les caractéristiques des canalicules biliaires.",
+    "media": null,
+    "options": [
+      "Comme des points noirs",
+      "Comme des espaces intercellulaires larges entre deux hépatocytes",
+      "Comme des fibres longues",
+      "Ils sont invisibles"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les caractéristiques des canalicules biliaires?",
+    "explanation": "Les jonctions serrées entre les hépatocytes assurent l'intégrité des canalicules biliaires, permettant un transport efficace de la bile sans barrière physique.",
+    "media": null,
+    "options": [
+      "Ont une paroi musculaire épaisse",
+      "Ils sont limités par des jonctions serrées et n'ont pas de paroi propre",
+      "Sont ouverts sur la cavité abdominale",
+      "Contiennent du sang"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les niveaux du système collecteur de la bile?",
+    "explanation": "Les voies biliaires intra-hépatiques incluent les canalicules biliaires, les passages de Hering, et les canaux biliaires inter-lobulaires, tandis que les voies extra-hépatiques incluent le canal hépatique et le canal cholédoque.",
+    "media": null,
+    "options": [
+      "Supérieur et inférieur",
+      "Les voies biliaires intra-hépatiques et extra-hépatiques",
+      "Artériel et veineux",
+      "Gauche et droit"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels types de voies biliaires sont considérées comme intra-hépatiques?",
+    "explanation": "Les canalicules biliaires drainent la bile vers l'espace porte, et les passages de Hering contiennent des cellules ovales souche.",
+    "media": null,
+    "options": [
+      "Canal cholédoque et cystique",
+      "Les canalicules biliaires, les passages de Hering et les canaux biliaires inter-lobulaires",
+      "Veine porte et artère hépatique",
+      "Uretère et urètre"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des canalicules biliaires?",
+    "explanation": "Les canalicules biliaires sont des structures histologiques importantes qui transportent la bile produite par les hépatocytes vers les voies biliaires plus grandes.",
+    "media": null,
+    "options": [
+      "Produire l'insuline",
+      "Drainer la bile vers l'espace porte",
+      "Stocker le sang",
+      "Filtrer les toxines"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que sont les passages de Hering?",
+    "explanation": "Ces passages jouent un rôle important dans la régénération du tissu hépatique en raison de la présence de cellules souches.",
+    "media": null,
+    "options": [
+      "Des vaisseaux sanguins majeurs",
+      "Des structures avec un épithélium cubique simple renfermant des cellules ovales souche",
+      "Des nerfs sensitifs",
+      "Des muscles lisses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les voies biliaires extra-hépatiques?",
+    "explanation": "Les voies biliaires extra-hépatiques transportent la bile du foie vers l'intestin grêle, incluant des canaux principaux et des voies accessoires.",
+    "media": null,
+    "options": [
+      "Canalicules biliaires",
+      "Le canal hépatique, le canal cholédoque, le canal cystique et la vésicule biliaire",
+      "Veines sus-hépatiques",
+      "Canaux pancréatiques uniquement"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "De quoi est formée la paroi de la vésicule biliaire?",
+    "explanation": "La vésicule biliaire a une structure histologique qui comprend plusieurs couches, essentielles pour sa fonction.",
+    "media": null,
+    "options": [
+      "Une seule couche de cellules",
+      "Trois tuniques",
+      "Cinq couches musculaires",
+      "Os et cartilage"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les trois tuniques de la vésicule biliaire?",
+    "explanation": "Chacune des tuniques joue un rôle spécifique dans la fonction et la protection de la vésicule biliaire.",
+    "media": null,
+    "options": [
+      "Épiderme, derme, hypoderme",
+      "La muqueuse, la musculeuse et la séreuse",
+      "Cortex, médulla, bassinet",
+      "Dure-mère, arachnoïde, pie-mère"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le pancréas?",
+    "explanation": "Le pancréas joue un rôle crucial dans la digestion et la régulation hormonale, avec des cellules distinctes pour chaque fonction.",
+    "media": null,
+    "options": [
+      "Une glande uniquement endocrine",
+      "Une glande uniquement exocrine",
+      "C'est une glande mixte, amphicrine ayant des fonctions exocrines et endocrines",
+      "Un muscle"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les deux fonctions du pancréas?",
+    "explanation": "Les fonctions exocrines sécrètent des enzymes digestives, tandis que les fonctions endocrines régulent le métabolisme par des hormones.",
+    "media": null,
+    "options": [
+      "Respiratoire et circulatoire",
+      "Les fonctions exocrines et endocrines",
+      "Digestive et reproductrice",
+      "Nerveuse et musculaire"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle partie du pancréas représente la presque totalité de la glande?",
+    "explanation": "Le pancréas exocrine est principalement constitué de tubulo-acini séreux et de canaux excréteurs qui libèrent des enzymes digestives.",
+    "media": null,
+    "options": [
+      "Le pancréas endocrine",
+      "Le pancréas exocrine",
+      "La capsule",
+      "Les vaisseaux sanguins"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "De quoi est formé le pancréas exocrine?",
+    "explanation": "Les tubulo-acini séreux produisent des enzymes, tandis que les canaux excréteurs transportent ces enzymes vers le système digestif.",
+    "media": null,
+    "options": [
+      "Îlots de Langerhans",
+      "Il est formé de tubulo-acini séreux et de canaux excréteurs",
+      "Cellules adipeuses uniquement",
+      "Neurones"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment se compose la partie endocrine du pancréas?",
+    "explanation": "Les îlots de Langerhans contiennent des cellules qui sécrètent des hormones telles que l'insuline et le glucagon, régulant ainsi la glycémie.",
+    "media": null,
+    "options": [
+      "Canaux excréteurs",
+      "Elle est formée de petits amas sphériques appelés îlots de Langerhans",
+      "Acini séreux",
+      "Vésicules biliaires"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce qui limite le pancréas?",
+    "explanation": "La capsule conjonctive protège le pancréas et permet la formation de cloisons qui divisent le parenchyme glandulaire en lobules.",
+    "media": null,
+    "options": [
+      "Une paroi osseuse",
+      "Il est limité par une capsule conjonctive",
+      "Une couche de muscle strié",
+      "Rien, il est libre"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Que sont les cloisons dans le pancréas?",
+    "explanation": "Les cloisons aident à organiser le tissu glandulaire, permettant une meilleure fonctionnalité et un soutien structurel.",
+    "media": null,
+    "options": [
+      "Elles produisent des hormones",
+      "Elles divisent le parenchyme glandulaire en lobules",
+      "Elles transportent la bile",
+      "Elles filtrent le sang"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qu'est-ce que le pancréas exocrine?",
+    "explanation": "Le pancréas exocrine joue un rôle essentiel dans la digestion en produisant des enzymes digestives et en sécrétant des bicarbonates.",
+    "media": null,
+    "options": [
+      "Une glande produisant uniquement de l'insuline",
+      "Le pancréas exocrine est une glande acineuse composée de cellules séreuses pures et de canaux excréteurs",
+      "Un tissu de stockage de graisse",
+      "Un ganglion lymphatique"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le rôle des îlots de Langerhans dans le pancréas?",
+    "explanation": "Les îlots de Langerhans sécrètent des hormones comme l'insuline et le glucagon, régulant ainsi le métabolisme du glucose.",
+    "media": null,
+    "options": [
+      "Digestion des graisses",
+      "Les îlots de Langerhans sont responsables de la fonction endocrine du pancréas",
+      "Production de salive",
+      "Filtration rénale"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les composants des acini pancréatiques?",
+    "explanation": "Ces cellules séreuses produisent des enzymes digestives nécessaires à la dégradation des nutriments dans l'intestin.",
+    "media": null,
+    "options": [
+      "Cellules muqueuses",
+      "Les acini pancréatiques sont formés de cellules séreuses pyramidales",
+      "Cellules musculaires",
+      "Cellules nerveuses"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les différentes parties des canaux excréteurs du pancréas?",
+    "explanation": "Ces canaux transportent le suc pancréatique vers le duodénum pour aider à la digestion.",
+    "media": null,
+    "options": [
+      "Artères et veines",
+      "Les canalicules intercalaires, les canaux intra-lobulaires, les canaux inter-lobulaires et les canaux collecteurs",
+      "Uretères et urètre",
+      "Bronches et bronchioles"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction exocrine du pancréas?",
+    "explanation": "Le suc pancréatique neutralise l'acidité du chyme et fournit les enzymes nécessaires à la digestion des glucides, des lipides et des protéines.",
+    "media": null,
+    "options": [
+      "Régulation de la température",
+      "L'élaboration du suc pancréatique, une solution aqueuse contenant des enzymes et des bicarbonates",
+      "Production d'hormones sexuelles",
+      "Stockage du fer"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la fonction endocrine du pancréas?",
+    "explanation": "Les îlots de Langerhans sont des groupes de cellules dans le pancréas qui produisent des hormones comme l'insuline et le glucagon, essentielles pour le métabolisme du glucose.",
+    "media": null,
+    "options": [
+      "Production de bile",
+      "Les îlots de Langerhans sécrètent des hormones dans le sang",
+      "Digestion mécanique",
+      "Absorption d'eau"
+    ],
+    "correct": [
+      1
+    ]
+  }
+]
