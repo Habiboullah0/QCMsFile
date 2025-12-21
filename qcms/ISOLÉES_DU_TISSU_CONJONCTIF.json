@@ -1,0 +1,777 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont parmi les affirmations suivantes celles qui correspondent aux critères de \nclassification des tissus conjonctif communs :",
+    "explanation": "\nCritère de classification des tissus conjonctifs communs :\n\n· Le rapport de densité des différentes composantes (✓)\n\nLes éléments non retenus comme critères :\n\n· La prédominance d'une différenciation cellulaire (✗)\n· Le nombre de couches cellulaires (✗)\n· La fonction des cellules (✗)\n· La localisation anatomique (✗)",
+    "media": null,
+    "options": [
+      "A. la prédominance d’une différenciation cellulaire.",
+      "B. le nombre de couche cellulaire.",
+      "C. la fonction de la cellule conjonctive.",
+      "D. la localisation du tissu conjonctif dans l’organisme humain.",
+      "E. le rapport de densité des différentes composantes."
+    ],
+    "correct": [
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le (s) critère (s) de classification des tissus conjonctif commun (est) (sont) :",
+    "explanation": "Critère(s) de classification :\n\n· La prédominance de l'une des 3 composantes du tissu conjonctif (✓)\n\nLes éléments non retenus :\n\n· Présence/absence de fibres élastiques (✗)\n· Fonction spécifique (✗)\n· Présence/absence de vaisseaux sanguins (✗)\n· Résistance à l'étirement (✗)",
+    "media": null,
+    "options": [
+      "A. La prédominance de l’une des 3 composantes qui constitue le tissu conjonctif.",
+      "B. La présence ou non de fibre élastique.",
+      "C. La fonction spécifique du tissu conjonctif.",
+      "D. La présence ou non de vaisseaux sanguins.",
+      "E. Sa résistance à l’étirement et au réchauffement."
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le fibroblaste produit :",
+    "explanation": "Le fibroblaste produit :\n\n· Les fibres de collagène (✓)\n· Des enzymes (✓)\n\nCe qu'il ne produit pas :\n\n· Le mucus (✗)\n· Des hormones (✗)\n· L'ostéoïde (✗)",
+    "media": null,
+    "options": [
+      "A. les fibres de collagène",
+      "B. des enzymes",
+      "C. le mucus",
+      "D. des hormones",
+      "E. l’ostéoïde"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les molécules de tropocollagène :",
+    "explanation": "Les molécules de tropocollagène :\n\n· Sont responsables de la situation des fibrilles de collagène (✓)\n· Sont reliées les unes aux autres en bout à bout (✓)\n\nCaractéristiques incorrectes :\n\n· Constituants de la procollagène (✗)\n· Intra-fibroblastiques (✗)\n· Constituants majeurs des fibres musculaires (✗)",
+    "media": null,
+    "options": [
+      "A. Sont les constituants de la procollagène",
+      "B. sont intra fibroblastiques",
+      "C. Sont responsables de la situation des fibrilles de collagène",
+      "D. Sont reliées les uns aux autres en bout à bout",
+      "E. Sont les constituants majeurs des fibres musculaires"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les fibres de collagène sont :",
+    "explanation": "Les fibres de collagène sont :\n\n· Dénaturées par la chaleur et les acides (✓)\n· Striées longitudinalement et transversalement (✓)\n\nCaractéristiques incorrectes :\n\n· Extensibles et résistantes à l'étirement (✗)\n· Organisées en fibrilles de procollagène (✗)\n· Amorphes et non striées (✗)\n· Représentées par seulement cinq types (✗)",
+    "media": null,
+    "options": [
+      "A. Extensibles et résistants à l’étirement",
+      "B. Dénaturées par la chaleur et les acides",
+      "C. Organisées en fibrilles de procollagène",
+      "D. Toutes amorphes et non striées",
+      "E. Représentées par cinq types dans notre organisme",
+      "F. Striées longitudinalement et transversalement"
+    ],
+    "correct": [
+      1,
+      5
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les proteoglycans :",
+    "explanation": "Les protéoglycanes :\n\n· Sont présents sous forme d'agrégats (✓)\n· Sont fixés sur une molécule d'acide hyaluronique (✓)\n\nRôles incorrects :\n\n· Responsables de la rétraction matricielle (✗)\n· Protéines fibreuses d'adhésion (✗)\n· Responsables des relations cellules-matrice (✗)",
+    "media": null,
+    "options": [
+      "A. sont présentes sous forme d’agrégats dans les tissus conjonctifs communs",
+      "B. Sont responsables de la rétraction de la matrice extra-cellulaire",
+      "C. Sont les protéines fibreuses d’adhésion",
+      "D. Sont des macromolécules responsables des relations cellules–matrice extracellulaire",
+      "E. Sont fixés sur une molécule d’acide hyaluronique"
+    ],
+    "correct": [
+      0,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La substance fondamentale des tissus conjonctifs :",
+    "explanation": "La substance fondamentale :\n\n· Contient toujours des protéoglycanes (✓)\n· Contient des protéines de liaison (✓)\n· Est présente dans tous les tissus conjonctifs (✓)\n\nCaractéristiques incorrectes :\n\n· Pauvre en eau avec les agrégats (✗)\n· Constitue à elle seule la matrice extracellulaire (✗)",
+    "media": null,
+    "options": [
+      "A. Contient toujours des proteoglycans.",
+      "B. Sera pauvre en eau lorsque l’acide hyaluronique s’associe aux proteoglycans",
+      "C. Contient des protéines de liaison.",
+      "D. Constitue à lui seul la matrice extracellulaire.",
+      "E. est présente dans tous les tissus conjonctifs spécialisés et communs."
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les composantes de la substance fondamentale du tissu conjonctif \ncommun ?\r",
+    "explanation": "Composantes de la substance fondamentale :\n\n· Glycosaminoglycanes (GAG) (✓)\n· Fibronectine (✓)\n\nÉléments n'en faisant pas partie :\n\n· Fibres de réticuline (✗)\n· Procollagène (✗)\n· Hydroxyapatite (✗)",
+    "media": null,
+    "options": [
+      "A. Fibres de réticuline",
+      "B. Glycosaminoglycans",
+      "C. Procollagène",
+      "D. Fibronectine",
+      "E. Hydroxyapatite"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les composantes qui caractérisent la substance fondamentale ?",
+    "explanation": "Composantes caractéristiques de la substance fondamentale :\n\n· Glycosaminoglycanes (✓)\n· Acide hyaluronique (✓)\n\nÉléments non caractéristiques :\n\n· Fibres de collagène (✗)\n· Fibres élastiques (✗)\n· Hydroxyapatite (✗)",
+    "media": null,
+    "options": [
+      "A. Fibres de collagène",
+      "B. Glycosaminoglycans",
+      "C. Acide hyaluronique",
+      "D. Fibres élastiques",
+      "E. Hydroxyapatite"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est l’élément constitutif du tissu conjonctif commun, responsable de la \nturgescence de ce dernier :\r",
+    "explanation": "Élément responsable de la turgescence :\n\n· Les molécules de protéoglycanes associées à l'acide hyaluronique (✓)\n\nÉléments non responsables :\n\n· Fibronectine (✗)\n· Fibres de collagène type 1 (✗)\n· Cellules sanguines (✗)\n· Vaisseaux sanguins (✗)",
+    "media": null,
+    "options": [
+      "A. La fibronectine",
+      "B. Les fibres de collagène type 1",
+      "C. Les molécules de proteoglycan associées à l’acide hyaluronique",
+      "D. Les cellulaires sanguines",
+      "E. Les vaisseaux sanguins"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Parmi les tissus conjonctifs non spécialisés observés chez le fœtus, il existe",
+    "explanation": "Tissus conjonctifs non spécialisés observés chez le fœtus :\n\n· Tissu muqueux (✓)\n· Tissu mésenchymateux (✓)\n\nTissus non spécifiquement fœtaux :\n\n· Tissu réticulé (✗)\n· Tissu adipeux brun (✗)\n· Tissu conjonctif dense (✗)",
+    "media": null,
+    "options": [
+      "A.le tissu adipeux brun",
+      "B.le tissu muqueux",
+      "C.le tissu réticulé",
+      "D.le tissu mésenchymateux",
+      "E.le tissu conjonctif dense"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La cellule mésenchymateuse est :",
+    "explanation": "La cellule mésenchymateuse :\n\n· Est à l'origine des lipoblastes (✓)\n· Est une cellule embryonnaire (✓)\n· Est à l'origine des ostéoblastes (✓)\n\nCaractéristiques incorrectes :\n\n· Localisée en périphérie des capillaires continus de l'adulte (✗)\n· Présente en abondance dans la gelée de Wharton (✗)",
+    "media": null,
+    "options": [
+      "A.A l’origine des lipoblastes",
+      "B.Mise en évidence en périphérie des capillaires continus de l’adulte",
+      "C.Une cellule embryonnaire",
+      "D.Présente en abondance dans la gelée de Wharton",
+      "E.A l’origine des osteoblastes au cours de l’ossification"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": ". Le mésenchyme",
+    "explanation": "Le mésenchyme :\n\n· Est constitué essentiellement de substance fondamentale (✓)\n· Est un support d'ossification (✓)\n\nCaractéristiques incorrectes :\n\n· Tissu conjonctif dense (✗)\n· Comporte des fibroblastes (✗)\n· Coloré en rose par l'aldéhyde fuchsine (✗)",
+    "media": null,
+    "options": [
+      "A.est un tissu conjonctif dense",
+      "B.est constitué essentiellement de substance fondamentale",
+      "C.comporte des fibroblastes",
+      "D.est un support d’ossification",
+      "E.est coloré en rose par l'aldéhyde fuschine"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu conjonctif muqueux est :",
+    "explanation": "Le tissu conjonctif muqueux :\n\n· Riche en substance fondamentale (✓)\n· Pauvre en fibres de collagène (✓)\n\nCaractéristiques incorrectes :\n\n· Riche en fibres élastiques (✗)\n· Pauvre en acide hyaluronique (✗)\n· Présent dans les aponévroses (✗)\n· Riche en cellules inflammatoires (✗)",
+    "media": null,
+    "options": [
+      "A.Riche en fibres élastiques",
+      "B.riche en substance fondamentale",
+      "C.Pauvre en acide hyaluronique",
+      "D.Présent dans les aponévroses des muscles",
+      "E.Riche en cellules inflammatoires",
+      "F.Pauvre en fibres de collagène"
+    ],
+    "correct": [
+      1,
+      5
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Dans un tissu conjonctif lâche, il existe une prédominance",
+    "explanation": "Dans le tissu conjonctif lâche, prédominance :\n\n· Des cellules de défense (✓)\n\nÉléments non prédominants :\n\n· Substance fondamentale (✗)\n· Glycosaminoglycanes (✗)\n· Fibres de collagène (✗)\n· Fibres de réticuline (✗)",
+    "media": null,
+    "options": [
+      "A.des fibres de collagène",
+      "B.de la substance fondamentale",
+      "C.des cellules de défense",
+      "D.des fibres de réticuline",
+      "E.des glycoaminoglycanes"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": ". Quel est l'élément caractéristique du tissu conjonctif commun lâche",
+    "explanation": "Élément caractéristique du tissu conjonctif lâche :\n\n· Prédominance des cellules fixes et mobiles (✓)\n\nÉléments non caractéristiques :\n\n· Présence de fibronectine (✗)\n· Fibres de collagène orientées (✗)\n· Agrégats de protéoglycanes (✗)\n· Vaisseaux lymphatiques (✗)",
+    "media": null,
+    "options": [
+      "A.La présence de la fibronectine",
+      "B.La quantité importante de fibres de collagène orientées.",
+      "C.Les molécules de protéoglycane associées à l'acide hyaluronique.",
+      "D.la prédominance des cellules fixes et mobiles.",
+      "E.La présence d'un nombre important de vaisseaux lymphatiques."
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le chorion",
+    "explanation": "Le chorion :\n\n· Est un tissu conjonctif riche en cellules mobiles (✓)\n\nCaractéristiques incorrectes :\n\n· Tissu conjonctif spécialisé (✗)\n· Observé au niveau du périchondre (✗)\n· Contient les vasa vasorum (✗)\n· Peut se transformer en tissu adipeux (✗)",
+    "media": null,
+    "options": [
+      "A.est un tissu conjonctif spécialisé",
+      "B.est un tissu conjonctif riche en cellules mobiles",
+      "C.est observé au niveau du périchondre",
+      "D.contient les vasavasorum",
+      "E.peut se transformer en tissu adipeux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu conjonctif dense régulier :",
+    "explanation": "Les affirmations VRAIES sont :\n•B. Constitue les tendons des muscles (✓)\n•D. Existe sous deux formes structurales (✓)\n\nLes affirmations FAUSSES sont :\n•A. Est un tissu conjonctif spécialisé (✗)\n•C. Est un tissu peu résistant (✗)\n•E. Constitue l'endomysium (✗)",
+    "media": null,
+    "options": [
+      "A.est un tissu conjonctif spécialisé.",
+      "B.Constitue les tendons des muscles.",
+      "C.est un tissu peu résistant.",
+      "D.existe sous deux formes structurales.",
+      "E.Constitue l'endomysium."
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu conjonctif dense unidirectionnel",
+    "explanation": "L'affirmation VRAIE est :\n•B. Prédomine au niveau des ligaments (✓)\n\nLes affirmations FAUSSES sont :\n•A. Est un tissu conjonctif dense irrégulier (✗)\n•C. Est riche en fibres élastiques (✗)\n•D. Se caractérise par des faisceaux parallèles biorientés (✗)\n•E. Est responsable de la transparence de la cornée (✗)",
+    "media": null,
+    "options": [
+      "A.Est un tissu conjonctif dense irrégulier",
+      "B.Prédomine au niveau des ligaments",
+      "C.Est riche en fibres élastiques",
+      "D.Se caractérise par des faisceaux parallèles biorientés",
+      "E.Est responsable de la transparence de la cornée"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu conjonctif dense bidirectionnel",
+    "explanation": "Les affirmations VRAIES sont :\n•D. Se caractérise par des faisceaux de collagène perpendiculaires d'un plan à l'autre (✓)\n•E. Est responsable de la transparence de la cornée (✓)\n\nLes affirmations FAUSSES sont :\n•A. Est un tissu conjonctif dense irrégulier (✗)\n•B. Prédomine au niveau des tendons (✗)\n•C. Est riche en fibres élastiques (✗)",
+    "media": null,
+    "options": [
+      "A.Est un tissu conjonctif dense irrégulier",
+      "B.Prédomine au niveau des tendons",
+      "C.Est riche en fibres élastiques",
+      "D.Se caractérise par des faisceaux de collagène perpendiculaires d'un plan à l'autre",
+      "E.Est responsable de la transparence de la cornée"
+    ],
+    "correct": [
+      3,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu conjonctif dense régulier est: ",
+    "explanation": "L'affirmation VRAIE est :\n•A. Riche en fibres de collagène orientées (✓)\n\nLes affirmations FAUSSES sont :\n•B. Riche en substance fondamentale (✗)\n•C. Riche en fibres de réticuline (✗)\n•D. Fréquent dans les chorions (✗)\n•E. Présent dans les artères élastiques (✗)",
+    "media": null,
+    "options": [
+      "A.Riche en fibres de collagène orientées",
+      "B.Riche en substance fondamentale",
+      " C.Riche en fibres de réticuline",
+      "D.Fréquent dans les chorions",
+      "E.Présent dans les artères élastiques"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu conjonctif dense régulier est :",
+    "explanation": "L'affirmation VRAIE est :\n•A. Riche en fibres de collagène orientées (✓)\n\nLes affirmations FAUSSES sont :\n•B. Riche en substance fondamentale (✗)\n•C. Riche en fibres de réticuline (✗)\n•D. Fréquent dans les chorions (✗)\n•E. Présent dans les artères élastiques (✗)",
+    "media": null,
+    "options": [
+      "A.Riche en fibres de collagène orientées",
+      "B.Riche en substance fondamentale",
+      "C.Riche en fibres de réticuline",
+      "D.Fréquent dans les chorions",
+      "E.Présent dans les artères élastiques"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu conjonctif dense lamellaire :",
+    "explanation": "Les affirmations VRAIES sont :\n•D. Se caractérise par des faisceaux parallèles bi orientés (✓)\n•E. Est responsable de la transparence de la cornée (✓)\n\nLes affirmations FAUSSES sont :\n•A. Est un tissu conjonctif dense irrégulier (✗)\n•B. Prédomine au niveau des ligaments (✗)\n•C. Est riche en fibres élastiques (✗)",
+    "media": null,
+    "options": [
+      "A.Est un tissu conjonctif dense irrégulier",
+      "B.Prédomine au niveau des ligaments",
+      "C.Est riche en fibres élastiques",
+      "D.Se caractérise par des faisceaux parallèles bi orientés",
+      "E.Est responsible de la transparence de la cornée"
+    ],
+    "correct": [
+      3,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est le type de tissu conjonctif observé au niveau de la cornée de l’oeil :",
+    "explanation": "L'affirmation VRAIE est :\n•E. Tissu conjonctif dense bidirectionnel (✓)\n\nLes affirmations FAUSSES sont :\n•A. Tissu conjonctif élastique (✗)\n•B. Tissu conjonctif muqueux (✗)\n•C. Mésenchyme (✗)\n•D. Tissu conjonctif réticulé (✗)",
+    "media": null,
+    "options": [
+      "A.Tissu conjonctif élastique",
+      "B.Tissu conjonctif muqueux",
+      "C.Mésenchyme",
+      "D.Tissu conjonctif réticulé",
+      "E.Tissu conjonctif dense bidirectionnel"
+    ],
+    "correct": [
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu conjonctif élastique est :",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Un tissu conjonctif dense régulier (✓)\n•E. Caractérisé par son aspect rubané en microscopie optique (✓)\n\nLes affirmations FAUSSES sont :\n•B. Mis en évidence par le noir soudan (✗)\n•C. Présent au niveau des disques intervertébrales (✗)\n•D. Riche en elastine et troponine (✗)",
+    "media": null,
+    "options": [
+      "A.Un tissu conjonctif dense régulier",
+      "B.Mis en évidence par le noir soudan",
+      "C.Present au niveau des disques intervertébrales",
+      "D.Riche en elastine et troponine",
+      "E.Caractérise par son aspect rubane en microscopie optique"
+    ],
+    "correct": [
+      0,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu conjonctif élastique est :",
+    "explanation": "L'affirmation VRAIE est :\n•E. Caractérisé par son organisation parfois lamellaire (✓)\n\nLes affirmations FAUSSES sont :\n•A. Un tissu conjonctif dense irrégulier (✗)\n•B. Mis en évidence par le noir soudan (✗)\n•C. Présent au niveau de la gelée de Wharton (✗)\n•D. Riche en elastine et en troponine (✗)",
+    "media": null,
+    "options": [
+      "A.Un tissu conjonctif dense irrégulier",
+      "B.Mis en évidence par le noir soudan",
+      "C.Présent au niveau de la gelée de Wharton",
+      "D.Riche en elastine et en troponine",
+      "E.Caractérisé par son organisation parfois lamellaire"
+    ],
+    "correct": [
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu conjonctif élastique est :",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Un tissu conjonctif dense régulier (✓)\n•E. Caractérisé par son aspect rubané en microscopie optique (✓)\n\nLes affirmations FAUSSES sont :\n•B. Mis en évidence par le noir soudan (✗)\n•C. Présent au niveau des disques intervertébrales (✗)\n•D. Riche en elastine et troponine (✗)",
+    "media": null,
+    "options": [
+      "A.Un tissu conjonctif dense régulier",
+      "B.Mis en évidence par le noir soudan",
+      "C.Présent au niveau des disques intervertébrales",
+      "D.Riche en elastine et troponine",
+      "E.Caractérisé par son aspect rubané en microscopie optique"
+    ],
+    "correct": [
+      0,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu réticulé :",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Est un tissu conjonctif commun où prédominent les fibres de réticuline (✓)\n•B. Constitue la charpente de certains organes (✓)\n•D. Ses fibres de réticuline sont associées en réseau à mailles (✓)\n\nLes affirmations FAUSSES sont :\n•C. Sa substance fondamentale est constituée de molécules de protéoglycanes fragmentées (✗)\n•E. Ses cellules conjonctives sont filiformes (✗)\n•F. Sa substance fondamentale est constituée uniquement de protéine (✗)",
+    "media": null,
+    "options": [
+      "A.Est un tissu conjonctif commun où prédominent les fibres de réticuline.",
+      "B.Constitue la charpente de certains organes.",
+      "C.Sa substance fondamentale est constituée de molécules de proteoglycans  fragmentées.",
+      "E.Ses cellules conjonctives sont filiformes.",
+      "F.Sa substance fondamentale est constituée uniquement de protéine."
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu conjonctif réticulé est un tissu conjonctif :",
+    "explanation": "L'affirmation VRAIE est :\n•D. Difficile à mettre en évidence par les colorations usuelles (✓)\n\nLes affirmations FAUSSES sont :\n•A. Riche en fibres de collagène de type II (✗)\n•B. Caractérisé par son organisation fasciculaire (✗)\n•C. Caractérisé par ses cellules dites réticulocytes (✗)\n•E. Présent uniquement chez l'embryon (✗)\n•F. Spécifique de l'embryon (✗)",
+    "media": null,
+    "options": [
+      "A.Riche en fibres de collagène de type II",
+      "B.Caractérisé par son organisation fasciculaire",
+      "C.Caractérisé par ses cellules dites réticulocytes",
+      "D.Difficile à mettre en évidence par les colorations usuelles",
+      "E.Présent uniquement chez l’embryon",
+      "F.Spécifique de l’embryon"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les fibres de réticuline sont",
+    "explanation": "L'affirmation VRAIE est :\n•D. Observées au niveau de la moelle osseuse (✓)\n\nLes affirmations FAUSSES sont :\n•A. Formées par du collagène de type II (✗)\n•B. Organisées en faisceaux épais (✗)\n•C. Acidophiles au microscope optique (✗)\n•E. Observées au niveau du ganglion nerveux (✗)",
+    "media": null,
+    "options": [
+      "A.formées par du collagène de type II",
+      "B.organisées en faisceaux épais",
+      "C.acidophiles au microscope optique",
+      "D.observées au niveau de la moelle osseuse",
+      "E.observées au niveau du ganglion nerveux"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel(s) est (sont) parmi ces structures celle (s) qui se trouve(nt) dans le tissu \nadipeux :\n",
+    "explanation": "Les affirmations VRAIES sont :\n•B. Des cellules inflammatoires (✓)\n•C. Un réseau microcirculatoire (✓)\n\nLes affirmations FAUSSES sont :\n•A. Un tissu réticulé (✗)\n•D. Des cellules musculaires lisses (✗)\n•E. Une substance fondamentale riche en triglycéride (✗)",
+    "media": null,
+    "options": [
+      "A.Un tissu réticulé",
+      "B.Des cellules inflammatoires",
+      "C.Un réseau microcirculatoire.",
+      "D.Des cellules musculaires lisses.",
+      "E.Une substance fondamentale riche en triglyceride"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu adipeux :",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Est un tissu conjonctif de soutien (✓)\n•C. Contient des vacuoles lipidiques entourées par des membranes (✓)\n•D. Contient des adipocytes uni et multiloculaires (✓)\n\nLes affirmations FAUSSES sont :\n•B. Est peu vascularisé (✗)\n•E. Est également distribué chez la femme et chez l'homme (✗)",
+    "media": null,
+    "options": [
+      "A.est un tissu conjonctif de soutien",
+      "B.est peu vascularisé",
+      "C.contient des vacuoles lipidiques entourées par des membranes",
+      "D.contient des adipocytes uni et multilobulaires (une ou plusieurs vacuoles)",
+      "E.est également distribué chez la femme et chez l’homme"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La graisse blanche :",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Est un tissu conjonctif spécialisé (✓)\n•B. Est un tissu conjonctif richement vascularisé (✓)\n\nLes affirmations FAUSSES sont :\n•C. Ses cellules contiennent des vacuoles lipidiques périnucléaires (✗)\n•D. Joue un rôle dans le stockage du cholestérol (✗)\n•E. Est uniformément répartie chez les deux sexes masculin et féminin (✗)",
+    "media": null,
+    "options": [
+      "A.Est un tissu conjonctif spécialisé.",
+      "B.Est un tissu conjonctif richement vascularisé.",
+      "C.Ses cellules contiennent des vacuoles lipidiques périmucléaires",
+      "D.Joue un rôle dans le stockage du cholestérol.",
+      "E.Est uniformément répartie chez les deux sexes masculin et féminin"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La graisse blanche :",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Est un tissu conjonctif spécialisé (✓)\n•B. Est un tissu conjonctif richement vascularisé (✓)\n\nLes affirmations FAUSSES sont :\n•C. Ses cellules contiennent des vacuoles lipidiques périnucléaires (✗)\n•D. Joue un rôle dans le stockage du cholestérol (✗)\n•E. Est uniformément répartie chez les deux sexes masculin et féminin (✗)",
+    "media": null,
+    "options": [
+      "A.Est un tissu conjonctif lâche.",
+      "B.Est un tissu conjonctif richement vascularisé.",
+      "C.Ses cellules contiennent une vacuole lipidique unique.",
+      "D.Joue un rôle dans le stockage du cholestérol.",
+      "E.Est différemment répartie chez les deux sexes masculin et féminin"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules de la graisse blanche :",
+    "explanation": "Les affirmations VRAIES sont :\n•B. Est un tissu conjonctif richement vascularisé (✓)\n•C. Ses cellules contiennent une vacuole lipidique unique (✓)\n•E. Est différemment répartie chez les deux sexes masculin et féminin (✓)\n\nLes affirmations FAUSSES sont :\n•A. Est un tissu conjonctif lâche (✗)\n•D. Joue un rôle dans le stockage du cholestérol (✗)",
+    "media": null,
+    "options": [
+      "A.Sont uniloculaires",
+      "B.Sont riches en mitochondries",
+      "C.Sont abondantes chez le nourrisson",
+      "D.Comportent un noyau périphérique aplati",
+      "E.Interviennent essentiellement dans la thermorégulation"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules de la graisse blanche :",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Sont uniloculaires (✓)\n•D. Comportent un noyau périphérique aplati (✓)\n\nLes affirmations FAUSSES sont :\n•B. Sont riches en mitochondries (✗)\n•C. Sont abondantes chez le nourrisson (✗)\n•E. Interviennent essentiellement dans la thermorégulation (✗)",
+    "media": null,
+    "options": [
+      "A.Sont unies par des fibres de réticuline",
+      "B.Sont riches en vacuoles lipidiques",
+      "C.Sont abondantes chez le nourrisson",
+      "D.Comportent un noyau périphérique trapu",
+      "E.Sont organisés en acini"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules de la graisse brune :",
+    "explanation": "L'affirmation VRAIE est :\n•A. Sont unies par des fibres de réticuline (✓)\n\nLes affirmations FAUSSES sont :\n•B. Sont riches en vacuoles lipidiques (✗)\n•C. Sont abondantes chez le nourrisson (✗)\n•D. Comportent un noyau périphérique trapu (✗)\n•E. Sont organisés en acini (✗)",
+    "media": null,
+    "options": [
+      "A.Sont uniloculaires",
+      "B.Sont riches en mitochondries",
+      "C.Sont abondantes chez l’adulte jeune",
+      "D.Sont des fibroblastes différenciés",
+      "E.Interviennent essentiellement dans la thermorégulation",
+      "F.Proviennent de la fibroblaste"
+    ],
+    "correct": [
+      1,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules de la graisse brune :",
+    "explanation": "Les affirmations VRAIES sont :\n•B. Sont riches en mitochondries (✓)\n•E. Interviennent essentiellement dans la thermorégulation (✓)\n\nLes affirmations FAUSSES sont :\n•A. Sont uniloculaires (✗)\n•C. Sont abondantes chez l'adulte jeune (✗)\n•D. Sont des fibroblastes différenciés (✗)\n•F. Proviennent de la fibroblaste (✗)",
+    "media": null,
+    "options": [
+      "A.Sont uniloculaires",
+      "B.Sont riches en mitochondries",
+      "C.Sont plus abondantes chez le nourrisson que chez l’adulte",
+      "D.Comportent un noyau périphérique aplati",
+      "E.Interviennent essentiellement dans la thermorégulation"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les structures suivantes, quelles sont celles qui sont des cellules cartilagineuses :\n",
+    "explanation": "Les affirmations VRAIES sont :\n•B. Chondroblaste (✓)\n•E. Chondrocyte (✓)\n\nLes affirmations FAUSSES sont :\n•A. Fibroblastes (✗)\n•C. Périchondre (✗)\n•D. Chondroplaste (✗)\n",
+    "media": null,
+    "options": [
+      "A.Fibroblastes",
+      "B.Chondroblaste",
+      "C.Périchondre",
+      "D.Chondroplaste",
+      "E.Chondrocyte"
+    ],
+    "correct": [
+      1,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les chondrocytes :",
+    "explanation": "Les affirmations VRAIES sont :\n•D. Sont le siège d'assez nombreuses mitoses (✓)\n•E. Ont une division isogénique (✓)\n\nLes affirmations FAUSSES sont :\n•A. Sont des cellules de l'endoste qui sécrètent les protéoglycanes (✗)\n•B. Sont des cellules originaires du périchondre qui secrètent le collagène type II (✗)\n•C. Sont des cellules du périoste capables de sécréter le collagène type I (✗)",
+    "media": null,
+    "options": [
+      "A.sont des cellules de l’endoste qui sécrètent les protéoglycans",
+      "B.sont des cellules originaires du périchondre qui secrètent le collagène type II",
+      "C.sont des cellules du périoste capables de sécréter le collagène type I",
+      "D.sont le siège d’assez nombreuses mitoses",
+      "E.ont une division isogénique"
+    ],
+    "correct": [
+      3,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu cartilagineux est :",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Fibreux quand il est riche en fibres de collagène I orientées (✓)\n•C. Elastique au niveau des pièces cartilagineuses du larynx (✓)\n•D. Parfois entouré par un périchondre (✓)\n\nLes affirmations FAUSSES sont :\n•B. Hyalin quand il est riche en substance fondamentale (✗)\n•E. Avasculaire sauf au niveau des surfaces articulaires (✗)",
+    "media": null,
+    "options": [
+      "A.Fibreux quand il est riche en fibres de collagène I orientées",
+      "B.Hyalin quand il est riche en substance fondamentale",
+      "C.Elastique au niveau des pièces cartilagineuses du larynx",
+      "D.Parfois s’entouré par un périchondre",
+      "E.Avasculaire sauf au niveau des surfaces articulaires"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Est ce que le fibrocartilage :",
+    "explanation": "L'affirmation VRAIE est :\n•B. Comporte une composante fibreuse dense riche en fibres de collagène type 1 (✓)\n\nLes affirmations FAUSSES sont :\n•A. A la même structure qu'un tissu conjonctif dense (✗)\n•C. Constitue les nucléus pulposis des corps vertébraux (✗)\n•D. Est le tissu cartilagineux de l'embryon (✗)\n•E. A une matrice homogène et anhiste (✗)",
+    "media": null,
+    "options": [
+      "A.A la même structure qu’un tissu conjonctif dense.",
+      "B.Comporte une composante fibreuse dense riche en fibres de collagène type 1",
+      "C.Constitue les nucléus pulposis des corps vertébraux",
+      "D.Est le tissu cartilagineux de l’embryon.",
+      "E.A une matrice homogène et anhiste."
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Parmi les structures qui constituent le tissu cartilagineux hyalin",
+    "explanation": "L'affirmation VRAIE est :\n•E. Des chondrocytes (✓)\n\nLes affirmations FAUSSES sont :\n•A. Des fibres élastiques (✗)\n•B. Des fibres de collagène de type 1 (✗)\n•C. Du mucus (✗)\n•D. Des adipocytes (✗)",
+    "media": null,
+    "options": [
+      "A.des fibres élastiques",
+      "B.des fibres de collagène de type 1",
+      "C.du mucus",
+      "D.des adipocytes",
+      "E.des chondrocytes"
+    ],
+    "correct": [
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Est-ce que le cartilage élastique :",
+    "explanation": "L'affirmation VRAIE est :\n•D. Est le tissu cartilagineux de l'épiglotte (✓)\n\nLes affirmations FAUSSES sont :\n•A. A la même structure qu'un tissu conjonctif élastique (✗)\n•B. Comporte une composante fibreuse dense riche en fibres de collagène type 1 (✗)\n•C. Constitue les nucléus pulposis des corps vertébraux (✗)\n•E. A une matrice homogène, anhiste et translucide (✗)",
+    "media": null,
+    "options": [
+      "A.a la même structure qu’un tissu conjonctif élastique.",
+      "B.Comporte une composante fibreuse dense riche en fibres de collagène type 1.",
+      "C.Constitue les nucléus pulposis des corps vertébraux.",
+      "D.Est le tissu cartilagineux de l’épiglotte.",
+      "E.A une matrice homogène, anhiste et translucide."
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Est-ce que la croissance isogénique coronaire",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Est une modalité de croissance du cartilage hyalin (✓)\n•C. Peut coexister avec une croissance par apposition périchondrique (✓)\n\nLes affirmations FAUSSES sont :\n•B. Constitue une étape nécessaire dans l'ossification endomembraneuse (✗)\n•D. Existe dans les autres tissus conjonctifs (✗)\n•E. Est une spécificité du cartilage de conjugaison (✗)",
+    "media": null,
+    "options": [
+      "A.Est une modalité de croissance du cartilage hyalin.",
+      "B.Constitue une étape nécessaire dans l’ossification endomembraneuse",
+      "C.Peut coexister avec une croissance par apposition périchondrique.",
+      "D.Existe dans les autres tissus conjonctifs.",
+      "E.Est une spécificité du cartilage de conjugaison."
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Est-ce que la croissance isogénique axiale :",
+    "explanation": "Les affirmations VRAIES sont :\n•C. Peut coexister avec une croissance coronaire (✓)\n•D. N'existe pas dans le cartilage de conjugaison (✓)\n\nLes affirmations FAUSSES sont :\n•A. Se passe dans les 3 types histologiques de cartilage (✗)\n•B. Constitue une étape nécessaire dans l'ossification endochondrale après la naissance (✗)\n•E. Est une spécificité de l'ossification endomembraneuse (✗)",
+    "media": null,
+    "options": [
+      "A.Se passe dans les 3 types histologiques de cartilage.",
+      "B.Constitue une étape nécessaire dans l’ossification endochondrale après la naissance.",
+      "C.Peut coexister avec une croissance coronaire.",
+      "D.N’existe pas dans le cartilage de conjugaison.",
+      "E.Est une spécificité de l’ossification endomembraneuse."
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  }
+]

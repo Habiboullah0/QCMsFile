@@ -1,0 +1,204 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Les corps de Nissl",
+    "explanation": "RÉPONSE CORRECTE : C uniquement\nLes corps de Nissl représentent l'appareil de synthèse protéique du neurone. Leur forte teneur en ARN explique leur coloration caractéristique en microscopie et leur rôle crucial dans la production des protéines nécessaires au fonctionnement et à la maintenance du neurone.",
+    "media": null,
+    "options": [
+      "A.sont observés au niveau des dendrites",
+      "B.sont observés au niveau de l’axone",
+      "C.sont basophiles en microscopie optique",
+      "D.correspondent à des lysosomes",
+      "E.sont des vésicules de transport des neurotransmetteurs"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La cellule de Purkinje",
+    "explanation": "Cellule de Purkinje\n\nRéponse correcte : D uniquement\n\nEssentiel :\n\nLes cellules de Purkinje sont des neurones multipolaires du cervelet (cortex cérébelleux) caractérisés par leurs dendrites très ramifiées en forme d'arbre. Elles sont absentes des ganglions spinaux et distinctes des cellules pyramidales du cortex cérébral.",
+    "media": null,
+    "options": [
+      "A.est un neurone bipolaire",
+      "B.est observée au niveau du cerveau",
+      "C.est observée au niveau du ganglion spinal",
+      "D.présente de multiples dendrites ramifiées",
+      "E.est une cellule pyramidale"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La synapse chimique",
+    "explanation": "Synapse chimique\n\nRéponses correctes : C et D\n\nEssentiel :\n\nLes synapses chimiques sont caractérisées par :\n\n1. Transmission unidirectionnelle (pré-synaptique → post-synaptique)\n2. Utilisation de neurotransmetteurs comme médiateurs\n   Elles nécessitent la microscopie électronique pour être visualisées et se distinguent des synapses électriques qui utilisent des connexons pour le passage direct d'ions.",
+    "media": null,
+    "options": [
+      "A.est visible en microscopie optique",
+      "B.est riche en connexions",
+      "C.transmet l’influx nerveux de façon unidirectionnelle",
+      "D.fait intervenir des neurotransmetteurs",
+      "E.fonctionne par un flux d’ions"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A propos de la structure d’un nerf périphérique",
+    "explanation": "Structure d'un nerf périphérique\n\nRéponses correctes : C et E\n\nEssentiel :\n\nUn nerf périphérique :\n\n· Contient à la fois des fibres myélinisées et non myélinisées\n· Sa gaine de myéline est riche en phospholipides\n· Est organisé avec : épinèvre (enveloppe externe), périnèvre (entoure les faisceaux), endonèvre (entoure chaque fibre)\n· Peut contenir axones et dendrites (nerfs mixtes)\n· Les astrocytes sont exclusifs du SNC, pas des nerfs périphériques",
+    "media": null,
+    "options": [
+      "A.le périnèvre enveloppe tout le nerf",
+      "B.les neurites observés dans le nerf sont en totalité des axones",
+      "C.les complexes axo-schwannien sont myélinisés ou non myélinisés",
+      "D.entre les neurites on peut observer des astrocytes",
+      "E.la gaine de myéline est formée essentiellement de phospholipides"
+    ],
+    "correct": [
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La gaine de myéline :",
+    "explanation": "Gaine de myéline\n\nRéponses correctes : B et D\n\nEssentiel :\n\nLa gaine de myéline :\n\n· Se forme par enroulement de la membrane plasmique des cellules gliales\n· Est produite par oligodendrocytes dans le SNC et cellules de Schwann dans le SNP\n· Une cellule de Schwann ne myélinise qu'un seul segment (internœud) d'un seul axone\n· Sa composition diffère entre SNC et SNP\n· Présente dans certaines fibres des ganglions mais pas toutes",
+    "media": null,
+    "options": [
+      "A.Est mise en place tout le long de la nérite (axone ou dendrite) par une seule cellule de  Schwann.",
+      "B.Est mise en place par l’enroulement périodique de la membrane plasmique et du liseré  cytoplasmique (couche fine de cytoplasme).",
+      "C.A les mêmes constituants quelque soit sa localisation dans le système nerveux central ou  périphérique.",
+      "D.Est mise en place par les oligodendrocytes et les cellules de Schwann.",
+      "E.Est absente dans les nérites du ganglion nerveux rachidien.",
+      "F.Est mise en place exclusivement par la cellule de Schwann."
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les terminaisons nerveuses sensitives encapsulées avec support sont :",
+    "explanation": "Terminaisons sensitives encapsulées avec support\n\nRéponses correctes : A et E\n\nEssentiel :\n\nLes terminaisons sensitives encapsulées AVEC support (cellules spécialisées) comprennent :\n\n· Fuseau neuromusculaire (proprioception musculaire)\n· Organe tendineux de Golgi (tension tendineuse)\n\nLes corpuscules de Pacini et Meissner sont encapsulés MAIS sans cellules de support spécialisées. La plaque motrice est une terminaison motrice, pas sensitive.",
+    "media": null,
+    "options": [
+      "A.le fuseau neuromusculaire",
+      "B.les corpuscules de Vater Pacini",
+      "C.les corpuscules de Meissner",
+      "D.La plaque motrice",
+      "E.L’organe tendineux de golgi"
+    ],
+    "correct": [
+      0,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tissu arachnoïdien :",
+    "explanation": "Tissu arachnoïdien (A et B)\n\n· Réseau conjonctif délicat formant l'espace sous-arachnoïdien\n· Siège de la circulation du LCR (liquide cérébro-spinal)\n· La résorption du LCR se fait via les villosités arachnoïdiennes près des sinus duraux\n",
+    "media": null,
+    "options": [
+      "A.Forme un réseau à mailles délimitées par des axes conjonctivo-vasculaires",
+      "B.Est le siège de la circulation du liquide céphalo-rachidien.",
+      "C.Est le lieu de résorption du liquide céphalo-rachidien.",
+      "D.Entre en contact avec les lacs veineux de la dure mère.",
+      "E.Délimite avec la dure mère l’espace péridural."
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le pachyméninge :",
+    "explanation": "Pachyméninge (D et E)\n\n= Dure-mère (méninge la plus externe et épaisse)\n\n· Contient des expansions conjonctivo-vasculaires\n· Délímite l'espace sous-dural (virtuel) avec l'arachnoïde\n· Ne décrit pas l'arachnoïde, ne contient pas le LCR, la résorption n'y a pas lieu",
+    "media": null,
+    "options": [
+      "A.Forme un réseau à mailles délimitées par des axes conjonctivo-vasculaires.",
+      "B.Est le siège de la circulation du liquide céphalo-rachidien",
+      "C.Est le lieu de résorption du liquide céphalo-rachidien.",
+      "D.Entre en contact avec les expansions conjonctivo-vasculaires de l’arachnoïde.",
+      "E.Délimite avec l’arachnoïde l’espace sous dural."
+    ],
+    "correct": [
+      3,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La dure mère :",
+    "explanation": "Dure-mère (A et C)\n\n· Tissu conjonctif dense, résistant et vascularisé\n· Délímite l'espace sous-dural (avec l'arachnoïde)\n· Séparée du tissu nerveux par l'arachnoïde et la pie-mère\n· Ne produit pas le LCR (c'est le rôle des plexus choroïdes)",
+    "media": null,
+    "options": [
+      "A.Est un tissu conjonctif dense très vascularisé",
+      "B.Est appliquée directement sur le tissu nerveux",
+      "C.Est séparée de l’arachnoïde par l’espace sous dural",
+      "D.Est la source majeure du liquide céphalo-rachidien",
+      "E.Est à l’origine des corpuscules de Pacini"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les épendymocytes sont :",
+    "explanation": "Épendymocytes (A et E)\n\n· Cellules gliales spécialisées (pas des neurones)\n· Bordent les cavités ventriculaires et le canal médullaire central\n· Exclusivement dans le SNC, absentes du cortex cérébral",
+    "media": null,
+    "options": [
+      "A.Des cellules gliales",
+      "B.Des neurones bipolaires",
+      "C.Présents dans le cortex cérébral",
+      "D.Présents dans le tissu nerveux périphérique",
+      "E.Des cellules qui bordent le canal médullaire de la moelle épinière"
+    ],
+    "correct": [
+      0,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les astrocytes et les oligodendrocytes sont :",
+    "explanation": "Astrocytes et oligodendrocytes (A et C)\n\n· Les deux sont des cellules gliales du Système Nerveux Central\n· Absents du SNP (remplacés par cellules de Schwann)\n· Ne bordent pas le canal médullaire (rôle des épendymocytes)",
+    "media": null,
+    "options": [
+      "A.Des cellules gliales",
+      "B.Des neurones bipolaires",
+      "C.Présents dans le tissu nerveux central",
+      "D.Présents dans le tissu nerveux périphérique",
+      "E.Des cellules qui bordent le canal médullaire de la moelle épinière"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Indiquer la réponse correcte.",
+    "explanation": "Réponse correcte : B uniquement\n\n· A. FAUX : Myéline présente dans SNC (oligodendrocytes) ET SNP (Schwann)\n· B. VRAI : Épendymocytes → se différencient en cellules des plexus choroïdes → production LCR\n· C. FAUX : Microglocytes dérivent du mésoderme (système monocyte-macrophage)\n· D. FAUX : Axones n'ont pas de REG ni d'appareil de Golgi\n· E. FAUX : Capillaires cérébraux sont continus (barrière hémato-encéphalique)",
+    "media": null,
+    "options": [
+      "A.La myéline est uniquement présente dans le système nerveux périphérique.",
+      "B.Les épendymocytes acquièrent une différenciation dans les plexus choroïdes et jouent un  rôle dans la synthèse de LCR.",
+      "C.Les microglocytes dérivent du système lymphoïde.",
+      "D.Les axones comportent tous les organites du péricaryon.",
+      "E.Les capillaires encéphaliques sont fenêtrés."
+    ],
+    "correct": [
+      1
+    ]
+  }
+]

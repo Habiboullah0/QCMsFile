@@ -1,127 +1,32 @@
 [
   {
-    "value": "Digestive",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_Digestive.json",
-    "title": "Digestive"
+    "value": "ISOLÉES DES EPITHÉLIUMS",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/ISOLÉES_DES_EPITHÉLIUMS.json",
+    "title": "EPITHÉLIUMS"
   },
   {
-    "value": "Endocrine",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_Endocrine.json",
-    "title": "endocrine"
+    "value": "ISOLÉES DU TISSU CONJONCTIF",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/ISOLÉES_DU_TISSU_CONJONCTIF.json",
+    "title": "TISSU CONJONCTIF"
   },
   {
-    "value": "FoiePancreas",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_FoiePancreas.json",
-    "title": "foiePancreas"
+    "value": "ISOLÉES DU TISSU NERVEUX",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/ISOLÉES_DU_TISSU_NERVEUX.json",
+    "title": "TISSU NERVEUX"
   },
   {
-    "value": "Lymphoïde",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_Lymphoïde.json",
-    "title": "Lymphoïde"
+    "value": "ISOLÉES DU TISSU SANGUINS",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/ISOLÉES_DU_TISSU_SANGUINS.json",
+    "title": "TISSU SANGUINS"
   },
   {
-    "value": "PeauAnnexes",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_PeauAnnexes.json",
-    "title": "PeauAnnexes"
+    "value": "ISOLÉES TISSU MUSCULAIRES",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/ISOLÉES_TISSU_MUSCULAIRES.json",
+    "title": "TISSU MUSCULAIRES"
   },
   {
-    "value": "Respiratoire",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_Respiratoire.json",
-    "title": "Respiratoire"
-  },
-  {
-    "value": "Urinaire",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie_Urinaire.json",
-    "title": "Urinaire"
-  },
-  {
-    "value": "cardiocirculatoire",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/questions_cardiocirculatoire.json",
-    "title": "Cardiocirculatoire"
-  },
-  {
-    "value": "embryologie",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/questions_embryologie.json",
-    "title": "Embryologie"
-  },
-  {
-    "value": "pcem1 examen biophysique s2 2021",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_biophysique_s2_2021.json",
-    "title": "PCEM1 Examen Biophysique S2 2021"
-  },
-  {
-    "value": "pcem1 examen biophysique s2 2022",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_biophysique_s2_2022.json",
-    "title": "PCEM1 Examen Biophysique S2 2022"
-  },
-  {
-    "value": "pcem1 examen biophysique s2 2023",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_biophysique_s2_2023.json",
-    "title": "PCEM1 Examen Biophysique S2 2023"
-  },
-  {
-    "value": "pcem1 examen biophysique s2 2024",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_biophysique_s2_2024.json",
-    "title": "PCEM1 Examen Biophysique S2 2024"
-  },
-  {
-    "value": "pcem1 examen embryologie s2 2021",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_embryologie_s2_2021.json",
-    "title": "PCEM1 Examen Embryologie S2 2021"
-  },
-  {
-    "value": "pcem1 examen embryologie s2 2022",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_embryologie_s2_2022.json",
-    "title": "PCEM1 Examen Embryologie S2 2022"
-  },
-  {
-    "value": "pcem1 examen embryologie s2 2023",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_embryologie_s2_2023.json",
-    "title": "PCEM1 Examen Embryologie S2 2023"
-  },
-  {
-    "value": "pcem1 examen embryologie s2 2024",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_embryologie_s2_2024.json",
-    "title": "PCEM1 Examen Embryologie S2 2024"
-  },
-  {
-    "value": "pcem1 examen physiologie s2 2019",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_physiologie_s2_2019.json",
-    "title": "PCEM1 Examen Physiologie S2 2019"
-  },
-  {
-    "value": "pcem1 examen physiologie s2 2021",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_physiologie_s2_2021.json",
-    "title": "PCEM1 Examen Physiologie S2 2021"
-  },
-  {
-    "value": "pcem1 examen physiologie s2 2023",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_examen_physiologie_s2_2023.json",
-    "title": "PCEM1 Examen Physiologie S2 2023"
-  },
-  {
-    "value": "pcem1 isolé cardiocirculatoire",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_isolé_cardiocirculatoire.json",
-    "title": "PCEM1 Isolé Cardiocirculatoire"
-  },
-  {
-    "value": "pcem1 isolé placenta",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_isolé_placenta.json",
-    "title": "PCEM1 Isolé Placenta"
-  },
-  {
-    "value": "pcem1 isolé respiration",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/pcem1_isolé_respiration.json",
-    "title": "PCEM1 Isolé respiration"
-  },
-  {
-    "value": "respiration",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/questions_respiration.json",
-    "title": "Respiration"
-  },
-  {
-    "value": "digestif",
-    "file": "https://habiboullah0.github.io/QCMsFile/qcms/questions_digestif.json",
-    "title": "Système Digestif"
-  }
+    "value": "ISOLÉES TISSU OSSEUX",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/ISOLÉES_TISSU_OSSEUX.json",
+    "title": "TISSU OSSEUX"
+  } 
 ]

@@ -1,0 +1,627 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont parmi les affirmations suivantes celles qui correspondent aux critères \nde classification des épithéliums de revêtement :",
+    "explanation": "Les critères de classification des épithéliums de revêtement sont :\n\n· Le nombre de couches cellulaires (✓)\n· La forme des cellules de la couche superficielle (✓)\n\nAlors que ne sont pas des critères de classification :\n\n· La présence de différenciations cellulaires (✗)\n· La fonction (✗)\n· La localisation dans l'organisme (✗)",
+    "media": null,
+    "options": [
+      "A. la prédominance d'une différenciation cellulaire.",
+      "B. le nombre de couche cellulaire",
+      "C. la fonction de la cellule épithéliale.",
+      "D. la localisation de l'épithélium dans l'organisme humain.",
+      "E. la forme de la cellule de la couche superficielle"
+    ],
+    "correct": [
+      1,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les différenciations membranaires apicales sont des caractéristiques de \nl'épithélium :",
+    "explanation": "Les différenciations membranaires apicales sont une caractéristique de l'épithélium :\n\n· Prismatique simple intestinal (✓)\n\nAlors qu'elles ne sont pas une caractéristique des types suivants :\n\n· Pavimenteux stratifié non kératinisé (✗)\n· Pavimenteux endothélial (✗)\n· Bistratifié cubique (✗)\n· Cubique simple (✗)",
+    "media": null,
+    "options": [
+      "A. Prismatique simple intestinal",
+      "B. Pavimenteux stratifié non kératinisé",
+      "C. Pavimenteux endothélial",
+      "D. Bistratifié cubique",
+      "E. Cubique simple"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont parmi les structures suivantes celles qui peuvent être observées dans \nun épithélium de revêtement :",
+    "explanation": "Les structures observables dans un épithélium de revêtement sont :\n\n· Les jonctions serrées (✓)\n· La cuticule (✓)\n\nLes structures non observables sont :\n\n· La réticuline (✗)\n· Les corps denses (✗)\n· Les grains de zymogène (✗)",
+    "media": null,
+    "options": [
+      "A. Les jonctions serrées",
+      "B. La réticuline",
+      "C. Les corps denses",
+      "D. Les grains de zymogène",
+      "E. La cuticule"
+    ],
+    "correct": [
+      0,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les microvillosités observées dans certaines cellules épithéliales :",
+    "explanation": "Les caractéristiques VRAIES des microvillosités sont :\n\n· Elles font partie du cytosquelette cellulaire (✓)\n· Elles augmentent la surface d'échange (✓)\n\nLes affirmations FAUSSES sont :\n\n· Constituent un moyen de défense (✗)\n· Sont mobiles (✗)\n· Renforcent les jonctions intercellulaires (✗)",
+    "media": null,
+    "options": [
+      "A. constituent un moyen de défense du tissu",
+      "B. sont mobiles",
+      "C. font partie du cytosquelette cellulaire",
+      "D. renforcent les systèmes de jonctions intercellulaires",
+      "E. augmentent la surface d'échange entre les milieux intra et extracellulaire"
+    ],
+    "correct": [
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Dans les épithéliums de revêtement cubiques simples :",
+    "explanation": "Dans un épithélium cubique simple, la seule affirmation VRAIE est :\n\n· Les cellules sont aussi hautes que larges (✓)\n\nLes affirmations FAUSSES sont :\n\n· Présence de microvacuoles de sécrétion (✗)\n· Ce sont des cellules endothéliales (✗)\n· Il existe plusieurs types de cellules (✗)\n· Les cellules sont jointives uniquement par des desmosomes (✗)",
+    "media": null,
+    "options": [
+      "A. les cellules contiennent des microvacuoles de sécrétion",
+      "B. les cellules sont aussi hautes que larges",
+      "C. les cellules sont appelées cellules endothéliales",
+      "D. il existe plusieurs types de cellules épithéliales",
+      "E. les cellules sont jointives uniquement par des desmosomes"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tapis roulant mucociliaire :",
+    "explanation": "Le tapis roulant mucociliaire :\n\n· Est spécifique de l'épithélium respiratoire (✓)\n· Joue un rôle important dans l'épuration de l'air inspiré (✓)\n\nLes affirmations incorrectes sont :\n\n· Présent dans tous les épithéliums ciliés (✗)\n· Le mucus est sécrété par toutes les cellules (✗)\n· Est un tissu sécrétant du mucus fluide (✗)",
+    "media": null,
+    "options": [
+      "A. est formé par la vibration des cils dans tous les épithéliums de l'organisme qui en  contiennent.",
+      "B. est spécifique de l'épithélium respiratoire.",
+      "C. joue un rôle important dans l'épuration de l'air inspiré.",
+      "D. Le mucus de ce tapis est sécrété par toutes les cellules de l'épithélium respiratoire",
+      "E. est un tissu qui sécrète du mucus très fluide."
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'épithélium de revêtement pseudostratifié :",
+    "explanation": "L'épithélium pseudostratifié :\n\n· Est caractéristique des voies respiratoires (✓)\n· Comporte des cellules productrices de mucus (✓)\n\nLes localisations incorrectes sont :\n\n· Face interne du tube digestif (✗)\n· Canaux excréteurs des glandes exocrines (✗)\n· Comporte des cellules à bordure en brosse (✗)",
+    "media": null,
+    "options": [
+      "A. Tapisse la face interne du tube digestif",
+      "B. Tapisse la face interne des canaux excréteurs des glandes exocrines",
+      "C. Est caractéristique des voies respiratoires",
+      "D. Comporte des cellules à bordure en brosse",
+      "E. Comporte des cellules productrices de mucus"
+    ],
+    "correct": [
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'épithélium de revêtement urinaire :",
+    "explanation": "L'épithélium urinaire :\n\n· Est un épithélium de transition (✓)\n· Comporte une cuticule (✓)\n\nLes caractéristiques incorrectes sont :\n\n· Est de type simple (✗)\n· Est pseudostratifié (✗)\n· Est allée (✗)\n",
+    "media": null,
+    "options": [
+      "A. est de type simple",
+      "B. est pseudostratifié",
+      "C. est un épithélium de transition",
+      "D. comporte une cuticule",
+      "E. est cililé"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'épithélium urinaire :",
+    "explanation": "L'épithélium urinaire :\n\n· Délimite la lumière des voies excrétrices rénales (✓)\n· Présente des cellules superficielles avec excès de membrane (✓)\n\nLes affirmations incorrectes sont :\n\n· Est unistratifié cylindrique (✗)\n· Comporte deux types cellulaires (✗)\n· Les cellules de la couche moyenne sont aplaties (✗)",
+    "media": null,
+    "options": [
+      "A. Délimite la lumière des voies excrétrices rénales.",
+      "B. Est un épithélium unistratifié cylindrique.",
+      "C. Comporte deux types cellulaires.",
+      "D. présente des cellules superficielles avec excès de membrane qui leur permet de  s’aplatir lorsqu’elle sont étirées.",
+      "E. Les cellules de la couche moyenne sont aplaties."
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'épithélium de revêtement qui tapisse l’œsophage est :",
+    "explanation": "L'épithélium de l'œsophage est :\n\n· Pavimenteux stratifié (✓)\n· Malpighien (✓)\n\nLes types incorrects sont :\n\n· Cylindrique simple cilié (✗)\n· Cubique bistratifié (✗)\n· Prismatique sécrétoire (✗)",
+    "media": null,
+    "options": [
+      "A. cylindrique simple cilié.",
+      "B. pavimenteux stratifié.",
+      "C. malpighien.",
+      "D. cubique bistratifié.",
+      "E. prismatique sécrétoire."
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'épithélium de l’œsophage est de type :",
+    "explanation": "L'épithélium de l'œsophage est :\n\n· Pavimenteux pluristratifié non kératinisé (✓)\n\nLes types incorrects sont :\n\n· Cylindrique pluristratifié (✗)\n· Pavimenteux unistratifié cilié (✗)\n· Cubique pluristratifié non kératinisé (✗)\n· Feuillet glandulaire sécrétant du mucus (✗)",
+    "media": null,
+    "options": [
+      "A. cylindrique, pluristratifié.",
+      "B. pavimenteux unistratifié cilié.",
+      "C. cubique, pluristratifié non kératinisé.",
+      "D. pavimenteux pluristratifié non kératinisé.",
+      "E. feuillet glandulaire sécrétant du mucus."
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'épithélium pavimenteux stratifié non kératinisé :",
+    "explanation": "L'épithélium pavimenteux stratifié non kératinisé :\n\n· Délimite la lumière du vagin (C - VRAI)\n· Revête la face externe de la cornée de l’oeil (D - VRAI)\n\nLes affirmations incorrectes sont :\n\n· Contient des cellules de même forme dans toutes les couches (A - FAUX)\n· Revête des organes pleins exclusivement (B - FAUX)\n· Correspond à l’épithélium de la peau (E - FAUX - la peau est kératinisée)",
+    "media": null,
+    "options": [
+      "A. Contient des cellules épithéliales dont la forme est la même quelque soit la couche  cellulaire.",
+      "B. Revête des organes pleins exclusivement.",
+      "C. Délimite la lumière du vagin.",
+      "D. Revête la face externe de la cornée de l’oeil.",
+      "E. Correspond à l’épithélium de la peau."
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel type d’épithélium de revêtement présente une couche de kératine ?",
+    "explanation": "Le type d'épithélium présentant une couche de kératine est :\n\n· L'épiderme (C - VRAI)\n\nLes types ne présentant PAS de kératine sont :\n\n· L'endothélium (A - FAUX)\n· L'épithélium polymorphe des voies urinaires (B - FAUX)\n· L'épithélium prismatique simple (D - FAUX)\n· L'épithélium pseudostratifié (E - FAUX)",
+    "media": null,
+    "options": [
+      "A. L’endothélium.",
+      "B. L’épithélium polymorphe des voies urinaires.",
+      "C. L’épiderme.",
+      "D. L’épithélium prismatique simple.",
+      "E. L’épithélium pseudostratifié."
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L’épiderme, épithélium de la peau est de type :",
+    "explanation": "L'épiderme est de type :\n\n· Pavimenteux pluristratifié kératinisé (D - VRAI)\n\nLes types incorrects sont :\n\n· Cylindrique pluristratifié (A - FAUX)\n· Pavimenteux unistratifié cilié (B - FAUX)\n· Cubique pluristratifié non kératinisé (C - FAUX)\n· Feuillet glandulaire (E - FAUX)",
+    "media": null,
+    "options": [
+      "A. cylindrique, pluristratifié.",
+      "B. pavimenteux unistratifié cilié.",
+      "C. cubique, pluristratifié non kératinisé.",
+      "D. pavimenteux pluristratifié kératinisé",
+      "E. feuillet glandulaire sécrétant le sébum et la sueur."
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les épithéliums de revêtement qui ne contiennent pas de cellules glandulaires \nmuqueuses sont :",
+    "explanation": "Les épithéliums de revêtement qui ne contiennent PAS de cellules glandulaires muqueuses sont :\n\n· L'endothélium (D - VRAI)\n· L'épiderme (E - VRAI)\n\nLes épithéliums qui EN CONTIENNENT sont :\n\n· Feuillet glandulaire de l'estomac (A - FAUX)\n· Épithélium de revêtement de l'intestin (B - FAUX)\n· Épithélium de type respiratoire (C - FAUX)",
+    "media": null,
+    "options": [
+      "A. Le feuillet glandulaire de l’estomac",
+      "B. L’épithélium de revêtement de l’intestin",
+      "C. L’épithélium de type respiratoire",
+      "D. L’endothélium",
+      "E. L’épiderme"
+    ],
+    "correct": [
+      3,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les épithéliums de revêtement qui contiennent des cellules caliciformes sont :",
+    "explanation": "Les épithéliums de revêtement qui contiennent des cellules caliciformes sont :\n\n· L'épithélium de revêtement de l'intestin (D - VRAI)\n· L'épithélium de type respiratoire (E - VRAI)\n\nLes épithéliums qui N'EN CONTIENNENT PAS sont :\n\n· L'endothélium (A - FAUX)\n· L'épiderme (B - FAUX)\n· Le feuillet glandulaire de l'estomac (C - FAUX - il contient d'autres types de cellules muqueuses mais pas des caliciformes typiques)",
+    "media": null,
+    "options": [
+      "A. L’endothélium",
+      "B. L’épiderme",
+      "C. Le feuillet glandulaire de l’estomac",
+      "D. L’épithélium de revêtement de l’intestin",
+      "E. L’épithélium de type respiratoire"
+    ],
+    "correct": [
+      3,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Parmi les produits de sécrétion suivants, quels sont ceux qui sont élaborés par \ndes glandes exocrines :\r",
+    "explanation": "Les produits élaborés par des glandes exocrines sont :\n\n· Le suc pancréatique (✓)\n· Les enzymes digestives (✓)\n\nLes produits qui ne le sont pas :\n\n· Les gonadotrophines (✗)\n· L'acide hyaluronique (✗)\n· L'insuline (✗)\n",
+    "media": null,
+    "options": [
+      "A. Le suc pancréatique",
+      "B. Les gonadotrophines",
+      "C. l’acide hyaluronique",
+      "D. Les enzymes digestives",
+      "E. L’insuline"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le feuillet glandulaire :",
+    "explanation": "Concernant le feuillet glandulaire :\n\n· Est un épithélium de revêtement (✓)\n· Sa sécrétion empêche l'effet corrosif de l'acide (✓)\n\nLes affirmations incorrectes :\n\n· Est un épithélium glandulaire endocrine (✗)\n· Sécrète de la sérosité (✗)\n· Est un épithélium pluristratifié (✗)",
+    "media": null,
+    "options": [
+      "A. est un épithélium glandulaire endocrine.",
+      "B. est un épithélium de revêtement.",
+      "C. Sécrète de la sérosité",
+      "D. Sa sécrétion empêche l’effet corrosive de l’acide sur la muqueuse gastrique.",
+      "E. est un épithélium pluristratifié cylindrique riche en cellule caliciforme."
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La cellule caliciforme est une cellule :",
+    "explanation": "La cellule caliciforme est une cellule :\n\n· Observée dans l'épithélium de la trompe utérine (✓)\n· Polarisée (✓)\n\nLes affirmations incorrectes :\n\n· Glandulaire endocrine (✗)\n· Cubique (✗)\n· Productrice d'enzymes (✗)",
+    "media": null,
+    "options": [
+      "A. glandulaire endocrine",
+      "B. observée dans l’épithélium de la trompe utérine",
+      "C. cubique",
+      "D. polarisée",
+      "E. productrice d’enzymes"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les affirmation suivantes concernant la cellule caliciforme sont vraies sauf une, \nlaquelle ?\r",
+    "explanation": "Les affirmations VRAIES sur la cellule caliciforme sont :\n\n· Est une cellule glandulaire exocrine (✓)\n· Sécrète du mucus (✓)\n· Se trouve dans l'épithélium respiratoire (✓)\n· Est caractérisée par sa forme et son aspect vacuolaire (✓)\n\nLa seule affirmation FAUSSE :\n\n· Est très riche en mitochondries (✗)",
+    "media": null,
+    "options": [
+      "A. Est une cellule glandulaire exocrine",
+      "B. Sécrète du mucus",
+      "C. Se trouve dans l’épithélium de type respiratoire",
+      "D. Est très riche en mitochondries",
+      "E. Est caractérisée par sa forme et l’aspect vacuolaire de son cytoplasme en  microscopie optique"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L’acinus muqueux :",
+    "explanation": "L'acinus muqueux :\n\n· Est formé par des cellules colorées par le PAS (✓)\n· A une lumière large et irrégulière (✓)\n\nLes caractéristiques incorrectes :\n\n· Est une structure endocrine (✗)\n· Formé par des cellules à pôle basal basophile (✗)\n· Produit riche en lipides (✗)",
+    "media": null,
+    "options": [
+      "A. est formé par des cellules colorées par l’Acide Périodique de Schiff",
+      "B. est une structure épithéliale endocrine",
+      "C. est formé par des cellules avec un pôle basal basophile",
+      "D. a une lumière large et irrégulière",
+      "E. est à l’origine d’un produit de sécrétion riche en lipides"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules d’un acinus séreux :",
+    "explanation": "Les cellules d'un acinus séreux :\n\n· Présentent des grains de zymogène dans leur pôle apical (✓)\n· Possèdent un pôle basal basophile (✓)\n\nLes caractéristiques incorrectes :\n\n· Sont riches en vacuoles de mucus (✗)\n· Présentent un noyau aplati (✗)\n· Produisent essentiellement des glucides (✗)",
+    "media": null,
+    "options": [
+      "A. sont riches en vacuoles de mucus",
+      "B. présentent des grains de zymogène dans leur pôle apical",
+      "C. possèdent un pôle basal basophile",
+      "D. présentent un noyau aplati",
+      "E. produisent essentiellement des glucides"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les principales caractéristiques cytologiques des cellules glandulaires de l’acinus \nséreux sont :",
+    "explanation": "Les principales caractéristiques des cellules séreuses sont :\n\n· L'abondance du réticulum endoplasmique rugueux (✓)\n· La présence de grains de zymogènes (✓)\n\nLes caractéristiques incorrectes :\n\n· Aspect acidophile du pôle basal (✗)\n· Présence de vacuoles claires dans le pôle apical (✗)\n· Abondance des mitochondries (✗)",
+    "media": null,
+    "options": [
+      "A. L’abondance du réticulum endoplasmique rugueux",
+      "B. L’aspect acidophile du pôle basal",
+      "C. La présence de nombreuses vacuoles claires dans le pôle apical",
+      "D. L’abondance des mitochondries",
+      "E. La présence de grains de zymogènes"
+    ],
+    "correct": [
+      0,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Déterminer les points communs entre le mucus et la sérosité élaborées par les \népithéliums glandulaires :",
+    "explanation": "Points communs entre mucus et sérosité :\n\n· Sont excrétées dans les organes creux (✓)\n· Comportent des protéines (✓)\n· Constituent un moyen de défense contre les bactéries (✓)\n\nLes différences :\n\n· Sont sécrétées par des glandes endocrines (✗)\n· Tamponnent l'acidité (✗ - surtout le mucus)",
+    "media": null,
+    "options": [
+      "A. Sont sécrétées par des glandes endocrines.",
+      "B. Sont excrétées dans les organes creux.",
+      "C. Tamponnent l’acidité.",
+      "D. Comportent des protéines.",
+      "E. Constituent un moyen de défense contre les bactéries."
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont parmi ces types de sécrétions celles qui sont élaborées par les \népithéliums glandulaires exocrines :",
+    "explanation": "Sécrétions élaborées par les épithéliums glandulaires exocrines :\n\n· Les sérosités (✓)\n· La glaire de l'endocol utérin (✓)\n· Les glycoprotéines alcalines du tube digestif (✓)\n\nSécrétions qui ne le sont pas :\n\n· Les hormones stéroïdes (✗)\n· Les facteurs protéiques hépatiques (✗)",
+    "media": null,
+    "options": [
+      "A. Les sérosités",
+      "B. Les hormones stéroïdes",
+      "C. La glaire de l’endocol utérin",
+      "D. Les glycoprotéines alcalines du tube digestif.",
+      "E. Les facteurs protéiques hépatiques."
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L’épithélium glandulaire exocrine acineux :",
+    "explanation": "L'épithélium glandulaire exocrine acineux :\n\n· Comporte un embranchement tubulaire avec dilatation en acinus (✓)\n· Comporte une composante sécrétrice et une composante excrétrice (✓)\n· Constitue la composante exocrine du pancréas (✓)\n\nLes affirmations incorrectes :\n\n· Est constitué exclusivement d'acini (✗)\n· Sa sécrétion est exclusivement séreuse (✗)",
+    "media": null,
+    "options": [
+      "A. Est constitué exclusivement d’acini.",
+      "B. Comporte un embranchement tubulaire dont le dernier tube se dilate en acinus.",
+      "C. Comporte une composante sécrétrice et une composante excrétrice.",
+      "D. Constitue la composante exocrine du pancréas.",
+      "E. Sa sécrétion est exclusivement séreuse"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Parmi les glandes tubuleuses on trouve :",
+    "explanation": "Parmi les glandes tubuleuses on trouve :\n\n· Les glandes sudoripares (✓)\n· Les glandes de l'intestin (✓)\n\nLes glandes qui ne le sont pas :\n\n· Les glandes sébacées (✗)\n· Le pancréas exocrine (✗)\n· Les glandes salivaires (✗)",
+    "media": null,
+    "options": [
+      "A. les glandes sébacées",
+      "B. les glandes sudoripares",
+      "C. le pancréas exocrine",
+      "D. les glandes de l’intestin",
+      "E. les glandes salivaires"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Indiquer parmi les glandes exocrines suivantes celles qui sont tubulo-acineuses \nou tubulo-composées :",
+    "explanation": "Glandes exocrines tubulo-acineuses ou tubulo-composées :\n\n· Glande de Brunner (✓)",
+    "media": null,
+    "options": [
+      "A. Glande fundique",
+      "B. Glande pylorique",
+      "C. Glande de Brunner",
+      "D. Glande de Lieberkühn",
+      "E. Glande sublinguale"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le mode de sécrétion holocrine :",
+    "explanation": "Le mode de sécrétion holocrine :\n\n· Se caractérise par l'élimination de la cellule en totalité (✓)\n· Est observé dans la glande sébacée (✓)\n\nLes caractéristiques incorrectes :\n\n· Se fait par exocytose (✗)\n· Est observé dans la cellule caliciforme (✗)\n· Est spécifique pour les glandes endocrines (✗)",
+    "media": null,
+    "options": [
+      "A. se fait par exocytose",
+      "B. est observé dans la cellule caliciforme",
+      "C. se caractérise par l’élimination de la cellule en totalité",
+      "D. est spécifique pour les glandes endocrines",
+      "E. est observé dans la glande sébacée"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les glandes endocrines sont toujours :",
+    "explanation": "Les glandes endocrines sont toujours :\n\n· Richement vascularisées (✓)\n\nLes caractéristiques non systématiques :\n\n· Réticulées (✗)\n· Acineuses (✗)\n· Tubuleuses (✗)\n· Organisées en véritables organes (✗)",
+    "media": null,
+    "options": [
+      "A. réticulées",
+      "B. acineuses",
+      "C. richement vascularisées",
+      "D. tubuleuses",
+      "E. organisées en véritables organes"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les glandes qui élaborent un produit de sécrétion de nature lipidique :",
+    "explanation": "Les glandes à sécrétion lipidique :\n\n· Peuvent être des glandes exocrines (✓)\n· Comptent des cellules à aspect vacuolaire en MO (✓)\n\nLes caractéristiques incorrectes :\n\n· Toujours endocrine (✗)\n· Peuvent être tubuleuses (✗)\n· Peuvent être folliculaires (✗)",
+    "media": null,
+    "options": [
+      "A. Sont toujours de nature endocrine",
+      "B. Peuvent être des glandes exocrines",
+      "C. Comptent des cellules qui présentent un aspect vacuolaire en microscopie optique",
+      "D. Peuvent être des glandes tubuleuses",
+      "E. Peuvent être de structure folliculaire"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Un épithélium glandulaire endocrine organisé en amas cellulaires est observé \ndans :",
+    "explanation": "Épithéliums glandulaires endocrines organisés en amas :\n\n· Le testicule (✓) - cellules de Leydig\n· Le pancréas (✓) - îlots de Langerhans\n\nLes structures non organisées en amas :\n\n· Glande surrénale (✗)\n· Glande thyroïde (✗) - organisation folliculaire\n· Glande mammaire (✗) - exocrine",
+    "media": null,
+    "options": [
+      "A. la glande surrénale",
+      "B. la glande thyroïde",
+      "C. le testicule",
+      "D. la glande mammaire",
+      "E. le pancréas"
+    ],
+    "correct": [
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quel est parmi ces structures celle(s) qui est (sont) nécessaire(s) pour le \nfonctionnement de l’épithélium glandulaire endocrine :",
+    "explanation": "Structures nécessaires au fonctionnement des glandes endocrines :\n\n· Le tissu conjonctif lâche (✓) - soutien et nutrition\n· Le réseau microcirculatoire (✓) - diffusion des hormones\n· Les vaisseaux lymphatiques de drainage (✓) - évacuation des hormones\n\nLes structures non essentielles :\n\n· Le tissu adipeux (✗)\n· Les canaux excréteurs (✗) - absents dans les glandes endocrines",
+    "media": null,
+    "options": [
+      "A. Le tissu adipeux",
+      "B. Le tissu conjonctif lâche",
+      "C. Le réseau microcirculatoire",
+      "D. Les canaux excréteurs qui s’ouvrent dans les cavités des organes creux",
+      "E. Les vaisseaux lymphatiques de drainage"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Indiquer le type d'organisation structurale qui correspond à l'épithélium \nglandulaire endocrine :",
+    "explanation": "Types d'organisation des épithéliums glandulaires endocrines :\n\n· Cordons cellulaires fasciculés entourés de tissu conjonctivo-vasculaire (✓)\n· Cellules isolées au sein d'un tissu conjonctif interstitiel (✓)\n\nLes organisations incorrectes :\n\n· Cellules délimitant la lumière d'un organe (✗)\n· Cellule non polarisée isolée (✗)\n· Masse cellulaire non vascularisée (✗)",
+    "media": null,
+    "options": [
+      "A. Cellules jointives délimitant la lumière d'un organe",
+      "B. Cordons cellulaires fasciculés entourés de tissu conjonctivo-vasculaire.",
+      "C. Cellules isolées au sein d'un tissu conjonctif interstitiel.",
+      "D. Cellule non polarisée isolée dans un épithélium de revêtement",
+      "E. Masse cellulaire nodulaire non vascularisée au sein d'une glande exocrine acineuse."
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'épithélium glandulaire mixte :",
+    "explanation": "Épithélium glandulaire mixte :\n\n· Il comporte deux voies d'excrétion (✓)\n· La composante endocrine ne sécrète pas d'hormones stéroïdes (✓)\n\nLes affirmations incorrectes :\n\n· Il n'est pas localisé dans le pancréas (✗) - le pancréas est mixte",
+    "media": null,
+    "options": [
+      "A. est localisé dans le pancréas.",
+      "B. Comporte deux types cellulaires distincts l'une est exocrine et l'autre est endocrine.",
+      "C. Possède deux voies d'excrétion différentes.",
+      "D. Est uniquement hépatique.",
+      "E. Sa composante endocrine sécrète des stéroïdes."
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'épithélium glandulaire hépatique :",
+    "explanation": "Épithélium glandulaire hépatique :\n\n· Le foie est à la fois exocrine et endocrine (✓)\n· Il n'est pas acineux comme le pancréas (✓)\n· Il ne produit pas d'hormones stéroïdes (✓)",
+    "media": null,
+    "options": [
+      "A. Est de type acineux.",
+      "B. Est à la fois exocrine et endocrine.",
+      "C. Ses cellules possèdent deux modalités d'excrétion.",
+      "D. possède les mêmes modalités de sécrétions que l'épithélium glandulaire du  pancréas",
+      "E. Sa composante endocrine sécrète des hormones stéroïdes."
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'épithélium hépatique (du foie) :",
+    "explanation": "Caractéristiques de l'épithélium hépatique :\n\n· N'est pas une glande endocrine exclusive (✓)\n· N'est pas une glande folliculaire (✓)\n· N'est pas un producteur d'hormones stéroïdes (✓)\n· Produit la bile mais pas seulement (✓)\n· Est un épithélium exocrine et endocrine à la fois (✓)",
+    "media": null,
+    "options": [
+      "A. est une glande endocrine exclusive.",
+      "B. produit des hormones stéroïdes.",
+      "C. est une glande folliculaire.",
+      "D. produit uniquement de la bile excrétée dans les canaux biliaires.",
+      "E. est un épithélium glandulaire exocrine et endocrine à la fois."
+    ],
+    "correct": [
+      4
+    ]
+  }
+]

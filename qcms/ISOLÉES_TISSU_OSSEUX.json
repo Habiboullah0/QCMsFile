@@ -1,0 +1,442 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": " La matrice extracellulaire du tissu osseux contient:",
+    "explanation": "Les constituants VRAIS de la matrice osseuse sont :\n•A. Les glycosaminoglycanes (✓)\n•B. L'acide hyaluronique (✓)\n•D. L’ostéocalcine (✓)\n\nLes constituants FAUX sont :\n•C. L’élastine (✗)\n•E. L’érythropoïétine (✗)",
+    "media": null,
+    "options": [
+      "A.les glycosaminoglycans",
+      "B.l'acide hyaluronique",
+      "C.l'élastine",
+      "D.l'ostéocalcine",
+      "E.l'érythropoïétine"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les propriétés spécifiques au tissu osseux ?",
+    "explanation": "\nLa propriété VRAIE spécifique au tissu osseux est :\n•A. Il est constitué par un assemblage d’unités structurales et fonctionnelles (✓)\n\nLes propriétés FAUSSES sont :\n•B. Il est peu vascularisé (✗)\n•C. Il est dur mais très hydraté (✗)\n•D. Il se développe par une croissance isogénique (✗)\n•E. Sa substance fondamentale contient une fibronectine spécifique (✗)",
+    "media": null,
+    "options": [
+      "A.Il est constitué par un assemblage d'unités structurales et fonctionnelles.",
+      "B.Il est peu vascularisé.",
+      "C.Il est dur mais très hydraté.",
+      "D.Il se développe par une croissance isogénique.",
+      "E.Sa substance fondamentale contient une fibronectine spécifique."
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'ostéoblaste",
+    "explanation": "Les affirmations VRAIES sont :\n•B. Sécrète le collagène et le calcium (✓)\n•C. Intervient dans la régulation de l'ostéolyse (✓)\n\nLes affirmations FAUSSES sont :\n•A. Hydrolyse et phagocyte la matrice organique (✗)\n•D. Ne contient pas de nucléole (✗)\n•E. Contient peu de réticulum endoplasmique rugueux (✗)",
+    "media": null,
+    "options": [
+      "A.Hydrolyse et phagocyte la matrice organique",
+      "B.Secrète le collagène et le calcium",
+      "C.Intervient dans la régulation de l'ostéolyse",
+      "D.Ne contient pas de nucléole",
+      "E.Contient peu de réticulum endoplasmique rugueux"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "À propos des ostéocytes :",
+    "explanation": "Les affirmations VRAIES sont :\n•B. Ils sont capables d'élaborer de la matrice osseuse (✓)\n•C. Ils sont capables de détruire de la matrice osseuse (✓)\n\nLes affirmations FAUSSES sont :\n•A. Ils dérivent des ostéoplastes (✗)\n•D. Ils forment une barrière en périphérie du tissu osseux (✗)\n•E. Ils sont entourés de tissu conjonctif réticulaire (✗)",
+    "media": null,
+    "options": [
+      "A.Ils dérivent des ostéoplastes",
+      "B.Ils sont capables d'élaborer de la matrice osseuse.",
+      "C.Ils sont capables de détruire de la matrice osseuse.",
+      "D.Ils forment une barrière en périphérie du tissu osseux.",
+      "E.Ils sont entourés de tissu conjonctif réticulaire"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concernant les ostéocytes, quelles sont parmi les propositions suivantes celles qui sont \nvraies ?\n",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Ils résident dans des lacunes à l'intérieur de la substance fondamentale (✓)\n•C. Ils sont actifs dans le rétablissement du taux constant de la calcémie (✓)\n\nLes affirmations FAUSSES sont :\n•B. Ils sont habituellement multinuclées (✗)\n•D. Ils sont alignés le long de la surface de l'ostéoïde (✗)\n•E. Ils sont filiformes (✗)",
+    "media": null,
+    "options": [
+      "A.Ils résident dans des lacunes à l'intérieur de la substance fondamentale",
+      "B.Ils sont habituellement multinuclées",
+      "C.Ils sont actifs dans le rétablissement du taux constant de la calcémie",
+      "D.Ils sont alignés le long de la surface de l'ostéoïde",
+      "E.Ils sont filiformes"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les prolongement cytoplasmiques des ostéocytes",
+    "explanation": "Les affirmations VRAIES sont :\n•B. Sont liés par des jonctions communicantes (✓)\n•C. Contiennent de nombreux filaments d'actine (✓)\n\nLes affirmations FAUSSES sont :\n•A. Sécrètent l'élastine (✗)\n•D. Disparaissent lorsque les ostéocytes se divisent (✗)\n•E. Contiennent l'appareil de Golgi (✗)",
+    "media": null,
+    "options": [
+      "A.Secrètent l'élastine",
+      "B.Sont liés par des jonctions communicantes",
+      "C.Contiennent de nombreux filaments d'actine",
+      "D.Disparaissent lorsque les ostéocytes se divisent",
+      "E.Contiennent l'appareil de Golgi"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Toutes les propositions concernant l'ostéocyte sont vraies sauf une, laquelle ?",
+    "explanation": "L'affirmation FAUSSE (l'intrus) est :\n•E. Est d'origine monocytaire (✗)\n\nLes affirmations VRAIES sont :\n•A. A une fonction d'ostéolyse (✓)\n•B. Possède des prolongements cytoplasmiques (✓)\n•C. Est nourri par les capillaires des canalicules (✓)\n•D. Contracte des jonctions communicantes avec les ostéocytes voisins (✓)",
+    "media": null,
+    "options": [
+      "A.a une fonction d'ostéolyse",
+      "B.possède des prolongements cytoplasmiques",
+      "C.est nourri par les capillaires des canalcules",
+      "D.contracte des jonctions communicantes avec les ostéocytes voisins",
+      "E.Est d'origine monocytaire"
+    ],
+    "correct": [
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Toutes les propositions concernant l'ostéocyte sont vraies sauf une, laquelle ?",
+    "explanation": "L'affirmation FAUSSE (l'intrus) est :\n•A. À une fonction de résorption massive (✗)\n\nLes affirmations VRAIES sont :\n•B. Possède des prolongements cytoplasmiques (✓)\n•C. Est nourri par les capillaires des canalicules (✓)\n•D. Contracte de jonctions communicantes avec les ostéocytes voisins (✓)\n•E. Est sensible à la stimulation par la parathormone (✓)",
+    "media": null,
+    "options": [
+      "A.À une fonction de résorption massive",
+      "B.Possède des prolongements cytoplasmiques",
+      "C.est nourri par les capillaires des canalcules",
+      "D.contracte de jonctions communicantes avec les ostéocytes voisins",
+      "E.Est sensible à la stimulation par la parathormone"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules du tissu osseux qui dérivent des monocytes sont :",
+    "explanation": "L'affirmation VRAIE est :\n•D. Les ostéoclastes (✓)\n\nLes affirmations FAUSSES sont :\n•A. Les ostéocytes (✗)\n•B. Les fibroblastes du périoste (✗)\n•C. Les ostéoblastes (✗)\n•E. Les cellules endothéliales (✗)",
+    "media": null,
+    "options": [
+      "A.Les ostéocytes",
+      "B.les fibroblastes du périoste",
+      "C.Les ostéoblastes",
+      "D.Les ostéoclastes",
+      "E.les cellules endothéliales"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les éléments qui interviennent dans l'activité ostéolytique de l'ostéoclaste :",
+    "explanation": "Les éléments VRAIS sont :\n•A. La membrane plasmique microvillostatire (✓)\n•C. Les pompes à protons (✓)\n•E. Les enzymes lysosomiales (✓)\n\nLes éléments FAUX sont :\n•B. Toutes les hydrolases secrétée par la cellule (✗)\n•D. Les canaux ioniques voltage dépendant (✗)",
+    "media": null,
+    "options": [
+      "A.La membrane plasmique microvillostatire",
+      "B.Toutes les hydrolases secrétée par la cellule.",
+      "C.Les pompes à protons",
+      "D.Les canaux ioniques voltage dépendant.",
+      "E.Les enzymes lysosomiales."
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les éléments qui interviennent dans l’activité ostéolytique de l’ostéoclaste :",
+    "explanation": "Les éléments VRAIS sont :\n•A. La membrane plasmique périphérique qui délimite la lacune de Howship (✓)\n•B. Les hydrolases acides secrétée par la cellule (✓)\n•C. Les pompes à proton (✓)\n\nLes éléments FAUX sont :\n•D. Les vésicules intra cytoplasmiques (✗)\n•E. La calcitonine sécrétée par les cellules para folliculaires de la thyroïde (✗)",
+    "media": null,
+    "options": [
+      "A.La membrane plasmique périphérique qui délimite la lacune de Howship.",
+      "B.Les hydrolases acides secrétée par la cellule",
+      "C.Les pompes à proton",
+      "D.Les vésicules intra cytoplasmiques.",
+      "E.la calcitronine sécrétée par les cellules para folliculaires de la thyroïde."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels sont les éléments qui interviennent dans l’activité ostéolytique de l’ostéoclaste :",
+    "explanation": "Les éléments VRAIS sont :\n•A. La membrane plasmique périphérique qui délimite la lacune de Howship (✓)\n•D. Les lysosomes (✓)\n•E. Les hydrolases acides (✓)\n\nLes éléments FAUX sont :\n•B. Toutes les hydrolases secrétée par la cellule (✗)\n•C. Les pompes Na+/K+ (✗)",
+    "media": null,
+    "options": [
+      "A.La membrane plasmique périphérique qui délimite la lacune de Howship",
+      "B.Toutes les hydrolases secrétée par la cellule",
+      "C.Les pompes Na+/K+",
+      "D.Les lysosomes.",
+      "E.Les hydrolases acides."
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Toutes les propositions concernant l’ostéoclaste sont vraies sauf une, laquelle ?",
+    "explanation": "L'affirmation FAUSSE (l'intrus) est :\n•E. Sécrète la matrice extracellulaire du tissu osseux (✗)\n\nLes affirmations VRAIES sont :\n•A. C'est une cellule de grande taille (✓)\n•B. Contient de nombreuses mitochondries (✓)\n•C. Appartient au système de phagocytes mononuclées (✓)\n•D. Se trouve dans les lacunes de Howship creusées dans les lamelles osseuses (✓)",
+    "media": null,
+    "options": [
+      "A.C’est une cellule de grande taille.",
+      "B.contient de nombreuses mitochondries",
+      "C.appartient au système de phagocytes mononuclées",
+      "D.se trouve dans les lacunes de Howship creusées dans les lamelles osseuses",
+      "E.sécrète la matrice extracellulaire du tissu osseux"
+    ],
+    "correct": [
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules du tissu osseux qui sont riches en lysosome sont les :",
+    "explanation": "L'affirmation VRAIE est :\n•D. Ostéoclastes (✓)\n\nLes affirmations FAUSSES sont :\n•A. Ostéocytes (✗)\n•B. Fibroblastes du périoste (✗)\n•C. Ostéoblastes (✗)\n•E. Cellules endothéliales (✗)",
+    "media": null,
+    "options": [
+      "A.Ostéocytes",
+      "B.Fibroblastes du périoste",
+      "C.Ostéoblastes",
+      "D.Ostéoclastes",
+      "E.Cellules endothéliales"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L’ossification endomembraneuse :",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Est le mécanisme qui permet la formation des os plats (✓)\n•B. Elle se passe dans un tissu conjonctif embryonnaire (✓)\n•D. Elle se poursuit après la naissance au sein de certaines pièces osseuses du squelette (✓)\n\nLes affirmations FAUSSES sont :\n•C. Ne peut avoir lieu qu'en présence de spicules de matrice cartilagineuse calcifiée (✗)\n•E. Toutes les réponses ci-dessus sont vraies (✗)",
+    "media": null,
+    "options": [
+      "A.Est le mécanisme qui permet la formation des os plats",
+      "B.Elle se passe dans un tissu conjonctif embryonnaire.",
+      "C.Ne peut avoir lieu qu’en présence de spicules de matrice cartilagineuse calcifiée.",
+      "D.Elle se poursuit après la naissance au sein de certaine pièces osseuses du squelette.",
+      "E.toutes les réponses ci dessus sont vraies."
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le cartilage de conjugaison :",
+    "explanation": "L'affirmation VRAIE est :\n•E. Est nécessaire pour le développement de l'os long (✓)\n\nLes affirmations FAUSSES sont :\n•A. Est un tissu cartilagineux fibreux (✗)\n•B. Est observé dans les diaphyses des os longs (✗)\n•C. Donne naissance au tissu osseux haversion (✗)\n•D. Contient des canaux de Volkmann (✗)",
+    "media": null,
+    "options": [
+      "A.Est un tissu cartilagineux fibreux",
+      "B.Est observé dans les diaphyses des os longs",
+      "C.Donne naissance au tissu osseux haversion",
+      "D.Contient des canaux de Volkmann",
+      "E.Est nécessaire pour le développement de l’os long"
+    ],
+    "correct": [
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A propos de l’os haversion :",
+    "explanation": "Les affirmations VRAIES sont :\n•B. L'espace entre les ostéones est occupé par des lamelles interstitielles (✓)\n•E. Il est le siège d'un remaniement continu (✓)\n\nLes affirmations FAUSSES sont :\n•A. Il constitue la partie centrale des os plats (✗)\n•C. Sa résistance mécanique est faible (✗)\n•D. Les canaux de Havers communiquent entre eux par le canal médullaire (✗)",
+    "media": null,
+    "options": [
+      "A.Il constitue la partie centrale des os plats",
+      "B.l’espace entre les ostéones est occupé par des lamelles interstitielles",
+      "C.sa résistance mécanique est faible",
+      "D.les canaux de Havers communiquent entre eux par le canal médullaire",
+      "E.il est le siège d’un remaniement continu"
+    ],
+    "correct": [
+      1,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment est la structure histologique du tissu osseux spongieux ?",
+    "explanation": "L'affirmation VRAIE est :\n•C. Il est réticulaire formé de travées anastomosées (✓)\n\nLes affirmations FAUSSES sont :\n•A. Il est formé d'un assemblage de lamelles cylindriques (✗)\n•B. Son aspect est monolithique par regroupement en bloc d'unités structurales (✗)\n•D. C'est une structure histologique mise en place par opposition périostée (✗)\n•E. Est une structure mosaïque contenant des logettes et des ostéones (✗)",
+    "media": null,
+    "options": [
+      "A.Il est formé d’un assemblage de lamelles cylindriques.",
+      "B.Son aspect est monolithique par regroupement en bloc d’unités structurales.",
+      "C.Il est réticulaire formé de travées anastomosées.",
+      "D.C’est une structure histologique mise en place par opposition périostée.",
+      "E.Est une structure mozaïque contenant des logettes et des ostéones"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Est-ce que la résorption osseuse :",
+    "explanation": "Les affirmations VRAIES sont :\n•C. Fait partie du remodelage osseux (✓)\n•E. Est favorisée par la parathormone (✓)\n\nLes affirmations FAUSSES sont :\n•A. Est réalisée par les ostéocytes (✗)\n•B. Fait intervenir des peroxysomes (✗)\n•D. Intervient dans la mise en place de l'ostéoïde (✗)",
+    "media": null,
+    "options": [
+      "A.Est réalisée par les ostéocytes.",
+      "B.Fait intervenir des peroxysomes.",
+      "C.Fait partie du remodelage osseux.",
+      "D.Intervient dans la mise en place de l’ostéoïde.",
+      "E.Est favorisée par la parathormone"
+    ],
+    "correct": [
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Est-ce que la résorption osseuse",
+    "explanation": "Les affirmations VRAIES sont :\n•B. Fait intervenir des pompes à protons (✓)\n•C. Fait partie du remodelage osseux (✓)\n•D. Intervient dans la mise en place du tissu osseux haversien (✓)\n\nLes affirmations FAUSSES sont :\n•A. Est réalisée par les ostéoblastes (✗)\n•E. Est favorisée par la calcitonine (✗)",
+    "media": null,
+    "options": [
+      "A.Est réalisée par les ostéoblastes.",
+      "B.Fait intervenir des pompes à protons.",
+      "C.Fait partie du remodelage osseux.",
+      "D.Intervient dans la mise en place du tissu osseux haversien.",
+      "E.Est favorisée par la calcitonine hormone parafolliculaire de la thyroïde"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Est-ce que le tissu osseux compact primaire :",
+    "explanation": "L'affirmation VRAIE est :\n•D. Constitue sur la face externe de la corticale le système fondamental (✓)\n\nLes affirmations FAUSSES sont :\n•A. Est résistant aux forces de contraction musculaire et à la pesanteur (✗)\n•B. Comporte des canaux de Volkmann (✗)\n•C. Constitue les épiphyses des os longs (✗)\n•E. Est constitué d'ostéones et de tissu osseux interstitiel (✗)",
+    "media": null,
+    "options": [
+      "A.Est résistant aux forces de contraction musculaire et à la pesanteur.",
+      "B.Comporte des canaux de Volkmann",
+      "C.Constitue les épiphyses des os longs.",
+      "D.Constitue sur la face externe de la corticale le système fondamental.",
+      "E.Est constitué d’ostéones et de tissu osseux interstitiel."
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Est-ce que le tissu osseux compact secondaire (haversien) :",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Est résistant aux forces des contractions musculaires et à la force de la pesanteur (✓)\n•B. Comporte des ostéoclastes (✓)\n•E. Est constitué d'ostéones et de tissu osseux interstitiel (✓)\n\nLes affirmations FAUSSES sont :\n•C. Constitue les épiphyses des os longs (✗)\n•D. Est délimitée sur la face externe par le système fondamental formé de tissu spongieux (✗)",
+    "media": null,
+    "options": [
+      "A.Est résistant aux forces des contractions musculaires et à la force de la pesanteur",
+      "B.Comporte des ostéoclastes.",
+      "C.Constitue les épiphyses des os longs.",
+      "D.Est délimitée sur la face externe par le système fondamental formé de tissu spongieux.",
+      "E.Est constitué d’ostéones et de tissu osseux interstitiel."
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La vascularisation osseuse :",
+    "explanation": "Les affirmations VRAIES sont :\n•B. Intervient obligatoirement dans l'ossification endochondrale (✓)\n•C. Est importante pour la consolidation des fractures (✓)\n\nLes affirmations FAUSSES sont :\n•A. Est riche uniquement au niveau du tissu osseux spongieux (✗)\n•D. Est absente dans les lamelles osseuses (✗)\n•E. Est présente au niveau de la zone sous articulaire de l'épiphyse des os longs (✗)",
+    "media": null,
+    "options": [
+      "A.Est riche uniquement au niveau du tissu osseux spongieux.",
+      "B.Intervient obligatoirement dans l’ossification endochondrale.",
+      "C.Est importante pour la consolidation des fractures.",
+      "D.Est absente dans les lamelles osseuses.",
+      "E.Est présente au niveau de la zone sous articulaire de l’épiphyse des os longs"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le remodelage osseux :",
+    "explanation": "Les affirmations VRAIES sont :\n•B. Intervient dans la mise en place d'un tissu osseux haversien (✓)\n•D. Est un mécanisme nécessaire pour le développement de l'os long (✓)\n\nLes affirmations FAUSSES sont :\n•A. Fait intervenir l'ostéoclaste et l'ostéocyte (✗)\n•C. N'est présent qu'au cours de l'ossification endomembraneuse (✗)\n•E. Est relié toujours au cartilage de conjugaison (✗)",
+    "media": null,
+    "options": [
+      "A.Fait intervenir l’ostéoclaste et l’ostéocyte.",
+      "B.Intervient dans la mise en place d’un tissu osseux haversien.",
+      "C.N’est présent qu’au cours de l’ossification endomembraneuse.",
+      "D.Est un mécanisme nécessaire pour le développement de l’os long.",
+      "E.Est relié toujours au cartilage de conjugaison."
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Parmi les propositions suivantes concernant le remodelage osseux, indiquer celle(s) qui est \n(sont) exactes :\n",
+    "explanation": "Les affirmations VRAIES sont :\n•A. Le tissu ostéoïde est minéralisé (✓)\n•B. La prolifération des ostéoblastes est nécessaire à la formation du tissu osseux (✓)\n•D. Les cellules bordantes sont des ostéoblastes mis au repos (✓)\n•E. Les ostéoblastes régulent la résorption ostéoclastique (✓)\n\nL'affirmation FAUSSE est :\n•C. La parathormone inhibe la résorption ostéoclastique (✗)",
+    "media": null,
+    "options": [
+      "A.Le tissu ostéoïde est minéralisé",
+      "B.La prolifération des ostéoblastes est nécessaire à la formation du tissu osseux",
+      "C.La parathormone inhibe la résorption ostéoclastique",
+      "D.Les cellules bordantes sont des ostéoblastes mis au repos",
+      "E.Les ostéoblastes régulent la résorption ostéoclastique"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": " A propos du tissu osseux, toutes les propositions suivantes sont vraies sauf une, laquelle ?",
+    "explanation": "L'affirmation FAUSSE (l'intrus) est :\n•E. Il peut croître par division cellulaire (✗)\n\nLes affirmations VRAIES sont :\n•A. Il est constamment renouvelé et remodelé (✓)\n•B. Il est sensible aux facteurs endocriniens et nutritionnels (✓)\n•C. Il est richement vascularisé (✓)\n•D. Il peut se développer à partir du mésenchyme (✓)",
+    "media": null,
+    "options": [
+      "A.Il est constamment renouvelé et remodelé",
+      "B.Il est sensible aux facteurs endocriniens et nutritionnels",
+      "C.Il est richement vascularisé",
+      "D.Il peut se développer à partir du mésenchyme",
+      "E.Il peut croître par division cellulaire"
+    ],
+    "correct": [
+      4
+    ]
+  }
+]

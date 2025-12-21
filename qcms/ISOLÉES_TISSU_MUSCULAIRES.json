@@ -1,0 +1,281 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Les caractéristiques morphologiques communes des différents types de cellules \nmusculaires sont :\r",
+    "explanation": "Caractéristiques morphologiques communes\n\nRéponse correcte : A uniquement\n\nJustifications :\n\n· A. VRAI : Actine et myosine sont les protéines contractiles universelles présentes dans TOUS les types musculaires\n· B. FAUX : Les sarcomères sont exclusifs aux muscles striés (squelettique et cardiaque)\n· C. FAUX : Les myofibrilles = assemblages de sarcomères → donc uniquement dans les muscles striés\n· D. FAUX : Multinucléation = caractéristique unique du muscle squelettique (fusion des myoblastes)\n· E. FAUX : Forme variable : fusiforme (lisse), cylindrique (squelettique), ramifiée (cardiaque)",
+    "media": null,
+    "options": [
+      "A.La présence de myofilaments",
+      "B.La présence de sarcomères",
+      "C.La présence de myofibrilles)",
+      "D.Le nombre élevé de noyaux",
+      "E.La forme cylindrique"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les myofilaments d’actine et de myosine sont :",
+    "explanation": "Myofilaments d'actine et de myosine\n\nRéponses correctes : C et D\n\nJustifications :\n\n· A. FAUX : Muscle lisse possède ces filaments mais SANS organisation sarcomérique\n· B. FAUX : Confusion entre présence des filaments et leur organisation\n· C. VRAI : Constituants majeurs de la fibre musculaire squelettique\n· D. VRAI : Présents dans le myocarde mais organisation différente (pas de myofibrilles aussi régulières)\n· E. FAUX : Présents dans les 3 types musculaires (lisse aussi)",
+    "media": null,
+    "options": [
+      "A.absents dans la fibre musculaire lisse",
+      "B.organisés en sarcomères dans la fibre musculaire lisse",
+      "C.les principaux constituants de la fibre musculaire squelettique",
+      "D.organisés en myofibrilles dans la fibre musculaire myocardique",
+      "E.présents dans les trois types de fibres musculaires"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les sarcomères",
+    "explanation": "Sarcomères\n\nRéponses correctes : C et D\n\nJustifications :\n\n· A. FAUX : Absents du muscle lisse → donc pas universels\n· B. FAUX : Composés de microfilaments (actine/myosine), PAS de microtubules\n· C. VRAI : Composition : actine + myosine + protéines régulatrices (troponine, tropomyosine, titine)\n· D. VRAI : Définition exacte = unité structurale répétitive des myofibrilles\n· E. FAUX : Structure hautement conservée chez tous les vertébrés",
+    "media": null,
+    "options": [
+      "A.sont des constituants constants des cellules musculaires",
+      "B.comportent des microtubules",
+      "C.sont composés de microfilaments et de protéines associées",
+      "D.sont les unités morphologiques de myofibrilles",
+      "E.ont une structure variable"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La myoglobine est un pigment qui se trouve dans les cellules :",
+    "explanation": "Myoglobine\n\nRéponse correcte : C\n\nJustification :\n\n· Seule la cellule musculaire striée squelettique (rhadomyocyte) contient de la myoglobine\n· Fonction : stockage et transport d'oxygène dans le muscle\n· Les autres options (épithéliales, glandulaires) n'ont pas cette protéine\n",
+    "media": null,
+    "options": [
+      "A.Des glandes exocrines acineuses",
+      "B.Des glandes endocrines réticulées",
+      "C.Du muscle strié",
+      "D.Des épitheliums de revêtement stratifiés",
+      "E.Des épithéliums de revêtement simples"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L’endomysium est un constituant :",
+    "explanation": " Endomysium\n\nRéponse correcte : D\n\nJustification :\n\n· Définition : tissu conjonctif lâche entourant CHAQUE fibre musculaire striée\n· Rôles : support, nutrition, transmission de force\n· Les autres cellules mentionnées ont d'autres types d'enveloppes",
+    "media": null,
+    "options": [
+      "A.Des glandes endocrines réticulées",
+      "B.Des glandes amphicrines",
+      "C.De l’épithélium de revêtement pseudostratifié",
+      "D.Du tissu musculaire strié",
+      "E.Du tissu musculaire lisse"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le glycogène est présent en grande quantité dans :",
+    "explanation": "Glycogène\n\nRéponse correcte : D\n\nJustification :\n\n· Le muscle strié squelettique est un site majeur de stockage du glycogène\n· Nécessaire pour la glycolyse rapide lors de la contraction\n· Les autres cellules stockent peu ou pas de glycogène",
+    "media": null,
+    "options": [
+      "A.La cellule caliciforme",
+      "B.L’entérocyte",
+      "C.L’adipocyte",
+      "D.La cellule musculaire striée",
+      "E.les cellules glandulaires muqueuses"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les tubules T sont des structures visibles en microscopie électronique dans les :",
+    "explanation": "Tubules T\n\nRéponse correcte : D\n\nJustification :\n\n· Structures spécifiques aux muscles STRIÉS (squelettique et cardiaque)\n· Absents du muscle lisse et des autres types cellulaires mentionnés\n· Fonction : propagation rapide du potentiel d'action vers l'intérieur de la cellule",
+    "media": null,
+    "options": [
+      "A.Hépatocytes",
+      "B.Cellules kératinisées de l’épiderme",
+      "C.Cellules musculaires lisses",
+      "D.Cellules myocardiques",
+      "E.Cellules épithéliales pavimenteuses"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concernant les tubules T de la cellule musculaire striée squelettique",
+    "explanation": "Tubules T\n\nRéponse correcte : B uniquement\n\nJustifications :\n\n· A. FAUX : Localisés au niveau des jonctions A-I (entre bandes A et I), PAS au niveau des stries Z\n· B. VRAI : Fonction principale = conduire l'influx nerveux vers l'intérieur de la fibre\n· C. FAUX : Forment des TRIADES (1 tubule T + 2 citernes de réticulum sarcoplasmique)\n· D. FAUX : Invaginations du SARCOLEMME (membrane plasmique), PAS du réticulum\n· E. FAUX : Réservoir de Ca²⁺ = réticulum sarcoplasmique, les tubules T ne stockent pas\n",
+    "media": null,
+    "options": [
+      "A.ils sont localisés en regard des stries Z",
+      "B.ils propagent l’influx nerveux à l’intérieur de la cellule",
+      "C.ils forment des diades avec le réticulum sarcoplasmique",
+      "D.ce sont des invaginations du réticulum sarcoplasmique",
+      "E.constituent un réservoir de calcium au niveau de la cellule"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les myofibrilles d’une cellule musculaire striée squelettique :",
+    "explanation": "Myofibrilles\n\nRéponses correctes : A et D\n\nJustifications :\n\n· A. VRAI : Occupent la majeure partie du volume cytoplasmique\n· B. FAUX : Unité structurale = sarcomère, la myofibrille est un assemblage longitudinal de sarcomères\n· C. FAUX : Les capillaires sont dans le tissu conjonctif (endomysium) entre les fibres\n· D. VRAI : Striation caractéristique due à l'alternance régulière des bandes claires (I) et sombres (A)\n· E. FAUX : L'endomysium entoure toute la fibre musculaire, pas chaque myofibrille",
+    "media": null,
+    "options": [
+      "A.occupent presque la totalité du sarcoplasme",
+      "B.constituent l’unité structurale et morphologique de la cellule",
+      "C.sont séparées par quelques capillaires sanguins",
+      "D.sont striées",
+      "E.sont entourées chacune par un endomysium"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Au niveau de la cellule musculaire striée squelettique, la triade",
+    "explanation": "Triade\n\nRéponse correcte : C uniquement\n\nJustifications :\n\n· A. FAUX : Associe tubule T avec réticulum sarcoplasmique LISSE (stockage Ca²⁺)\n· B. FAUX : Composition = 1 tubule T + 2 citernes terminales de réticulum\n· C. VRAI : Rôle essentiel du réticulum sarcoplasmique = stocker et libérer Ca²⁺\n· D. FAUX : Les mitochondries sont situées entre les myofibrilles, pas dans la triade\n· E. FAUX : Seul le tubule T conduit l'onde de dépolarisation",
+    "media": null,
+    "options": [
+      "A.associe le réticulum endoplasmique rugueux",
+      "B.comporte deux tubules T",
+      "C.constitue un réservoir de calcium intracellulaire",
+      "D.est riche en mitochondries",
+      "E.conduit l’onde de dépolarisation membranaire à l’intérieur de la cellule"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Parmi les propositions suivantes concernant la jonction neuromusculaire du muscle strié \nsquelettique, indiquer celle(s) qui est (sont) exactes :\n",
+    "explanation": "Jonction neuromusculaire\n\nRéponse correcte : B uniquement\n\nJustifications :\n\n· A. FAUX : Une fibre musculaire possède UNE SEULE plaque motrice (principe d'unité)\n· B. VRAI : Une fibre nerveuse innerve plusieurs fibres musculaires = unité motrice\n· C. FAUX : La membrane basale est CONTINUE à travers la fente synaptique\n· D. FAUX : Fixation réversible (ACh hydrolysée par acétylcholinestérase en <1 ms)\n· E. FAUX : Récepteurs nicotiniques uniquement sur la membrane POST-synaptique\n",
+    "media": null,
+    "options": [
+      "A.un rhabdomyocyte possède en moyenne 5 à 12 plaques motrices",
+      "B.une fibre nerveuse peut innerver plusieurs fibres musculaires",
+      "C.la terminaison axonale est séparée du rhabdomyocyte par la membrane basale",
+      "D.La fixation de l'acetylcholine à son récepteur est irréversible",
+      "E.Le récepteur à l'acetylcholine est localisé sur les membranes pré et post synaptique"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Toutes les propositions concernant le muscle strié squelettique sont exactes sauf une \nlaquelle\n",
+    "explanation": "Toutes sauf une\n\nRéponse incorrecte : B\n\nJustifications :\n\n· A. VRAI : Caractéristique : syncytium par fusion des myoblastes\n· B. FAUX : Le fuseau neuromusculaire est un RÉCEPTEUR SENSORIEL (proprioceptif), pas le site de l'innervation motrice\n· C. VRAI : Définition du sarcomère = unité contractile\n· D. VRAI : Rôle essentiel du réticulum sarcoplasmique\n· E. VRAI : Desmine = filament intermédiaire du cytosquelette musculaire",
+    "media": null,
+    "options": [
+      "A.On y observe des cellules musculaires plurinucléées",
+      "B.Le signal de la contraction se fait par l'intermédiaire d'un fuseau neuromusculaire",
+      "C.Les sarcomères sont les unités élémentaires de la contraction",
+      "D.Le réticulum sarcoplasmique renferme du calcium",
+      "E.On y trouve de la desmine"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le léiomyocyte",
+    "explanation": "Léiomyocyte\n\nRéponses correctes : C et D\n\nJustifications :\n\n· A. FAUX : Forme FUSIFORME (en fuseau), pas cylindrique\n· B. FAUX : Absence de myofibrilles organisées (présentes dans le strié)\n· C. VRAI : Noyau unique central, allongé\n· D. VRAI : Absence COMPLÈTE de sarcomères (organisation différente)\n· E. FAUX : Les cellules nodales sont spécifiques du tissu cardiaque conducteur",
+    "media": null,
+    "options": [
+      "A.est une cellule cylindrique",
+      "B.présente un cytoplasme riche en myofibrilles",
+      "C.contient un noyau central",
+      "D.ne comporte pas de sarcomères",
+      "E.est une cellule nodale"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La cellule musculaire lisse :",
+    "explanation": "Cellule musculaire lisse\n\nRéponse correcte : D uniquement\n\nJustifications :\n\n· A. FAUX : Un seul noyau (central), pas \"nombreux\"\n· B. FAUX : Cellules fusiformes simples (sauf exception vasculaire)\n· C. FAUX : ABSENCE de tubules T (caractéristique des striés)\n· D. VRAI : Corps denses = ancrages pour microfilaments d'actine\n· E. FAUX : Contient les DEUX types de filaments contractiles",
+    "media": null,
+    "options": [
+      "A.Contient de nombreux noyaux centraux et en chaîne",
+      "B.Est courte et ramifiée",
+      "C.présente de nombreux tubules T",
+      "D.Présente de nombreux corps denses",
+      "E.Contient seulement des myofilaments d'actine"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les particularités structurales du tissu musculaire lisse :",
+    "explanation": "Particularités\n\nRéponses correctes : D et E\n\nJustifications :\n\n· A. FAUX : Forme fusiforme, pas \"filiforme\" (qui évoque une grande longueur)\n· B. FAUX : Pas de périodicité striée (car pas de sarcomères)\n· C. FAUX : UN seul noyau par cellule\n· D. VRAI : Innervation végétative (autonome) = involontaire\n· E. VRAI : Organisation en faisceaux entourés de périmysium (tissu conjonctif)",
+    "media": null,
+    "options": [
+      "A.Les cellules musculaires lisses sont filiformes.",
+      "B.Sa contraction est due à la périodicité de la masse contractile.",
+      "C.La cellule possède au moins deux noyaux.",
+      "D.Est commandé par les terminaisons motrices du système autonomique.",
+      "E.Est organisée en faisceaux entourés par un périmysium."
+    ],
+    "correct": [
+      3,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les particularités structurales du tissu musculaire myocardique :",
+    "explanation": "Tissu myocardique\n\nRéponses correctes : D et E\n\nJustifications :\n\n· A. FAUX : Cellules CYLINDRIQUES RAMIFIÉES (pas filiformes)\n· B. FAUX : Contraction AUTOMATIQUE (myogène) indépendante de l'innervation\n· C. FAUX : 1-2 noyaux CENTRAUX (pas périphériques comme dans le squelettique)\n· D. VRAI : Disques intercalaires avec jonctions serrées + desmosomes + gap junctions\n· E. VRAI : Organisation en syncytium fonctionnel (pas anatomique)",
+    "media": null,
+    "options": [
+      "A.Les cellules musculaires sont filiformes",
+      "B.Sa contraction naît par stimulation spontanée du système nerveux autonomique...",
+      "C.La cellule possède un ou deux noyaux périphériques.",
+      "D.Ses cellules contractent entre elles des jonctions serrées et des desmosomes.",
+      "E.Est organisée en réseau."
+    ],
+    "correct": [
+      3,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Dans la cellule musculaire myocardique, les filaments d’actine :",
+    "explanation": "Filaments d'actine dans le myocarde\n\nRéponses correctes : B et E\n\nJustifications :\n\n· A. FAUX : N'occupent pas toutes les bandes (absents de la bande H)\n· B. VRAI : Présents dans bande I (exclusivement) et partie périphérique de bande A\n· C. FAUX : Présents aussi dans la bande A (où ils chevauchent avec la myosine)\n· D. FAUX : Fixés aux stries Z, donc longueur limitée à ≈1 μm\n· E. VRAI : Attachement aux stries Z (comme dans le muscle squelettique)\n",
+    "media": null,
+    "options": [
+      "A.Occupent les bandes du sarcomère",
+      "B.Occupent les bandes I et A du sarcomère",
+      "C.Occupent la bande I du sarcomère",
+      "D.S’étendent sur toute la longueur",
+      "E.Sont fixés à la strie Z"
+    ],
+    "correct": [
+      1,
+      4
+    ]
+  }
+]

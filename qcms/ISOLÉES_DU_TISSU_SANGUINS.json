@@ -1,0 +1,167 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "L’érythroblaste acidophile est caractérisé par :",
+    "explanation": "Érythroblaste acidophile (C)\n\n· Dernier stade nucléé de la lignée rouge\n· Cytoplasme rose dû à l'hémoglobine abondante (acidophile)\n· Noyau pycnotique (condensé) → pas encore énucléé\n· Taille : 8-11 μm (plus petit que les stades précédents)",
+    "media": null,
+    "options": [
+      "A.l’absence de noyau",
+      "B.la richesse en organites cytoplasmiques",
+      "C.l’abondance d’hémoglobine dans le cytoplasme",
+      "D.l’aspect strié du cytoplasme",
+      "E.sa grande taille > 20 μm"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le réticulocyte",
+    "explanation": "Réticulocyte (B)\n\n· Érythrocyte immature juste après l'énucléation\n· Pas de noyau mais contient encore des ribosomes (réticulum)\n· Jeune globule rouge normal (1-2% du sang)\n· Rôle : transport d'O₂ (comme l'érythrocyte mature)",
+    "media": null,
+    "options": [
+      "A.est un globule rouge pathologique",
+      "B.est une cellule sans noyau",
+      "C.est une plaquette activée",
+      "D.est un lymphocyte producteur d’anticorps",
+      "E.est une cellule de défense de l’organisme"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la durée de vie moyenne d’un globule rouge ?",
+    "explanation": "Durée de vie (E)\n\n· Globules rouges : 120 jours (≈4 mois)\n· D'autres durées :\n  · Plaquettes : 8-10 jours\n  · Neutrophiles : 6-12h (sang), quelques jours (tissus)\n  · Lymphocytes : variable (jours à années)",
+    "media": null,
+    "options": [
+      "A.2 mois",
+      "B.Une semaine",
+      "C.24 heures",
+      "D.48 heures",
+      "E.120 jours"
+    ],
+    "correct": [
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les plaquettes sanguines :",
+    "explanation": " Plaquettes (B)\n\n· Fragments cellulaires (pas des cellules complètes)\n· Origine : fragmentation cytoplasmique des mégacaryocytes\n· Pas de noyau\n· Rôle principal : hémostase primaire (formation du clou plaquettaire)",
+    "media": null,
+    "options": [
+      "A.sont des cellules géantes de la moelle osseuse",
+      "B.colmatent les brèches endothéliales",
+      "C.comportent un noyau polylobé",
+      "D.jouent un rôle dans la réaction allergique",
+      "E.résultent de la fragmentation des noyaux des mégacaryocytes."
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les macrophages interviennent dans",
+    "explanation": "Macrophages (A, C)\n\n· Dérivés des monocytes sanguins\n· Rôles :\n  · Phagocytose intense (débris, microbes)\n  · Présentation antigénique (immunité adaptative)\n  · Réponse inflammatoire\n· Ne produisent pas de collagène (fibroblastes) ni ne régulent la température",
+    "media": null,
+    "options": [
+      "A.l’inflammation",
+      "B.la contraction musculaire",
+      "C.l’immunité de l’organisme",
+      "D.la synthèse du collagène",
+      "E.la thermorégulation de l’organisme"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Parmi les caractéristiques structurales du lymphocyte",
+    "explanation": "Lymphocyte (B, C, E)\n\n· Petite taille (6-15 μm), plus petit que le monocyte\n· Rapport N/C élevé (peu de cytoplasme)\n· Noyau rond et dense\n· Granulations azurophiles (lysosomes)\n· Émet des pseudopodes quand activé",
+    "media": null,
+    "options": [
+      "A.c’est une cellule plus volumineuse que le monocyte",
+      "B.son rapport nucleocytoplasmique est élevé",
+      "C.il émet des pseudopodes quand il est activé",
+      "D.son noyau est réniforme",
+      "E.son cytoplasme contient des grains azurophiles"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": " Les cellules sanguines qui migrent particulièrement vers les sites d’infection bactériennes \nsont :\n",
+    "explanation": "Cellules migrant vers l'infection (C, E)\n\n· Première ligne de défense :\n  · Neutrophiles (bactéries, champignons)\n  · Monocytes → Macrophages tissulaires\n· Pas : ostéoclastes (os), mastocytes (allergie), lymphocytes (réponse spécifique plus lente)",
+    "media": null,
+    "options": [
+      "A.les ostéoclastes",
+      "B.les lymphocytes de grande taille",
+      "C.les monocytes macrophages",
+      "D.les mastocytes",
+      "E.les polynucléaires neutrophiles"
+    ],
+    "correct": [
+      2,
+      4
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": " Les polynucléaires éosinophiles",
+    "explanation": "Éosinophiles\n\n· Proportion : 1-4% des leucocytes (pas 10-20%)\n· Granulations : éosinophiles (rouge-orangé) avec cristalloïde centrale\n· Noyau : bilobé (2 lobes)\n· Rôle principal : défense antiparasitaire (vers)\n· Contenu : protéine basique majeure, peroxydase (pas histamine)",
+    "media": null,
+    "options": [
+      "A.constituent 10 % des leucocytes sanguins",
+      "B.présentent deux noyaux",
+      "C.sont riches en granulations colorées en rouge par l’éosine",
+      "D.interviennent dans la défense antiparasitaire",
+      "E.ont une structure comparable à celle du mastocyte"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": " Le polynucléaire éosinophile :",
+    "explanation": "Éosinophiles\n\n· Proportion : 1-4% des leucocytes (pas 10-20%)\n· Granulations : éosinophiles (rouge-orangé) avec cristalloïde centrale\n· Noyau : bilobé (2 lobes)\n· Rôle principal : défense antiparasitaire (vers)\n· Contenu : protéine basique majeure, peroxydase (pas histamine)",
+    "media": null,
+    "options": [
+      "A.représente 10 - 20 % des leucocytes circulants",
+      "B.contient des granulations spécifiques à structure centrale dense",
+      "C.possède un noyau non segmenté",
+      "D.contient des granulations riches en histamine",
+      "E.A comme fonction principale la défense anti-bactérienne"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le polynucléaire neutrophile :",
+    "explanation": "Neutrophile (B)\n\n· Leucocyte le plus abondant (40-75%)\n· Granulations :\n  · Azurophiles (lysosomes primaires) : enzymes hydrolytiques\n  · Spécifiques : petite taille, enzymes antibactériennes\n· Rôle : phagocytose bactérienne/fongique (première ligne)\n· Durée de vie courte : 6-12h (sang), quelques jours (tissus)",
+    "media": null,
+    "options": [
+      "A.est le type de leucocyte le moins nombreux dans le sang",
+      "B.contient des granulations azurophiles",
+      "C.a pour principale fonction la phagocytose des parasites",
+      "D.a une durée de vie de 120 jours",
+      "E.contient des granulations spécifiques de grande taille"
+    ],
+    "correct": [
+      1
+    ]
+  }
+]
