@@ -28,5 +28,10 @@
     "value": "ISOLÉES TISSU OSSEUX",
     "file": "https://habiboullah0.github.io/QCMsFile/qcms/ISOLÉES_TISSU_OSSEUX.json",
     "title": "TISSU OSSEUX"
-  } 
+  },
+  {
+    "value": "Histologie",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie.json",
+    "title": "Histologie"
+  }
 ]

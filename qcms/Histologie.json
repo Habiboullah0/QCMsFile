@@ -1,0 +1,1148 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Concernant la muqueuse de la cavité buccale et de la langue :",
+    "options": [
+      "L'épithélium de la face interne de la joue est pavimenteux stratifié kératinisé.",
+      "Les papilles filiformes sont les plus nombreuses et possèdent un rôle mécanique.",
+      "Les papilles caliciformes (ou circonvallées) sont situées sur la pointe de la langue.",
+      "Les bourgeons du goût sont présents sur les papilles fongiformes et caliciformes.",
+      "Les glandes de Von Ebner sont associées aux papilles filiformes."
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "explanation": "Les papilles filiformes sont les plus nombreuses et ont un rôle mécanique de friction. Les bourgeons du goût sont présents sur les papilles fongiformes et caliciformes. L'épithélium de la face interne de la joue est non kératinisé. Les papilles caliciformes sont situées postérieurement (en V), pas sur la pointe. Les glandes de Von Ebner sont associées aux papilles caliciformes.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "À propos des glandes salivaires :",
+    "options": [
+      "Les glandes parotides sont des glandes séreuses pures.",
+      "Les glandes sous-maxillaires sont mixtes à prédominance muqueuse.",
+      "Les acini muqueux sécrètent un produit aqueux riche en enzymes.",
+      "Les cellules myoépithéliales entourent les acini pour favoriser l'éjection.",
+      "Le lysozyme et les IgA sécrétoires participent à la fonction de défense."
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "Les glandes parotides sont séreuses pures. Les cellules myoépithéliales permettent l'éjection de la sécrétion. La salive contient du lysozyme et des IgA pour la défense. Les sous-maxillaires sont à prédominance séreuse. Les acini muqueux ont une sécrétion visqueuse, ce sont les séreux qui sont aqueux/enzymatiques.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concernant la structure générale du tube digestif :",
+    "options": [
+      "Le plexus de Meissner est situé dans la musculeuse.",
+      "Le plexus d'Auerbach (myentérique) se trouve entre les couches musculaires circulaire et longitudinale.",
+      "La musculeuse muqueuse est une fine couche de muscle strié.",
+      "L'adventice est remplacée par une séreuse lorsque l'organe est péritonisé.",
+      "La sous-muqueuse est constituée de tissu conjonctif lâche."
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "Le plexus d'Auerbach se situe entre les couches musculaires. L'adventice est remplacée par une séreuse si péritonisé. La sous-muqueuse est un tissu conjonctif lâche. Le plexus de Meissner est dans la sous-muqueuse. La musculeuse muqueuse est du muscle lisse.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les caractéristiques histologiques de l'œsophage ?",
+    "options": [
+      "Son épithélium est cylindrique simple.",
+      "Il possède des glandes œsophagiennes dans la sous-muqueuse.",
+      "Le tiers supérieur de la musculeuse est constitué de muscle strié squelettique.",
+      "Il ne possède pas de musculeuse muqueuse.",
+      "Son adventice permet de l'isoler des structures adjacentes."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "Il possède des glandes dans la sous-muqueuse. Le tiers supérieur de la musculeuse est strié squelettique. Son épithélium est malpighien non kératinisé (stratifié pavimenteux). Il possède une musculeuse muqueuse. L'adventice sert au soutien et lien, non à l'isolation glissante (rôle de la séreuse).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concernant les cellules de l'estomac fundique :",
+    "options": [
+      "Les cellules pariétales sécrètent le pepsinogène.",
+      "Les cellules principales ont un réticulum endoplasmique rugueux abondant.",
+      "Les cellules pariétales sécrètent le facteur intrinsèque et l'HCl.",
+      "Les cellules muqueuses de surface ont un pôle muqueux ouvert.",
+      "Les cellules endocrines sécrètent la gastrine et la sérotonine."
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Les cellules principales ont un REG abondant. Les cellules pariétales sécrètent HCl et facteur intrinsèque. Les cellules endocrines sécrètent gastrine, sérotonine, etc. Le pepsinogène est sécrété par les cellules principales. Les cellules muqueuses ont un pôle fermé.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles structures permettent l'amplification de la surface d'échange dans l'intestin grêle ?",
+    "options": [
+      "Les valvules conniventes (replis de la sous-muqueuse).",
+      "Les villosités intestinales (expansions de la muqueuse).",
+      "Les taenia coli.",
+      "Les microvillosités au pôle apical des entérocytes.",
+      "Les glandes de Brunner."
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "L'amplification est assurée par les valvules conniventes, les villosités et les microvillosités. Les Taenia coli sont des structures musculaires du côlon. Les glandes de Brunner sont sécrétoires.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concernant les cellules de l'épithélium intestinal :",
+    "options": [
+      "Les entérocytes sont les cellules majoritaires responsables de l'absorption.",
+      "Les cellules caliciformes sécrètent des enzymes digestives.",
+      "Les cellules de Paneth sécrètent du lysozyme et sont situées au fond des cryptes.",
+      "Les cellules M sont spécialisées dans l'échantillonnage antigénique.",
+      "Les cellules souches sont absentes de l'intestin grêle."
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "Les entérocytes sont majoritaires et absorbent. Les cellules de Paneth au fond des cryptes sécrètent du lysozyme. Les cellules M font l'échantillonnage antigénique. Les cellules caliciformes sécrètent du mucus. Les cellules souches sont présentes dans les cryptes.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelles sont les spécificités histologiques du duodénum ?",
+    "options": [
+      "Il contient les glandes de Brunner dans sa sous-muqueuse.",
+      "Il possède les villosités les plus longues et larges (foliées).",
+      "Il est le siège principal des Plaques de Peyer.",
+      "Il ne possède pas de valvules conniventes.",
+      "Il contient des cellules de Paneth."
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "Le duodénum contient les glandes de Brunner et possède des villosités larges et foliées. Il contient des cellules de Paneth. Les plaques de Peyer sont dans l'iléon. Les valvules conniventes sont présentes (+/-), pas totalement absentes comme dans le bulbe, mais l'option 'Il ne possède pas' est considérée fausse par rapport à l'Iléon/Jéjunum ou l'affirmation stricte.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concernant le côlon :",
+    "options": [
+      "Il possède des villosités intestinales.",
+      "Sa musculeuse longitudinale externe est regroupée en 3 bandelettes (Taenia coli).",
+      "Il est très riche en cellules caliciformes.",
+      "Il contient des cellules de Paneth.",
+      "Sa fonction principale est la réabsorption d'eau et d'électrolytes."
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Le côlon a des Taenia coli, est riche en cellules caliciformes, et réabsorbe l'eau. Il ne possède ni villosités ni cellules de Paneth.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le canal anal :",
+    "options": [
+      "Possède un épithélium cylindrique simple sur toute sa hauteur.",
+      "Le sphincter anal interne est constitué de muscle lisse.",
+      "Le sphincter anal externe est constitué de muscle strié squelettique.",
+      "La zone cutanée (inférieure) est kératinisée.",
+      "Contient un plexus veineux hémorroïdaire dans la sous-muqueuse."
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "Le sphincter interne est lisse, l'externe est strié. La zone inférieure est kératinisée. Il contient un plexus hémorroïdaire. L'épithélium change et n'est pas cylindrique partout.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quels tissus constituent la dent ?",
+    "options": [
+      "L'émail est le tissu le plus dur de l'organisme.",
+      "La dentine est un tissu non minéralisé.",
+      "La pulpe dentaire contient des vaisseaux et des nerfs.",
+      "Le cément recouvre la couronne de la dent.",
+      "Le ligament parodontal ancre la dent dans l'os alvéolaire."
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "L'émail est le tissu le plus dur. La pulpe contient vaisseaux et nerfs. Le ligament parodontal ancre la dent. La dentine est minéralisée. Le cément recouvre la racine.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "À propos de l'épithélium respiratoire :",
+    "options": [
+      "C'est un épithélium pavimenteux stratifié.",
+      "Il contient des cellules ciliées qui éliminent le mucus.",
+      "Il contient des cellules caliciformes sécrétrices de mucus.",
+      "Il repose sur une membrane basale épaisse.",
+      "Il peut subir une métaplasie sous l'effet du tabac."
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Il contient des cellules ciliées et caliciformes, et peut subir une métaplasie. C'est un épithélium cilié pseudostratifié (cylindrique), non pavimenteux.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concernant la muqueuse olfactive :",
+    "options": [
+      "Elle est située dans le vestibule nasal.",
+      "Les cellules olfactives sont des neurones bipolaires.",
+      "Les glandes de Bowman sécrètent un liquide séreux qui dissout les substances odorantes.",
+      "Elle contient des cellules de soutien (sustentaculaires).",
+      "L'axone des cellules olfactives est myélinisé."
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Les cellules olfactives sont bipolaires. Les glandes de Bowman dissolvent les odorants. Elle contient des cellules de soutien. Elle est située au toit des fosses nasales, pas dans le vestibule. L'axone est amyélinique.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le larynx :",
+    "options": [
+      "L'épiglotte possède un cartilage hyalin.",
+      "Les vraies cordes vocales sont recouvertes d'un épithélium malpighien non kératinisé.",
+      "Les fausses cordes vocales possèdent des glandes mixtes dans leur chorion.",
+      "Le muscle vocal permet de modifier la tension des cordes vocales.",
+      "La région sous-glottique est tapissée d'un épithélium respiratoire."
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Les vraies cordes ont un épithélium malpighien. Les fausses cordes ont des glandes mixtes. La région sous-glottique a un épithélium respiratoire. L'épiglotte est riche en fibres élastiques (cartilage élastique), le cartilage hyalin est caractéristique de la trachée.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La trachée :",
+    "options": [
+      "Est maintenue ouverte par des anneaux de cartilage hyalin complets (fermés).",
+      "Possède un muscle trachéal lisse qui relie les bords postérieurs des anneaux.",
+      "Contient des glandes séro-muqueuses dans sa sous-muqueuse.",
+      "Est tapissée d'un épithélium cubique simple.",
+      "Se divise au niveau de la carène."
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Le muscle trachéal relie les anneaux. Elle contient des glandes séro-muqueuses. Elle se divise à la carène. Les anneaux sont incomplets. L'épithélium est respiratoire.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Comment évolue la structure histologique de l'arbre bronchique ?",
+    "options": [
+      "Le cartilage disparaît complètement au niveau des bronchioles.",
+      "L'épaisseur du muscle de Reissen diminue proportionnellement au diamètre.",
+      "Les cellules caliciformes augmentent en nombre vers la périphérie.",
+      "L'épithélium devient progressivement prismatique simple puis cubique.",
+      "Les glandes disparaissent au niveau des bronchioles."
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "Le cartilage disparaît aux bronchioles. L'épithélium devient prismatique simple. Les glandes disparaissent aux bronchioles. Le muscle de Reissen devient proportionnellement plus épais, pas moins. Les caliciformes diminuent.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules de Clara :",
+    "options": [
+      "Sont des cellules ciliées.",
+      "Sont localisées principalement dans les bronchioles terminales.",
+      "Sécrètent du surfactant et la protéine CC16.",
+      "Possèdent une activité de détoxification via les cytochromes P450.",
+      "Jouent un rôle de cellules souches."
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "Elles sont dans les bronchioles terminales, sécrètent CC16 et surfactant, détoxifient via P450, et agissent comme cellules souches. Ce sont des cellules non ciliées.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Au niveau des alvéoles pulmonaires :",
+    "options": [
+      "Les pneumocytes de type I couvrent 95% de la surface alvéolaire.",
+      "Les pneumocytes de type II sécrètent le surfactant.",
+      "Les pneumocytes de type I sont des cellules cubiques volumineuses.",
+      "La barrière alvéolo-capillaire mesure plus de 10 µm d'épaisseur.",
+      "Les macrophages alvéolaires assurent la défense par phagocytose."
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "Les pneumocytes I couvrent 95% de la surface. Les pneumocytes II sécrètent le surfactant. Les macrophages phagocytent. Les pneumocytes I sont plats. La barrière est très fine (0,1-1,5 µm).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La barrière alvéolo-capillaire comprend :",
+    "options": [
+      "Le surfactant.",
+      "Le cytoplasme du pneumocyte I.",
+      "Des fibres musculaires lisses.",
+      "Les membranes basales fusionnées de l'épithélium et de l'endothélium.",
+      "L'endothélium capillaire continu."
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "La barrière comprend le surfactant, le pneumocyte I, les membranes basales fusionnées et l'endothélium. Elle ne contient pas de muscle lisse.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concernant l'épiderme :",
+    "options": [
+      "C'est un épithélium pavimenteux stratifié kératinisé.",
+      "Il est vascularisé par des capillaires traversant la membrane basale.",
+      "Les kératinocytes représentent 90% de la population cellulaire.",
+      "La couche basale contient les cellules souches.",
+      "La couche cornée est constituée de cellules anucléées."
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explanation": "C'est un épithélium pavimenteux stratifié kératinisé, composé à 90% de kératinocytes. La couche basale contient les cellules mitotiques. La couche cornée a des cellules sans noyau. Il n'est pas vascularisé.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules non-kératinocytaires de l'épiderme :",
+    "options": [
+      "Les mélanocytes sont situés dans la couche cornée.",
+      "Les cellules de Langerhans ont un rôle de présentation d'antigène.",
+      "Les cellules de Merkel sont des mécanorécepteurs.",
+      "Les mélanocytes synthétisent la mélanine dans des mélanosomes.",
+      "Les cellules de Langerhans contiennent des granules de Birbeck."
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "Les cellules de Langerhans présentent l'antigène et contiennent des granules de Birbeck. Les cellules de Merkel sont des mécanorécepteurs. Les mélanocytes synthétisent la mélanine. Les mélanocytes sont basaux, non cornés.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le derme et l'hypoderme :",
+    "options": [
+      "Le derme papillaire est riche en tissu adipeux.",
+      "Le derme réticulaire est constitué de tissu conjonctif dense.",
+      "L'hypoderme assure une fonction d'isolation thermique.",
+      "Les corpuscules de Pacini sont sensibles aux vibrations.",
+      "Le derme ne contient pas de vaisseaux sanguins."
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Le derme réticulaire est dense. L'hypoderme isole. Les corpuscules de Pacini détectent les vibrations. Le derme est vascularisé. L'hypoderme contient le tissu adipeux, pas le derme papillaire.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concernant les glandes sudoripares :",
+    "options": [
+      "Les glandes écrines participent à la thermorégulation.",
+      "Les glandes apocrines s'ouvrent directement à la surface de la peau (pores).",
+      "Les glandes apocrines sont localisées au niveau axillaire et périnéal.",
+      "Leur mode de sécrétion est holocrine.",
+      "Les glandes écrines sont innervées par le système sympathique."
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "Les glandes écrines assurent la thermorégulation et sont innervées par le sympathique. Les apocrines sont axillaires. Le mode est mérocrine pour les deux. Les écrines s'ouvrent aux pores, les apocrines sont associées aux follicules.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le follicule pilo-sébacé :",
+    "options": [
+      "La glande sébacée a une sécrétion holocrine.",
+      "Le muscle arrecteur du poil est un muscle strié.",
+      "La papille dermique assure la nutrition du poil.",
+      "La tige du poil est constituée de cellules vivantes nucléées.",
+      "Le sébum a un rôle antibactérien et imperméabilisant."
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "La glande sébacée est holocrine. La papille dermique assure la nutrition. Le sébum protège. Le muscle arrecteur est lisse. La tige est kératinisée (morte).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Développement et structure de la glande mammaire :",
+    "options": [
+      "Elle dérive des crêtes mammaires ectoblastiques.",
+      "Le tissu conjonctif intralobulaire (palléal) est dense et riche en collagène.",
+      "Les canaux galactophores sont tapissés d'un épithélium simple pavimenteux.",
+      "L'unité fonctionnelle est le lobule mammaire.",
+      "Les plasmocytes produisant des IgA augmentent en fin de grossesse."
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "Elle dérive des crêtes mammaires. L'unité est le lobule. Les plasmocytes IgA augmentent. Le tissu palléal est lâche. Les canaux galactophores sont en épithélium cubique double.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La lactation :",
+    "options": [
+      "La prolactine stimule la synthèse du lait.",
+      "L'ocytocine stimule l'éjection du lait via les cellules myoépithéliales.",
+      "La sécrétion des lipides se fait par mode mérocrine.",
+      "La sécrétion des protéines (caséines) se fait par mode apocrine.",
+      "Le colostrum est sécrété avant la montée laiteuse proprement dite."
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "La prolactine stimule la synthèse. L'ocytocine stimule l'éjection. Le colostrum est sécrété en fin de grossesse. Les lipides sont sécrétés par mode apocrine.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concernant l'hypophyse :",
+    "options": [
+      "L'adénohypophyse dérive de l'ectoderme buccal (poche de Rathke).",
+      "La neurohypophyse contient les corps cellulaires des neurones sécréteurs.",
+      "Le système porte hypophysaire transporte les hormones hypothalamiques vers l'adénohypophyse.",
+      "La post-hypophyse sécrète l'ADH et l'ocytocine.",
+      "Les cellules chromophobes sont les plus actives hormonalement."
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "L'adénohypophyse dérive de la poche de Rathke. Le système porte transporte les hormones vers l'adénohypophyse. La post-hypophyse libère ADH et ocytocine. Les corps cellulaires sont dans l'hypothalamus. Les chromophobes sont sans activité hormonale majeure.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules de l'adénohypophyse :",
+    "options": [
+      "Les cellules somatotropes sont acidophiles et sécrètent la GH.",
+      "Les cellules gonadotropes sont basophiles et sécrètent FSH et LH.",
+      "Les cellules lactotropes sont basophiles.",
+      "Les cellules corticotropes sécrètent l'ACTH.",
+      "Les cellules thyréotropes stimulent la thyroïde."
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "Les somatotropes sont acidophiles (GH). Les gonadotropes sont basophiles (FSH, LH). Les corticotropes sécrètent ACTH. Les thyréotropes (TSH) stimulent la thyroïde. Les lactotropes sont acidophiles.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La glande thyroïde :",
+    "options": [
+      "L'unité fonctionnelle est le follicule thyroïdien.",
+      "Les thyréocytes sécrètent la calcitonine.",
+      "Le colloïde contient la thyroglobuline.",
+      "Les cellules parafolliculaires (cellules C) sont situées à l'intérieur du colloïde.",
+      "Les hormones T3/T4 augmentent le métabolisme basal."
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "L'unité est le follicule. Le colloïde contient la thyroglobuline. T3/T4 augmentent le métabolisme. La calcitonine est sécrétée par les cellules C parafolliculaires, situées entre les follicules.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les glandes parathyroïdes :",
+    "options": [
+      "Sécrètent la parathormone (PTH) qui est hypocalcémiante.",
+      "Les cellules principales sont les plus nombreuses et sécrètent la PTH.",
+      "Les cellules oxyphiles sont riches en mitochondries.",
+      "La PTH stimule l'activité des ostéoclastes.",
+      "Elles sont généralement au nombre de deux."
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Les cellules principales sécrètent la PTH. Les oxyphiles sont riches en mitochondries. La PTH stimule la résorption osseuse (ostéoclastes). La PTH est hypercalcémiante. Elles sont généralement 4.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La corticosurrénale :",
+    "options": [
+      "La zone glomérulée produit l'aldostérone.",
+      "La zone fasciculée est la plus mince des trois zones.",
+      "La zone réticulée produit des androgènes faibles.",
+      "Le cortisol est un minéralocorticoïde.",
+      "Les spongiocytes sont caractéristiques de la zone fasciculée."
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "La zone glomérulée produit l'aldostérone. La réticulée produit des androgènes. Les spongiocytes sont dans la fasciculée. La fasciculée est la plus épaisse. Le cortisol est un glucocorticoïde.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La médullosurrénale :",
+    "options": [
+      "Est d'origine mésodermique.",
+      "Contient des cellules chromaffines.",
+      "Sécrète l'adrénaline et la noradrénaline.",
+      "Est régulée par le système nerveux parasympathique.",
+      "Possède de larges veines de drainage."
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Elle contient des cellules chromaffines, sécrète adrénaline/noradrénaline, et a de larges veines. Elle est d'origine neuroectodermique et régulée par le sympathique.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le pancréas endocrine :",
+    "options": [
+      "Les îlots de Langerhans représentent 80% du parenchyme pancréatique.",
+      "Les cellules Beta sécrètent l'insuline.",
+      "Les cellules Alpha sécrètent le glucagon.",
+      "L'insuline a un effet hyperglycémiant.",
+      "La somatostatine est sécrétée par les cellules Delta."
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Les cellules Beta sécrètent l'insuline. Les Alpha sécrètent le glucagon. Les Delta la somatostatine. Les îlots ne représentent que 2%. L'insuline est hypoglycémiante.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le thymus :",
+    "options": [
+      "Est le site de différenciation des lymphocytes B.",
+      "Sa trame est constituée de cellules épithélio-réticulaires.",
+      "Les corpuscules de Hassall sont situés dans le cortex.",
+      "Il involue après la puberté.",
+      "La barrière hémato-thymique protège les thymocytes corticaux."
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "Sa trame est épithéliale. Il involue après la puberté. La barrière hémato-thymique protège les thymocytes. C'est le site des lymphocytes T. Les corpuscules de Hassall sont médullaires.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les lymphocytes T dans le thymus :",
+    "options": [
+      "Subissent une sélection positive et négative.",
+      "Les thymocytes double positifs expriment CD4 et CD8.",
+      "La sélection positive se fait par reconnaissance du MHC du soi.",
+      "Les macrophages éliminent les cellules apoptotiques.",
+      "Les lymphocytes matures sortent par les lymphatiques efférents."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Ils subissent une sélection positive (MHC soi) et négative. Les doubles positifs sont CD4+CD8+. Les macrophages éliminent les cellules. La sortie se fait par voie sanguine (veinules post-capillaires).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le ganglion lymphatique :",
+    "options": [
+      "Possède plusieurs vaisseaux lymphatiques efférents et un seul afférent.",
+      "La zone paracorticale est riche en lymphocytes T.",
+      "Les follicules lymphoïdes (zone B) sont situés dans la médullaire.",
+      "La lymphe circule du sinus marginal vers les sinus médullaires.",
+      "Les veinules post-capillaires à endothélium haut (HEV) permettent l'entrée des lymphocytes."
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "Le paracortex est riche en lymphocytes T. La lymphe circule du sinus marginal vers la médullaire. Les HEV permettent l'entrée des lymphocytes. Il y a plusieurs afférents et un seul efférent. Les follicules sont dans le cortex externe.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La rate :",
+    "options": [
+      "Filtre la lymphe.",
+      "La pulpe blanche est constituée de tissu lymphoïde périartériolaire.",
+      "La pulpe rouge contient les cordons de Billroth et les sinusoïdes.",
+      "La zone marginale contient des cellules B spécialisées.",
+      "La circulation fermée implique une ouverture directe dans les cordons de Billroth."
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "La pulpe blanche est périartériolaire. La pulpe rouge contient cordons de Billroth et sinusoïdes. La zone marginale a des cellules B. La rate filtre le sang. La circulation fermée est une continuité directe, l'ouverte se fait dans les cordons.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le MALT (Tissu lymphoïde associé aux muqueuses) :",
+    "options": [
+      "Les plaques de Peyer sont localisées dans le duodénum.",
+      "Les cellules M assurent le transport des antigènes vers le tissu lymphoïde.",
+      "L'appendice est un organe lymphoïde important chez l'enfant.",
+      "Les plasmocytes du MALT sécrètent principalement des IgG.",
+      "Les amygdales possèdent des cryptes profondes."
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Les cellules M transportent les antigènes. L'appendice est important chez l'enfant. Les amygdales ont des cryptes. Les plaques de Peyer sont iléales. Le MALT sécrète des IgA.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'organisation générale du rein :",
+    "options": [
+      "Le lobe rénal comprend une pyramide de Malpighi et le cortex adjacent.",
+      "Les néphrons juxtamedullaires ont des anses de Henle courtes.",
+      "Les pyramides de Ferrein sont situées dans la médullaire.",
+      "L'urine est collectée par les calices au niveau de la papille.",
+      "L'artère arquée (arciforme) chemine à la jonction cortico-médullaire."
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "Le lobe comprend la pyramide et le cortex adjacent. L'urine est collectée à la papille. L'artère arciforme est entre interlobaire et interlobulaire (à la jonction). Les néphrons juxtamédullaires ont des anses longues. Les pyramides de Ferrein sont des irradiations corticales.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le corpuscule rénal (de Malpighi) :",
+    "options": [
+      "Le feuillet viscéral de la capsule de Bowman est formé de podocytes.",
+      "Les cellules mésangiales ont un rôle de phagocytose et de soutien.",
+      "L'endothélium des capillaires glomérulaires est continu et sans pores.",
+      "La membrane basale glomérulaire est très fine (< 50 nm).",
+      "Le pôle urinaire communique avec le tube contourné proximal."
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "Le feuillet viscéral est formé de podocytes. Les cellules mésangiales assurent phagocytose et soutien. Le pôle urinaire mène au tube proximal. L'endothélium est fenêtré. La membrane basale est épaisse (240-340 nm).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La barrière de filtration glomérulaire :",
+    "options": [
+      "Elle laisse passer l'albumine librement.",
+      "Elle est chargée positivement pour attirer les protéines.",
+      "Elle comprend les fentes de filtration entre les pédicelles.",
+      "Elle retient les molécules de poids moléculaire > 70 kDa.",
+      "La membrane basale est composée de collagène type IV."
+    ],
+    "correct": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "Elle comprend les fentes de filtration, retient les molécules > 70kDa, et contient du collagène IV. Elle ne laisse pas passer l'albumine et est chargée négativement.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le tube contourné proximal (TCP) :",
+    "options": [
+      "Possède une bordure en brosse apicale très développée.",
+      "Est le siège de la réabsorption de 100% du glucose.",
+      "Ses cellules sont pauvres en mitochondries.",
+      "Réabsorbe environ 65% de l'eau et du sodium.",
+      "Son épithélium est pavimenteux simple."
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Il a une bordure en brosse, réabsorbe 100% du glucose et 65% de l'eau/Na. Il est riche en mitochondries et son épithélium est cubique.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'anse de Henle et le tube distal :",
+    "options": [
+      "La branche descendante de l'anse de Henle est perméable à l'eau.",
+      "La branche ascendante large transporte activement le NaCl.",
+      "Le système multiplicateur à contre-courant crée un gradient osmotique médullaire.",
+      "Le tube distal possède une bordure en brosse plus dense que le proximal.",
+      "La macula densa se trouve au niveau du tube distal."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "La descendante est perméable à l'eau. L'ascendante transporte activement le NaCl. Le contre-courant crée un gradient. La macula densa est dans le tube distal. Le tube distal n'a pas de bordure en brosse.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'appareil juxtaglomérulaire :",
+    "options": [
+      "Les cellules juxtaglomérulaires sécrètent la rénine.",
+      "La macula densa détecte la concentration en NaCl du filtrat.",
+      "L'aldostérone est sécrétée par cet appareil.",
+      "La rénine transforme l'angiotensinogène en angiotensine I.",
+      "Il intervient dans la régulation de la pression artérielle."
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "Les cellules juxtaglomérulaires libèrent la rénine. La macula densa détecte le NaCl. La rénine agit sur l'angiotensinogène. Il régule la pression. L'aldostérone est sécrétée par la surrénale.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les voies urinaires :",
+    "options": [
+      "L'urothélium est un épithélium de transition.",
+      "Les cellules superficielles de la vessie sont appelées cellules en parapluie (ou à cuticule).",
+      "L'uretère ne possède pas de couche musculaire.",
+      "La vessie possède un muscle puissant appelé détrusor.",
+      "L'urètre masculin possède une portion prostatique."
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "L'urothélium est transitionnel. Les cellules superficielles ont une cuticule. Le détrusor est le muscle vésical. L'urètre masculin a une portion prostatique. L'uretère a une musculeuse très développée.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le lobule hépatique classique :",
+    "options": [
+      "Est centré par l'espace porte.",
+      "Est centré par la veine centrolobulaire.",
+      "Les espaces portes contiennent une branche de la veine porte, de l'artère hépatique et un canal biliaire.",
+      "Le sang circule de la périphérie vers le centre.",
+      "La bile circule du centre vers la périphérie."
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "Le lobule est centré par la veine centrolobulaire. Les espaces portes contiennent la triade. Le sang va vers le centre. La bile va vers la périphérie.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules hépatiques :",
+    "options": [
+      "Les hépatocytes sont disposés en travées de Remak.",
+      "Les cellules de Kupffer sont des macrophages situés dans la lumière sinusoïde.",
+      "Les cellules de Ito stockent la vitamine A dans l'espace de Disse.",
+      "Les hépatocytes ne possèdent pas de réticulum endoplasmique.",
+      "Les canalicules biliaires n'ont pas de paroi propre."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "Les hépatocytes forment les travées de Remak. Les Kupffer sont des macrophages. Les Ito stockent la vitamine A. Les canalicules n'ont pas de paroi propre. Les hépatocytes ont un RE abondant.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le pancréas exocrine :",
+    "options": [
+      "Est une glande tubuleuse simple.",
+      "Est constitué d'acini séreux.",
+      "Sécrète des enzymes digestives et du bicarbonate.",
+      "Le canal de Wirsung est le canal excréteur principal.",
+      "Ne contient pas de cellules centro-acineuses."
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "C'est une glande séreuse pure sécrétant enzymes et bicarbonate. Le Wirsung est principal. C'est une glande acineuse composée, pas tubuleuse simple.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concernant les papilles linguales, lesquelles ne contiennent pas de bourgeons du goût ?",
+    "options": [
+      "Papilles fongiformes",
+      "Papilles filiformes",
+      "Papilles caliciformes",
+      "Papilles foliées",
+      "Aucune de ces réponses"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Les papilles filiformes ont une fonction mécanique et de friction, et ne contiennent pas de bourgeons du goût selon le texte.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Dans l'estomac, le facteur intrinsèque nécessaire à l'absorption de la vitamine B12 est sécrété par :",
+    "options": [
+      "Les cellules principales",
+      "Les cellules à mucus du collet",
+      "Les cellules pariétales (bordantes)",
+      "Les cellules endocrines",
+      "Les cellules souches"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Les cellules bordantes (ou pariétales) sécrètent le facteur intrinsèque et l'HCl.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle est la principale caractéristique distinctive de l'iléon par rapport aux autres segments de l'intestin grêle ?",
+    "options": [
+      "La présence de glandes de Brunner",
+      "L'absence de villosités",
+      "La présence de Plaques de Peyer abondantes",
+      "L'absence de cellules caliciformes",
+      "Des villosités larges et foliées"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "L'iléon se caractérise par la présence abondante de Plaques de Peyer (formations lymphoïdes).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le plexus nerveux situé entre la couche musculaire circulaire interne et la longitudinale externe est :",
+    "options": [
+      "Le plexus de Meissner",
+      "Le plexus sous-muqueux",
+      "Le plexus d'Auerbach (myentérique)",
+      "Le plexus cœliaque",
+      "Le plexus brachial"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Le plexus myentérique d'Auerbach est situé entre les couches musculaires circulaire interne et longitudinale externe.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les cellules de Paneth :",
+    "options": [
+      "Sont situées au sommet des villosités.",
+      "Produisent du mucus.",
+      "Contiennent des grains de sécrétion riches en lysozyme.",
+      "Sont absentes dans l'intestin grêle.",
+      "Jouent un rôle dans l'absorption des lipides."
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Les cellules de Paneth contiennent des grains de sécrétion avec du lysozyme (défense) et sont au fond des cryptes.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La muqueuse olfactive se distingue par la présence :",
+    "options": [
+      "De cellules caliciformes abondantes.",
+      "De glandes séreuses de Bowman.",
+      "D'un épithélium pavimenteux stratifié.",
+      "De cellules ciliées motiles pour le transport du mucus.",
+      "De cartilage hyalin."
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "La muqueuse olfactive contient les glandes de Bowman séreuses.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Dans les bronchioles terminales, les cellules de Clara remplacent progressivement :",
+    "options": [
+      "Les cellules basales",
+      "Les cellules ciliées",
+      "Les cellules caliciformes",
+      "Les pneumocytes",
+      "Les chondrocytes"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Dans les bronchioles terminales, les cellules caliciformes deviennent absentes et les cellules de Clara dominantes.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le surfactant pulmonaire est sécrété par :",
+    "options": [
+      "Les pneumocytes de type I",
+      "Les pneumocytes de type II",
+      "Les macrophages alvéolaires",
+      "Les cellules endothéliales",
+      "Les fibroblastes septaux"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Les pneumocytes de type II forment le surfactant pulmonaire via les corps multilamellaires.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle couche de l'épiderme contient les cellules souches (kératinocytes mitotiques) ?",
+    "options": [
+      "Stratum corneum",
+      "Stratum lucidum",
+      "Stratum granulosum",
+      "Stratum spinosum",
+      "Stratum basale"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "La couche basale (stratum basale) contient les kératinocytes basaux mitotiques.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les granules de Birbeck sont des marqueurs ultrastructuraux spécifiques de :",
+    "options": [
+      "Mélanocytes",
+      "Cellules de Merkel",
+      "Cellules de Langerhans",
+      "Kératinocytes",
+      "Fibroblastes"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Les granules de Birbeck sont des organites spécifiques des cellules de Langerhans.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La sécrétion holocrine est caractéristique des :",
+    "options": [
+      "Glandes sudoripares écrines",
+      "Glandes sudoripares apocrines",
+      "Glandes sébacées",
+      "Glandes mammaires (lipides)",
+      "Glandes salivaires"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Les glandes sébacées sont de type holocrine (la cellule entière devient sécrétion).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'hormone antidiurétique (ADH) agit principalement sur :",
+    "options": [
+      "Le tube contourné proximal",
+      "L'anse de Henle descendante",
+      "L'anse de Henle ascendante",
+      "Le tube collecteur",
+      "Le glomérule"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "L'ADH agit sur le tube collecteur et le canal collecteur pour les rendre perméables à l'eau.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les podocytes sont des cellules localisées dans :",
+    "options": [
+      "Le tube proximal",
+      "La macula densa",
+      "Le feuillet viscéral de la capsule de Bowman",
+      "Le feuillet pariétal de la capsule de Bowman",
+      "L'anse de Henle"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Les podocytes forment le feuillet viscéral de la capsule de Bowman.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La zone fasciculée de la corticosurrénale sécrète principalement :",
+    "options": [
+      "L'aldostérone",
+      "Le cortisol (glucocorticoïdes)",
+      "L'adrénaline",
+      "Les androgènes",
+      "La rénine"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "La couche fasciculaire sécrète les glucocorticoïdes dont le cortisol.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les corpuscules de Hassall sont des structures caractéristiques de :",
+    "options": [
+      "La rate",
+      "Les ganglions lymphatiques",
+      "La médullaire thymique",
+      "Le cortex thymique",
+      "Les plaques de Peyer"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Les corpuscules de Hassall sont localisés dans la médullaire thymique.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Dans le foie, l'espace situé entre l'endothélium sinusoïdal et les hépatocytes est appelé :",
+    "options": [
+      "Espace porte",
+      "Espace de Disse",
+      "Canal de Hering",
+      "Canal de Wirsung",
+      "Sinus marginal"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "L'espace de Disse est situé entre les hépatocytes et les cellules endothéliales.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quelle cellule hépatique est responsable du stockage de la vitamine A ?",
+    "options": [
+      "Hépatocyte",
+      "Cellule de Kupffer",
+      "Cellule de Ito (cellule stellaire)",
+      "Cellule endothéliale",
+      "Cholangiocyte"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Les cellules de Ito (ou cellules à stockage de vitamine A) stockent la vitamine A.",
+    "media": null
+  }
+]
