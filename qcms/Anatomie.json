@@ -1,0 +1,1360 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "1. A propos des fibres de la sensibilité proprioceptive consciente, indiquez la réponse correcte?",
+    "options": [
+      "elles relaient dans la moelle et empruntent les cordons postérieurs",
+      "elles décussent au niveau médullaire mais n'y font pas relais",
+      "elles ne décussent pas mais font relais au niveau médullaire",
+      "elles ne décussent pas et ne font pas relais au niveau médullaire",
+      "elles décussent et font relais au niveau médullaire"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "D (Elles ne décussent pas et ne font pas relais au niveau médullaire - elles montent directement dans les cordons postérieurs).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "2. Parmi les nerfs crâniens suivants, lequel (lesquelles) son origine apparente au niveau de la face antérieure du pont?",
+    "options": [
+      "nerf optique",
+      "nerf olfactif",
+      "nerf oculomoteur",
+      "nerf trochléaire",
+      "nerf trijumeau"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "E (nerf trijumeau).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "3. Le foramen ventriculaire médian du V4 (trou de Magendie) relie-t-il (1 seule réponse)?",
+    "options": [
+      "le 3° ventricule et la citerne opto-chiasmatique",
+      "le 3° ventricule et le ventricule latéral",
+      "le 3° ventricule et le 4° ventricule",
+      "le 4° ventricule et la citerne ponto cérébelleuse",
+      "le 4° ventricule et la citerne cérébello-médullaire (grande citerne)"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "E (le 4° ventricule et la citerne cérébello-médullaire).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "4. A laquelle des racines suivantes correspond le dermatome du pli de l'aine?",
+    "options": [
+      "T4",
+      "T6",
+      "T8",
+      "T10",
+      "T11"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "E (T11 - selon la clé fournie, bien que L1 soit classiquement admis).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "5. Laquelle des artères suivantes vascularise-t-elle la face latérale de chaque hémisphère cérébral?",
+    "options": [
+      "artère choroïdienne antérieure",
+      "artère cérébrale antérieure",
+      "artère cérébrale postérieure",
+      "artère communicante postérieure",
+      "artère cérébrale moyenne"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "E (artère cérébrale moyenne).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "6. Indiquez-la (les) structure(s) qui se trouve(nt) à l'étage sus-tentoriel?",
+    "options": [
+      "noyau dentelé",
+      "noyau caudé",
+      "noyau gracile",
+      "olive",
+      "uncus"
+    ],
+    "correct": [
+      1,
+      4
+    ],
+    "explanation": "BE (noyau caudé, uncus).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "7. Lequel des nerfs suivants assure la motricité de la face?",
+    "options": [
+      "nerf facial",
+      "nerf trijumeau",
+      "nerf glosso-pharyngien",
+      "hypoglosse",
+      "nerf vague"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A (nerf facial).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "8. Lequel des sinus veineux chemine dans la dure mère à la jonction de la faux du cerveau et du cervelet?",
+    "options": [
+      "sinus longitudinal supérieur",
+      "sinus longitudinal inférieur",
+      "sinus droit",
+      "sinus latéral",
+      "sinus caverneux"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "C (sinus droit).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "9. Lequel des nerfs suivants innerve-t-il les principaux muscles masticateurs?",
+    "options": [
+      "nerf facial",
+      "nerf trijumeau",
+      "nerf glosso-pharyngien",
+      "nerf hypoglosse",
+      "aucun de ces nerfs"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "B (nerf trijumeau).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "10. Concernant le tronc cérébral, donnez-la ou les propositions exactes:",
+    "options": [
+      "il dérive du rhombencéphale et du mésencéphale primitif",
+      "il se situe dans la fosse cérébrale moyenne",
+      "le nerf oculomoteur naît de la face postérieure du mésencéphale",
+      "il forme le plancher du 4ème ventricule",
+      "le pont est relié au cervelet par les pédicules cérébelleux supérieurs"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explanation": "AD (il dérive du rhombencéphale..., il forme le plancher du 4ème ventricule).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "11. Concernant les vaisseaux de la base du cerveau, donnez les propositions correctes?",
+    "options": [
+      "l'artère communicante antérieure relie les deux artères cérébrales postérieures",
+      "l'artère choroïdienne antérieure est une branche de l'artère basilaire",
+      "l'artère communicante postérieure relie l'artère carotide interne à l'homolatérale",
+      "l'artère cérébelleuse postéro-inférieure est une branche de l'artère basilaire",
+      "l'artère cérébrale postérieure et l'artère cérébelleuse supérieure forment un triangle vasculaire où glisse le 4"
+    ],
+    "correct": [
+      2,
+      3
+    ],
+    "explanation": "CD. Note: La proposition D est anatomiquement discutée (PICA vient souvent de la vertébrale), mais validée par la clé.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "12. Concernant les ventricules cérébraux, donnez-la ou les propositions exactes?",
+    "options": [
+      "le foramen ventriculaire latérale - trou de Monro - communique les ventricules latéraux et le 3ème ventricule",
+      "le carrefour ventriculaire contient souvent le plexus choroïde",
+      "l'épiphyse est située en arrière du 3ème ventricule",
+      "la lame sus optique limite en avant le 3ème ventricule",
+      "l'aqueduc du mésencéphale communique le 3ème et le 4ème ventricule"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "ABCDE (Toutes les propositions sont correctes).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "13. A quel niveau décussent les fibres du faisceau spino-thalamique (sensibilité thermo-algique)?",
+    "options": [
+      "capsule interne",
+      "mésencéphale",
+      "pont (protubérance)",
+      "bulbe (moelle allongée)",
+      "moelle"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "E (moelle).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "14. Concernant la moelle épinière, donnez-la ou les propositions exactes:",
+    "options": [
+      "elle comporte un renflement cervical et un renflement lombaire",
+      "son extrémité terminale ou cône se projette en S2",
+      "le cône est attaché en bas au sac dural par le filum terminal",
+      "la queue de cheval désigne l'ensemble des nerfs issus du cône dans leur trajet extra?",
+      "la moelle thoracique est très vascularisée"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "AC (elle comporte un renflement cervical..., le cône est attaché en bas au sac dural par le filum terminal).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "15. Laquelle des structures meningées suivantes sépare-t-elle la face inférieure des lobes occipitaux de la face supérieure du cervelet (CB)?",
+    "options": [
+      "sinus caverneux",
+      "faux du cerveau",
+      "tente du cervelet",
+      "ligament dentelé",
+      "faux du cervelet"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "C (tente du cervelet).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "16. A propos des fibres de la sensibilité proprioceptive consciente, indiquez la réponse correcte?",
+    "options": [
+      "Elles relaient dans la moelle et empruntent les cordons postérieurs",
+      "Elles décussent au niveau médullaire mais n'y font pas relais",
+      "Elles ne décussent pas mais font relais au niveau médullaire",
+      "Elles ne décussent pas et ne font pas relais au niveau médullaire",
+      "Elles décussent et font relais au niveau médullaire"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "D (Elles ne décussent pas et ne font pas relais au niveau médullaire).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "17. Parmi les structures suivantes, laquelle (lesquelles) réunit (réunissent) les deux hémisphères?",
+    "options": [
+      "corps calleux",
+      "trigone",
+      "commissure blanche moyenne",
+      "faisceau longitudinal médian",
+      "décussation du faisceau pyramidal"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "AB (corps calleux, trigone).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "18. L'Aqueduc du mésencéphale relie-t-il?",
+    "options": [
+      "Le 3ème ventricule et la citerne opto-chiasmatique",
+      "Le 3ème ventricule et le 4ème ventricule",
+      "Le 4ème ventricule et la citerne ponto-cérébelleuse",
+      "Le 4ème ventricule et la citerne cérébello-médullaire (grande citerne)",
+      "Les 4 premières propositions sont fausses"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "B (Le 3ème ventricule et le 4ème ventricule).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "19. A laquelle des racines suivantes correspond le dermatome du mamelon (S)?",
+    "options": [
+      "T4",
+      "T6",
+      "T8",
+      "T10",
+      "L1"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A (T4).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "20. Laquelle des artères suivantes vascularise-t-elle l'opercule rolandique (partie basse de la frontale ascendante)?",
+    "options": [
+      "artère choroïdienne antérieure",
+      "artère cérébrale antérieure",
+      "artère cérébrale postérieure",
+      "artère communicante postérieure",
+      "artère cérébrale moyenne"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "E (artère cérébrale moyenne).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "21. Parmi les nerfs crâniens suivants, lequel (lesquels) a (ont) son origine apparente au niveau de la face antérieure du mésencéphale (Cs)?",
+    "options": [
+      "nerf optique",
+      "nerf olfactif",
+      "nerf oculo-moteur commun (III)",
+      "nerf trochléaire",
+      "nerf trijumeau"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "C (nerf oculo-moteur commun III).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "22. Indiquez-la (les) structure(s) qui se trouve(nt) à l'étage sus-tentoriel?",
+    "options": [
+      "noyau dentelé",
+      "noyau caudé",
+      "noyau gracile",
+      "hippocampe",
+      "putamen"
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "BDE (noyau caudé, hippocampe, putamen).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "23. A quel niveau décussent les fibres du faisceau pyramidal (CS)?",
+    "options": [
+      "capsule interne",
+      "mésencéphale",
+      "pont (protubérance)",
+      "moelle",
+      "bulbe rachidien"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "E (bulbe rachidien).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "24. L'extrémité du cône terminal se situe chez l'adulte normal (CS)?",
+    "options": [
+      "Au niveau du corps de T11",
+      "Au niveau du disque L1-L2",
+      "Au niveau du corps de L3",
+      "Au niveau du disque L5-S1",
+      "Aucune de ces propositions"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "B (Au niveau du disque L1-L2).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "25. Laquelle des structures méningées suivantes sépare-t-elle la face médiale (interne) des hémisphères cérébraux?",
+    "options": [
+      "sinus caverneuse",
+      "tente du cerveau",
+      "tente du cervelet",
+      "ligament dentelé",
+      "faux du corvelet"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "B (tente du cerveau - Note: la terminologie correcte est Faux du cerveau, mais la clé valide B qui est probablement une erreur de texte pour 'faux du cerveau').",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "26. A propos des fibres de la sensibilité douloureuse et thermique, indiquez la réponse?",
+    "options": [
+      "elles relaient dans la moelle et empruntent les cordons postérieurs",
+      "elles décussent au niveau médullaire mais ne font pas relais",
+      "elles ne décussent pas mais font relais au niveau médullaire",
+      "elles ne décussent pas et ne font pas relais au niveau médullaire",
+      "elles décussent et font relais au niveau médullaire"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "E (elles décussent et font relais au niveau médullaire).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "27. Parmi les nerfs crâniens suivants, lequel (lesquels) a (ont) son origine apparente au niveau de la face postérieure du mésencéphale?",
+    "options": [
+      "nerf optique",
+      "nerf olfactif",
+      "nerf oculomoteur",
+      "nerf trochléaire",
+      "nerf trijumeau"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "D (nerf trochléaire).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "28. Le foramen ventriculaire latéral (trou de Monro) relie-t-il (1 seule réponse)?",
+    "options": [
+      "le 3ème ventricule et la citerne opto-chiasmatique",
+      "le 3ème ventricule et le ventricule latéral",
+      "le 3ème ventricule et le 4ème ventricule",
+      "le 4ème ventricule et la citerne ponto cérébelleuse",
+      "le 4ème ventricule et la citerne cérébello-médullaire (grande citerne)"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "B (le 3ème ventricule et le ventricule latéral).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "29. A laquelle des racines suivantes correspond le dermatome de l'ombilic?",
+    "options": [
+      "T4",
+      "T6",
+      "T8",
+      "T10",
+      "aucune de ces réponses"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "D (T10).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "30. Laquelle des artères suivantes vascularise-t-elle la face antéro-médiane des hémisphères cérébraux?",
+    "options": [
+      "artère choroïdienne antérieure",
+      "artère cérébrale antérieure",
+      "artère cérébrale postérieure",
+      "artère communicante postérieure",
+      "Aucune de ces artères"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "B (artère cérébrale antérieure).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "31. Indiquez-la (les) structure(s) qui se trouve(nt) à l'étage sous-tentoriel?",
+    "options": [
+      "noyau dentelé",
+      "noyau caudé",
+      "noyau gracile",
+      "olive",
+      "floculus"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explanation": "ACDE (noyau dentelé, noyau gracile, olive, floculus).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "32. Lequel des nerfs suivants innerve-t-il la sensibilité de la face?",
+    "options": [
+      "nerf facial",
+      "nerf trijumeau",
+      "nerf glosso-pharyngien",
+      "nerf hypoglosse",
+      "aucun de ces nerfs"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "B (nerf trijumeau).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "33. concernant la moelle épinière, donnez-la ou les propositions exactes:",
+    "options": [
+      "elle comporte un renflement cervical et un ronflement lombaire",
+      "son extrémité terminale ou cône se projette en L5-S1",
+      "le cône est attaché en bas au sac dural par le ligament dentelé",
+      "la queue de cheval désigne l'ensemble des nerfs dans leur trajet extra?",
+      "la moelle thoracique est vascularisée par de nombreuses artères"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A (elle comporte un renflement cervical et un renflement lombaire).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "34. Concernant la tente du cervelet, donnez-la ou les propositions exactes:",
+    "options": [
+      "elle sépare les deux hémisphères cérébelleux",
+      "elle est perforée d'un orifice, le foramen magnum",
+      "il s'agit d'une cloison arachnoïdienne",
+      "il continue dans son épaisseur le sinus droit",
+      "elle sépare la face inférieure des deux lobes occipitaux de la supérieure"
+    ],
+    "correct": [
+      3,
+      4
+    ],
+    "explanation": "DE (il continue dans son épaisseur le sinus droit, elle sépare la face inférieure des deux lobes occipitaux).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "35. Concernant le tronc cérébral, donnez-la ou les propositions exactes:",
+    "options": [
+      "il dérive du rhombencéphale et du mésencéphale primitif",
+      "il se situe dans la fosse cérébrale postérieure",
+      "le nerf trochléaire naît de la face antérieure du mésencéphale",
+      "il forme le toit du 4ème ventricule",
+      "le pont est relié au cervelet par les pédicules cérébelleuse moyens"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "ABE (il dérive du rhombencéphale..., il se situe dans la fosse cérébrale postérieure, le pont est relié au cervelet...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "36. Concernant les vaisseaux de la base du cerveau, donnez-la ou les propositions exactes:",
+    "options": [
+      "l'artère communicante antérieure relie l'artère carotide interne à l'artère cérébrale postérieure homolatérale",
+      "l'artère choroïdienne antérieure est une branche de l'artère basilaire",
+      "l'artère communicante postérieure relie l'artère carotide interne à l'artère?",
+      "l'artère cérébelleuse postéro-inférieure est une branche de l'artère?"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "D (Selon la clé. Cependant, le texte de D est incomplet).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "37. Concernant les commissures blanches cérébrales, donnez-la ou les réponses exacte:",
+    "options": [
+      "le corps calleux forme le toit du V3",
+      "la commissure blanche (antérieure) relie les 2 poles temporal",
+      "le fornix (ou trigone) forme avec le noyau caudé le foramen ventriculaire",
+      "le corps du fornix est relié au corps calleux par le septum pellucidum",
+      "le corps calleux réunit les deux hémisphères cérébelleux"
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "explanation": "BD (la commissure blanche relie les 2 poles temporal, le corps du fornix est relié au corps calleux par le septum pellucidum).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "38. Concernant les ventricules cérébraux, donnez-la ou les proposition(s) exacte(s):",
+    "options": [
+      "le foramen ventriculaire médian (trou de Magendie) fait communique les ventricules latéraux et le 3ème ventricule",
+      "le carrefour ventriculaire contient souvent le plexus choroïde",
+      "l'épiphyse est située en arrière du 4ème ventricule",
+      "la lame sus-optique limite en avant le 3ème ventricule",
+      "l'aqueduc du mésencéphale fait communiquer le 4ème ventricule et la citerne"
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "explanation": "BD (le carrefour ventriculaire contient souvent le plexus choroïde, la lame sus-optique limite en avant le 3ème ventricule).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "39. A quel niveau décussent les fibres du faisceau lemniscale (sensibilité proprioceptive consciente)?",
+    "options": [
+      "capsule interne",
+      "mésencéphale",
+      "pont (protubérance)",
+      "bulbe (moelle allongée)",
+      "moelle"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "D (bulbe).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "1. la cavité buccale:",
+    "options": [
+      "c'est une cavité irrégulière, représente le segment initiale des voies aériennes",
+      "elle s'ouvre en arrière dans l'isthme de gosier dans l'hypopharynx",
+      "le vestibule oral est situé en dehors des arcades dentaires",
+      "le vestibule et la cavité buccale proprement ne communiquent pas",
+      "le vestibule oral est occupé par le larynx"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "C (le vestibule oral est situé en dehors des arcades dentaires).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "2. Les fosses nasales:",
+    "options": [
+      "sa paroi inférieure est fragile",
+      "sa paroi inférieure est constituée en avant par le maxillaire en arrière par l'éthmoïde",
+      "sa paroi supérieure est le siège de l'olfaction",
+      "sa paroi médiale est constituée en avant par le vomer",
+      "sa paroi médiale est résistante"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "C (sa paroi supérieure est le siège de l'olfaction).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "3. La paroi latérale des fosses nasales:",
+    "options": [
+      "Son étage supérieur répond latéralement à la cavité buccale",
+      "Son étage inférieur répond au sinus maxillaire en arrière",
+      "Le cornet inférieur fait partie de l'éthmoïde",
+      "Dans le meat supérieur s'ouvre les cellules éthmoidales",
+      "Dans le meat inférieur s'ouvre le sinus maxillaire"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "D (Dans le meat supérieur s'ouvre les cellules éthmoidales).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "4. Les choanes sont limitées:",
+    "options": [
+      "En dedans par le sphénoïde",
+      "En dehors par le vomer",
+      "En haut par le maxillaire",
+      "En bas par la lame horizontale du palatin",
+      "A gauche par le cornet inférieur"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "D (En bas par la lame horizontale du palatin).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "5. Les sinus para nasaux:",
+    "options": [
+      "Les cellules ethmoidales s'ouvrent dans le meat supérieur",
+      "Le sinus frontal peut être absent",
+      "La paroi supérieure du sinus maxillaire répond à la région jugale",
+      "La base du sinus maxillaire est latérale",
+      "Le sinus maxillaire s'ouvre dans le méat moyen"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "ABE (Les cellules ethmoidales s'ouvrent dans le meat supérieur, Le sinus frontal peut être absent, Le sinus maxillaire s'ouvre dans le méat moyen).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "6. Les sinus para nasaux?",
+    "options": [
+      "Le sinus frontal s'ouvre dans le meat supérieur",
+      "Les sinus de la face sont pairs mais asymétriques",
+      "Le sinus maxillaire est creusé dans le corps du mandibule",
+      "La paroi supérieure du sinus maxillaire répond à l'orbite",
+      "Les sinus sphénoïdaux répondent à l'hypophyse et le chiasma optique"
+    ],
+    "correct": [
+      3,
+      4
+    ],
+    "explanation": "DE (La paroi supérieure du sinus maxillaire répond à l'orbite, Les sinus sphénoïdaux répondent à l'hypophyse...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "7. La cavité buccale:",
+    "options": [
+      "Le palais osseux est constitué par le maxillaire et l'os lacrymal",
+      "Le palais mou est une cloison musculo-aponevrotique qui prolonge en avant le palais osseux",
+      "Le plancher de la bouche sépare la cavité buccale des fosses nasales",
+      "Le plancher de la bouche contient la glande sublinguale",
+      "Le plancher de la bouche donne insertion à la langue"
+    ],
+    "correct": [
+      3,
+      4
+    ],
+    "explanation": "DE (Le plancher de la bouche contient la glande sublinguale, Le plancher de la bouche donne insertion à la langue).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "8. La langue:",
+    "options": [
+      "C'est un organe musculaire et muqueux siège du goût",
+      "Ses 2/3 antérieures sont le siège des papilles linguales",
+      "Son 1/3 postérieur s'appelle partie orale",
+      "Tous les muscles de la langue sont innervés par le nerf hypoglosse",
+      "Sa vascularisation est assurée par l'artère linguale branche de la thyroidienne supérieure"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "AB (C'est un organe musculaire..., Ses 2/3 antérieures sont le siège des papilles...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "9. L'innervation de la langue:",
+    "options": [
+      "Le muscle glosso-pharyngien est innervé par le (XII)",
+      "L'innervation sensitive des 2/3 antérieures de la langue est assurée par le nerf mandibulaire (V3)",
+      "L'innervation sensitive du 1/3 postérieur de la langue est assurée par le nerf glosso-pharyngien (IX)",
+      "L'innervation sensorielle des 2/3 antérieures de la langue est assurée par le VII bis",
+      "L'innervation sensorielle du 1/3 postérieur de la langue est assurée par le vague (X)"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "BCD (V3 pour sensibilité 2/3 ant, IX pour 1/3 post, VII bis pour sensoriel 2/3 ant).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "10. L'orbite:",
+    "options": [
+      "Elle a une forme pyramidale à base postérieure",
+      "Son grand axe est oblique en dehors",
+      "Son sommet répond au trou optique",
+      "Sa paroi supérieure est formée uniquement par le frontal",
+      "Sa paroi supérieure est épaisse répondant à la fosse cranienne antérieure"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "BC (Son grand axe est oblique en dehors, Son sommet répond au trou optique).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "11. La cavité orbitaire:",
+    "options": [
+      "Sa paroi inférieure répond au sinus maxillaire",
+      "Sa paroi latérale est très mince et fragile",
+      "Sa paroi médiale est formée uniquement par l'éthmoïde",
+      "Sa paroi latérale est formée par la grande aile de la sphénoïde dans ses 2/3 postérieurs",
+      "Sa paroi médiale est solide et répond à la cavité nasale"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explanation": "AD (Sa paroi inférieure répond au sinus maxillaire, Sa paroi latérale est formée par la grande aile...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "12. Les fissures orbitaires:",
+    "options": [
+      "La fissure orbitaire supérieure est creusée entre l'éthmoïde et la petite aile de la sphénoïde",
+      "La fissure orbitaire supérieure livre passage à tous les éléments vasculo-nerveux de l'orbite",
+      "La fissure orbitaire supérieure s'appelle fente sphénoïdale",
+      "La fissure orbitaire inférieure est creusée en plein os sphénoïdal",
+      "La fissure orbitaire inférieure fait communiquer l'orbite avec la fosse infra-temporale"
+    ],
+    "correct": [
+      2,
+      4
+    ],
+    "explanation": "CE (La fissure orbitaire supérieure s'appelle fente sphénoïdale, La fissure orbitaire inférieure fait communiquer...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "13. Les paupières:",
+    "options": [
+      "Ce sont des rideaux musculo-membraneux",
+      "Les tarses sont la portion orbitaire des paupières",
+      "Leurs faces antérieures sont cutanées recouvrent les tarses",
+      "Leurs faces postérieures sont recouvertes par la conjonctivo palpébrale",
+      "Elles sont innervées par le nerf trijumeau"
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "ADE (Ce sont des rideaux..., Leurs faces postérieures sont recouvertes..., Elles sont innervées par le nerf trijumeau).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "14. L'appareil lacrymal:",
+    "options": [
+      "La glande lacrymale est située au niveau de l'angle supéro-interne de l'orbite",
+      "Les points lacrymaux sont situés sous la glande lacrymale",
+      "Les canalicules lacrymaux font suite au lac lacrymal",
+      "Le canal lacrymo-nasal s'ouvre dans le meat inférieur",
+      "La glande lacrymale est innervée par le parasympathique annexe au VII"
+    ],
+    "correct": [
+      3,
+      4
+    ],
+    "explanation": "DE (Le canal lacrymo-nasal s'ouvre dans le meat inférieur, La glande lacrymale est innervée par le parasympathique...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "15. L'œil:",
+    "options": [
+      "La sclérotique a une surface extérieure lisse et blanchâtre",
+      "La sclérotique donne insertion aux muscles oculo-moteurs",
+      "La cornée est très vascularisée",
+      "La choroïde est très fragile de couleurs blanchâtre",
+      "La choroïde est très adhérente à la rétine en arrière"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "AB (La sclérotique a une surface extérieure lisse..., La sclérotique donne insertion aux muscles...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "16. L'œil:",
+    "options": [
+      "L'iris est un diaphragme de couleur sombre",
+      "Le muscle ciliaire responsable de l'accommodation",
+      "Le muscle irien radial s'insère sur la face postérieure de l'iris sous la dépendance du sympathique",
+      "Le muscle irien circulaire est innervé par l'oculo-moteur commun",
+      "Le cristallin est une lentille biconvexe placée en avant de l'iris"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "BCD (Le muscle ciliaire responsable..., Le muscle irien radial..., Le muscle irien circulaire...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "17. L'œil:",
+    "options": [
+      "La rétine postérieure visuelle est très adhérente à la choroïde",
+      "La rétine antérieure aveugle tapisse la face profonde du corps ciliaire",
+      "La macula est la zone de vision maximum",
+      "La papille est une fente limitée par l'iris",
+      "La pupille répond à la sortie du nerf optique"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "BC (La rétine antérieure aveugle tapisse..., La macula est la zone de vision maximum).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "18. Les muscles oculo-moteurs:",
+    "options": [
+      "Ils sont au nombre de 7",
+      "Le muscle droit supérieur est innervé par le IV",
+      "Le muscle oblique supérieur entraine une abduction et abaissement de l'œil",
+      "Le muscle oblique inférieur entraine une élévation-adduction de l'œil",
+      "Le muscle droit inférieur entraine un abaissement-adduction de l'œil"
+    ],
+    "correct": [
+      2,
+      4
+    ],
+    "explanation": "CE (Le muscle oblique supérieur..., Le muscle droit inférieur...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "19. L'oreille externe:",
+    "options": [
+      "Le conduit auditif externe est fibro-cartilagineux dans son 1/3 interne",
+      "Le conduit auditif externe est en rapport en avant avec l'articulation temporo-mandibulaire",
+      "Le conduit auditif externe est innervé par le plan moteur par le V3",
+      "Les artères de l'oreille externe proviennent de la carotide interne",
+      "La face externe de la membrane tympanique est tapissée par la peau du conduit auditif externe"
+    ],
+    "correct": [
+      1,
+      4
+    ],
+    "explanation": "BE (Le conduit auditif externe est en rapport en avant..., La face externe de la membrane tympanique est tapissée...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "20. L'oreille moyenne:",
+    "options": [
+      "Sa paroi latérale est membraneuse",
+      "Sa paroi mediale répond uniquement au vestibule",
+      "Sa paroi antérieure répond au canal carotidien",
+      "Sa paroi postérieure répond à la votite du cavum",
+      "Sa paroi inférieure répond à l'antre mastoïdien"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "AC (Sa paroi latérale est membraneuse, Sa paroi antérieure répond au canal carotidien).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "21. L'oreille moyenne:",
+    "options": [
+      "Sa paroi inférieure est la paroi jugulaire",
+      "Sa paroi postérieure répond au canal carotidien",
+      "Le marteau est le plus latéral et le plus long des osselets de Louie",
+      "La tête du marteau est appliquée sur la membrane tympanique",
+      "L'étrier est appliqué sur la fenêtre cochléaire"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "AC (Sa paroi inférieure est la paroi jugulaire, Le marteau est le plus latéral...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "22. L'oreille interne:",
+    "options": [
+      "Elle est creusée dans l'épaisseur du rocher",
+      "La cochlée osseuse est la pièce la plus postérieure du labyrinthe osseux",
+      "Le vestibule osseux répond en avant au premier segment du canal du facial",
+      "Le canal semi-circulaire antérieur est vertical et parallèle à l'axe du rocher",
+      "Le canal semi-circulaire postérieur est horizontal"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "AC (Elle est creusée dans l'épaisseur du rocher, Le vestibule osseux répond en avant...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "23. L'oreille interne:",
+    "options": [
+      "Le canal semi-circulaire postérieur est vertical et perpendiculaire à l'axe du rocher",
+      "Le canal semi-circulaire latéral est le plus petit des trois",
+      "Le canal auditif interne est creusé dans la partie pétreuse du temporal",
+      "L'artère de l'oreille interne est une branche de la carotide interne",
+      "Le conduit auditif interne livre passage au paquet cochléo-véstibulo-facial"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "BCE (Le canal semi-circulaire latéral est le plus petit, Le canal auditif interne est creusé..., Le conduit auditif interne livre passage...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "24. Le nerf optique:",
+    "options": [
+      "Il prend origine au niveau de la papille",
+      "Le chiasma optique repose sur la selle turcique",
+      "La racine latérale des bandelettes optiques se termine dans le corps géniculé médial",
+      "La racine médiale des bandelettes optiques se termine dans le corps géniculé latéral",
+      "Le nerf optique comporte 3 neurones"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "AB (Il prend origine au niveau de la papille, Le chiasma optique repose sur la selle turcique - Note: techniquement au-dessus).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "25. Les nerfs oculo-moteurs:",
+    "options": [
+      "Il naît de la face postérieure du mésencéphale",
+      "Le IV est le seul nerf cranien qui naît de la face antérieure du tronc cérébral",
+      "Le VI traverse la fissure orbitaire supérieure en dehors de l'anneau de Zini",
+      "Le nerf IV innerve le muscle oblique sup",
+      "Le nerf IV innerve le muscle releveur de la paupière supérieure"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "D (Le nerf IV innerve le muscle oblique sup).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "26. Le nerf trijumeau:",
+    "options": [
+      "C'est le plus volumineux des nerfs crâniens",
+      "Il est moteur pour les muscles de la face",
+      "Le nerf mandibulaire est sa seule branche mixte du 5",
+      "Le nerf V3 innerve les muscles masticateurs",
+      "Le nerf mandibulaire innerve les glandes salivaires"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explanation": "ACDE (Note: la proposition E est discutée car l'innervation sécrétoire vient du IX ou VII, mais le V3 véhicule les fibres).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "27. Le nerf facial:",
+    "options": [
+      "Il prend origine du bulbe rachidien",
+      "Sa portion labyrinthique est verticale",
+      "Sa portion tympanique est parallèle à l'axe du rocher",
+      "Sa portion mastoïdienne est verticale et parallèle à l'axe du rocher",
+      "Il traverse la base du crâne par le trou stylo-mastoïdien"
+    ],
+    "correct": [
+      2,
+      4
+    ],
+    "explanation": "CE (Sa portion tympanique est parallèle à l'axe du rocher, Il traverse la base du crâne par le trou stylo-mastoïdien).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "28. Le nerf glosso-pharyngien:",
+    "options": [
+      "C'est un nerf moteur pour les muscles du larynx",
+      "Il est sensoriel pour le 1/3 postérieur de la langue",
+      "Il innerve la glande sublinguale",
+      "Il est responsable de la sensibilité de l'oreille moyenne",
+      "Il joue un rôle important dans le temps pharyngé de la déglutition"
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "BDE (Il est sensoriel pour le 1/3 postérieur, Sensibilité de l'oreille moyenne, Temps pharyngé de la déglutition).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "29. Le nerf glosso-pharyngien:",
+    "options": [
+      "Son origine apparente c'est le sillon postéro-latéral de la moelle allongée dessous du X",
+      "Il innerve le muscle stylo-pharyngien",
+      "Il innerve la muqueuse de la cavité buccale",
+      "Il se termine à la pointe de la langue en donnant les rameaux linguaux",
+      "Il est responsable de la sensibilité du sinus carotidien"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "BCE (Il innerve le muscle stylo-pharyngien, Il innerve la muqueuse de la cavité buccale - isthme du gosier, Sensibilité du sinus carotidien).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "30. Le nerf vague:",
+    "options": [
+      "Il est responsable de la motricité du pharynx et du voile du palais",
+      "Il est symétrique avant la naissance du nerf laryngé supérieur",
+      "Il est responsable de la sensibilité parasympathique viscérale",
+      "Son origine réelle est située dans le pont",
+      "Il traverse la base du crâne par le trou déchiré antérieur"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "ABC (Motricité pharynx/voile, Symétrique avant laryngé sup, Sensibilité parasympathique).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "31. Le nerf vague:",
+    "options": [
+      "Le X droit précroise la branche souche droite",
+      "Le X gauche rétro-croise la crosse de l'aorte",
+      "Le X gauche descend en arrière de l'œsophage abdominal",
+      "Le X droit donne le nerf gastro-hépatique de La terjet",
+      "Le X droit donne le nerf gastro hépatique de laterje"
+    ],
+    "correct": [],
+    "explanation": "Null (Question annulée ou sans réponse correcte selon la clé).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "32. Le nerf vague:",
+    "options": [
+      "Le nerf vague antérieur donne le nerf principal de la petite courbure",
+      "Le nerf vague gauche est tronculaire",
+      "Le nerf vague gauche se termine dans le plexus coeliaque",
+      "Le nerf vague gauche donne des rameaux pour le colon droit et tra",
+      "Le nerf vague droit donne des rameaux pour le colon gauche"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "ABD (Nerf de la petite courbure, Vague gauche tronculaire, Vague gauche pour le colon droit/transverse).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "33. Les branches du vague:",
+    "options": [
+      "Le nerf laryngé supérieur naît du ganglion supérieur du X",
+      "Le nerf récurrent droit naît dans le thorax",
+      "Le nerf récurrent gauche monte dans l'angle trachéo-œsophagien",
+      "Le nerf récurrent droit précroise l'artère subclavière droite",
+      "Le plexus péri-œsophagien est situé au 1/3 inférieur de l'œsophage anastomose entre les deux vagues"
+    ],
+    "correct": [
+      2,
+      4
+    ],
+    "explanation": "CE (Le nerf récurrent gauche monte dans l'angle..., Le plexus péri-œsophagien est situé au 1/3 inférieur...).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "34. La glande thyroïde:",
+    "options": [
+      "Sa morphologie est variable selon l'âge et le sexe",
+      "Le bord supérieur de l'isthme est en regard du cartilage cricoïde",
+      "Elle est fixée en arrière à la trachée",
+      "Elle est entourée par une capsule commune avec la gaine vasculaire",
+      "La pyramide de L'alouette est oblique en haut et à gauche"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "ACE (Morphologie variable, Fixée à la trachée, Pyramide de Lalouette oblique).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "35. La glande thyroïde:",
+    "options": [
+      "La loge thyroidienne fait partie de la gaine viscérale du cou",
+      "La loge thyroidienne se prolonge en bas par la lame thyro épicardique",
+      "Les glandes des parathyroïdes sont situées en dehors de la gaine thyroidienne",
+      "Elle est en rapport en arrière avec les nerfs vagues",
+      "Elle est en rapport en dehors avec le paquet vasculo-nerveux vertebral"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "AB (Loge fait partie de la gaine viscérale, Se prolonge par la lame thyro-péricardique).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "36. Les artères thyroidienne:",
+    "options": [
+      "L'artère thyroidienne supérieure est une collatérale de la carotide externe",
+      "Les artères thyroidiennes supérieures donnent les artères de l'arcade sous isthmique",
+      "L'artère thyroidienne inférieure est accompagnée par sa veine",
+      "L'artère thyroidienne inférieure est une collatérale de la carotide externe",
+      "L'artère thyroidienne moyenne est une artère constante"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A (L'artère thyroidienne supérieure est une collatérale de la carotide externe).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "37. Les veines thyroidiennes:",
+    "options": [
+      "Elles sont toutes satellites aux artères",
+      "La veine thyroidienne supérieure se jette dans le tronc brachio-céphalique gauche",
+      "Les veines thyroidiennes moyennes se jettent dans la veine jugulaire interne",
+      "Les veines thyroidiennes inférieures ont un trajet pré-trachéal",
+      "La veine et l'artère thyroidiennes inférieures forment le pédicule thyroidien inférieur"
+    ],
+    "correct": [
+      2,
+      3
+    ],
+    "explanation": "CD (Les veines thyroidiennes moyennes se jettent dans la jugulaire, Les inférieures ont un trajet pré-trachéal).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "38. Les glandes parathyroïdes:",
+    "options": [
+      "Elles sont situées derrière l'isthme thyroidien",
+      "Elles pèsent en moyenne 160mg",
+      "Elles sont entourées par une capsule propre",
+      "La parathyroïde inférieure est en général en arrière du nerf récurrent",
+      "La parathyroïde supérieure est en générale en avant du nerf récurrent"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "BC (Poids moyen ~160mg [variable], Capsule propre).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "39. La glande parotide:",
+    "options": [
+      "C'est la plus volumineuse et antérieure des glandes salivaires",
+      "Sa face externe répond à l'articulation temporo-mandibulaire",
+      "Elle présente trois prolongements antérieurs",
+      "Son canal excréteur est situé dans son prolongement antéro-interne",
+      "Elle est palpable sous la peau"
+    ],
+    "correct": [
+      3,
+      4
+    ],
+    "explanation": "DE (Son canal excréteur... [Stenon], Elle est palpable).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "40. La glande parotide:",
+    "options": [
+      "Elle est en rapport en avant avec le conduit auditif externe",
+      "Elle est en rapport en bas avec l'espace infra-parotidien postérieur",
+      "Le canal de Stenon s'ouvre en regard de la 2ème molaire inférieure",
+      "Elle est en rapport en dedans avec le larynx",
+      "Le canal de Stenon est superficiel dans la région genienne"
+    ],
+    "correct": [
+      1,
+      4
+    ],
+    "explanation": "BE (Rapport en bas avec l'espace infra-parotidien post, Canal de Stenon superficiel).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "41. La glande parotide:",
+    "options": [
+      "Elle est traversée par l'artère carotide interne",
+      "Le confluent veineux intra-parotidien est postérieur par rapport à l'artère carotide externe",
+      "L'artère carotide externe donne l'artère thyroidienne supérieure à l'intérieure de la parotide",
+      "Le nerf facial est l'élément le plus antérieur des éléments qui traversent la glande parotide",
+      "Le nerf auriculo-temporal est le nerf sensitif de la parotide"
+    ],
+    "correct": [
+      3,
+      4
+    ],
+    "explanation": "DE (Facial plus antérieur, Auriculo-temporal sensitif).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "42. Les glandes salivaires:",
+    "options": [
+      "La glande sous-maxillaire est située dans le plancher buccal",
+      "Le canal de Warthon s'ouvre en regard de la pointe de la langue",
+      "La glande sous-maxillaire est en rapport avec l'artère labiale",
+      "La veine faciale est profonde par rapport à la glande sous-maxillaire",
+      "La glande sublinguale est la plus antérieure des glandes salivaires"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "E (La glande sublinguale est la plus antérieure).",
+    "media": null
+  }
+]

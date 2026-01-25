@@ -33,5 +33,10 @@
     "value": "Histologie",
     "file": "https://habiboullah0.github.io/QCMsFile/qcms/Histologie.json",
     "title": "Histologie"
+  },
+  {
+    "value": "Anatomie",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Anatomie.json",
+    "title": "Anatomie"
   }
 ]
