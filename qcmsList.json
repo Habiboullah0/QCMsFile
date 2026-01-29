@@ -38,5 +38,10 @@
     "value": "Anatomie",
     "file": "https://habiboullah0.github.io/QCMsFile/qcms/Anatomie.json",
     "title": "Anatomie"
+  },
+  {
+    "value": "Physiologie",
+    "file": "https://habiboullah0.github.io/QCMsFile/qcms/Physiologie.json",
+    "title": "Physiologie"
   }
 ]
