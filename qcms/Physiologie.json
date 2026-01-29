@@ -1,0 +1,584 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Q01. Dans l'étude de la filtration glomérulaire on constate que :",
+    "options": [
+      "Le débit de filtration glomérulaire ne varie pas avec la pression artérielle moyenne",
+      "La créatininémie est directement proportionnelle au débit de filtration glomérulaire",
+      "La capsule de Bowman ne renferme jamais de molécule protéique",
+      "Toutes les substances poly-cationiques sont filtrées",
+      "Le débit de filtration glomérulaire augmente proportionnellement avec la pression artérielle moyenne"
+    ],
+    "correct": [],
+    "explanation": "D'après la correction fournie, aucune proposition n'est retenue (Null). Physiologiquement, le DFG est autorégulé (A est partiellement vrai mais absolu, E est faux), la créatininémie est inversement proportionnelle (B faux), la capsule contient des traces de protéines (C faux).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q02. Le taux de filtration glomérulaire augmente avec les facteurs suivants :",
+    "options": [
+      "Une augmentation de la pression dans les capillaires glomérulaires",
+      "Une diminution de la résistance dans les artérioles afférentes glomérulaires",
+      "Une augmentation de la résistance dans les artérioles efférentes glomérulaires",
+      "Une augmentation de la pression dans la capsule de Bowman",
+      "Une diminution de la concentration des protéines plasmatiques"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "Le DFG dépend de la pression nette de filtration. Il augmente si la pression hydrostatique capillaire augmente (A, B, C) ou si la pression oncotique plasmatique diminue (E).",
+    "media": ""
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q03. La filtration glomérulaire d'une substance ne peut se faire que lorsque :",
+    "options": [
+      "Sa concentration sanguine est élevée",
+      "Elle n'est pas sécrétée au niveau du tube rénal",
+      "Elle est présente au niveau de l'artériole afférente",
+      "Elle est absente au niveau de la veine rénale",
+      "La pression capillaire glomérulaire devient inférieure à la somme de la pression oncotique des protéines et de la pression intra-capsulaire"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Condition sine qua non : la substance doit arriver au glomérule via l'artériole afférente pour être filtrée.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q04. Une diminution primaire du taux de filtration glomérulaire (GFR) peut avoir comme conséquence(s):",
+    "options": [
+      "Une élévation du TM du glucose",
+      "Une augmentation de la clairance de l'inuline",
+      "Un abaissement de la quantité Na+ réabsorbée",
+      "Un abaissement de la concentration plasmatique de créatinine",
+      "Une diminution de la concentration plasmatique d'angiotensine II"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Si la charge filtrée de Na+ diminue (baisse du GFR), la quantité absolue réabsorbée diminue également (balance glomérulo-tubulaire).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q05. Chez un patient dont la concentration plasmatique de la créatinine vaut le double de la normale, on observera probablement :",
+    "options": [
+      "Une clairance de l'inuline normale",
+      "Une baisse de l'osmolarité plasmatique",
+      "Une diurèse fortement augmentée",
+      "Une augmentation de la concentration plasmatique d'urée",
+      "Une valeur double de la réabsorption tubulaire de créatinine"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Une créatinine doublée signale une chute du DFG d'environ 50%. Cette insuffisance rénale entraîne une rétention des déchets azotés, augmentant l'urée plasmatique.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q06. Les taux de créatinine plasmatique augmentent en cas :",
+    "options": [
+      "D'ablation d'un rein",
+      "D'expansion du LEC",
+      "De baisse de filtration glomérulaire",
+      "D'augmentation de la pression artérielle",
+      "De baisse importante de la protidémie"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "La créatinine est le marqueur de la filtration. Une baisse du DFG entraîne mécaniquement une hausse de sa concentration plasmatique.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q09. Le débit sanguin rénal :",
+    "options": [
+      "Augmente après injection de noradrenaline",
+      "Diminue lors de la stimulation du parasympathique rénal",
+      "Augmente lors de l'exercice musculaire intense",
+      "Diminue lorsqu'une hémorragie sanguine diminue la pression artérielle de 100 mmHg",
+      "Sert essentiellement à la fonction métabolique du rein"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Lors d'une hémorragie sévère, la vasoconstriction sympathique intense (pour préserver la pression systémique) réduit drastiquement le débit sanguin rénal.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q10. Les observations suivantes illustrent la vascularisation rénale:",
+    "options": [
+      "Le débit sanguin rénal ne varie pas lorsque la pression artérielle moyenne augmente",
+      "La pression sanguine dans le capillaire péri-tubulaire est égale à celle dans le capillaire glomérulaire",
+      "L'excitation du système nerveux parasympathique augmente le débit sanguin rénal",
+      "Seul le capillaire glomérulaire est purement artériel",
+      "La chute de la pression artérielle moyenne au niveau de l'artériole afférente est nettement supérieure à celle observée au niveau de l'artériole efférente"
+    ],
+    "correct": [
+      3,
+      4
+    ],
+    "explanation": "D: Le capillaire glomérulaire est situé entre deux artérioles (réseau admirable artériel). E: La résistance (et donc la chute de pression) est physiologiquement plus importante dans l'afférente pour protéger le glomérule et réguler le DFG.",
+    "media": ""
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q11. L'urée:",
+    "options": [
+      "Son taux d'excrétion est égal à son taux de filtration",
+      "Sa concentration plasmatique augmente lorsque le taux de filtration glomérulaire baisse",
+      "Est un produit terminal de la combustion des lipides",
+      "A une clairance supérieure à celle de la créatinine"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "L'urée est filtrée et partiellement réabsorbée. Si le DFG baisse, l'urée s'accumule dans le sang.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q12. Parmi les propositions suivantes, quelle(s) est (sont) celle(s) qui est (sont) vraie(s) :",
+    "options": [
+      "La pression sanguine a la même valeur dans les capillaires glomérulaires et péri-tubulaires",
+      "La filtration glomérulaire est 50% du plasma circulant",
+      "L'albumine ne passe pas la membrane glomérulaire à cause de son seul grand diamètre",
+      "L'hyper natrémie au niveau des cellules de la macula dense diminue le taux de rénine plasmatique"
+    ],
+    "correct": [
+      2,
+      3
+    ],
+    "explanation": "C: La barrière de filtration est sélective par la taille et la charge (l'albumine est grosse et chargée négativement). D: Un flux élevé de NaCl à la macula dense (signalant un débit trop haut) inhibe la sécrétion de rénine (rétrocontrôle tubulo-glomérulaire).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q15. L'urine par rapport au plasma :",
+    "options": [
+      "Est hypertonique à la sortie du tube contourné proximal",
+      "Est hypertonique à l'entrée du tube contourné distal",
+      "Est isotonique le long de la branche descendante de l'anse de Henlé",
+      "Est toujours hypotonique le long du tube collecteur",
+      "Est isotonique à la sortie du tube contourné proximal"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "La réabsorption dans le tube proximal est iso-osmotique (l'eau suit les solutés), donc le liquide tubulaire reste isotonique au plasma à la sortie du TCP.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q16. Quel(s) mécanisme(s) est (sont) caractéristique(s) des cellules du tube proximal ?",
+    "options": [
+      "Sécrétion de potassium",
+      "Récepteurs pour l'aldostérone",
+      "Canaux sensibles à l'hormone antidiurétique (ADH)",
+      "Échangeurs Na+/H+ sur la membrane apicale",
+      "Forte résistance électrique de l'épithélium"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "L'échangeur Na+/H+ (NHE3) apical est le mécanisme principal de réabsorption du sodium et des bicarbonates dans le tube proximal.",
+    "media": ""
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q18. La clairance positive du glucose indique forcément :",
+    "options": [
+      "Que le taux maximum de réabsorption du glucose est atteint",
+      "Le rein est malade",
+      "La clairance os molaire de l'urine est positive",
+      "Le rein ne peut plus réabsorber le glucose",
+      "La clairance de l'eau libre est supérieure à la normale"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Selon la correction fournie. Note physiolgique : La présence de glucose (clairance > 0) implique une charge osmolaire urinaire, donc une clairance osmolaire positive. Cela survient généralement quand le TmG est dépassé.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q19. La clairance rénale:",
+    "options": [
+      "Du glucose est égale à celle de l'inuline",
+      "De l'inuline est égale à celle du PAH",
+      "De l'urée est plus grande que celle de l'inuline",
+      "De l'inuline est, en état stationnaire, inversement proportionnelle à la concentration plasmatique de créatinine"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "La clairance de l'inuline mesure le DFG. Le DFG est inversement proportionnel à la créatinine plasmatique (Pcr = Production / DFG).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q20. Le sodium est réabsorbé à travers la membrane bas latérale :",
+    "options": [
+      "De manière active",
+      "Par diffusion",
+      "Par ultrafiltration",
+      "Grâce au potentiel électrique positif dans la cellule",
+      "Grâce à la très forte concentration de Na+ dans la cellule"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Le passage basolatéral se fait contre le gradient électrochimique via la pompe Na+/K+ ATPase, consommant de l'ATP (transport actif).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q23. Par rapport au milieu interstitiel, l'urine est toujours :",
+    "options": [
+      "Isotonique à la sortie du TCP",
+      "Isotonique à la fin de la branche descendante de l'anse de Henlé",
+      "Hypotonique à l'entrée du tube contourné distal",
+      "Isotonique dans le tube collecteur"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "A: Isotonique à la sortie du TCP. C: Hypotonique à l'entrée du distal car la branche ascendante large a réabsorbé des ions sans eau (segment de dilution).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q24. Dans le rétrocouplage glomérule-tubulaire, l'appareil juxta-glomérulaire et la macula densa entraînent une vasodilatation par les substances suivantes :",
+    "options": [
+      "Monoxyde d'azote (NO)",
+      "Noradrénaline",
+      "Adénosine",
+      "Dopamine"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Le NO est le principal vasodilatateur local. L'adénosine est classiquement vasoconstrictrice de l'afférente (rétrocontrôle négatif), mais peut avoir des effets vasodilatateurs sur l'efférente ou selon les récepteurs (retenu par la correction).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q26. La balance glomérulo-tubulaire est la mieux expliquée par une augmentation :",
+    "options": [
+      "Du débit tubulaire proximal",
+      "Du débit capillaire péri-tubulaire",
+      "Du débit sanguin dans les vasa recta",
+      "De la pression oncotique dans l'artériole efférente",
+      "De la pression hydrostatique péri-tubulaire"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Une fraction de filtration élevée concentre les protéines dans l'artériole efférente. La pression oncotique élevée résultante dans les capillaires péritubulaires favorise la réabsorption (forces de Starling).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q29. La clairance rénale :",
+    "options": [
+      "Du PAH aux basses concentrations plasmatiques est inférieure à celle d'une substance filtrée",
+      "De l'urée est indépendante du débit urinaire",
+      "De la créatinine s'élève lorsque sa concentration plasmatique augmente",
+      "Du mannitol permet d'estimer le débit de filtration glomérulaire",
+      "De l'inuline permet d'estimer le débit plasmatique"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Le mannitol, comme l'inuline, est filtré sans réabsorption ni sécrétion, c'est un marqueur du débit de filtration glomérulaire.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q30. Parmi les actions de l'angiotensine II on peut trouver une augmentation :",
+    "options": [
+      "De la sécrétion d'ADH",
+      "Du rayon des vaisseaux sanguins",
+      "De la sécrétion d'ions Na+",
+      "De la sécrétion de K+",
+      "De la réabsorption de H+"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explanation": "L'angiotensine II stimule la libération d'ADH (A). Elle stimule aussi l'aldostérone, qui augmente la sécrétion distale de K+ (D).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q31. Concernant le tube rénal:",
+    "options": [
+      "Le passage du sodium de la lumière tubulaire dans la cellule rénale est actif",
+      "Le transfert du glucose du milieu interstitiel rénal dans le sang est actif",
+      "Le passage du sodium du milieu interstitiel rénal dans le sang est actif par la pompe Na+/K+/ATPase",
+      "Le passage du potassium de la cellule distale dans la lumière tubulaire se fait passivement",
+      "La réabsorption du glucose du tube distal dans la cellule rénale est active"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Dans le tubule distal, le potassium intracellulaire (accumulé par la pompe Na/K) sort passivement vers la lumière urinaire via des canaux ioniques.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q32. Quel(s) mécanisme(s) est (sont) caractéristique(s) des cellules des tubes distaux et collecteurs?",
+    "options": [
+      "Sécrétion passive de potassium",
+      "Co-transport sodium-glucose",
+      "Potentiel Trans-épithélial voisin de zéro",
+      "Échangeur Na+/H+ sur la membrane apicale",
+      "Co-transport Na+-K+-2Cl- sur la membrane apicale"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "La sécrétion de K+ est passive au pôle apical des cellules principales du tube collecteur.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q34. La clairance rénale:",
+    "options": [
+      "Du glucose est indépendante de sa concentration plasmatique",
+      "De l'urée est fonction du débit urinaire",
+      "De la créatinine permet d'estimer le débit plasmatique rénal",
+      "De l'inuline permet d'estimer le débit de filtration glomérulaire",
+      "Du PAH n'est jamais inférieure à celle de l'inuline"
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "B: L'urée diffuse, sa réabsorption dépend du flux (débit urinaire). D: Inuline = DFG. E: PAH = Filtration + Sécrétion, donc toujours > Inuline.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q37. Le potassium:",
+    "options": [
+      "Est sécrété au niveau du tube contourné distal",
+      "Est réabsorbé au niveau de la branche descendante de l'anse de Henlé",
+      "S'échange avec les ions H+ dans le tube contourné distal",
+      "Diminue dans les urines en cas d'alcalose",
+      "S'échange avec les ions Na+ dans la branche ascendante de l'anse de Henlé"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "A: Le potassium est sécrété dans le distal (aldostérone). C: Il existe des liens d'échange K+/H+ (notamment cellules intercalaires et effets transmembranaires généraux).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q39. Une augmentation de la concentration plasmatique de potassium entraîne une augmentation de :",
+    "options": [
+      "La libération de rénine",
+      "La sécrétion d'aldostérone",
+      "La sécrétion de vasopressine",
+      "La production d'angiotensine",
+      "La libération du peptide auriculaire natriurétique (ANF)"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "L'hyperkaliémie est un stimulant direct puissant de la zone glomérulée surrénalienne pour la sécrétion d'aldostérone (mécanisme de régulation de la kaliémie).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q40. L'aldostérone :",
+    "options": [
+      "Intervient dans la réabsorption du Na+ au niveau du TCD",
+      "Est sécrétée par action directe de l'angiotensine I",
+      "Diminue la sécrétion d'ions H+ dans la lumière tubulaire distale",
+      "Est mise en jeu par l'hyperkaliémie",
+      "Augmente la sécrétion du facteur natriurétique auriculaire"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explanation": "L'aldostérone agit sur le tube distal/collecteur pour réabsorber le Na+ (A) et est stimulée par l'hyperkaliémie (D).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q41. La concentration des substances suivantes diminue le long du tubule proximal :",
+    "options": [
+      "Créatinine",
+      "Urée",
+      "Chlore",
+      "Na+",
+      "HCO3"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "Les bicarbonates sont massivement réabsorbés dès le début du TCP (plus vite que l'eau), donc leur concentration intraluminale chute.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q45. Les substances suivantes sont présentes dans le tubule collecteur :",
+    "options": [
+      "Glucose",
+      "Protéines",
+      "Acides aminés",
+      "Potassium"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Le glucose, les protéines et les acides aminés sont normalement totalement réabsorbés avant. Le potassium est présent car sécrété dans le distal.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q48. Dans l'étude des mécanismes de concentration et dilution de l'urine on relève que :",
+    "options": [
+      "La réabsorption de l'eau se fait tout le long du néphron",
+      "Le sodium est réabsorbé passivement au niveau du tube contourné distal",
+      "La réabsorption de l'eau au niveau du tube contourné proximal est réglable",
+      "La branche ascendante de l'anse de Henlé est imperméable au sodium"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Selon la correction fournie. Note: Physiologiquement, la branche ascendante est imperméable à l'eau, et transporte activement le sodium (Thick) ou passivement (Thin). La formulation 'imperméable au sodium' (Option 4) est inhabituelle mais retenue ici.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q49. L'hormone antidiurétique :",
+    "options": [
+      "Augmente la clairance os molaire lorsque son taux de sécrétion augmente",
+      "Est normalement sécrétée dans le diabète insipide",
+      "N'est sécrétée que lors de l'hypertonie plasmatique ou l'hyperkaliémie",
+      "Diminue la clairance os molaire lorsque son taux de sécrétion augmente",
+      "Diminue la clairance de l'eau libre lorsque son taux de sécrétion augmente"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "L'ADH permet la réabsorption d'eau pure, rendant l'urine concentrée et le volume faible. La clairance de l'eau libre (CH2O = V - Cosm) diminue (devient négative).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q50. La quantité d'eau libre dans les urines:",
+    "options": [
+      "Augmente lorsque la glycémie dépasse le seuil rénal",
+      "Diminue lorsque la pression osmotique du liquide intra-tubulaire augmente",
+      "Augmente lors de la perfusion intraveineuse de mannitol",
+      "Augmente lorsque la sécrétion d'ADH diminue"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "La baisse de l'ADH (diabète insipide ou potomanie) empêche la réabsorption distale d'eau, entraînant une excrétion massive d'eau libre (dilution).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q51. La quantité d'eau liée augmente dans les urines lorsque :",
+    "options": [
+      "le seuil rénal du glucose est atteint",
+      "Tout le glucose n'est pas absorbé",
+      "Le taux maximum de réabsorption du glucose est atteint",
+      "Les bicarbonates ne sont pas réabsorbés en totalité"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Toute substance osmotiquement active (glucose, bicarbonates) non réabsorbée retient de l'eau (eau liée/clairance osmolaire) dans les urines.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q52. La quantité d'eau liée augmente dans les urines lorsque :",
+    "options": [
+      "Le seuil rénal du glucose est atteint",
+      "Tout le glucose n'est pas réabsorbé",
+      "Le taux maximum de réabsorption du glucose est atteint",
+      "Les bicarbonates ne sont pas réabsorbés en totalité"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Idem Q51.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q55. La sécrétion d'ion H+ :",
+    "options": [
+      "Augmente lors de l'acidose",
+      "Se fait en compétition avec les ions Na+ au niveau du tube contourné distal",
+      "Se fait de façon passive dans le tube contourné distal",
+      "Augmente sous l'effet des inhibiteurs de l'anhydrase carbonique"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "En acidose, le rein compense en augmentant activement la sécrétion de protons (H+) pour acidifier l'urine et régénérer des bicarbonates.",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q56. Dans les mécanismes d'acidification de l'urine:",
+    "options": [
+      "Les ions K+ sont réabsorbés dans le tube contourné distal",
+      "Les ions NH3 sont éliminés dans les urines",
+      "Les ions K+ sont sécrétés passivement dans le tube contourné distal",
+      "La sécrétion des ions H+ augmente lors de l'hyperkaliémie",
+      "La sécrétion des ions H+ se fait en compétition avec les ions Na+"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "B: L'ammoniac (NH3) est le tampon principal pour l'élimination des H+ (sous forme NH4+). C: Le potassium est sécrété passivement dans le distal (en échange relatif du Na+ réabsorbé).",
+    "media": null
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Q57. En cas d'acidose respiratoire primaire non compensée :",
+    "options": [
+      "La concentration des bicarbonates plasmatiques est abaissée",
+      "La compensation rénale abaisse les bicarbonates plasmatiques",
+      "Le pH sanguin peut être 7,4",
+      "L'excrétion urinaire de HCO3- est plus grande que zéro",
+      "L'excès de base est nul"
+    ],
+    "correct": [
+      4
+    ],
+    "explanation": "Dans le trouble aigu (non compensé), le problème est uniquement une hausse de la PCO2. Le rein n'a pas encore retenu de bicarbonates, donc la réserve alcaline (excès de base) est normale (nulle).",
+    "media": null
+  }
+]
